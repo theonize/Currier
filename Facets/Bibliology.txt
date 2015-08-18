@@ -3,13 +3,16 @@ Bibliology = knowledge of "the book"
 Revelation
 	disclosure
 	...of what?
+	natural/general
+	specific
 
 Inspiration
 	verbal = in the form of words (verbage)
 	plenary = unqualified, fully attended
 
-Inerrancy
-	= incapable of being wrong
+Infallibility
+	inerrancy = incapable of being wrong
+	precision = every thought perfectly placed
 
 Canonical
 	= officially accepted
@@ -26,3 +29,54 @@ Interpretation
 		exigesis = explainable, "to lead rightly"
 		eisigesis ~ a hybrid of 'eis' (meaning into) and 'gesis' as above
 		
+Levels of Inspiration
+	historical
+	prophetic
+	allegorical
+	implication
+		remez = hint
+		allusion rather than exposition
+			patterns
+			"prophecy is pattern"
+			names
+		symbology (plants, animals, woods, metals)
+		numbers, syllabic meanings, meta-data (tread lightly)
+		ELSs (tread lightlier)
+	examples
+		Noah's genealogy
+		Isaiah 37
+		Paul's conversion and later testimony (Acts 9 & 26)
+		John 1:1
+
+Laws of Interpretation
+	The Golden Rule - WHEN THE PLAIN SENSE OF SCRIPTURE MAKES COMMON SENSE...TAKE IT!
+		primary, literal, ordinary
+			'secondary' importance is implied for other levels of interpretation
+		rationalism
+		context vs. pretext (beware the eisigesis)
+	Law of First Mention
+		= the first mention of a thing has special significance
+		'things' often develop from simple to complex (or vice versa)
+		idealogical coloring
+	The Stereo Law
+		an identical mention of a thing in another context has special significance
+		Luke 4:18-19 ~ Isaiah 61 (He stops at a comma, what's next?)
+		
+	Law of Structural Integrity
+		the Bible pre-answers heresies before they are invented
+		John 1:1
+		John 12 ()
+	Law of Recurrence
+		important ideas are scattered throughout (spread spectrum :)
+	Law of Dichotomies
+		many Biblical ideas are forehead-slappers
+			many of these involve an understanding of time/space that we cannot have
+		election vs. calling
+		trinity
+		
+
+Figures of Speech
+	anthropomorphism
+	puns
+	synechdocy
+	
