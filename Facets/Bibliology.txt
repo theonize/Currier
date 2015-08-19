@@ -1,82 +1,140 @@
 Bibliology = knowledge of "the book"
 
-Revelation
-	disclosure
-	...of what?
-	natural/general
-	specific
+Why?
+	Revelation
+		disclosure
+		...of what?
+		natural/general
+		specific
 
-Inspiration
-	verbal = in the form of words (verbage)
-	plenary = unqualified, fully attended
+What?
+	Canonical
+		= officially accepted
+		by whom?
+		as opposed to what?
+				
+How?
+	Inspiration
+		verbal = in the form of words (verbage)
+		plenary = unqualified, fully attended
 
-Infallibility
-	inerrancy = incapable of being wrong
-	precision = every thought perfectly placed
+	Infallibility
+		inerrancy = incapable of being wrong
+		precision = every thought perfectly placed
 
-Canonical
-	= officially accepted
-	by whom?
-	as opposed to what?
+	Illumination
+		= clarification (also, decoration ~ remez)
+		also = decoration
+			remez ~ "hint" of something deeper	
 
-Illumination
-	= clarification (also, decoration ~ remez)
+	Interpretation
+		= removing obscurity
+			e.g. psephology ~ psephos + logos (pebble knowledge, i.e. counting) = study of elections
+		= a conception of another's _____
+			exigesis = explainable, "to lead rightly"
+			eisigesis ~ a hybrid of 'eis' (meaning into) and 'gesis' as above
+			Discernment = perception of right and wrong
 
-Interpretation
-	= removing obscurity
-		e.g. psephology ~ psephos + logos (pebble knowledge, i.e. counting) = study of elections
-	= a conception of another's _____
-		exigesis = explainable, "to lead rightly"
-		eisigesis ~ a hybrid of 'eis' (meaning into) and 'gesis' as above
-		
-Levels of Inspiration
-	historical
-	prophetic
-	allegorical
-	implication
-		remez = hint
-		allusion rather than exposition
-			patterns
-			"prophecy is pattern"
-			names
-		symbology (plants, animals, woods, metals)
-		numbers, syllabic meanings, meta-data (tread lightly)
-		ELSs (tread lightlier)
-	examples
-		Noah's genealogy
-		Isaiah 37
-		Paul's conversion and later testimony (Acts 9 & 26)
-		John 1:1
+			
+	Levels of Inspiration
+		historical
+		prophetic
+		allegorical
+		implication
+			remez = hint
+			allusion rather than exposition
+				patterns
+				"prophecy is pattern"
+				names
+			symbology (plants, animals, woods, metals)
+			numbers, syllabic meanings, meta-data (tread lightly)
+			ELSs (tread lightlier)
+		examples
+			Noah's genealogy
+			Isaiah 37
+			Paul's conversion and later testimony (Acts 9 & 26)
+			John 1:1
 
-Laws of Interpretation
-	The Golden Rule - WHEN THE PLAIN SENSE OF SCRIPTURE MAKES COMMON SENSE...TAKE IT!
-		primary, literal, ordinary
-			'secondary' importance is implied for other levels of interpretation
-		rationalism
-		context vs. pretext (beware the eisigesis)
-	Law of First Mention
-		= the first mention of a thing has special significance
-		'things' often develop from simple to complex (or vice versa)
-		idealogical coloring
-	The Stereo Law
-		an identical mention of a thing in another context has special significance
-		Luke 4:18-19 ~ Isaiah 61 (He stops at a comma, what's next?)
-		
-	Law of Structural Integrity
-		the Bible pre-answers heresies before they are invented
-		John 1:1
-		John 12 ()
-	Law of Recurrence
-		important ideas are scattered throughout (spread spectrum :)
-	Law of Dichotomies
-		many Biblical ideas are forehead-slappers
-			many of these involve an understanding of time/space that we cannot have
-		election vs. calling
-		trinity
-		
+	Laws of Interpretation
+		The Golden Rule - WHEN THE PLAIN SENSE OF SCRIPTURE MAKES COMMON SENSE...TAKE IT!
+			primary, literal, ordinary
+				'secondary' importance is implied for other levels of interpretation
+			rationalism
+			context vs. pretext (beware the eisigesis)
+		Law of First Mention
+			= the first mention of a thing has special significance
+			'things' often develop from simple to complex (or vice versa)
+			idealogical coloring
+		The Stereo Law
+			an identical mention of a thing in another context has special significance
+			Luke 4:18-19 ~ Isaiah 61 (He stops at a comma, what's next?)
+			
+		Law of Structural Integrity
+			the Bible pre-answers heresies before they are invented
+			John 1:1
+			John 12 ()
+		Law of Recurrence
+			important ideas are scattered throughout (spread spectrum :)
+		Law of Dichotomies
+			many Biblical ideas are forehead-slappers
+				many of these involve an understanding of time/space that we cannot have
+			election vs. calling
+			trinity
+			
 
-Figures of Speech
-	anthropomorphism
-	puns
-	synechdocy
-	
+	Figures of Speech
+		~ these are deliberate
+		simile (like)
+			Prov 1:27
+			Matt 23:27
+			Rev 1:14
+			Ps 90:4 - millenium 'like' a day
+		metaphor (are/is)
+			Ps 3:3
+			Matt 5:13
+		hyperbole (exaggeration)
+			Matt 19:24, Mark 10:25, Luke 18:25
+			Luke 14:26
+			Matt 5:29
+		hendiadys (combination)
+			Ps 27:1
+			Prov 30
+			1Th 2:12
+			Titus 2:13
+		irony
+			Jdg 10:14
+			1Kg 22:15
+		litotes (understatement/contrary)
+			Gen 18:27
+			Num 13:33
+			Is 41:14
+		euphemism
+			Gen 4:1
+			Gen 15:15
+			John 11:11
+		antithesis (contrast)
+			Is 59:9
+		ellipsis (omission)
+			Ps 12:3
+			1Cor 9:4
+		metonymy (substitution)
+			Is 22:22
+			Ps 22:16
+			2Cor 5:21
+		anthropomorphism
+			
+		puns
+		synecdoche (fraction)
+			Ps 109:27
+			eponymy (individual)
+				Ps 24:6
+				Hos 11:12
+			merismus (combined)
+				Ex 12:29
+				Ps 72:8
+				Ps 121:2
+		personification
+			Prov 1:20-21
+		wii
+			
+		idioms
