@@ -1,30 +1,59 @@
 Bibliology = knowledge of "the book"
 
-Why?
-	Revelation
-		disclosure
-		...of what?
-		natural/general
-		specific
-
-What?
+Terminology
 	Bible ~ biblios, "the" book
 	Scripture ~ graphei, sacred writings
-	Word ~ logos; used for Jesus, Old Testament, and oracles (Jn 10:35)
+	Word ~ logos; used for Jesus, Old Testament, and oracles
 	Testament ~ akin to a covenant
 
-	Canonical
+	Unbreakable
+		Jn 10:35
+	All about Jesus
+		Luke 24:44
+
+	Canon
+		2Pet 1:20-21
+		Rom 3:2
+			Jews stewarded OT
 		= officially accepted
 		by whom?
 		as opposed to what?
-		
-	Active Covenants
-	
-	Current Dispensation
-		Grace?
-		...as if it weren't always there
-				
-How?
+		Matt 23:35
+			Jesus authenticates/recognizes the original book order (first and last murder)
+
+	Covenants
+		suzerainty treaties
+			1. Identify the Suzerain
+			2. Survey of the relationship with the vassal
+			3. Stipulations (for the vassal)
+			4. Consequences (for either)
+		1) Adamic
+		2) Noahic
+		3) Abrahamic
+		4) Palestinian
+		5) Mosaic
+		6) Davidic
+		7) Blood
+
+	Dispensations
+		= house rules
+		1) Innocence ~ Gen 1:28 - 3:8
+		2) Conscience ~ Gen 3:9 - 8:14
+		3) Civil Government ~ Gen 8:15 - 11:32
+		4) Patriarchy ~ Gen 12:1 - Ex 18:27
+		5) Torah ~ Ex 19:1 - Acts 1:26
+		6) Fulfillment ~ Acts 2:1 - Rev 19:21
+		7) Kingdom ~ Rev 19:21 +
+
+
+	Infallibility
+		= incapable of being wrong
+		inerrancy = free of mistakes
+		precision = "a cutting off" (of abstraction); free of cruft 
+		accurate = carefully prepared
+
+
+A Proper Attitude
 	Approaches
 		rational - scripture is only as valid as we judge it to be
 		mystic - quickening, experience
@@ -39,19 +68,48 @@ How?
 			removing from or altering Scripture (JW)
 		orthodoxy - Bible is supreme and final
 
-	Inspiration
-		verbal = in the form of words (verbage)
-		plenary = unqualified, fully attended
 
-	Infallibility
-		inerrancy = incapable of being wrong
-		precision = every thought perfectly placed
+Revelation
+	General Revelation
+		Romans 1
+	Special Revelation
+		To know God
+			2Tim 3:15
+		To share God
+			2Tim 3:16
+		To experience God
+			Ps 19:7-11
+		To watch and learn
+			Rom 15:4
+		Disclosure
+			...of what?
+			natural/general
+			specific
 
-	Illumination
-		= clarification (also, decoration ~ remez)
-		also = decoration
-			remez ~ "hint" of something deeper
-			
+
+Inspiration
+	plenary = unqualified, fully attended
+	verbal = in the form of words (verbage)
+	2Tim 3:16
+	2Pet 1:21
+
+
+Authority
+	credibility
+	relevance
+	genuineness
+
+
+Distinctions
+	Revelation ~ Inspiration
+	Infallibility ~ Inerrancy
+	Authority ~ Credibility
+	Precision ~ Accuracy
+	Covenants ~ Dispensations
+	Scripture ~ Word
+
+
+Wondrous Message
 	Transmission
 		40 authors
 		66 books (49 "original")
@@ -63,15 +121,6 @@ How?
 			1Pet 1:23-25
 			with a warning to meddlers: Rev 22:19
 
-	Interpretation
-		= removing obscurity
-			e.g. psephology ~ psephos + logos (pebble knowledge, i.e. counting) = study of elections
-		= a conception of another's _____
-			exigesis = explainable, "to lead rightly"
-			eisigesis ~ a hybrid of 'eis' (meaning into) and 'gesis' as above
-			Discernment = perception of right and wrong
-
-			
 	Levels of Inspiration
 		historical
 		prophetic
@@ -116,6 +165,9 @@ How?
 				many of these involve an understanding of time/space that we cannot have
 			election vs. calling
 			trinity
+		Law of Cardinality
+			the order in which items appear in a list are important
+			I'm not prepared to comment on the order in which things appear between the Bible books because they are typically in neither chronological nor their original order (the order is not inspired)
 
 	Literary Forms
 		narrative, biography, poetry, proverb, drama, sermon, letter, epistle, psalms/song
@@ -175,3 +227,28 @@ How?
 			Prov 1:20-21
 
 		idioms
+
+
+Interpretation
+	= removing obscurity
+		e.g. psephology ~ psephos + logos (pebble knowledge, i.e. counting) = study of elections
+	= a conception of another's _____
+		exigesis = explainable, "to lead rightly"
+		eisigesis ~ a hybrid of 'eis' (meaning into) and 'gesis' as above
+		Discernment = perception of right and wrong
+	etymology = the study of word lineage
+		God shapes word usage and language creation to His ends
+
+
+
+Illumination
+	= clarification (also, decoration ~ remez)
+	also = decoration
+		remez ~ "hint" of something deeper
+	Blindness
+		2Cor ? - the veil
+		?hidden name Rev 2
+	Scripture's power to change
+		spirit - rebuilt on salvation
+		soul - healthy activities
+		body - hygenic tendencies
