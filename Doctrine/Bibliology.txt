@@ -26,7 +26,6 @@ Terminology
 			Jews stewarded OT
 		by whom?
 		as opposed to what?
-<<<<<<< HEAD:Facets/Bibliology.txt
 		
 	Active Covenants
 	
@@ -45,8 +44,6 @@ Terminology
 			Acts
 		"The Bible is not a book man could write if he would, nor is it a book man would write if he could."  Lewis Sperry Chafer
 
-How?
-=======
 		Matt 23:35
 			Jesus authenticates/recognizes the original book order (first and last murder)
 
@@ -57,12 +54,32 @@ How?
 			3. Stipulations (for the vassal)
 			4. Consequences (for either)
 		1) Adamic
-		2) Noahic
+			edenic - Gen 1:26-30, 2:16-17
+			curse - Gen 3:16-19
+		2) Noahic*
+			flood - Gen 6:3-8
+			unflood - Gen 9:8-17
+			2Pet 2:5
 		3) Abrahamic
+			great name - Gen 12:1-7
+			descendants - Gen 13:14-17
+			Gen 15
+			nations - Gen 17:1-14
+			family - Gen 22:15-18
+			geography - Gen 12:7, 13:14-15, 15:18-21
 		4) Palestinian
+			Deut 30:1-10
 		5) Mosaic
+			Deut 11
+			Exodus 20
 		6) Davidic
+			2Sam 7:8-16
+			Luke 1:32-33
 		7) Blood
+			Jeremiah 31:31-34
+			Matthew 5:17
+			Ephesians 2:8-9
+		* = active
 
 	Dispensations
 		= house rules
@@ -74,32 +91,16 @@ How?
 		6) Fulfillment ~ Acts 2:1 - Rev 19:21
 		7) Kingdom ~ Rev 19:21 +
 
-
 	Infallibility
 		= incapable of being wrong
 		inerrancy = free of mistakes
 		precision = "a cutting off" (of abstraction); free of cruft 
 		accurate = carefully prepared
 
-
-A Proper Attitude
->>>>>>> origin/master:Bibliology.txt
-	Approaches
-		rational - scripture is only as valid as we judge it to be
-		mystic - quickening, experience
-			"true" mysticism is revelation via the Holy Spirit
-			false mysticism is where final determination is made anywhere but in Christ
-		romantic - equating tradition with Scripture
-		neo orthodoxy - says the Bible is not the Word of God
-			man determines what is/isn't Word in Scripture
-			...multiple "correct" interpretations
-		cultic - addition or subtraction
-			equating other scriptures with Scripture (LDS)
-			removing from or altering Scripture (JW)
-		orthodoxy - Bible is supreme and final
-
-<<<<<<< HEAD:Facets/Bibliology.txt
 	Inspiration
+		theopneustos - God breathed
+			pneuma = spirit
+			implication ~ Holy Spirit involvement
 		verbal = in the form of words (verbage)
 		plenary = unqualified, fully attended
 		Divine superintendence
@@ -108,8 +109,9 @@ A Proper Attitude
 			Exodus 20:12 - words God spoke (v.1)
 			Matthew 15:4 - God "commanded"
 			Mark 7:10 - Moses "said"
-=======
->>>>>>> origin/master:Bibliology.txt
+
+	Orthodoxy
+
 
 Revelation
 	General Revelation
@@ -156,8 +158,9 @@ Wondrous Message
 		40 authors
 		66 books (49 "original")
 		3 languages (Hebrew, Greek, Armaic)
+		3 continents
 		Israel; Babylon, Egypt, Greece, Rome, Arabia, 'Turkey'
-		Authors - kings, priests, prophets, soldiers, statesmen, shepherds, fishermen, tax collector, doctor, Pharisee, farmer
+		Authors - kings, priests, prophets, military, statesmen, shepherds, fishermen, tax collector, doctor, Pharisee, farmer
 		tent-maker ~ skenopoios (tabernacle maker/doer)
 		Scripture is indestructible
 			1Pet 1:23-25
