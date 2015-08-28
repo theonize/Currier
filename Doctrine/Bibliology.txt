@@ -1,4 +1,5 @@
 Bibliology = knowledge of "the book"
+	"The Bible is not a book man could write if he would, nor is it a book man would write if he could."  Lewis Sperry Chafer
 
 Terminology
 	Bible ~ biblios, "the" book
@@ -14,10 +15,17 @@ Terminology
 		permanence
 			not our responsibility directly
 
-	Unbreakable
-		Jn 10:35
-	All about Jesus
+	Gospel
+		All about Jesus
 		Luke 24:44
+
+	Infallibility
+		= incapable of being wrong
+		inerrancy = free of mistakes
+		precision = "a cutting off" (of abstraction); free of cruft 
+		accurate = carefully prepared
+		Unbreakable
+			Jn 10:35
 
 	Canon
 		= officially accepted
@@ -26,10 +34,13 @@ Terminology
 			Jews stewarded OT
 		by whom?
 		as opposed to what?
+<<<<<<< HEAD
 
 	Current Dispensation
 		Grace?
 		...as if it weren't always there
+=======
+>>>>>>> origin/master
 		
 	Characteristics
 		glorifies God
@@ -40,60 +51,13 @@ Terminology
 		prejudice (heroes are faulty)
 			Genesis (Jacob)
 			Acts
-		"The Bible is not a book man could write if he would, nor is it a book man would write if he could."  Lewis Sperry Chafer
 
 		Matt 23:35
 			Jesus authenticates/recognizes the original book order (first and last murder)
 
-	Covenants
-		suzerainty treaties
-			1. Identify the Suzerain
-			2. Survey of the relationship with the vassal
-			3. Stipulations (for the vassal)
-			4. Consequences (for either)
-		1) Adamic
-			edenic - Gen 1:26-30, 2:16-17
-			curse - Gen 3:16-19
-		2) Noahic*
-			flood - Gen 6:3-8
-			unflood - Gen 9:8-17
-			2Pet 2:5
-		3) Abrahamic
-			great name - Gen 12:1-7
-			descendants - Gen 13:14-17
-			Gen 15
-			nations - Gen 17:1-14
-			family - Gen 22:15-18
-			geography - Gen 12:7, 13:14-15, 15:18-21
-		4) Palestinian
-			Deut 30:1-10
-		5) Mosaic
-			Deut 11
-			Exodus 20
-		6) Davidic
-			2Sam 7:8-16
-			Luke 1:32-33
-		7) Blood
-			Jeremiah 31:31-34
-			Matthew 5:17
-			Ephesians 2:8-9
-		* = active
+	Covenants ->
 
-	Dispensations
-		= house rules
-		1) Innocence ~ Gen 1:28 - 3:8
-		2) Conscience ~ Gen 3:9 - 8:14
-		3) Civil Government ~ Gen 8:15 - 11:32
-		4) Patriarchy ~ Gen 12:1 - Ex 18:27
-		5) Torah ~ Ex 19:1 - Acts 1:26
-		6) Fulfillment ~ Acts 2:1 - Rev 19:21
-		7) Kingdom ~ Rev 19:21 +
-
-	Infallibility
-		= incapable of being wrong
-		inerrancy = free of mistakes
-		precision = "a cutting off" (of abstraction); free of cruft 
-		accurate = carefully prepared
+	Dispensations ->
 
 	Inspiration
 		theopneustos - God breathed
@@ -128,28 +92,45 @@ Revelation
 			natural/general
 			specific
 
+	Inspiration
+		plenary = unqualified, fully attended
+		verbal = in the form of words (verbage)
+		2Tim 3:16
+		2Pet 1:21
 
-Inspiration
-	plenary = unqualified, fully attended
-	verbal = in the form of words (verbage)
-	2Tim 3:16
-	2Pet 1:21
+	Authority
+		credibility
+		relevance
+		genuineness
 
+	Distinctions
+		Revelation ~ Inspiration
+		Infallibility ~ Inerrancy
+		Authority ~ Credibility
+		Precision ~ Accuracy
+		Covenants ~ Dispensations
+		Scripture ~ Word
 
-Authority
-	credibility
-	relevance
-	genuineness
+	Interpretation
+		= removing obscurity
+			e.g. psephology ~ psephos + logos (pebble knowledge, i.e. counting) = study of elections
+		= a conception of another's _____
+			exigesis = explainable, "to lead rightly"
+			eisigesis ~ a hybrid of 'eis' (meaning into) and 'gesis' as above
+			Discernment = perception of right and wrong
+		etymology = the study of word lineage
+			God shapes word usage and language creation to His ends
 
-
-Distinctions
-	Revelation ~ Inspiration
-	Infallibility ~ Inerrancy
-	Authority ~ Credibility
-	Precision ~ Accuracy
-	Covenants ~ Dispensations
-	Scripture ~ Word
-
+	Illumination
+		= clarification (also, decoration ~ remez)
+		also = decoration
+		Blindness
+			2Cor ? - the veil
+			?hidden name Rev 2
+		Scripture's power to change
+			spirit - rebuilt on salvation
+			soul - healthy activities
+			body - hygenic tendencies
 
 Wondrous Message
 	Transmission
@@ -159,7 +140,10 @@ Wondrous Message
 		3 continents
 		Israel; Babylon, Egypt, Greece, Rome, Arabia, 'Turkey'
 		Authors - kings, priests, prophets, military, statesmen, shepherds, fishermen, tax collector, doctor, Pharisee, farmer
-		tent-maker ~ skenopoios (tabernacle maker/doer)
+		tent-maker ~ skenopoios (scenographer)
+			Acts 13:8 (2Cor 11:1-2,12; Phlp 3:12,4:3)
+			idiom or tradecraft
+			Pharisee <> skins
 		Scripture is indestructible
 			1Pet 1:23-25
 			a warning to meddlers: Rev 22:19
@@ -171,140 +155,10 @@ Wondrous Message
 		indestructable
 			Ps 113:89
 
-	Levels of Inspiration
-		historical
-		prophetic
-		allegorical
-		implication
-			remez = hint
-			allusion rather than exposition
-				patterns
-				"prophecy is pattern"
-				names
-			symbology (plants, animals, woods, metals)
-			numbers, syllabic meanings, meta-data (tread lightly)
-			ELSs (tread lightlier)
-		examples
-			Noah's genealogy
-			Isaiah 37
-			Paul's conversion and later testimony (Acts 9 & 26)
-			John 1:1
+	Levels of Inspiration ->
 
-	Laws of Interpretation
-		The Golden Rule - WHEN THE PLAIN SENSE MAKES COMMON SENSE...TAKE IT!
-			primary, literal, ordinary
-				'secondary' importance is implied for other levels of interpretation
-			rationalism
-			context vs. pretext (beware the eisigesis)
-		Law of First Mention
-			= the first mention of a thing has special significance
-			'things' often develop from simple to complex (or vice versa)
-			idealogical coloring
-		Expositional Constancy
-			= the number of recurrances of an idea is important
-			the Holy Spirit will use the same idioms over and over via different authors and different forms of speech
-		Gap Principle
-			i.e. an incomplete list which parallels an "older" list ~ it's missing element is important
-			e.g. Acts 7
-				Israel blew it, made it up, blew it, made it up, blew it...then Stephen is cut off - what's due next?!
-		The Stereo Law
-			an identical mention of a thing in another context has special significance
-			Luke 4:18-19 ~ Isaiah 61 (He stops at a comma, what's next?)
-		Law of Structural Integrity
-			the Bible pre-answers heresies before they are invented
-			John 1:1
-			John 12 ()
-		Law of Recurrence
-			important ideas are scattered throughout (spread spectrum :)
-		Law of Dichotomies
-			many Biblical ideas are forehead-slappers
-				many of these involve an understanding of time/space that we cannot have
-			election vs. calling
-			trinity
-		Law of Cardinality
-			the order in which items appear in a list are important
-			I'm not prepared to comment on the order in which things appear between the Bible books because they are typically in neither chronological nor their original order (the order is not inspired)
+	Laws of Interpretation ->
 
-	Literary Forms
-		narrative, biography, poetry, proverb, drama, sermon, letter, epistle, psalms/song
+	Literary Forms ->
 
-	Figures of Speech
-		~ these are deliberate
-		simile (like)
-			Prov 1:27
-			Matt 23:27
-			Rev 1:14
-			Ps 90:4 - millenium 'like' a day
-		metaphor (are/is)
-			Ps 3:3
-			Matt 5:13
-		hyperbole (exaggeration)
-			Matt 19:24, Mark 10:25, Luke 18:25
-			Luke 14:26
-			Matt 5:29
-		hendiadys (combination)
-			Ps 27:1
-			Prov 30
-			1Th 2:12
-			Titus 2:13
-		irony
-			Jdg 10:14
-			1Kg 22:15
-		litotes (understatement/contrary)
-			Gen 18:27
-			Num 13:33
-			Is 41:14
-		euphemism
-			Gen 4:1
-			Gen 15:15
-			John 11:11
-		antithesis (contrast)
-			Is 59:9
-		ellipsis (omission)
-			Ps 12:3
-			1Cor 9:4
-		metonymy (substitution)
-			Is 22:22
-			Ps 22:16
-			2Cor 5:21
-		anthropomorphism
-			
-		puns
-		synecdoche (fraction)
-			Ps 109:27
-			eponymy (individual)
-				Ps 24:6
-				Hos 11:12
-			merismus (combined)
-				Ex 12:29
-				Ps 72:8
-				Ps 121:2
-		personification
-			Prov 1:20-21
-
-		idioms
-
-
-Interpretation
-	= removing obscurity
-		e.g. psephology ~ psephos + logos (pebble knowledge, i.e. counting) = study of elections
-	= a conception of another's _____
-		exigesis = explainable, "to lead rightly"
-		eisigesis ~ a hybrid of 'eis' (meaning into) and 'gesis' as above
-		Discernment = perception of right and wrong
-	etymology = the study of word lineage
-		God shapes word usage and language creation to His ends
-
-
-
-Illumination
-	= clarification (also, decoration ~ remez)
-	also = decoration
-		remez ~ "hint" of something deeper
-	Blindness
-		2Cor ? - the veil
-		?hidden name Rev 2
-	Scripture's power to change
-		spirit - rebuilt on salvation
-		soul - healthy activities
-		body - hygenic tendencies
+	Figures of Speech ->
