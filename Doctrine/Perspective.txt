@@ -1,2 +1,10 @@
 Perspective
 
+Normative
+	= reality is a revelation of God
+
+Situational
+	= reality is a series of factual situations controlled by God
+
+Existential
+	= reality is a set of personal experiences granted by God
