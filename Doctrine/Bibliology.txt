@@ -1,5 +1,32 @@
 Bibliology = knowledge of "the book"
 	"The Bible is not a book man could write if he would, nor is it a book man would write if he could."  Lewis Sperry Chafer
+	
+	The deutero-Isaiah hypothesis
+		invented in the late 18th century
+		claims that Isaiah has multiple authors
+			chapters 1-39
+			chapters +
+		Jesus disproves this
+			John 12:38
+				Isaiah said
+				= Is 53:1
+			John 12:40
+				'again' Isaiah said
+				= Is 6:10
+	Coincidentally
+		we now have 39 chapters OT, 27 NT
+		but chapter/verse not added until 15th century
+
+What does Scripture say about itself?
+	theopneustos = God-breathed ~ 2Tim 3:16
+	given for our instruction ~ Rom 15:4
+	living ~ Heb 4:12
+	it is flesh ~ John 1:14
+	it is seed ~ Luke 8:11
+	it gives direction ~ Ps 119:105
+	it is a witness of Christ ~ John 5:39
+	it never fails ~ Is 55:11
+	it is always proved ~ Pro 30:5-6
 
 Terminology
 	Bible ~ biblios, "the" book
@@ -25,7 +52,11 @@ Terminology
 		precision = "a cutting off" (of abstraction); free of cruft 
 		accurate = carefully prepared
 		Unbreakable
+			Is 40:8
 			Jn 10:35
+		Complete
+			Deut 4:2
+			Rev 22:19
 
 	Canon
 		= officially accepted
@@ -34,13 +65,6 @@ Terminology
 			Jews stewarded OT
 		by whom?
 		as opposed to what?
-<<<<<<< HEAD
-
-	Current Dispensation
-		Grace?
-		...as if it weren't always there
-=======
->>>>>>> origin/master
 		
 	Characteristics
 		glorifies God
@@ -73,6 +97,8 @@ Terminology
 			Mark 7:10 - Moses "said"
 
 	Orthodoxy
+	
+	Manna ->
 
 
 Revelation
