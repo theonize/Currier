@@ -17,24 +17,18 @@ Why are there patterns in the Bible?
 	3) It makes the Bible a self-verifying entity
 
 66 Books
-	67 is prime (+1)
-	66 = 2 x 3 x 11
-	61 is prime (-5)
+	66 = 2 x 3 x 11	(67,61)
 
 	39 OT
-		41 is prime (+2)
-		39 = 3 x 13
-		37 is prime (-2)
+		39 = 3 x 13 (41,37)
 
 	27 NT
-		29 is prime (+2)
-		27 = 3 x 3 x 3
-		23 is prime (-4)
+		27 = 3 x 3 x 3 (29,23)
 
 Total Verses = 
 Total Chapters = 1188 (middle verse = 118:8)
 	1193 is prime (+5)
-	1188 = 2 x 2 x 3 x 3 x 11
+	1188 = 2 x 2 x 3 x 3 x 11 
 	1187 is prime (-1)
 Number of Heberew Words = 8674
 	8677 is prime (+3)
@@ -49,3 +43,5 @@ Total Words = 14298
 	14298 = 2383 x 3 x 2 (prime factors)
 	14293 is prime (-5)
 	that's not a coincidence
+
+1Th 5:16 - shortest verse in original language
