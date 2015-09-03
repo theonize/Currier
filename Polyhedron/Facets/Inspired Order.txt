@@ -1,0 +1,60 @@
+Genesis
+Exodus
+Leviticus
+Numbers
+Deuteronomy
+Joshua-Judges
+Samuel-Kings
+Isaiah
+Jeremiah
+Ezekiel
+Minors
+	Hosea
+	Joel
+	Amos
+	Obadiah
+	Jonah
+	Micah
+	Nahum
+	Zephaniah
+	Haggai
+	Zechariah
+	Malachi
+Psalms
+Proverbs
+Job
+Song of Solomon (passover)
+Ruth (Feast of Pentecost)
+Lamentations (Ab 10th)
+Ecclesiastes (Feast of Tabernacles)
+Esther (Feast of Purim)
+Daniel
+Ezra-Nehemiah
+Chronicles
+Matthew
+Mark
+Luke
+John
+Acts
+James
+Peter 1
+Peter 2
+John 1
+John 2
+John 3
+Jude
+Romans
+Corinthians 1
+Corinthians 2
+Galatians
+Ephesians
+Philippians
+Colossians
+Thessalonians 1
+Thessalonians 2
+Hebrews
+Timothy 1
+Timothy 2
+Titus
+Philemon
+Revelation
