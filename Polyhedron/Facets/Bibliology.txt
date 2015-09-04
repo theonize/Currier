@@ -1,5 +1,6 @@
-Bibliology = knowledge of "the book"
-	"The Bible is not a book man could write if he would, nor is it a book man would write if he could."  Lewis Sperry Chafer
+Introduction
+	Bibliology = knowledge of "the book"
+		"The Bible is not a book man could write if he would, nor is it a book man would write if he could."  Lewis Sperry Chafer
 	
 	The deutero-Isaiah hypothesis
 		invented in the late 18th century
@@ -75,7 +76,7 @@ Terminology
 		prejudice (heroes are faulty)
 			Genesis (Jacob)
 			Acts
-
+		demarcations
 		Matt 23:35
 			Jesus authenticates/recognizes the original book order (first and last murder)
 
