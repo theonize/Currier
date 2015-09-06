@@ -18,34 +18,71 @@ Introduction
 		we now have 39 chapters OT, 27 NT
 		but chapter/verse not added until 15th century
 
-What does Scripture say about itself?
-	theopneustos = God-breathed ~ 2Tim 3:16
-	given for our instruction ~ Rom 15:4
-	living ~ Heb 4:12
-	it is flesh ~ John 1:14
-	it is seed ~ Luke 8:11
-	it gives direction ~ Ps 119:105
-	it is a witness of Christ ~ John 5:39
-	it never fails ~ Is 55:11
-	it is always proved ~ Pro 30:5-6
-
-Terminology
-	Bible ~ biblios, "the" book
-	Scripture ~ graphei, sacred writings
-	Word ~ logos; used for Jesus, Old Testament, and oracles
-	Testament ~ akin to a covenant
+What is the Bible?
+	βιβλιο = "the" book
+	*ology = subject of study
+	γράφει = [sacred] writings, Scripture
+	λόγος
+		= reason, Word
+		used [in forms] for Jesus, Old Testament, and oracles
+	Testament
+		= 3rd person testimony (living will)
 
 	Written Language
-		clarity
+		perspicuity
+			= able to look through, transparency, clearness
+			"the Bible is a plain book", see "Golden Rule" later
+			Psalm 119:130
+			clarity in things which are meant to be known
 			timeless terms and figures of speech
-			it is knowable/attainable
-			see "Golden Rule" later
-		permanence
+		endurance
+			John 10:35 - permanent truths
+			2 Peter 1:19 - satisfies the diligent
+			Acts 8:26+ - effectually calls the searcher
 			not our responsibility directly
+				1Tim 2:3-4
+
 
 	Gospel
 		All about Jesus
 		Luke 24:44
+
+What does Scripture say about itself?
+	θεοπνευστος = God-breathed ~ 2Tim 3:16
+	given for our instruction ~ Rom 15:4
+		endurance & encouragement
+	living ~ Heb 4:12
+		active
+		piercing
+		discerning (like it were written concurrently with the reading)
+	it never fails ~ Is 55:11
+		it "does" things
+	it is flesh ~ John 1:14
+		condescension
+		~> the word is more than the γραφει
+	it is like a seed ~ Luke 8:11
+		a seed contains all of the material necessary for exponential growth
+			testa = coat/shell
+			cotyledon = energy source
+			embryo = information & beginning material
+	it gives direction ~ Ps 119:105
+		MY feet
+		MY path
+	it is gospel ~ John 5:39
+		eternal life
+		witness...of whom?
+	it is indomitable ~ Pro 30:5-6
+		Word proves true
+			He shields
+		don't add words
+			He rebukes
+		HIS Word (not ours, not our responsibility)
+
+Manna
+	Exodus 16
+	Numbers 11
+
+Terminology
 
 	Infallibility
 		= incapable of being wrong
@@ -88,10 +125,17 @@ Terminology
 		theopneustos - God breathed
 			pneuma = spirit
 			implication ~ Holy Spirit involvement
-		verbal = in the form of words (verbage)
-		plenary = unqualified, fully attended
+		verbal plenary
+			= in the form of words (verbage)
+			= unqualified, fully attended
 		Divine superintendence
-		Human authorship
+		Authorship
+			divine
+				direct - Ex 33?
+				dictated - "Write this down"
+			human
+				direct
+				scribben - Prov 25:1
 		duality
 			Exodus 20:12 - words God spoke (v.1)
 			Matthew 15:4 - God "commanded"
@@ -109,61 +153,63 @@ Power
 
 
 Revelation
-	General Revelation
-		Romans 1
-	Special Revelation
-		To know God
-			2Tim 3:15
-		To share God
+	Flarn
+		General Revelation
+			Romans 1
+		Special Revelation
+			To know God
+				2Tim 3:15
+			To share God
+				2Tim 3:16
+			To experience God
+				Ps 19:7-11
+			To watch and learn
+				Rom 15:4
+			Disclosure
+				...of what?
+				natural/general
+				specific
+
+		Inspiration
+			plenary = unqualified, fully attended
+			verbal = in the form of words (verbage)
 			2Tim 3:16
-		To experience God
-			Ps 19:7-11
-		To watch and learn
-			Rom 15:4
-		Disclosure
-			...of what?
-			natural/general
-			specific
+			2Pet 1:21
 
-	Inspiration
-		plenary = unqualified, fully attended
-		verbal = in the form of words (verbage)
-		2Tim 3:16
-		2Pet 1:21
+		Authority
+			credibility
+			relevance
+			genuineness
 
-	Authority
-		credibility
-		relevance
-		genuineness
+	Distinctions and Dichotomies
+		Verbal Issues
+			Revelation ~ Inspiration
+			Infallibility ~ Inerrancy
+			Authority ~ Credibility
+			Precision ~ Accuracy
+			Covenants ~ Dispensations
+			Scripture ~ Word
 
-	Distinctions
-		Revelation ~ Inspiration
-		Infallibility ~ Inerrancy
-		Authority ~ Credibility
-		Precision ~ Accuracy
-		Covenants ~ Dispensations
-		Scripture ~ Word
+		Interpretation
+			= removing obscurity
+				e.g. psephology ~ psephos + logos (pebble knowledge, i.e. counting) = study of elections
+			= a conception of another's _____
+				exigesis = explainable, "to lead rightly"
+				eisigesis ~ a hybrid of 'eis' (meaning into) and 'gesis' as above
+				Discernment = perception of right and wrong
+			etymology = the study of word lineage
+				God shapes word usage and language creation to His ends
 
-	Interpretation
-		= removing obscurity
-			e.g. psephology ~ psephos + logos (pebble knowledge, i.e. counting) = study of elections
-		= a conception of another's _____
-			exigesis = explainable, "to lead rightly"
-			eisigesis ~ a hybrid of 'eis' (meaning into) and 'gesis' as above
-			Discernment = perception of right and wrong
-		etymology = the study of word lineage
-			God shapes word usage and language creation to His ends
-
-	Illumination
-		= clarification (also, decoration ~ remez)
-		also = decoration
-		Blindness
-			2Cor ? - the veil
-			?hidden name Rev 2
-		Scripture's power to change
-			spirit - rebuilt on salvation
-			soul - healthy activities
-			body - hygenic tendencies
+		Illumination
+			= clarification (also, decoration ~ remez)
+			also = decoration
+			Blindness
+				2Cor ? - the veil
+				?hidden name Rev 2
+			Scripture's power to change
+				spirit - rebuilt on salvation
+				soul - healthy activities
+				body - hygenic tendencies
 
 Wondrous Message
 	Transmission
