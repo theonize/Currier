@@ -28,20 +28,13 @@ What is the Bible?
 	Testament
 		= 3rd person testimony (living will)
 
-	Written Language
-		perspicuity
-			= able to look through, transparency, clearness
-			"the Bible is a plain book", see "Golden Rule" later
-			Psalm 119:130
-			clarity in things which are meant to be known
-			timeless terms and figures of speech
-		endurance
-			John 10:35 - permanent truths
-			2 Peter 1:19 - satisfies the diligent
-			Acts 8:26+ - effectually calls the searcher
-			not our responsibility directly
-				1Tim 2:3-4
-
+	Progressive Revelation
+		66 books (49 "original")
+		40 authors
+		3 languages (Hebrew, Greek, Armaic)
+		3 continents
+		Israel, Babylon, Egypt, Greece, Rome, Arabia, 'Turkey'
+		Authors - kings, priests, prophets, military, statesmen, shepherds, fishermen, tax collector, doctor, Pharisee, farmer
 
 	Gospel
 		All about Jesus
@@ -83,7 +76,6 @@ Manna
 	Numbers 11
 
 Terminology
-
 	Infallibility
 		= incapable of being wrong
 		inerrancy = free of mistakes
@@ -121,39 +113,11 @@ Terminology
 
 	Dispensations ->
 
-	Inspiration
-		theopneustos - God breathed
-			pneuma = spirit
-			implication ~ Holy Spirit involvement
-		verbal plenary
-			= in the form of words (verbage)
-			= unqualified, fully attended
-		Divine superintendence
-		Authorship
-			divine
-				direct - Ex 33?
-				dictated - "Write this down"
-			human
-				direct
-				scribben - Prov 25:1
-		duality
-			Exodus 20:12 - words God spoke (v.1)
-			Matthew 15:4 - God "commanded"
-			Mark 7:10 - Moses "said"
-
 	Orthodoxy
-
-	Manna ->
-
-
-Power
-	Thief on the cross
-		saved at the absolute last possible moment
-		how many thousands (millions?) of people accepted a call on his testimony?
 
 
 Revelation
-	Flarn
+	Power
 		General Revelation
 			Romans 1
 		Special Revelation
@@ -169,12 +133,31 @@ Revelation
 				...of what?
 				natural/general
 				specific
+		Thief on the cross
+			saved at the absolute last possible moment
+			how many thousands (millions?) of people accepted a call on his testimony?
 
 		Inspiration
-			plenary = unqualified, fully attended
-			verbal = in the form of words (verbage)
-			2Tim 3:16
-			2Pet 1:21
+			theopneustos - God breathed
+				pneuma = spirit
+				implication ~ Holy Spirit involvement
+				2Tim 3:16
+			verbal plenary
+				= in the form of words (verbage)
+				= unqualified, fully attended
+			Divine superintendence
+			Authorship
+				2Pet 1:21 ~ carried along...
+				divine
+					direct - Ex 33?
+					dictated - "Write this down"
+				human
+					direct
+					scribben - Prov 25:1
+			duality
+				Exodus 20:12 - words God spoke (v.1)
+				Matthew 15:4 - God "commanded"
+				Mark 7:10 - Moses "said"
 
 		Authority
 			credibility
@@ -212,15 +195,23 @@ Revelation
 				body - hygenic tendencies
 
 Wondrous Message
+	Written Language
+		perspicuity
+			= able to look through, transparency, clearness
+			"the Bible is a plain book", see "Golden Rule" later
+			Psalm 119:130
+			clarity in things which are meant to be known
+			timeless terms and figures of speech
+		endurance
+			John 10:35 - permanent truths
+			2 Peter 1:19 - satisfies the diligent
+			Acts 8:26+ - effectually calls the searcher
+			not our responsibility directly
+				1Tim 2:3-4
+
 	Transmission
-		40 authors
-		66 books (49 "original")
-		3 languages (Hebrew, Greek, Armaic)
-		3 continents
-		Israel; Babylon, Egypt, Greece, Rome, Arabia, 'Turkey'
-		Authors - kings, priests, prophets, military, statesmen, shepherds, fishermen, tax collector, doctor, Pharisee, farmer
 		tent-maker ~ skenopoios (scenographer)
-			Acts 13:8 (2Cor 11:1-2,12; Phlp 3:12,4:3)
+			Acts 18:3 (2Cor 11:1-2,12; Phlp 3:12,4:3)
 			idiom or tradecraft
 			Pharisee <> skins
 		Scripture is indestructible
