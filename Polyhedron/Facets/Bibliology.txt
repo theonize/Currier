@@ -18,6 +18,7 @@ Introduction
 		we now have 39 chapters OT, 27 NT
 		but chapter/verse not added until 15th century
 
+
 What is the Bible?
 	βιβλιο = "the" book
 	*ology = subject of study
@@ -39,6 +40,7 @@ What is the Bible?
 	Gospel
 		All about Jesus
 		Luke 24:44
+
 
 What does Scripture say about itself?
 	θεοπνευστος = God-breathed ~ 2Tim 3:16
@@ -71,9 +73,6 @@ What does Scripture say about itself?
 			He rebukes
 		HIS Word (not ours, not our responsibility)
 
-Manna
-	Exodus 16
-	Numbers 11
 
 Terminology
 	Infallibility
@@ -87,6 +86,7 @@ Terminology
 		Complete
 			Deut 4:2
 			Rev 22:19
+		e.g. Wallace's argument: minor variations between documents eschew fallibility because NO doctrinal error compound - defying probability they touch only meaningless texts
 
 	Canon
 		= rules for acceptance
@@ -114,6 +114,12 @@ Terminology
 	Dispensations ->
 
 	Orthodoxy
+
+
+Manna ->
+
+
+Prophecy is Pattern
 
 
 Revelation
