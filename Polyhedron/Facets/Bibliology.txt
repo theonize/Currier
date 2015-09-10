@@ -20,22 +20,34 @@ Introduction
 
 
 What is the Bible?
-	βιβλιο = "the" book
+	βιβλιος = book
+		"the" book
+		Luke 4:17
 	*ology = subject of study
-	γράφει = [sacred] writings, Scripture
+	γράφει = writings [sacred], Scripture
 	λόγος
 		= reason, Word
 		used [in forms] for Jesus, Old Testament, and oracles
+		Matt 15:6 (Mosaic law)
+		John 10:35 (OT)
+		Heb 4:12 (all Scripture)
 	Testament
 		= 3rd person testimony (living will)
 
-	Progressive Revelation
-		66 books (49 "original")
+	Relationship between Scripture and Word
+		John 1:1+
+		Word = Jesus
+		Scripture = divinely transmitted, protected document
+
+	Formation (progressive revelation)
+		1600 years from start to finish
+		66 books
+			49 "original"
 		40 authors
 		3 languages (Hebrew, Greek, Armaic)
 		3 continents
 		Israel, Babylon, Egypt, Greece, Rome, Arabia, 'Turkey'
-		Authors - kings, priests, prophets, military, statesmen, shepherds, fishermen, tax collector, doctor, Pharisee, farmer
+		Authors - kings, priests, prophets, soldiers, statesmen, shepherds, fishermen, tax collector, doctor, farmer, other
 
 	Gospel
 		All about Jesus
@@ -75,6 +87,12 @@ What does Scripture say about itself?
 
 
 Terminology
+	Revelation
+		= answers
+		is there a God?
+		does He communicate?
+		if so, what does He say?
+
 	Infallibility
 		= incapable of being wrong
 		inerrancy = free of mistakes
@@ -152,23 +170,36 @@ Revelation
 				= in the form of words (verbage)
 				= unqualified, fully attended
 			Divine superintendence
-			Authorship
-				2Pet 1:21 ~ carried along...
-				divine
-					direct - Ex 33?
-					dictated - "Write this down"
-				human
-					direct
-					scribben - Prov 25:1
+
+		Authorship
+			2Pet 1:21 ~ carried along...
+			divine
+				direct - Ex 33?
+				dictated - "Write this down"
+			human
+				direct
+				scribben - Prov 25:1
 			duality
 				Exodus 20:12 - words God spoke (v.1)
 				Matthew 15:4 - God "commanded"
 				Mark 7:10 - Moses "said"
 
-		Authority
-			credibility
-			relevance
-			genuineness
+	Authority
+		credibility
+		relevance
+		genuineness
+		heresies
+			rationalism (mind)
+			mysticism (experience)
+			romanism (christendom)
+			neo-orthodox (encounter)
+				fallible intermediary scripture
+				Word -> scripture-filter -> man
+			cultic (additional scriptures)
+			why do these exist?  they point toward Authority...
+		Orthodoxy
+			the Bible is the Authority
+			the overwashed Spirit 'illuminates' the Scripture
 
 	Distinctions and Dichotomies
 		Verbal Issues
@@ -215,6 +246,20 @@ Wondrous Message
 				Acts 8:26+ - effectually calls the searcher
 				not our responsibility directly
 					1Tim 2:3-4
+		Example
+			Dead sea scrolls ~ 100BC - 100AD
+			Masoretic text ~ 1000AD
+
+			Diocletian
+				"the christian is destroyed and the worship of the gods restored"
+				10 years later ~ Christendom
+			Voltaire
+				"50 years from now: the world will hear no more about the Bible"
+				50 years later the Geneva Bible Society began printing Bibles on his printing press
+			Tyndale
+			Thomas Payne
+				"when I get through there will not be 5 Bibles in America"
+
 		tent-maker ~ skenopoios (scenographer)
 			Acts 18:3 (?2Cor 11:1-2,12?; Phlp 3:12,4:3)
 			idiom or tradecraft
@@ -226,14 +271,29 @@ Wondrous Message
 			1Thess 2:8
 			implies a beneficiary
 			Matt 25
-			accountability not of graphei but of ourselves [transformed by the Word]
+			accountability not of γραφει but of ourselves [transformed by the Word]
+				God takes the responsibility for preserving γραφει
 		indestructable
 			Ps 113:89
+		Influence
+			billions of lives changed
+			cleanliness
+			legality
+			honor
+			charity
 
 	Levels of Inspiration ->
 
 	Laws of Interpretation ->
 
 	Literary Forms ->
+		historical narrative
+		biography
+		poetry
+		proverbs
+		drama
+		sermons
+		letters/epistles
+		psalms/songs
 
 	Figures of Speech ->
