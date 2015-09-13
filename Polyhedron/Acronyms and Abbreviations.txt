@@ -1,0 +1,68 @@
+Acronyms and Abbreviations
+
+JOB 	Job
+GNSS	Genesis
+EXDS	Exodus
+LVTC	Leviticus
+NMBR	Numbers
+DTRN	Deuteronomy
+PSLM	Psalms
+JOSH	Joshua
+JDGS	Judges
+RUTH	Ruth
+SNGS	Song of Solomon
+PRVB	Proverbs
+ECCL	Ecclesiastes
+SML1	Samuel 1
+SML2	Samuel 2
+OBDH	Obadiah
+JOEL	Joel
+JONH	Jonah
+AMOS	Amos
+HSEA	Hosea
+MICH	Micah
+ISIH	Isaiah
+NAHM	Nahum
+ZPHN	Zephaniah
+HBKK	Habakkuk
+EZKL	Ezekiel
+LMNT	Lamentations
+JRMH	Jeremiah
+KGS1	Kings 1
+KGS2	Kings 2
+DANL	Daniel
+HAGG	Haggai
+ZCHR	Zechariah
+EZRA	Ezra
+CHR1	Chronicles 1
+CHR2	Chronicles 2
+ESTH	Esther
+MLCH	Malachi
+NHMH	Nehemiah
+JAMS	James
+GLTN	Galatians
+MTTH	Matthew
+MARK	Mark
+THS1	Thessalonians 1
+THS2	Thessalonians 2
+CRN1	Corinthians 1
+CRN2	Corinthians 2
+RMNS	Romans
+LUKE	Luke
+EPHS	Ephesians
+PHLP	Philippians
+PHLM	Philemon
+CLSS	Colossians
+ACTS	Acts
+TMT1	Timothy 1
+TTUS	Titus
+PTR1	Peter 1
+TMT2	Timothy 2
+PTR2	Peter 2
+HBRW	Hebrews
+JUDE	Jude
+JOHN	John
+JHN1	John 1
+JHN2	John 2
+JHN3	John 3
+RVLT	Revelation

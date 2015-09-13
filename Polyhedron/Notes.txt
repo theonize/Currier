@@ -1,3 +1,7 @@
 Notes
 
 The polyhedral analogy likens Scripture to a shape whose facets are sections of scripture and whose edges are links.
+
+Abbreviations and acronyms are given in an accompanying text-file.
+
+Words in {brackets} denote "facets" which [ostensibly] have their own text-file for further illumination.
