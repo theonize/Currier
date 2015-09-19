@@ -41,15 +41,14 @@ Numbers 11
 		cakes (tasted 'like' cakes made with oil)
 	9	delivered via morning dew
 
-Deuteronomy 8:3,16
-Joshua 5:12
-Nehemiah 9:20
++ Deuteronomy 8:3,16
+- Joshua 5:12
++ Nehemiah 9:15-20
 	remembering the manna
-Psalm 78:24
-Psalm 105:40
-John 6:31-32,41,50-51,58
-?John 7
-Revelation 2:17
+- Psalm 78:24
+- Psalm 105:40
++ John 6:31-32,41,48-51,58
+- Revelation 2:17
 
 
 Golden Pot of Manna
