@@ -61,7 +61,6 @@ Bibliology
 Knowing the Word
 	Synthesis
 		= combination, composition
-
 		ACTS 19:11+
 			sons of Sceva
 			"Jesus whom Paul proclaims"
@@ -83,8 +82,6 @@ Knowing the Word
 		Sword
 		Bread
 
-	2TMT 3:16
-		θεοπνευστος = God-breathed
 	RMNS 15:4
 		given for our instruction
 		through endurance
@@ -128,29 +125,86 @@ Knowing the Word
 		1) remove iniquity
 		2) manna
 
+Scriptural Integrity
+	Infallibility = incapable of being wrong
+	inerrancy = free of mistakes
+	precision = "a cutting off" (of abstraction); free of cruft 
+	accurate = carefully prepared
+	canon = the body of ecclesiastical/levitical teachings
+	canonicity = belonging to the canon, rules for belonging
+	transmission = the means by which the Scripture was delivered to you
 
-Related doctrines/concepts
-	Infallibility
-		= incapable of being wrong
-		inerrancy = free of mistakes
-		precision = "a cutting off" (of abstraction); free of cruft 
-		accurate = carefully prepared
+	3 approaches to canonicity
+		Psalm 12
+			1-2) why we need Scripture
+			3-4) the opposition
+				empty talkers (Tit 1)
+				people expecting to enact
+			5-6) because ___
+				I will:
+					arise
+					place him (you)
+			7-8) God's responsibility
+				keeping
+				guarding
+					from the wicked and vile
+		Circular
+			2TMT 3:16
+				θεοπνευστος = God-breathed
+			2 Peter 1:16-21
+				16) penned by eyewitnesses (both NT & OT)
+					Daniel 4
+				17-18) apostles eyewitnessed the canonization inauguration
+				19) NT confirms OT
+				20) Scriptures' origin
+				21) prophecy ~ men carried by God
+			2 Peter 3
+				15) emphasis on Paul's γραφει as Scriptural
+				16) equates Paul's γραφει with "other Scriptures"
+			1 Timothy 5:18
+				1st ref = Deut 25:4
+				2nd ref = Luke 10:7
+				...both referred to as Scripture
+		Authentication
+			writer
+				str.org; Greg Koukl: re: "Misquoting Jesus"
+				it is possible to eliminate the spurious renderings
+				"we have not 90% of the original text but 110%"
+			writings
+				textual criticism's goal is to recover the autographa as they left the Apostle's hand(s)
+				danielbwallace.com: "The Number of Textual Variants: An Evangelical Miscalculation"
+				40 of 20,000 lines are in doubt & none affect significant doctrine
+			reception
+				Chester Beatty Papyri - most of the NT, mid 3rd century
+				Bodmer Papyri II - most of John, late 2nd century
+				John Rylands Papyri - fragment of John 18:31-33, early 2nd century (40yrs after writing ~ Egypt)
+				about 50 complete "ancient" NTs - and 6000 fragments
+
+	John 10
+		31-33) stoning per "blasphemy"
+		34-35) oneness w/ God
+		35) Scripture cannot be broken (the writings)
+			transmission, inscription or both?
+		36) sent to bring people to this oneness
 		Unbreakable
 			Is 40:8
-			Jn 10:35
 		Complete
 			Deut 4:2
 			Rev 22:19
-		e.g. Wallace's argument: minor variations between documents eschew fallibility because NO doctrinal error compound - defying probability they touch only meaningless texts
+		e.g. Dr. Daniel Wallace's argument: minor variations between documents eschew fallibility because NO doctrinal error compound - defying probability they touch only meaningless texts
 
-	Canon
-		= rules for acceptance
-		2Pet 1:20-21
-		Rom 3:2
-			Jews stewarded OT
-		by whom?
-		as opposed to what?
+
+	Isaiah 40
+		6) repeat this: created beauty is finite
+		7) the LORD blows, grass/flowers fade
 		
+
+	Romans 3:1-4
+		1-2) the Jews as an instrument
+		3-4) God doesn't require mens' faithfulness for success
+			Job 9:32-33 ~ He doesn't require help
+			Ps 51:4-6 ~ He works for His glory
+
 	Characteristics
 		glorifies God
 		fallen man
