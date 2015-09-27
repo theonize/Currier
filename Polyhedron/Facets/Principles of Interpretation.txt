@@ -1,12 +1,33 @@
-Laws of Interpretation
+Principles of Interpretation
+
+!!! we must interpret all Scripture via the same principles
+	e.g. do not interpret prophetic passages one way and decretive passages another way
 
 	The Golden Rule
-		WHEN THE PLAIN SENSE MAKES COMMON SENSE MAKE NO OTHER SENSE!
+		= WHEN THE PLAIN SENSE OF SCRIPTURE MAKES COMMON SENSE; MAKE NO OTHER SENSE.
 			traditionalists say SEEK no other sense, there is not harm in seeking as long as we A) honor the Word and B) take the plain meaning as primary
 		primary ~= literal ~= ordinary
 			'secondary' importance is implied for other levels of interpretation
+			the Bible is a plain book for common mortals
 		rationalism
-		context vs. pretext (beware the eisigesis)
+		hidden meanings are always exposited elsewhere in the Scripture
+	Double Reference
+		a Scriptural passage may blend disconnected events/people
+		Zech 9:9-10
+		Is 11:1-5
+	Recurrence
+		multiple passages detailing a single event
+		Ezk 38:1-23, 39:1-16
+		Is 30, 31
+		Gen 1:1-2:3, 2:4-25
+		Rev 6-16, 17|18
+	Context
+		~ a text apart from it's context is a pretext
+		context = preceding and/or following text
+		pretext = text(s) imported for an ostensible reason
+		beware the eisigesis
+		you _cannot_ prove anything by the Bible
+		Zech 13:6
 	Expositional Constancy
 		= idioms and ideals are consistent throughout
 		the Holy Spirit will use the same idioms over and over via different authors and different forms of speech
@@ -52,3 +73,4 @@ Laws of Interpretation
 	Cardinality
 		the order in which items appear in a list are important
 		I'm not prepared to comment on the order in which things appear between the Bible books because they are typically in neither chronological nor their original order (the order is not inspired)
+	?Double/Multiple Fulfillment?
