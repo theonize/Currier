@@ -1,0 +1,21 @@
+Mode Scales
+
+		C D EF G A BC D EF G A B
+
+I		C D EF G A BC
+II		  D EF G A BC D
+III		    EF G A BC D E
+IV		     F G A BC D EF
+V		       G A BC D EF G
+VI		         A BC D EF G A
+VII		           BC D EF G A B
+
+
+		12 3 4 56 7 8
+I		C D EF G A BC
+II		D EF G A BC D
+III		EF G A BC D E
+IV		F G A BC D EF
+V		G A BC D EF G
+VI		A BC D EF G A
+VII		BC D EF G A B
