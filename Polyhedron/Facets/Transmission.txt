@@ -1,9 +1,30 @@
 Transmission
 
+<<<<<<< HEAD
 The Pattern
 	Discipleship
 		= training the next generation
 		~ the addict into rehab; intensive, then slowly given freedom to fly
+=======
+Providential Examples
+	Dead sea scrolls ~ 100BC - 100AD
+	Masoretic text ~ 1000AD
+
+	Diocletian
+		"the christian is destroyed and the worship of the gods restored"
+		10 years later ~ Christendom
+	Voltaire
+		"50 years from now: the world will hear no more about the Bible"
+		50 years later the Geneva Bible Society began printing Bibles on his printing press
+	Tyndale ~ executed for publishing an english Bible
+	Thomas Payne
+		"when I get through there will not be 5 Bibles in America"
+
+Why?
+	Titus 1 - He rescued us from lawlessness
+	1Tim 1:9 - the law is for the lawless
+	He gave us the law, and did it progressively, to author up as many saved as possible
+>>>>>>> origin/master
 
 Written Language
 	perspicuity
@@ -18,23 +39,11 @@ Written Language
 		Acts 8:26+ - effectually calls the searcher
 		not our responsibility directly
 			1Tim 2:3-4
-Example
-	Dead sea scrolls ~ 100BC - 100AD
-	Masoretic text ~ 1000AD
-
-	Diocletian
-		"the christian is destroyed and the worship of the gods restored"
-		10 years later ~ Christendom
-	Voltaire
-		"50 years from now: the world will hear no more about the Bible"
-		50 years later the Geneva Bible Society began printing Bibles on his printing press
-	Tyndale
-	Thomas Payne
-		"when I get through there will not be 5 Bibles in America"
 
 Progressive revelation?
 	dates of transmission
 		revelation - not amendment
+			the λογος was already, the γραφει is created
 		backwards compatibility is hard when it's perfectly intricate and expansive
 	types of transmission
 
