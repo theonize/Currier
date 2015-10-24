@@ -1,73 +1,91 @@
 Divine Covenants
 
-	suzerainty treaties
-		1. Identify the Suzerain
-		2. Survey of the relationship with the vassal
-		3. Stipulations (for the vassal)
-			conditions - this is ommitted in unconditional covenants
-		4. Consequences (for either)
-	1) Edenic
-		Word
-			Gen 1:26-30, 2:16-17
-		Suzerain's Identity
-		Suzerainty Relationship
-		Stipulations
-		Consequences
-	2) Adamic
-			Gen 3:15-19
-	3) * Noahic
-		Word
-			flood - Gen 6:3-8
-			unflood - Gen 9:8-17
-			2Pet 2:5
-		Suzerain's Identity
-		Suzerainty Relationship
-		Stipulations
-		Consequences
-	4) * Abrahamic
-		Word
-			great name - Gen 12:1-7
-			descendants - Gen 13:14-17
-			Gen 15
-			nations - Gen 17:1-14
-			family - Gen 22:15-18
-			geography - Gen 12:7, 13:14-15, 15:18-21
-		Suzerain's Identity
-		Suzerainty Relationship
-		Stipulations
-		Consequences
-	5) * Palestinian
-		Word
-			Deut 30:1-10
-		Suzerain's Identity
-		Suzerainty Relationship
-		Stipulations
-		Consequences
-	6) Mosaic
-		Word
-			Deut 11
-			Exodus 20
-		Suzerain's Identity
-		Suzerainty Relationship
-		Stipulations
-		Consequences
-	7) * Davidic
-		Word
-			2Sam 7:8-16
-			Luke 1:32-33
-		Suzerain's Identity
-		Suzerainty Relationship
-		Stipulations
-		Consequences
-	8) * Blood (New)
-		Word
-			Jeremiah 31:31-34
-			Matthew 5:17
-			Ephesians 2:8-9
-		Suzerain's Identity
-		Suzerainty Relationship
-		Stipulations
-		Consequences
+
+suzerainty treaties
+	1. Identify the Suzerain
+	2. Survey of the relationship with the vassal
+	3. Stipulations (for the vassal)
+		conditions - this is ommitted in unconditional covenants
+	4. Consequences (for either)
+1) Edenic
+	Word
+		Gen 1:26-30, 2:16-17
+	Suzerain
+		Identity: 
+		Relationship: 
+	Stipulations
+	Consequences
+2) * Adamic
+	Word
+		Gen 3:15-19
+	Suzerain
+		Identity: I
+		Relationship: LORD God
+	Stipulations
+		til death
+	Consequences
+		serpent ~ enmity
+		woman ~ childbearing, husbandry
+		Adam ~ toil
+3) * Noahic
+	Word
+		flood - Gen 6:3-8
+		unflood - Gen 9:8-17
+		2Pet 2:5
+	Suzerain
+		Identity: 
+		Relationship: 
+	Stipulations
+	Consequences
+4) * Abrahamic
+	Word
+		great name - Gen 12:1-7
+		descendants - Gen 13:14-17
+		Gen 15
+		nations - Gen 17:1-14
+		family - Gen 22:15-18
+		geography - Gen 12:7, 13:14-15, 15:18-21
+	Suzerain
+		Identity: 
+		Relationship: 
+	Stipulations
+	Consequences
+5) * Palestinian
+	Word
+		Deut 30:1-10
+	Suzerain
+		Identity: 
+		Relationship: 
+	Stipulations
+	Consequences
+6) Mosaic
+	Word
+		Deut 11
+		Exodus 20
+	Suzerain
+		Identity: 
+		Relationship: 
+	Stipulations
+	Consequences
+7) * Davidic
+	Word
+		2Sam 7:8-16
+		Luke 1:32-33
+	Suzerain
+		Identity: 
+		Relationship: 
+	Stipulations
+	Consequences
+8) * Blood (New)
+	Word
+		Jeremiah 31:31-34
+		Matthew 5:17
+		Ephesians 2:8-9
+	Suzerain
+		Identity: 
+		Relationship: 
+	Stipulations
+	Consequences
 
 * = active
 

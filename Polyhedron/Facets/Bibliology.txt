@@ -143,31 +143,7 @@ Scriptural Integrity
 
 	{Infallibility}
 
-	Authenticity
-		writer
-			str.org; Greg Koukl: re: "Misquoting Jesus"
-			it is possible to eliminate the spurious renderings
-			"we have not 90% of the original text but 110%"
-		writings
-			textual criticism's goal is to recover the autographa as they left the Apostle's hand(s)
-			danielbwallace.com: "The Number of Textual Variants: An Evangelical Miscalculation"
-			40 of 20,000 lines are in doubt & none affect significant doctrine
-		reception
-			Chester Beatty Papyri - most of the NT, mid 3rd century
-			Bodmer Papyri II - most of John, late 2nd century
-			John Rylands Papyri - fragment of John 18:31-33, early 2nd century (40yrs after writing ~ Egypt)
-			about 50 complete "ancient" NTs - and 6000 fragments
-		PROPHECY
-			accuracy
-				Dan 9:25 - 483yrs; 457BC to 27AD (Jesus' baptism)
-			precision
-				Jeremiah 34:3
-				Ezekiel 12:13
-				2 Kings 25:7
-			multi-level patterns
-				Dan 9:1 - 70 years
-					606BC to 536BC the Jews exiled then returned
-					586BC to 516BC the temple destroyed then rebuilt
+	{Authenticity}
 
 	{Inspiration}
 
