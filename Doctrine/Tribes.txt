@@ -1,33 +1,33 @@
 						Leah	Bilhah	Zilpah	Rachel
-Reuben			X
+Reuben					X
 	see, a son
-Simeon			X
+Simeon					X
 	that obeys
-Levi				X
+Levi					X
 	attached
-Judah				X
+Judah					X
 	praise the LORD
 Dan								X
 	judgment
-Naphtali					X
+Naphtali						X
 	that wrestles
-Gad												X
+Gad										X
 	good fortune
-Asher											X
+Asher									X
 	happiness
-Issachar		X
+Issachar				X
 	reward
-Zebulun			X
+Zebulun					X
 	honor; dwelling
-Joseph														X
+Joseph											X
 	may he add
 	Ephraim - fruitful
 	Mannasah - forgetfulness
-Benjamin													X
+Benjamin										X
 	son of the right hand
 
 
-						R 	S 	L 	Ju 	D 	N 	G 	A 	I 	Z 	Jo 	B 	E 	M
-Num 1				1		2				4		10	12	3		11	5		6		7		9				8
-Num 13			1		2				3		9		11	12	10	4		7		8		6		5		8
-Rev 7				X		X		X		X				X		X		X		X		X		X		X				X
+				R 	S 	L 	Ju 	D 	N 	G 	A 	I 	Z 	Jo 	B 	E 	M
+Num 1:5			1	2		3	10		12	11	4	5	6	9	7	8
+Num 13			1	2				3		9		11	12	10	4		7		8		6		5		8
+Rev 7			X	X		X		X				X		X		X		X		X		X		X				X
