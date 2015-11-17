@@ -1,6 +1,6 @@
-Transmission
+﻿Transmission
 
-<<<<<<< HEAD
+
 The Pattern
 	Discipleship
 		= training the next generation
@@ -24,7 +24,7 @@ Why?
 	Titus 1 - He rescued us from lawlessness
 	1Tim 1:9 - the law is for the lawless
 	He gave us the law, and did it progressively, to author up as many saved as possible
->>>>>>> origin/master
+
 
 Written Language
 	perspicuity
