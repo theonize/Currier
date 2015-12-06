@@ -1,0 +1,11 @@
+Syntax:
+
+[ABCDEFG]<^>	Upper-case letters indicate a chord
+					default is a major triad
+<mo*>			Modifies the default major triad
+					minor, diminished, augmented
+[1234567]<+>	Modifies or adds a note
+					e.g. C4 = 'e' becomes 'f'
+					e.g. C+4 mean 'ceg' becomes 'cefg'
+[abcdefg]		Lower-case letter indicate specific notes
+	[1234567]<m>	trailing number indicates an interval
