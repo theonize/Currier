@@ -17,6 +17,10 @@ examples
 	?Paul's conversion and later testimony (Acts 9 & 26)
 	John 1:1
 
+
+[Rev 19:10] - it must point to Christ
+
+
 Level of Interpretation (explain each term, then present the passages)
 	Literal
 		[Rev 7:1], [Josh 10:12-14], [Rev 18:9-13]
@@ -57,14 +61,17 @@ Da Rulz
 			'secondary' importance is implied for other levels of interpretation
 			the Bible is a plain book for common mortals
 		rationalism
+	Symbolism
 		hidden meanings are always exposited elsewhere in the Scripture
 			searching is always rewarding
 			prospect, don't speculate
 	Double/Multiple Reference
 		a Scriptural passage may blend disconnected events/people
-		Zech 9:9-10
-		Is 11:1-5
 		Rev 2-3 ~ the churches, church ages, and personal phases
+		?
+		[Zech 9:9-10]
+		[Is 11:1-5]
+		?
 	Recurrence
 		important ideas are scattered throughout (spread spectrum :)
 		multiple passages detailing a single event
@@ -104,8 +111,8 @@ Da Rulz
 		idealogical coloring
 	The Stereo Law
 		an identical mention of a thing in another context has special significance
-		Luke 4:18-19 ~ Isaiah 61 (He stops at a comma, what's next?)
 		e.g. quotations from the Septuagint
+		e.g. "Nazarene" passages
 	Cardinality
 		the order in which items appear in a list are important
 		I'm not prepared to comment on the order in which things appear between the Bible books because they are typically in neither chronological nor their original order (the order is not inspired)
@@ -119,7 +126,11 @@ Da Rulz
 		the Bible pre-answers [divisive] heresies before they are invented
 		John 1:1
 		John 12 ()
-	Gap Principle
+	Remez Principle (a hint of more)
 		i.e. an incomplete list which parallels an "older" list ~ it's missing element is important
-		e.g. Acts 7
+		[Acts 7]
 			Israel blew it, made it up, blew it, made it up, blew it...then Stephen is cut off - what's due next?!
+		[Matt 21:15-16]
+			Jesus quotes [Ps 8:2] in response to their indignation, but He leaves out the 2nd part of the verse "to still the enemy" - the Pharisees were very likely to have picked up on this
+		[Luke 4:18-19]
+			Jesus quotes [Is 61:1-2a] but stops mid-sentence.  The rest of the sentence is: "and the day of vengeance of our God"
