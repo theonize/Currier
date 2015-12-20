@@ -71,7 +71,7 @@ Da Rulz
 			searching is always rewarding
 			prospect, don't speculate
 				In mining prospecting means digging where you are, speculating means getting new plots to dig in.
-	Double/Multiple Reference
+	Multiple Reference
 		a Scriptural passage may blend disconnected events/people
 		Rev 2-3 ~ the churches, church ages, and personal phases
 		[Is 14:4,12-17]
@@ -80,7 +80,6 @@ Da Rulz
 		[Is 11:1-5]
 			branch = רצנ
 			Nazareth = Ναζαρα
-
 	Recurrence
 		important ideas are scattered throughout (spread spectrum :)
 		multiple passages detailing a single event
@@ -96,7 +95,8 @@ Da Rulz
 		pretext = text(s) imported for an ostensible reason
 		beware the eisigesis
 		you _cannot_ prove anything by the Bible
-		Zech 13:6
+		[Zech 13:6]
+			the greater passage speaks of false teachers!
 	Expositional Constancy
 		= idioms and ideals are consistent throughout
 		the Holy Spirit will use the same idioms over and over via different authors and different forms of speech
@@ -120,10 +120,15 @@ Da Rulz
 		= the first mention of a thing has special significance
 		'things' often develop from simple to complex (or vice versa)
 		idealogical coloring
+		! interesting but, what order do you put the books in?
+		valid: [Gen 3:22] -> [Rev 22] tree of life
+		invalid: most things not mentioned in Pentateuch
 	The Stereo Law
 		an identical mention of a thing in another context has special significance
 		e.g. quotations from the Septuagint
+			{Septuagint}
 		e.g. "Nazarene" passages
+			{Nazarene}
 	Cardinality
 		the order in which items appear in a list are important
 		I'm not prepared to comment on the order in which things appear between the Bible books because they are typically in neither chronological nor their original order (the order is not inspired)
