@@ -1,5 +1,6 @@
 Binary Markings
 
+
 EADGBE		111111		63
 F   CF		100011		35
  BEA  		011100		28
