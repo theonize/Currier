@@ -1,4 +1,5 @@
 Divine Dispensations
+<<<<<<< HEAD
 	= house rules
 
 
@@ -29,3 +30,16 @@ promises
 		must have a consistent hermeneutic
 
 Church <> Israel
+=======
+
+= house rules
+	
+
+1) Innocence ~ Gen 1:28 - 3:8
+2) Conscience ~ Gen 3:9 - 8:14
+3) Civil Government ~ Gen 8:15 - 11:32
+4) Patriarchy ~ Gen 12:1 - Ex 18:27
+5) Law ~ Ex 19:1 - Acts 1:26
+*6) Grace ~ Acts 2:1 - Rev 19:21
+7) Kingdom ~ Rev 19:21 +
+>>>>>>> origin/master

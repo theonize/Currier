@@ -2,7 +2,7 @@ Figures of Speech
 
 	The Holy Spirit deliberately uses these as a form of exposition
 
-		simile (like)
+		simile (like, comparison w/ a different kind)
 			Prov 1:27
 			Matt 23:27
 			Rev 1:14
@@ -14,19 +14,19 @@ Figures of Speech
 			Matt 19:24, Mark 10:25, Luke 18:25
 			Luke 14:26
 			Matt 5:29
-		hendiadys (combination)
+		hendiadys ('and' combination)
 			Ps 27:1
 			Prov 30
 			1Th 2:12
 			Titus 2:13
-		irony
+		irony (conveys opposite of the literal meaning)
 			Jdg 10:14
 			1Kg 22:15
-		litotes (understatement/contrary)
+		litotes (affirmative expressed by contrary)
 			Gen 18:27
 			Num 13:33
 			Is 41:14
-		euphemism
+		euphemism (mild substitue for a harsh expression)
 			Gen 4:1
 			Gen 15:15
 			John 11:11
@@ -35,27 +35,30 @@ Figures of Speech
 		ellipsis (omission)
 			Ps 12:3
 			1Cor 9:4
-		metonymy (substitution)
+		metonymy (substitution via attribute)
 			Is 22:22
 			Ps 22:16
 			2Cor 5:21
-		anthropomorphism
-			
-		puns
+		anthropomorphism (ascribing human physical trait)
+
+		pun (multiple meanings)
 		synonyms
 			Rahab's account
-				she let's them down via a cord (hebel)
-				they tell her to let down a cord (tikvah)
-		synecdoche (fraction)
+				[Josh 2:15]
+					she let's them down via a cord (chebel / measuring-line)
+				[Josh 2:18]
+					they tell her to let down a cord (tikvah / hope)
+				the messengers come and select a remnant - the unfaithful bride, and promise a return
+		synecdoche (a part of a thing stands for the whole)
 			Ps 109:27
-			eponymy (individual)
-				Ps 24:6
-				Hos 11:12
-			merismus (combined)
-				Ex 12:29
-				Ps 72:8
-				Ps 121:2
-		personification
+		eponymy (proper name for taken for a thing)
+			Ps 24:6
+			Hos 11:12
+		merismus (two parts of a thing stand for the whole)
+			Ex 12:29
+			Ps 72:8
+			Ps 121:2
+		personification (attribution of human nature/character to things)
 			Prov 1:20-21
 
-		idioms
+		idioms (expression with a fixed figurative meaning)

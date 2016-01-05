@@ -2,15 +2,16 @@ Psalm 119
 	premise: each section has a specific focus
 
 aleph
-	His testimonies
-	Your precepts
-	Your commandments
+	[2] - seeking = blessing
 
-beis
+beth
+	[10] - seeking = steadfastness
 
 gimel
+	[18] - looking = wonderment
 
-daled
+daleth
+	[]
 
 hei
 
