@@ -1,0 +1,10 @@
+fingering rules
+	right-hand
+		bass = thumb
+		alternate
+		minimize number fingers
+		prioritize fingers P-I-M-A
+	left-hand
+		use anchor notes
+		maintain string as much as possible
+		maintain shape as much as possible
