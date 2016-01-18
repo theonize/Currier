@@ -2,12 +2,12 @@ Tapped Scales
 
 
 I
- - - - - - - - - - - - L L - - 
- - - - - - - - - - L L - R - R 
- - - - - - - L - L R - R - - - 
- - - - - L - L R - R - - - - - 
- - - L - L - R R - - - - - - - 
- L - L - R R - - - - - - - - - 
+ - - - - - - - - - - - L L - -			L L - L - R R - R -
+ - - - - - - - - - L L - R - R			- L - L - R R - R -
+ - - - - - - L - L R - R - - -			L - L L - R - R - -
+ - - - - L - L R - R - - - - -			L - L L - R - R R -
+ - - L - L - R R - - - - - - -			L L - L - R - R R -
+ L - L - R R - - - - - - - - -			- L - L - R R - R -
 
 II
  - - - - - - - - - - L - L - - 
