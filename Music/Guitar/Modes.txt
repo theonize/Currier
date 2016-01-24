@@ -1,0 +1,25 @@
+Modes
+
+
+The term mode refers to which note in a key is the root note in a piece of music.  Each key has seven possible modes:
+
+I	~ Ionian
+II	~ Dorian
+III	~ Phrygian
+IV 	~ Lydian
+V	~ Mixolydian
+VI	~ Aeolian
+VII	~ Lydian
+
+
+When we say C-Major, this scale is synonomous with C-Ionian; meaning the scale has the notes of the Key of C and begins with the 1st tone - C.
+
+D-Dorian has also has the notes of the Key of C but begins on the 2nd tone - D.
+
+However, this is all theoretical.  The usefulness of modes is in the relationship between chords and scales.
+	A standard chord progression is I, IV, V.  In the Major scale, in the Key of C, this means Cmaj, Fmaj, Gmaj.
+
+	What's interesting is that a standard C chord progression will always be C, F, & G.  The qualities of the chords will vary depending on the mode.  So, a C chord progression in Mixolydian is Cmaj, Fmaj, Gmin; which is is the Key of F.
+
+	This also explains the relative minor (Aeolian).  For instance, A-Aeolian is in the Key of C rooted on the 6th tone - A.  The A-Aeolian (or minor) chord progression is Amin, Dmin, Emin.
+
