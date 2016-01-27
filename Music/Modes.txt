@@ -3,13 +3,13 @@ Modes
 
 The term mode refers to which note in a key is the root note in a piece of music.  Each key has seven possible modes:
 
-I	~ Ionian
-II	~ Dorian
-III	~ Phrygian
-IV 	~ Lydian
-V	~ Mixolydian
-VI	~ Aeolian
-VII	~ Lydian
+I	~ Ionian		I
+II	~ Dorian		Don't
+III	~ Phrygian		Play
+IV 	~ Lydian		Loud
+V	~ Mixolydian	Music
+VI	~ Aeolian		After
+VII	~ Locrian		Lunch
 
 
 When we say C-Major, this is synonomous with C-Ionian; meaning the scale has the notes of the Key of C and begins with the 1st tone - C.
