@@ -1,0 +1,9 @@
+Chord Notation
+
+
+M3, P5 are implied in a single letter
+
+the first modifier (m, o) generally modifies one of these two intervals
+	+ modifies both
+
+the second modifier usually adds to the chord (but not always, depending on fingering)
