@@ -1,0 +1,113 @@
+@charset "utf-8";
+
+.TableNavLinks {
+   width: 100%;
+   text-align: right;
+}
+
+.TableNavLinks td.FirstCol {
+   text-align: left;
+}
+
+.DataTable {
+   padding: 0;
+   border: 1px solid black;
+   border-spacing: 0;
+   border-collapse: collapse;
+}
+
+.DataTable thead {
+   font-weight: bold;
+}
+
+.DataTable td {
+   border-left: 1px solid #444444;
+   padding-left: 5px;
+   padding-right: 5px;
+   text-align: right;
+}
+
+.DataTable td.TextCol {
+   text-align: left;
+}
+
+.DataTable tbody td {
+   border-top: 1px solid #999999;
+}
+
+.DataTable td.FirstCol {
+   border-left: 0;
+}
+
+.PersonTable {
+   background-color: #FFFF9F;
+}
+
+.PersonTable thead {
+   background-color: #FF9000;
+   color: #FFFFFF;
+}
+
+.PersonTable tr.EraRow {
+   background-color: #FFBBBB;
+}
+
+.PersonTable tr.BabylonRow {
+   background-color: rgb(254,209,56);
+}
+
+.PersonTable tr.PersiaRow {
+   background-color: #DDDDDD;
+}
+
+.PersonTable tr.GreeceRow {
+   background-color: #DEC9C9;
+}
+
+.PersonTable tr.HellenismRow {
+   background-color: #FFDDAA;
+}
+
+.PersonTable tr.JudaeaRow {
+   background-color: #FFFF66;
+}
+
+.PersonTable tr.RomanRow {
+   background-color: #FFD055;
+}
+
+.PersonTable tr.JesusRow {
+   background-color: rgb(164,225,255);
+}
+
+.PersonTable tr.SubHeadingRow {
+   font-weight: bold;
+   color: #800000;
+}
+
+.ProphetTable {
+   background-color: rgb(170,224,244);
+}
+
+.ProphetTable thead {
+   background-color: rgb(16,98,129);
+   color: #FFFFFF;
+}
+
+.EventTable {
+   background-color: #B0FFB0;
+}
+
+.EventTable thead {
+   background-color: #009900;
+   color: #FFFFFF;
+}
+
+.ChartLinksTable {
+  margin-top: 10px;
+}
+
+.ChartLinksTable td {
+   padding-right: 20px;
+}
+

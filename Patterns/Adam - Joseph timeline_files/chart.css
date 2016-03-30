@@ -1,0 +1,146 @@
+@charset "utf-8";
+
+#ChartHeader {
+   width: 830px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-bottom: 20px;
+   padding: 0;
+   height: 25px;
+}
+
+#ChartHeader div {
+   float: left;
+   height: 25px;
+   line-height: 25px;
+   padding: 0;
+   margin: 0;
+   text-align: center;
+}
+
+#ChartHeader a {
+   display: block;
+   height: 25px;
+   line-height: 25px;
+   text-indent: -99999px;
+   outline: none;
+}
+
+#ChartHeader_DatesBC, #ChartHeader_DatesAD, #ChartHeader_DatesAM {
+   width: 90px;
+}
+
+#ChartHeader_DatesBC a {
+   background: url(../images/chart/show_bc.gif) 0px 0px no-repeat;
+}
+
+#ChartHeader_DatesBC a:hover {
+   background: url(../images/chart/show_bc.gif) 0px -25px no-repeat;
+}
+
+#ChartHeader_DatesAD a {
+   background: url(../images/chart/show_ad.gif) 0px 0px no-repeat;
+}
+
+#ChartHeader_DatesAD a:hover {
+   background: url(../images/chart/show_ad.gif) 0px -25px no-repeat;
+}
+
+#ChartHeader_DatesAM a {
+   background: url(../images/chart/show_am.gif) 0px 0px no-repeat;
+}
+
+#ChartHeader_DatesAM a:hover {
+   background: url(../images/chart/show_am.gif) 0px -25px no-repeat;
+}
+
+#ChartHeader_Table {
+   width: 49px;
+}
+
+#ChartHeader_Table a {
+   background: url(../images/chart/table.gif) 0px 0px no-repeat;
+}
+
+#ChartHeader_Table a:hover {
+   background: url(../images/chart/table.gif) 0px -25px no-repeat;
+}
+
+#ChartHeader_Home {
+   width: 31px;
+}
+
+#ChartHeader_Home a {
+   background: url(../images/chart/home.gif) 0px 0px no-repeat;
+}
+
+#ChartHeader_Home a:hover {
+   background: url(../images/chart/home.gif) 0px -25px no-repeat;
+}
+
+#ChartHeader_Title {
+   width: 586px;
+   font-family: Helvetica, Arial, sans-serif;
+   font-size: 2.0em;
+   font-weight: bold;
+   color: rgb(204,0,0);
+}
+
+#ChartHeader_NavPrevious, #ChartHeader_NavNext {
+   width: 37px;
+}
+
+#ChartHeader_NavPrevious a {
+   background: url(../images/chart/left.gif) 0px 0px no-repeat;
+}
+
+#ChartHeader_NavPrevious a:hover {
+   background: url(../images/chart/left.gif) 0px -25px no-repeat;
+}
+
+#ChartHeader_NavNext a {
+   background: url(../images/chart/right.gif) 0px 0px no-repeat;
+}
+
+#ChartHeader_NavNext a:hover {
+   background: url(../images/chart/right.gif) 0px -25px no-repeat;
+}
+
+#Container {
+   width: 1200px;
+   _width: 1240px; /* For IE 6 only */
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 20px;
+   padding: 0;
+}
+
+#Chart {
+   float: left;
+   width: 880px;
+}
+
+#Comments {
+   float: left;
+   width: 283px;
+   border: 1px solid #FF7777;
+   background-color: rgb(254,216,219);
+}
+
+.p_BodyText {
+   margin-left: 10px;
+   margin-bottom: 20px;
+   margin-right: 5px;
+   margin-top: 0;
+   padding-left: 10px;
+   padding-right: 10px;
+   padding-top: 0px;
+   *padding-top: 10px; /* For IE 7 and up */
+   _padding-top: 10px; /* For IE 6 */
+   padding-bottom: 10px;
+   min-height: auto;
+}
+
+#ChartFooter {
+   text-align: center;
+}
