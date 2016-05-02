@@ -1,0 +1,129 @@
+Guitar Techniques
+
+
+Major Techniques							
+scales										
+	plucked								
+	sweeping							
+	3-octave (all modes)						
+		1-octave (all modes)				
+spidering									
+harmonic									
+melodic (arpeggios)							
+transitions									
+	horizontal								
+	vertical								
+anti-squeak									
+compas										
+BPM guessing								
+auto-pitch									
+tone guessing (relative/auto)				
+	scale guessing							
+articulation								
+left-finger full/empty						
+palm-muting									
+right-finger nail/pad						
+left-hand finger				
+Aim Directed Movement					
+	4 copies of music				
+metadata marks			
+	phrasing			
+fingerings			
+	clean			
+corrective pauses				
+	= perfect intonation and fingering
+
+
+Minor Techniques						
+rasqueado								
+	single-finger						
+	2,3,4-finger						
+legato									
+	left-hand slurs						
+	left-hand multi-slurs				
+	right-hand tapping					
+	right-hand multi-tapping			
+tirando									
+	left full/empty (muting)			
+	right full/empty (nail/pad)			
+apoyando								
+	all fingers							
+	w/ slurs							
+	tremolo								
+vibrato									
+	vary speed							
+	vary depth							
+	meat-slap drill						
+	chorded								
+	bending (half/whole step)			
+tremolo									
+	tirando								
+	apoyando							
+	IMA									
+	IMAM								
+	AMI									
+trill									
+	tirando								
+	apoyando							
+	left-hand various												
+arpeggio													
+	triads												
+	quads												
+	six-string												
+	modes												
+	pentatonics												
+	single-string tirando												
+	single-string tapped												
+muting													
+													
+													
+													
+chording													
+	arpreggios												
+	mode progressions												
+	harmonic/melodic tone												
+barring													
+	exterior												
+	interior												
+	rolled												
+	hinged												
+timbre													
+	natural harmonics												
+	artificial harmonics												
+	pinch harmonics												
+	bridge position												
+	soundhole position												
+	neck position												
+	octave tirando												
+pizzicato													
+	right-hand palm mute												
+	left-finger on fret												
+picado													
+	2-string, 2-finger alternations
+
+
+nylonguitarist.com						
+Tilman PachSchtach
+classical drills
+posture					
+thigh rasgueado					
+		slurs, left-hand					
+scissors					
+finger walking					
+strumming					
+finger sweeps					
+alternation					
+pumping nylon					
+				
+reading music						
+		metadata					
+		rythym					
+			tempo				
+	phrasing				
+	notes					
+		string				
+	right-hand fingering
+		fret
+
+
+Primm Editions Bach's Music
