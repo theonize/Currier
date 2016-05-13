@@ -1,3 +1,14 @@
 Doctrine
+ = a belief
 
-A set of beliefs
+
+By way of example:
+	[Bibliology] is a belief system regarding the Bible: its nature, origins, and exomation.  There are subordinate doctrines to [Bibliology] and it is subordinate to an entire doctrinal system.  There are different paradigms of [Bibliology] but the notion of it is universal - we all have a belief regarding the Bible.
+
+So, some tenets of a doctrine:
+	1. It is exposable (able to be revealed)
+	2. It is epistemological (has some truth claim)
+	3. It is not atomic (a sememe is ammoral whereas doctrine makes implications)
+	4. It is not tangible
+
+	Sememes and items are [Patterns].
