@@ -27,7 +27,7 @@ Nehemiah
 	5:13
 	8:6
 
-Psalm
+PsalmMi
 	41:13
 	72:19
 	89:52
