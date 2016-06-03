@@ -1,6 +1,9 @@
 The Assyrian
 
 
+perhaps an idiom for the coming world leader
+
+
 {Is 10:5,6}
 
 {Is 14:25}

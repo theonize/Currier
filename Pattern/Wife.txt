@@ -1,22 +1,24 @@
 Wife
 
+"It seems to be a common trait of Godly men that, in common company, they never speak ill of their wives.  So it is with the Master and His bride.  What a dear price He laid down for her.  How limitless is His adoration for her if He should esteem her so."
+	me
 
 Meetings
 	worship & devotion
-		PSAL 19:4
-		COLO 1:9-11
-		COLO 3:16
+		{Ps 19:4}
+		{Col 1:9-11}
+		{Col 3:16}
 	skill instruction
-		1PET 4:10-11
-		COLO 3:17
+		{1Pet 4:10-11}
+		{Col 3:17}
 	study
-		1PET 3:1-6
-		2TIM 2:15
-		1TIM 2:9-10
-		1TIM 3:11
+		{1Pet 3:1-6}
+		{2Tim 2:15}
+		{1Tim 2:9-10}
+		{1Tim 3:11}
 	prayer
 	activities
-		COLO 4:2
-		1THE 5:16-18
-		PHLP 2:1-4
+		{Col 4:2}
+		{1Th 5:16-18}
+		{Php 2:1-4}
 

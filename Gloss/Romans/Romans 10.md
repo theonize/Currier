@@ -19,3 +19,13 @@ Romans 10
 
   {Is 52:7}
 
+
+29) foreknown
+    predestined (pre what?  pre-us)
+    to be conformed
+
+30) temporal?
+  predestined ~ proorizo
+  called ~ kaleo
+  justified ~ dikaioo
+  glorified ~ doxazo
