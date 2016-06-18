@@ -1,4 +1,5 @@
 Proverbs 15
 
 
-31) gray hair = stress ~ righteous life = stressful
+31) ignorance = self-loathing
+  We can gain willpower by listening
