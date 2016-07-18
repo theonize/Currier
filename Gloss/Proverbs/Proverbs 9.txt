@@ -1,5 +1,9 @@
 Proverbs 9
 
 
+verse) number="5" topic="mixed wine"
+  contrast with {Proverbs 23:29}
+
+
 7) and yet...Jesus did it anyway
   He thought the abuse and injury to be worth it

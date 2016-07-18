@@ -5,3 +5,12 @@ Proverbs 4
   insight = knowledgeable, skilled insight
   don't forget ~ daily refreshment 
   don't turn away ~ don't disregard commands
+
+
+14-15) the path of wickedness
+  Don't enter it
+  Don't walk on it
+  Avoid it
+  Don't go on it
+  Turn away from it
+  Pass on

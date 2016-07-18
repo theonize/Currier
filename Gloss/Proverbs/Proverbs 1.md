@@ -1,5 +1,13 @@
 Proverbs 1
 
 
-29) 
+7) FotL
+
+
+12) the grave takes people alive and it takes people whole
+  Those who even have a glimmer of life are not taken
+  ...by implication we, who were dead before meeting Christ, were completely dead - there was no good in us
+
+
+29) FotL
   fearing the LORD is a choice, 

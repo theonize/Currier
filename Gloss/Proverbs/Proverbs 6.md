@@ -7,3 +7,8 @@ Proverbs 6
     it is the lazy who bear no fruit
     {Matt 25:14-30}
   wisdom can come via consideration ~ pre-application
+
+
+9-11) our propensity for laziness affects everything
+  We it designed to need rest, but how much is too much
+  The ant toils without direct leadership - this really is a fundamental behavior, a change of mind
