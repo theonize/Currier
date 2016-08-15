@@ -1,0 +1,18 @@
+Introducing Software Engineering
+Notes
+
+
+Building a Complex Thing
+	Model the problem
+	Apply the best science to the problem
+	Apply the constructive knowledge of engineering
+	Partition the problem
+	Simplify
+	* Apply standard engineering practices - no exceptions
+	Reuse past solutions
+	Apply strict quality control
+	Perform analysis and simulation
+	Manage risk - ask what could kill us next
+	Think systems
+
+	* what are these?  even a deep search reveals NO standard...
