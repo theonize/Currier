@@ -9,3 +9,6 @@ Spiritual warfare ~ {Daniel 9} (fast, Prince of Persia struggle)
 	'be strong' ~ you is if you are by 'His might'
 	it is the LORD's doing, His armor
 	flaming darts = accussations
+
+
+4) mashal ~ comparative parable

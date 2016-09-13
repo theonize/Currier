@@ -7,3 +7,6 @@ verse) number="5" topic="mixed wine"
 
 7) and yet...Jesus did it anyway
   He thought the abuse and injury to be worth it
+
+
+12) behavior effects the behaver more than the object
