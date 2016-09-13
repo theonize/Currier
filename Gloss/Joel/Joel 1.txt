@@ -1,0 +1,5 @@
+Joel 1
+
+
+4) progressive decimation
+  also references the life-cycle of the locust
