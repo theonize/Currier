@@ -233,3 +233,30 @@ Subroutines
 
 		(0, { $_ + 3 } ...^ * > 10);	# stops on any value over 10
 
+Object Orientation
+	class based
+
+	twigils - between a sigil and an attribute
+		! declares an attribute to be private
+		. generates an accessor
+
+	class Human {
+		my $.counter = 0;	# this is a class attribute, not an object attribute
+
+		has $!name;	# these are object attributes
+		has $!age;	# the bang means 'private'
+		has $!sex is rw;	# thisn is read/write
+
+		method new ($name, $age, $sex) {
+			Human.counter++;
+
+			self.bless(:$name, :$age, :$sex);
+		}
+
+		method !private_method { ... }
+	}
+
+	self.age 	# calls the .age accessor method
+	$!age 	# is a direct call to the variable
+
+
