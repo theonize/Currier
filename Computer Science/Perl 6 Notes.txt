@@ -259,4 +259,81 @@ Object Orientation
 	self.age 	# calls the .age accessor method
 	$!age 	# is a direct call to the variable
 
+	class Employee is Human { ... }
 
+	methods can be overridden by inheriting classes
+
+	submethod blah { ... }	# this disallows inheritance of this thing
+
+	multiple inheritance is allowed
+
+
+	Roles
+
+	introspection
+		.WHAT	# returns the object's class
+		.^attributes	# returns a list of attributes w/ types
+		.^methods	# returns a list of methods
+		.^parents	# returns all parent classes
+		~~		# true if the object is created from the given class
+
+Exceptions
+	try {
+		# code goes in here
+		# if anything goes wrong, the script will enter the below CATCH block
+		# if nothing goes wrong the CATCH block will be ignored
+		CATCH {
+			when X::AdHoc { # exception of type X::AdHoc is thrown }
+			when X::IO { # exception of type X::IO is thrown }
+			when X::OS { # exception of type X::OS is thrown }
+			default { # exception is thrown that doesn't belong to the above types }
+		}
+	}
+
+
+Regex
+	~~
+	/blah/
+	m/blah/
+	rx/blah/
+
+	\		escapes the next character
+	'x'		literal
+	"x"		literalso
+	\d 		digit character
+	\D 		non-digit
+	\h 		horizontal whitespace
+	\H 		not horizontal whitespace
+	\n 		new-line
+	\N 		not new-line
+	\s 		whitespace
+	\S 		non-whitespace
+	\t 		tab
+	\T 		not a tab
+	\v 		vertical whitespace
+	\V 		not vertical whitespace
+	\w 		any word character
+	\W 		any non-word character
+	<: >	unicode properties
+	.		any single character
+	?		zero or one quantifier
+	*		zero or many quantifier
+	+		one or more quantifier
+
+	$/		match variable
+	$/.prematch
+	$/.postmatch
+	$/.from
+	$/.to
+	
+	my $email = 'john.doe@perl6.org';
+	my regex many-letters { <:L>+ };
+	my regex dot { \. };
+	my regex at { \@ };
+	my regex many-letters-numbers { <:L+:N>+ };
+
+	if $email ~~ / <many-letters> <dot> <many-letters> <at> <many-letters-numbers> <dot> <many-letters> / {
+		say $/ ~ " is a valid email";
+	} else {
+		say "This is not a valid email";
+	}
