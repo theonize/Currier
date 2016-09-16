@@ -1,4 +1,5 @@
 Leviticus/Vayikra = and He called
+	Levitical = The Called
 
 
 call 1:1

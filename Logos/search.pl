@@ -2,10 +2,6 @@
 
 
 sub MAIN($book, $chapter, $verse) {
-	say $book;
-	say $chapter;
-	say $verse;
-
 	my @contents = "./$book/$chapter.amt".IO.lines;
 
 	say @contents[$verse];
