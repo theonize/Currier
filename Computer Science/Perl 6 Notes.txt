@@ -53,6 +53,7 @@ x		string replication
 ...		lazy list constructor
 |		flattener
 .=		enforce a function (as a mutator)
+&		infix: junction
 
 R*		precede any operator with 'R' to reverse it
 
@@ -337,3 +338,41 @@ Regex
 	} else {
 		say "This is not a valid email";
 	}
+
+
+Macros
+	constant LOGGING = True;
+
+	macro LOG($message) {
+	  if LOGGING {
+	    quasi { say {{{$message}}} };
+	  }
+	}
+
+	macro	defines the content
+	quasi	outputs code
+	{{{}}}	injection
+
+
+Delegation
+	has ~ introduces attributes
+
+	is ~ applies a trait to an attribute
+		 applies a class to an object
+
+	handles ~ delegates an attribute to take on a method call
+
+	does ~ indicates the role of an object
+
+	but ~ ???
+
+	$obj.HOW ~
+
+
+Packages
+	class
+
+	role
+
+	module
+
