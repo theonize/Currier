@@ -376,3 +376,28 @@ Packages
 
 	module
 
+
+Grammars
+	Named Regexes
+		my regex number { \d+ [ \. \d+ ]? }
+
+		say "32.51" ~~ &number;
+
+	Protoregexes
+		grammar Calculator {
+			token TOP { <calc-op> }
+
+			proto 	rule calc-op			{*}
+					rule calc-op:sym<add>	{<num> '+' <num>}
+					rule calc-op:sym<sub>	{<num> '-' <num>}
+
+			token num { \d+ }
+		}
+
+		calc Calculations {
+			method TOP				($/) { make $<calc-op>.made; }
+			method calc-op:sym<add>	($/) { make [+] $<num>; }
+			method calc-op:sym<sub>	($/) { make ]-] $<num>; }
+		}
+
+		say Calculator.parse('2 + 3', actions => Calculations).made;
