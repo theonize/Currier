@@ -10,6 +10,7 @@ sub MAIN($file, $dest_dir) {
 	my $book;
 	my $chapter;
 	my $destination;
+	my $IO = IO::Path.new($file);
 	my $output;
 	my @ref;
 	my $text;
@@ -17,6 +18,8 @@ sub MAIN($file, $dest_dir) {
 
 	my $prev_chapter = 0;
 
+
+	mkdir $dest_dir;
 
 	@lines = $file.IO.lines;
 
@@ -37,5 +40,6 @@ sub MAIN($file, $dest_dir) {
 
 		$prev_chapter = $chapter;
 	}
-}
 
+	$IO.rename("$dest_dir\\$file");
+}
