@@ -377,6 +377,28 @@ Packages
 	module
 
 
+Files
+	dir 				current directory contents
+	dir 'name'			contents of 'name' directory
+	dir 'name', test	contents of 'name' directory grepped via test
+
+	slurp 'filename'
+
+	'filename'.IO ~~ :e 	# does file exist?
+	'filename'.IO ~~ :d 	# is it a directory?
+	'filename'.IO ~~ :f 	# is it a file?
+
+	File::Find
+	File::Tools
+
+	open('new.file', :w).close;
+
+	given open('foo', :w) {
+		.say ('Hello world!');
+		.close;
+	}
+
+
 Grammars
 	Named Regexes
 		my regex number { \d+ [ \. \d+ ]? }
