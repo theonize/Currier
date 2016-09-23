@@ -1,5 +1,6 @@
 Institutions
 
+[test link](./Goodness.md)
 
 Personal responsibility
   1
