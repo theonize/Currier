@@ -293,6 +293,7 @@ Exceptions
 
 
 Regex
+=====
 	~~
 	/blah/
 	m/blah/
@@ -341,6 +342,7 @@ Regex
 
 
 Macros
+======
 	constant LOGGING = True;
 
 	macro LOG($message) {
@@ -355,6 +357,7 @@ Macros
 
 
 Delegation
+==========
 	has ~ introduces attributes
 
 	is ~ applies a trait to an attribute
@@ -370,6 +373,7 @@ Delegation
 
 
 Packages
+========
 	class
 
 	role
@@ -378,6 +382,7 @@ Packages
 
 
 Files
+=====
 	dir 				current directory contents
 	dir 'name'			contents of 'name' directory
 	dir 'name', test	contents of 'name' directory grepped via test
@@ -400,6 +405,7 @@ Files
 
 
 Grammars
+========
 	Named Regexes
 		my regex number { \d+ [ \. \d+ ]? }
 
@@ -423,3 +429,103 @@ Grammars
 		}
 
 		say Calculator.parse('2 + 3', actions => Calculations).made;
+
+	Debugging
+	---------
+		Add one of these to the top of the file
+
+		Grammar::Tracer ~ gives a tree-like trace output
+
+		Grammar::Debugger ~ trace output that is debugger
+
+
+Phasers
+=======
+	ENTER/LEAVE
+	-----------
+	ENTER ~ method is called
+	LEAVE ~ method finished
+
+	method issue_prompt($ctx, $cur_file) {
+	    ENTER $in_prompt = True;
+	    LEAVE $in_prompt = False;
+
+	    # Lots of stuff here
+	}
+
+	INIT/END
+	--------
+	INIT ~ perform an action at program start time
+	END ~ perform an action at program finish time
+
+	sub log($msg) {
+	    my $fh = INIT open("logfile", :w);
+	    $fh.say($msg);
+	    END $fh.close;
+	}
+
+	FIRST/NEXT/LAST
+	---------------
+	Loop phasers
+
+	for %scores.kv -> $player, $score {
+	    FIRST say "Score\tPlayer";
+	    FIRST say "-----\t------";
+	    LAST  say "-----\t------";
+
+	    NEXT (state $best_score) max= $score;
+	    LAST say "BEST SCORE: $best_score";
+
+	    say "$score\t$player";
+	}
+
+	KEEP/UNDO
+	---------
+	LEAVE variants
+
+	sub process($file) {
+	    KEEP push @success, $file;
+	    UNDO push @failure, $file;
+
+	    my $fh = open($file);
+	    # ...
+	}
+
+
+Debugger
+========
+	<enter>		|	proceeds
+	s 			|	step-over
+	so			|	step-out
+	r 			|	run to unhandled exception
+	rt 			|	run to handled exception
+
+
+Variables
+=========
+	Specials
+	--------
+		$_	|	topic variable
+		$/	|	regex match
+		$!	|	exceptions
+
+
+Quotation
+=========
+	A quote can be delimited by any set of characters...as long as they match
+
+	Q[some stringy stuff]	plain string
+	q 		escapes characters
+	qq		escapes and interpolates
+	qw		word quoting ~ returns a list
+	qww		word quoting, preserves string objects
+	qqw		word quoting with interpolation
+	qqww	quote protection, interpolation, word-splitting
+	qx		shell quoting
+	qqx		shell quoting with interpolation
+	Heredocs
+		q:to/END/
+			...
+		END
+
+		the terminator dictates the amount of indentation
