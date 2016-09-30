@@ -1,12 +1,25 @@
 Orthopraxy
 = standard, religious meeting practices
 
+
 Pragma
 ------
 [Acts 2:42]
-[1Cor 16:2]
-[1Tim 4:13]
+	Teaching
+	Fellowship
+	Food
+	Prayer
+
 [2Tim 4:2]
+	preach
+	reprove
+	rebuke
+	exhort
+
+[1Tim 4:13]
+	public Bible reading
+	exhortation
+	teaching
 
 
 Mission
