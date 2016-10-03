@@ -8,3 +8,6 @@ Of course Good is not limited to this mode of appearance but that's all we're de
 The size of the group doesn't matter.
 
 The agenda isn't necessarily fixed but [Acts 2:42] certainly gives a prescription.
+
+
+Coupled with this is the notion of a distributed Church: it crosses social, economic, political, and cultural boundaries; and it is global.
