@@ -3,9 +3,6 @@ Leviticus 23
 
 [Heb 11:13-14]
 
-2) Yehovah's appointments: mo'ed.
-Rest add in music, not as in sleep = a pause to remember.
-
 Spring (incarnation):
   Passover | death
   Unleavened Bread | burial
@@ -22,5 +19,9 @@ Fall (return):
   sukot | tabernacles
     Jesus' birthday
     [Zech 14]()
+  Rest as in music, not as in sleep = a pause to remember.
+
+2) Yehovah's appointments: mo'ed.
+  
 
 23) 

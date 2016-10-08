@@ -34,7 +34,7 @@ sub MAIN($file, $dest_dir) {
 		$verse = @ref[1];
 
 
-		$output = open("$dest_dir\\$chapter.amt", :a);
+		$output = open("$dest_dir\\$chapter.txt", :a);
 
 		$output.say($text);
 
