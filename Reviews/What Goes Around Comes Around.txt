@@ -1,0 +1,75 @@
+XML like CODASYL
+
+
+9 epochs of data-model history
+
+* Hierarchical | IMS
+* Directed graph | CODASYL
+* Relational | 
+* Entity-Relationship | 
+* Semantic | 
+* Object-oriented | 
+* Object-relational | 
+* Semi-structured | XML
+
+
+IMS
+---
+record types
+	collection of named fields
+
+data types
+
+instances
+
+key
+	a subset of the named fields which uniquely specify a record instance
+
+tree-structure of record-types
+	each record-type has a unique parent type
+
+DL/1 ~ data manipulation language
+
+HSK ~ hierarchical sequence key
+
+
+old-master-new-master
+	insert sort with duplicate memroy
+
+
+physical data independence
+	needs to be a separation between storage and transactions
+
+logical data independence
+	changeable schema
+
+
+record-at-a-time
+	start at a known record an seek to the desired record(s)
+
+set-at-a-time
+	start with a logical group of records and seek on
+
+
+CODASYL
+-------
+set type
+	for each owner-type there is 0+ relationships w/ child-types
+
+nodes and arcs have types
+
+can have orphan nodes
+
+
+Relational
+----------
+relational algebra
+
+relational calculus
+
+
+Technical debates are usually settled by the elephants of the marketplace, and
+often for reasons that have little to do with the technology
+
+
+
