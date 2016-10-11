@@ -1,5 +1,7 @@
 Trinity
 
+
+Manifestations
 	incarnation
 		heb 10:5 father
 		philip 2:7 son
@@ -12,3 +14,10 @@ Trinity
 		rom 6:4 father
 		john 10:17 son
 		rom 8:11 spirit
+
+Decreetive
+	Origin = Father
+
+	Medium = Spirit
+
+	Message = Word

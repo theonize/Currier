@@ -4,6 +4,9 @@ Proverbs 8
 22) possessed ~ קנה = buy/acquire
 
 
+25) The mountains were purpose-built, not random acts of violent processes.
+
+
 29) what we these markings of the foundation(s)
 
 30) beside Him ~ implies omnipresence (which implies dignity)
