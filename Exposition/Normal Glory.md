@@ -1,6 +1,9 @@
 Normal Glory
-...the prevalence of relevance thinking and the evaporation of orthodoxyin the institutionalized Church...
+...the prevalence of relevance thinking and the evaporation of orthodoxy
+in the institutionalized Church...
 
+
+Orthodoxy is a lighthouse, not a wall.
 
 What is normative in the Church (sacrificial giving, true reconciliation of people with their creator and each other, spiritual intimacy) is not normal in common society - and this is, likewise, true in the institutionalized Church.
 Centuries of high church and culturally driven orthopraxy have divorced Church members from their reality as sojourning citizens of a heaven.
