@@ -1,0 +1,3 @@
+Miqdash
+= a sacred place
+
