@@ -25,3 +25,7 @@ Barnabas was born "Joseph"
 
 
 "The prodigal son spent one half of his inheritance on wine, women, and whimsy - and wasted the other half."  Chuck Missler
+
+15)	This is not to imply that Jews are not sinners...rather he is differentiating one type of sinner from another.
+
+16)	
