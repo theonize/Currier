@@ -1,6 +1,14 @@
 Linguistics
 
 
+Fundamentals
+  - phonetics
+  - phonology
+  - morphology
+  - syntax
+  - semantics
+
+
 Cognitive Linguistics = cognitive properties of natural languages
 	...and cognitive models of computational linguistics, cognitive computing, and computational intelligence
 
