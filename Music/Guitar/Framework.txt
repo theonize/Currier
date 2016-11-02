@@ -76,3 +76,6 @@ Notation
 
 	Example 2: II-D-kij
 		this a D chord in the second position with an arpeggiation across the 5th, 1st, and root tones of the chord.
+		
+	Example 3: a/7E\be
+		E chord played in the seventh position, inside bar to cover an A in the bass and lave the E & B open
