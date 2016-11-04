@@ -1,1 +1,0 @@
-for /r %%x in (*.amt) do ren "%%x" *.en.txt
