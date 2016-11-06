@@ -29,6 +29,16 @@ Philosophy:
 
 The Patterns:
 
+	5 chords
+
+	High,		Vert	Slash		Box		Low
+	- - X -		X - -	X - - -		X - -	- - - X
+	- - - X		- - X	- X - -		X - -	X - - -
+	- - X -		- - X	X - - -		- X -	X - - -
+	X - - -		- - X	- - X -		- - X	X - - -
+	X - - -		X - -	- - - X		- - X	- - X -
+	X - - -		X - -	O - - -		X - -	- - - X
+
 Ionian		Dorian		Phrygian	Lydian		Mixolydian	Aeolian		Locrian		
 																					
 O - O O 	O O - O 	- O - O -	O - O O 	O - O O 	- O - O - 	- O - O -
