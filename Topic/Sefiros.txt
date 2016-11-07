@@ -1,15 +1,33 @@
-Sefiros
+Sefirot
+= levels of self
+~ the ten 10 garments worn about the self
 
 
-Intellect
-  Wisdom
-  Understanding
-  Knowledge
-Emotions
-  Love
-  Fear
-  Mercy (pity)
-  Victory (pride)
+Intellectual
+Chochmah - wisdom,
+
+Binah - understanding,
+
+Daat - knowledge,
+
+Emotional
+Chessed - charity
+
+Gevurah - strength 
+
+Tiferet - beauty
+
+Spiritual
+Netzach - victory
+
+Hod - splendor
+
+Yesod - foundation, mercy, pity
+
+Elohiym
+Malchut - kingship, vpride
+
+
 
   Praise (acknowledgment)
   Foundation (bonding)
