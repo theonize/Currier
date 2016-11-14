@@ -33,6 +33,9 @@ filters
 
 slashes/cadenzas
 
+growls
+
+cackles
 
 frying
 	way-way-way slide down to fry
