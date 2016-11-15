@@ -13,8 +13,8 @@ The chromatic scale: 0 1 2 3 4 5 6 7 8 9 ^ * 0 1 2 3 4 5 6 7 8 9 ^ *
 
 In the 8-key we have three major chords:
 	8maj = 8 0 3
-	*maj = * 1 6
-	0maj = 0 4 7
+	1maj = 1 5 8
+	3maj = 3 7 ^
 
 
      |                                     |
