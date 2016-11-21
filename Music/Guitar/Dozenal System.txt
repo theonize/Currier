@@ -13,7 +13,6 @@ The chromatic scale: 0 1 2 3 4 5 6 7 8 9 ^ * 0 1 2 3 4 5 6 7 8 9 ^ *
 
 ...from here on we ditch the old letter notation...
 
-
 In the 0-key we have three major chords:
 	I	= 0   4  7
 	ii	= 2  5   9
@@ -22,7 +21,11 @@ In the 0-key we have three major chords:
 	V	= 7   *  2
 	vi	= 9  0   4
 	vii	= *  2  5
-
+=======
+In the 8-key we have three major chords:
+	8maj = 8 0 3
+	1maj = 1 5 8
+	3maj = 3 7 ^
 
      |                                     |
 1	0 1 2 3 4 5 6 7 8 9 ^ * 0 1 2 3 4 5 6 7
