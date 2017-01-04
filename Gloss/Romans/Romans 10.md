@@ -20,6 +20,13 @@ Romans 10
   {Is 52:7}
 
 
+18) "They have" heard ~ everyone has heard and is obligated to the truth [Rom 1]
+
+Whose voice?
+  [Ps 19:4] ~ the heavens' voice
+    the gospel may be available in the mazzaroth (zodiac) but it is not _presented_ in the way that a King's representative can
+
+
 29) foreknown
     predestined (pre what?  pre-us)
     to be conformed
