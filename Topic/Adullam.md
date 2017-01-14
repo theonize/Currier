@@ -13,16 +13,16 @@ I have come to discover that the institutionalized Church is hopelessly broken a
 
 This is not a discussion about denominations or worship styles.
 The fact is that any incorporated congregation lands in a circular rut where clergy serve laity who (being human) have no pressure or will to exercise their aptitude.
-Many have found themselves at best number, at worst disgusted, by this process.
-Those people are leaving the institutions and, to their shame, the institutionalized are saving good riddance.
+Many have found themselves at best numb to, at worst disgusted by, this process.
+Those people are leaving the institutions and, to their shame, the institutionalized are saying good riddance.
 
-The purpose of this document is to explore what the church is, how the Church acts, and How the Church looks.
+The purpose of this document is to explore what the Church is, how the Church acts, and how the Church looks.
 It is important to define terms (as I have had to retrain myself to speak rightly about these matters).
 The Church is all who are ransomed by the blood of Jesus Christ...now and ever.
 A congregation is any gathering of Church members larger than one nuclear family.
 It is Biblically incorrect to say, "I goto Church at ...".
 We do not goto Church, we are the Church.
-The Church is the sacred space of Yehovah's dealing among men.
+The Church is the sacred space where Yehovah deals with men.
 God is one being far beyond our imagining who has chosen to reveal Himself to us as the Trinity:
   A holy Father who is unapproachable by any sinful being.
   The Word that became human to die in our place to pay our sins' ransom and rule over all.
@@ -33,7 +33,7 @@ There is no new information herein, just a synthesis that i couldn't find elsewh
 I believe that the gifts of the Spirit are not fully expressible in the institutionalized Church.
 I believe the blood of Christ is inaccessible in the institutionalized Church.
 I believe that the Father is unsearchable in the institutionalized Church.
-To me this is plain as daylight: born-again believers (truest Church members) are sitting idle in institutions - which was never the plan for us.
+To me this is plain as daylight: born-again believers (truest Church members) are sitting idle in institutions - which was never the plan for us.  Non-believers thrive in the institutions.
 The most natural setting for Church-work is in the home.
 
 
