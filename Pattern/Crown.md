@@ -13,3 +13,19 @@ Forms
     Pos. The LORD Himself
   {Zec 6:11} the glory of the people on the head of their King
 
+
+5 Crowns
+	righteousness
+		[2Tim 4]
+
+	glory
+		[1Pet 5]
+
+	life
+		[Rev 2]
+
+	incorruptible
+		[1Cor 9]
+
+	rejoicing
+		[1Th 2]
