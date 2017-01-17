@@ -2,7 +2,7 @@ Urrim & Thummim
 
 
 Not discrete values.
-These are capable of giving yes/no AND 
+These are capable of giving yes/no AND more complex answers
 
 
 [JDG 1:1-2]
