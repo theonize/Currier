@@ -1,20 +1,19 @@
 Bible Structure
 
 Why the prevalence of 6s in the Bible's structure?  6 is...?the number of man?
+
 What is the significance of 2383?  is the number of words given below accurate?
-If the chaper/verse numberings are not inspired, then why are there so many patterns
- therein?
 
-	Theory 1: (mine) because the text is inspired of the greatest being, and we are designed to perceive and understand patterns, we naturally see these patterns in His work.
+If the chaper/verse numberings are not inspired, then why are there so many patterns therein?
 
-	Theory 2: (mine) the Scripture is structured such a high-level way that its' patterns defy myriad arrangements...
+	Theory 1: (mine) because the underlying text is inspired of the greatest being, and we are designed to perceive and understand patterns, we naturally see these patterns in His work.
 
-Note: there are some OT books that are chaptered differently by the Jews
+	Theory 2: (mine) the Scripture is structured in such a high-level way that any arrangement of it evokes patterns.
+
+Note: there are some OT books that are divided differently by the Jews.
 
 Why are there patterns in the Bible?
-	1) God is proving His sovreignty by installing patterns within and between
-		books that could not have been done by man.  The Bible is not
-		currently re-written to include pattens...duh
+	1) God is proving His sovreignty by installing patterns within and between books that could not have been done by man.
 	2) Proverbs 25:2
 	3) It makes the Bible a self-verifying entity (an infinite designer would imbue infinite complexity within infinite elegance)
 
@@ -27,19 +26,26 @@ Why are there patterns in the Bible?
 	27 NT
 		27 = 3 x 3 x 3 (29,23)
 
-Total Verses = 
+Total Verses = 31102 = 23145 OT + 7957 NT
+	31102 = 15551 * 2
+	23145 = 1543 * 5 * 3
+	7957 = 109 * 73
+
 Total Chapters = 1188 (middle verse = 118:8)
 	1193 is prime (+5)
 	1188 = 2 x 2 x 3 x 3 x 11 
 	1187 is prime (-1)
+
 Number of Heberew Words = 8674
 	8677 is prime (+3)
 	8674 = 2 x 4337
 	8669 is prime (-5)
+
 Number of Greek Words = 5624
 	5639 is prime (+15)
 	5624 = 2 x 2 x 2 x 19 x 37
 	5623 is prime (-1)
+
 Total Words = 14298
 	14303 is prime (+5)
 	14298 = 2383 x 3 x 2 (prime factors)

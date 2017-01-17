@@ -13,3 +13,8 @@ Some aspects of patterns used in this context:
 	- ammoral (neither good nor bad)
 	- ethical (has some bearing on doctrine)
 	- lesson (exposits truth through simile, metaphor, or allegory linguistically or physically)
+
+
+Obfuscation
+	One unfortunate side-effect of modern translation techniques, which attempt to impart cultural equivalence, is that subtleties are hidden and patterns get munged.
+	It would nice if there were varying grades of translations which would graduate a reader into a more literal reading when have a deeper understanding of the original philological context.
