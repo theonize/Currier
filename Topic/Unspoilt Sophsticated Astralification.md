@@ -1,6 +1,13 @@
 Unspoilt, Sophsticated Astralification
 
 
+We began our existence in an unspoilt state.
+God disallowed our presence in the garden for our fallen state.
+The Law gave credence to Yahweh's plan and codified guilt.
+Believers will one day be "as the stars".
+
+---
+
 We began our existence in an unspoilt condition.
 God always held together the created fabric of each being, but His doing so was never in doubt.
 Our faithfulness, however, was dubious.
