@@ -33,7 +33,7 @@ There is no new information herein, just a synthesis that i couldn't find elsewh
 I believe that the gifts of the Spirit are not fully expressible in the institutionalized Church.
 I believe the blood of Christ is inaccessible in the institutionalized Church.
 I believe that the Father is unsearchable in the institutionalized Church.
-To me this is plain as daylight: born-again believers (truest Church members) are sitting idle in institutions - which was never the plan for us.  Non-believers thrive in the institutions.
+To me this is plain as daylight: born-again believers (truest Church members) are sitting idle in institutions - which was never the plan for us.  Non-believers thrive in the institutions.  People cling to their human institutions like prisoners with Stockholm syndrome.
 The most natural setting for Church-work is in the home.
 
 
@@ -93,6 +93,8 @@ Yehovah grows His Church much like the congregation at the cave of Adullam
 
 
 Recruitment is {entirely} unnecessary.
+
+The Church is like a number of sheep folds within a great pasture.
 
 Resources
 ---------
