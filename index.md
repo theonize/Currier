@@ -1,6 +1,8 @@
 # Currier 
 ##= a repository of Biblical studies
 
+[Doctrine](./doctrine)
+
 ##Whatzit?
 The attempt of this repository is to skillfully divide Scripture and record study topics in a useful format that will motivate people to pursue God.
 
