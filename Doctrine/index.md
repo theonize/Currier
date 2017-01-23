@@ -1,5 +1,5 @@
-#Doctrine
-##= the essentials of the faith
+# Doctrine
+## = the essentials of the faith
 
 These are topics which I consider to be important in terms of soteriological relevance.
 Some of these have low priority but still have a an impact on our salvation.
