@@ -163,3 +163,17 @@ Da Rulz
 			Jesus quotes [Is 61:1-2a] but stops mid-sentence.  The rest of the sentence is: "and the day of vengeance of our God"
 		Cities of Refuge
 			[Num 35]
+
+
+Methods
+	Inductive
+
+	Midrashic
+		PaRDes
+		- Peshat ~ surface meaning
+		- Remez ~ hint of deeper things
+		- Derash ~ comparative meaning (metaphor, analogy)
+		- Midrash ~ the mystery or philosophy
+		- Sod ~ hidden meanings
+
+		[good discussion](http://hermeneutics.stackexchange.com/questions/53/what-is-midrash-and-how-does-it-relate-to-christian-principles-of-hermeneutics)
