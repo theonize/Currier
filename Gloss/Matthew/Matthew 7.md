@@ -1,0 +1,7 @@
+Matthew 7
+
+
+9-11) An implication?  Bread & fish are good (Logos & believers) vs. stone & serpent.
+
+
+23) The word _never_ is so important here: He is speaking to people He never knew and He can never unknow someone.
