@@ -5,8 +5,10 @@ deals with subject matter not in the Old Testament
 
 {Eph 3} ~ The Church
 
+2) Interesting that He could proclaim, they could see Him, but they could not touch Him
 
 3-9) The Sower
+	[Is 55:11]
 	The Path
 		impenetrable, no soil
 		no birth
@@ -28,6 +30,8 @@ deals with subject matter not in the Old Testament
 		multiplicative growth
 		no death
 
+9) How many have ears?  Repeated multiple times in [Rev 2-3]
+
 10-17) The purpose of a parable
 	1. It is for the unknowing
 	2. It is for understanding
@@ -43,6 +47,8 @@ deals with subject matter not in the Old Testament
 
 	The Path = one who hears and does not understand
 		note the capability of the "evil one" to affect the transmission of Logos
+	The Birds = servants of _the wicked one_
+		[Jer 25]
 	Rocky Ground = one who hears and immediately recieves it _with joy_
 		has no root (root systems have depth and breadth)
 		he _immediately_ falls away when being persecuted
@@ -52,3 +58,14 @@ deals with subject matter not in the Old Testament
 	Good Soil = one who hears the AND understands it
 		bears fruit AND yields (multiplicative)
 		[Heb 13:7]
+
+
+34-35) He no longer spoke publically apart from parable
+
+
+45-46) Pearls are
+...not prized by Jews (except for their value in trade)
+...the only gem made by a living organism
+...created in response to an irritant
+...removed from their natural habit to become and adornment
+...taken out of their captivity in the [sea](/Pattern/Seas)
