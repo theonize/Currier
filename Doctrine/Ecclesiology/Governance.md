@@ -1,4 +1,7 @@
 Ecclesiastical Governance
+
+
+
 	Episcopals
 
 	Presbyters
@@ -8,4 +11,3 @@ Ecclesiastical Governance
 		Over
 		Admonish
 
-	
