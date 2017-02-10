@@ -16,3 +16,12 @@ Figs
 		perhaps means that all these things occur within a single generation
 
 [Mark 11]
+
+
+[Jdg 9:11]
+
+[Jer 24]
+
+[Is 5]
+
+[Ps 80]
