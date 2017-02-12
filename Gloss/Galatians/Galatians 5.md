@@ -1,8 +1,12 @@
-Galatians 5
+# Galatians 5
 
+
+19-24) which of the fruits evidenced in your life
+
+19-21) works of the flesh
 
 22-24) fruit of the Spirit
-	as B.R. points out - it is singular, there is one fruit; frutis are those who come after
+	as B.R. points out - it is singular, there is one fruit; fruits are those who come after
 
 22)
 	love
