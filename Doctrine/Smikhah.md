@@ -1,5 +1,5 @@
-Smikhah
-Authority
+# Smikhah
+## ~ authority
 
 
 Only the wizened, authoritative rabbis were allowed to make new interpretations of the Torah; others had to teach accepted interpretations.
