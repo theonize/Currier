@@ -13,6 +13,12 @@ Vineyard Parables
 
 
 8+) six woes
+- materialism
+- drunkardry
+- parading sin around publically
+- relativism
+- my own standard
+- idolizing debauchery
 
 
 26+) the coming of the Assyrians
