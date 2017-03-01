@@ -4,7 +4,8 @@ Authenticity
 writer
 	str.org; Greg Koukl: re: "Misquoting Jesus"
 	it is possible to eliminate the spurious renderings
-	"we have not 90% of the original text but 110%"
+	"We have 110% of the text, not 90%" D.Wallace via G.Koukl
+	
 writings
 	textual criticism's goal is to recover the autographa as they left the Apostle's hand(s)
 	danielbwallace.com: "The Number of Textual Variants: An Evangelical Miscalculation"
@@ -13,7 +14,8 @@ reception
 	Chester Beatty Papyri - most of the NT, mid 3rd century
 	Bodmer Papyri II - most of John, late 2nd century
 	John Rylands Papyri - fragment of John 18:31-33, early 2nd century (40yrs after writing ~ Egypt)
-	about 50 complete "ancient" NTs - and 6000 fragments
+	...and counting
+	- about 50 complete "ancient" NTs -and 6000 fragments
 
 sureties
 	PROPHECY

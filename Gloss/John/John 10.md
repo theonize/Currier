@@ -29,3 +29,7 @@ The sheep know their shepherd's voice
 
 6) The _shepherd_ idiom is declared a spoken *paroimia*
 ...a proverb, figurative speech
+
+
+25) Jesus equates _works_ with _telling_
+We have such a propensity to say things that are not corroborated by our actions.
