@@ -1,14 +1,14 @@
 # Fruit
 
-1. Love
-2. Joy
-3. Peace
-4. Forbearance
-5. Kindness
-6. Virtue
-7. Faithfulness
-8. Meekness
-9. Temperance
+1. [Love](Love)
+2. [Joy](Joy)
+3. [Peace](Peace)
+4. [Forbearance](Forbearance)
+5. [Kindness](Kindness)
+6. [Virtue](Virtue)
+7. [Faithfulness](Faithfulness)
+8. [Meekness](Meekness)
+9. [Temperance](Temperance)
 
 This list derives from [Gal 5:22-23].
 There are two important considerations:
