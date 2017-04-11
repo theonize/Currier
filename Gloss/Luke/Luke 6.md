@@ -40,6 +40,9 @@ Attitudes toward: others, ourselves, God.
 36) Be merciful
 Judgmentalism by humans is typically just a pleasuring sport.
 
+_magnanimous_
+[Ps 135:18] ...who do you want to be like?
+
 
 46) [Ps 115:8]
 
