@@ -1,4 +1,15 @@
-Isaiah 49
+# Isaiah 49
+
+
+6) Israel's salvation is only the beginning
+
+
+11) Yahweh turns obstacles into opportunities.
+Furthermore He paves the way for a gospel blitzkrieg.
+
+
+16) How is this not the risen Savior proclamation.
+He always has His people on His mind.
 
 
 23) this is an earthly promise as well as a Bema seat one
