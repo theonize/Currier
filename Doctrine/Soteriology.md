@@ -7,6 +7,16 @@ saved from what?
   [Jms 1:15] ~ death
 
 
+## Belief
+...belief is, consequently, tied to loyalty ~ "Jesus is LORD"
+Naaman ~ [2Kgs 5:15]
+Widow of Zarepheth [1Kgs 17:24]
+~ were they "saved"?
+
+### Confession
+[1Jon 4:2-3] ~ Christ is at the core
+
+
 The Tenses of Salvation
 	past, present, future
 
@@ -183,3 +193,12 @@ Age of Accountability
 [Rom 8:12-14]
 	Death is because of sin
 	But trangression, and guilt, is what separates from God
+
+
+## Misnomers
+- Salvation is not dependent on being able to articulate theology
+	- i.e. not all theologians are "saved"
+- Salvation is not a feeling
+- Salvation is not dependent on anything that we do
+- Bad theology does, necessarily, preclude salvation
+	- Arians denied eternality of Christ but were considered "brethren" by Nicaean attendees

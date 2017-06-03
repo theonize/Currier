@@ -12,3 +12,6 @@ Spiritual warfare ~ {Daniel 9} (fast, Prince of Persia struggle)
 
 
 4) mashal ~ comparative parable
+
+
+9) The dead are interactive.
