@@ -1,4 +1,11 @@
-Revelation 2
+# Revelation 2
+
+
+25-28) Jesus uses messianic language to describe the believe apportment.
+The "morning star" is a messianic symbol.
+...as is shepherding, authority over nations, and conquering/dominion
+
+[Num 24:17] ~ this postcedes the messiah, it is celestial language looking forward to the Church.
 
 
 Ephesus = Desirable

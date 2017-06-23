@@ -1,9 +1,7 @@
-Acts 15
+# Acts 15
 
 
 16-18) James paraphrases [AMOS 9:11-12]
-
-
 	[LEV 17-18] "The alien living among you" x4
 
 	[LEV 17:10,12]

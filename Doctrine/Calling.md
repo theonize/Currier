@@ -1,4 +1,12 @@
+# Calling
+
 Calling
+Election
+Destiny ~ parallels [Future](Future)
+
+
+Election doesn't imply salvation.
+Calling doesn't impose belief.
 
 
 [Rom 12:2] - our calling is being transformed.

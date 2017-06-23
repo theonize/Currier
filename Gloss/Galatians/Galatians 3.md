@@ -1,6 +1,9 @@
 Galatians 3
 
 
+1) The Greek language here is similar to [Deut 28:54] which cleverly comports legalism with a psychopathic mindset - and the notion that Jesus Christ is the only solution.
+
+
 6-7) [Gen 15:6]
 	[Gen 22] ~ the akidah
 
