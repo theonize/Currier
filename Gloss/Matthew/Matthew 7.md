@@ -5,3 +5,6 @@ Matthew 7
 
 
 23) The word _never_ is so important here: He is speaking to people He never knew and He can never unknow someone.
+
+
+28-29) People recognize the truth in place of the same rhetoric.
