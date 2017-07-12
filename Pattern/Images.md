@@ -1,6 +1,9 @@
 Images
 
 
+similar terminology to a statue: the image of a king in a border town exists to remind residents of the king.
+
+
 {1Cor 15:35-50}
 
 {Gen 1:11-28}

@@ -1,7 +1,7 @@
 # Trinity
 
 
-Manifestations
+## Manifestations
 	incarnation
 		heb 10:5 father
 		philip 2:7 son
@@ -15,18 +15,49 @@ Manifestations
 		john 10:17 son
 		rom 8:11 spirit
 
-Decreetive
+## Decreetive
 	Origin = Father
-
 	Medium = Spirit
-
 	Message = Word
 
-Devout Jews use a circumlocution for Yahweh: Addonai or Hashem.
-Ya'ho'el is the _lesser divine angel_
+	Yahweh revealed it though we can't comprehend it
+	...it's a mystery: Biblically mysteries have a chronological structure
+	- once hidden
+	- now revealed
+	- future understood
+
+## Consubstantial
+
+All three persons are of the same stuff
+
+
+## Subordination
+
+We often say things like, "the Son is _from_ the Father"
+...but this must be a functional distinction rather than a distinction of being
+...not to imply origins
+
+Each person of the trinity has a different role & function
+
+The N.T. Pattern:
+	pray to the Father, in the name of the Son, in the power of the Spirit
+		[Lord's Prayer]
+		[Rom 8] ~ HS groans for us
+
+
+## Salvation
+
+Yahweh: "I will be your salvation."
+
+[Gal 4]
+[John 1:1-3] ~ unity & distinction
+[2Cor] - closing benediction
 
 
 ## Locales
+
+Devout Jews use a circumlocution for Yahweh: Addonai or Hashem.
+Ya'ho'el is the _lesser divine angel_
 
 [John 1:18]
 
