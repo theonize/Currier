@@ -1,8 +1,23 @@
-Psalm 119 א
+# Psalm 119
+	premise: each section has a specific focus
 
 
 aleph
+א
+	[2] - seeking = blessing
+
 	Master
+
+1. Duty
+2. Depth of Devotion
+  Col 4:17
+3. Denial of resolution and truth
+4. Determination
+  v11, 30-32
+5. Dependence
+  v32b
+
+Ready to go out in a blaze of glory, not ready to labor for a lifetime.
 
 outline:
 	His testimonies
@@ -22,3 +37,49 @@ outline:
 	ways ~ sort of synecdoche for life
 	steadfast ~ stand firm, only when armored (Eph 6, 59:17)
 6)	
+
+
+beth
+	[10] - seeking = steadfastness
+
+gimel
+	[18] - looking = wonderment
+
+daleth
+	[]
+
+hei
+
+vav
+
+tsayin
+
+het
+
+tet
+
+yod
+
+chof
+
+lamed
+
+mem
+
+nun
+
+samekh
+
+ayin
+
+pei
+
+tsade
+
+qof
+
+resh
+
+shin
+
+tav
