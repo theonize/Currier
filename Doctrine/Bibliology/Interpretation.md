@@ -53,3 +53,10 @@ Abrahamic Covenant conditional or unconditional?
 
 [1Th 4] ~ one or two events?
 [1Th 5] ~ 'you' vs. 'us'
+
+# Census plenor
+...a fuller sense
+
+The Bible may mean more than the original author intended, but it can't mean less.
+    e.g. events may align perfectly, though partially, with prophetic passages
+    e.g. [Is 53] ~ the suffering servant was not understood to be Jesus Christ until after the resurrection

@@ -20,6 +20,12 @@ Jesus faith, hope, and love are tested
 [Dan 9:27] ~ _wing of abomination_ hints at a pinnacle (an architectural term)
 
 
+17) Jesus quotes [IS 61:] **but** leaves out the _day of vengeance_
+	some of the terms used are in [PS 82], as in [JOHN ?]
+
+	this was likely the Jubilee year
+
+
 25) [1Kgs 7:17]
 
 

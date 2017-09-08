@@ -1,4 +1,4 @@
-Prayer
+# Prayer
 = a space-time devoted to attaining proximity to God
 
 טפלמ - prayer
@@ -41,3 +41,18 @@ consequences
 hindrances
 
 idolatry
+
+
+## Words
+
+proseuche ~ prayer, oratory
+
+enteuxsis ~ intercession (interview, conference, conversation)
+
+euche ~ vow
+
+deesis ~ privation, entreaty
+
+euchomai ~ pray, wish
+
+

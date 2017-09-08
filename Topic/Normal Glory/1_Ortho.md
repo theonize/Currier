@@ -19,14 +19,14 @@ Yahweh rebukes priests who abuse their station: think of Aaron's sons or Elli's.
 We have operated under the faulty notion that the Institution is necessary and remediable.
 It is a circular rut that the Institution implements vicarious ministries which are only operable by a clergy (implying that there are _called_ among the "called").
 Also, the spiritual gifts are not fully realizable or performant in the Institution:
-  Not all members will/can serve
-  Gifts are feckless in a corporate faculty
-Not to mention that Institution leadership reflects the synthetic rather than the natural.
-  [Ps 115:8] those who make it [the institution​] become like it
+Not all members will/can serve;
+Gifts are feckless in a corporate faculty.
+Not to mention that Institutional leadership structure is synthetic - not natural.
+[Ps 115:8] those who make it [the institution​] become like it
 
 There are four dogmatic Church orthopraxy: apostolic teaching, fellowship, commensality, and prayer [Acts 2:42]
 These are at best artificial in and, sadly, often absent from the Institution.
-It is a travesty that institutionalised Christians miss out on the trust forms of these practices.
+It is a travesty that institutionalised Christians miss out on the truest forms of these practices.
 
 The hope in this research is to explore and exposit the issues involved in a mass believers' defection from the Institution.
 Much of this research I need for myself and my family.
@@ -36,7 +36,6 @@ But this is a great point of hope, as Dietrich Bonhoeffer states: disillusionmen
 Bottom line: the Church is not a place or time.
 It is a demographic.
 When there is no longer good Bible study, and biblical worship, and Christlike shepherding then you are left with a social club.
-The purely social congregation cannot help but lapse into moralism - it has nothing left but the desire to be like the thing it is not: the Church
-
+The purely social congregation cannot help but lapse into moralism - it has nothing left but the desire to be like the thing it is not: the Church.
 Forget that the Institution can flourish under good leadership.
 This is not the mark of the Church nor it's mission.
