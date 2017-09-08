@@ -20,7 +20,9 @@
 	- occupant of the divine throne
 	* these are not the inheritance, they are identifiers which give this Son status
 
-	radiance, _apaugasma_ ~ occurs only one other time inthe Septuagint: Wisdom of Solomon referring to [WOS 7:24], [Prov 8] Lady Wisdom.
+	radiance, _apaugasma_ ~ occurs only one other time inthe Septuagint: Wisdom of Solomon referring to [WOS 7:24+], [Prov 8] Lady Wisdom.
+	"Lady" is grammatical, not biological
+	[Luke 11:49-51] alludes to Wisdom of Solomon [7:27]; Jesus' statement equates the Father and Wisdom.
 
 2,4) "heir" ~ is not a statement of ontology (beginnings) or instantiation.
 Neither does it imply succession or replacement.

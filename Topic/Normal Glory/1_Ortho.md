@@ -22,7 +22,7 @@ Also, the spiritual gifts are not fully realizable or performant in the Institut
 Not all members will/can serve;
 Gifts are feckless in a corporate faculty.
 Not to mention that Institutional leadership structure is synthetic - not natural.
-[Ps 115:8] those who make it [the institution​] become like it
+[Ps 115:8] those who make it [the institution​] become like it.
 
 There are four dogmatic Church orthopraxy: apostolic teaching, fellowship, commensality, and prayer [Acts 2:42]
 These are at best artificial in and, sadly, often absent from the Institution.
