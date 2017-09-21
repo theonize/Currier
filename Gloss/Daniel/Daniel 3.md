@@ -1,8 +1,11 @@
 # Daniel 3
 
+8+) interesting that the believers are addressedyb worldly names
+
+
 14-15) Note the Nebbie asks a question but doesn't wait for an answer.
 
-15) the worldy "but if you do not"
+15) the worldly "but if you do not"
 
 
 18) the imagers' reply "but if not".
