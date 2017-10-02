@@ -56,3 +56,14 @@ deesis ~ privation, entreaty
 euchomai ~ pray, wish
 
 
+## Points
+
+meditation bridges the gap between prayer and study
+
+the father invites you to pray
+
+Jesus represents you as you pray
+
+the spirit helps you to pray
+
+
