@@ -1,15 +1,23 @@
 # Baptism
-~ the word used to mean cleaning of cloth (ancient dry-cleaning) (implying a change of identity)
+~ the ritual application of water to a person in the name of the trinity Yahweh
 
 
-[Matt 28:19]
-	teach
+_Baptism_ is used to mean cleaning of cloth (ancient dry-cleaning) (implying a change of identity.)
+
+
+[Matt 28:18-20]
+	go, make disciples **by baptizing them**
+	teaching
 
 [Mark 16:16]
 
 
+[Acts 2]
+
+[1Pet 3:18] ~ appeal for good conscience, i.e. a dedication of effort
+
 NOT
-	[Titus 3:5] ~ not about water
+	[Titus 3:4-8] ~ not about water
 
 	[Acts 22:16] ~ Paul's baptism is never referred to as a salvific moment; Annanias refers to him as brother before the baptism
 

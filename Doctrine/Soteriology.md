@@ -110,7 +110,32 @@ Remnant
 
 Election
 
-Ordo Salutis
+
+## Disbelief
+
+[Num 14] How long will this people despise me...and not believe
+
+
+## Once for Always
+
+There is a tension in salvation where we, in our pride, insist that we must contribute to it.
+However, if we could contribute to our salvation then it wouldn't be perfect [we are not perfect].
+But [Heb 4:3] tells us that belief is a requirement for salvation.
+We must allow this tension to stand: a requirement is not necessarily a contributing action (a.k.a. _work_).
+We are not saved by any action of ours [Eph 2:8-9] - not a ritual, not a prayer, not a flick of the wrist.
+What cannot be gained by moral perfection cannot be lost by moral imperfection.
+
+The Lutherans use the language that God _brings_ us faith, righteousness, justification.
+
+
+## Tenses of Salvation
+
+We were saved by faith, which He gave us.
+We are saved by righteousness, which He gives us.
+We will be saved by justification, which He gives us.
+
+
+## Ordo Salutis
 	Adornment [mercy] (have been)
 		Election
 		Calling

@@ -1,5 +1,5 @@
 # Prayer
-= a space-time devoted to attaining proximity to God
+= a space-time devoted to attaining proximity with God
 
 טפלמ - prayer
 
@@ -47,11 +47,12 @@ idolatry
 
 proseuche ~ prayer, oratory
 
+deisis ~ privation/penury; a sense of the lack of some essential thing [PHP 1:4]
+... an interesting correlary is syneidesis ~ conscience, as in the disposition of one's loyalty [1Pet 3:21]
+
 enteuxsis ~ intercession (interview, conference, conversation)
 
 euche ~ vow
-
-deesis ~ privation, entreaty
 
 euchomai ~ pray, wish
 
