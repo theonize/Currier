@@ -1,7 +1,9 @@
 # Vocation
-~ a Latinized version of "calling"
+~ a Latinized version of "calling", _vocatzio_
 ...the life that God has assigned to a Christian
 ...and to which they are called
+
+"You have been saved, now you are free to be."  Jim Nestigan
 
 [1Cor 7:17]
 assigned ~ _emerisen_ = bestowed, a distribution
