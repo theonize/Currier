@@ -12,13 +12,15 @@ called ~ _keklyken_ = an announcement
 [Eph 5]
 
 
-## Sex
+## Coitus
 
 The preimmenent example of vocation:
 	Within the institution of marriage Yahweh uses the act of sexual intercourse to create.
 	When the act is aligned with the vocation of husband/wife/parent it is a good work; apart from the vocation it is a selfish, sinish act.
 
 This Bibilical pattern applies to all roles and callings.
+
+Disallowed vocations?  e.g. prostitution: this vocation is despicable; don't forget, though, that there is prostitute in the lineage of Jesus.
 
 
 ## Altars

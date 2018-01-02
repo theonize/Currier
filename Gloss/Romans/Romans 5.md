@@ -11,6 +11,9 @@ Adam sinned, and incurred guilt because of it, and imputed mortality to his prog
 ...our guilt for sin is not inherited
 Damnation is earned by 1) people incur moral guilt and 2) they do not have that guilt removed by Christ's work.
 
+sin entered{dia}, death spread{diylthen}
+
+
 The analog of circumcision with baptism explains O.T. salvation.
 
 
