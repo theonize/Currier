@@ -1,4 +1,4 @@
-#Eschatology
+# Eschatology
 
 
 [Amos 5:18]
@@ -38,19 +38,19 @@ Questions:
 
 
 ### Temple
-quotes [Lev 26]
-	[2Cor 6]
-	[Luke 1]
-	[Acts 1]
+- quotes [Lev 26]
+- [2Cor 6]
+- [Luke 1]
+- [Acts 1]
 
 
 ### Kingdom of God
-	[Acts 8:12]
-	[Acts 19:8]
-	[Col 1:13] ~ note the past-tenses
-	[2Tim 4:18]
-	[Rev 1:6]
-	[Rev 5:10]
+- [Acts 8:12]
+- [Acts 19:8]
+- [Col 1:13] ~ note the past-tenses
+- [2Tim 4:18]
+- [Rev 1:6]
+- [Rev 5:10]
 
 
 ### The Day of the LORD

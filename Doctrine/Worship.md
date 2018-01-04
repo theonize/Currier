@@ -1,4 +1,4 @@
-Worship
+# Worship
  = the ascription of worth
 ...uniting doctrine & devotion
 

@@ -29,10 +29,10 @@ Gal 3:28+
 ## Granular Vernacular
 
 Helper
-	[Gen 2:18,20] ~ aytzr H5828
-	[Ex 18:4] God...my help
-	[Deut 33:7] Yahweh...be a help
-	...17 more (14 about Yahweh)
+- [Gen 2:18,20] ~ aytzr H5828
+- [Ex 18:4] God...my help
+- [Deut 33:7] Yahweh...be a help
+- ...17 more (14 about Yahweh)
 
 Accountability
 	[Gen 3:]
