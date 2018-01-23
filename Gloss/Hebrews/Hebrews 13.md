@@ -4,6 +4,7 @@ The Leadership Manual
 
 
 1) God desires unity {Ps 133}
+To the 1st century person, including outsiders into a family unit was a foreign idea.
 
 2) be hospitable, you may never know the good that it brings
 

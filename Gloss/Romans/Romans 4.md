@@ -19,3 +19,5 @@ Does God promise us wages?
 Ungodly = the absolute worst of sinners.
 ..yet still redeemable by Christ.
 
+
+9-10) Abraham was counted as righteous [Gen 15] before his circumcision [Gen 17:10+]

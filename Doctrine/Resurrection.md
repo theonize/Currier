@@ -1,4 +1,6 @@
-Resurrection
+# Resurrection
+
+## Bodily Nature
 
 1Thess 4
 Isaiah 26:19+
@@ -17,10 +19,17 @@ Philippians 3:21+
 1Jn 3:2
 	see Him like He is
 
-Job 19
+[Job 19:25-26]
 	after death "in my flesh I shall see God"
 
 John 5:28
 
 Exodus 19
 	Feast of Shavauot
+
+
+## Timeline
+
+[1Pet 1:3]
+
+[Ps 49:15]

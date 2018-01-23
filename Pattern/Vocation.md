@@ -11,6 +11,8 @@ called ~ _keklyken_ = an announcement
 
 [Eph 5]
 
+[1Cor 10:31]
+
 
 ## Coitus
 
