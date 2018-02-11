@@ -17,3 +17,6 @@ God let's His children tell the story.
 
 [Narrative Diversity](Narrative.md)
 
+[Authenticity](Authenticity.md)
+
+[Authority](Authority.md)
