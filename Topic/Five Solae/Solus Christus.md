@@ -1,0 +1,2 @@
+Solus Christus
+"soley Christ"

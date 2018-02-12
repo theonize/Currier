@@ -17,3 +17,8 @@ We shouldn't be surprised that our current circumstances are providentially orda
 
 As far as the walk: we are not told the gait, only the mode.
 And it comes after being just and being kindly.
+
+
+## Election
+
+

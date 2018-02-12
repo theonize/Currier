@@ -1,5 +1,5 @@
 # Sola Fide
-...solely faith
+"solely faith"
 
 
 Three Elements:
