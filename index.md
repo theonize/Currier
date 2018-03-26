@@ -3,7 +3,7 @@
 
 [Doctrine](./Doctrine)
 
-[Topics](./Topics)
+[Topics](./Topic)
 
 ## Whatzit?
 This repository is my attempt at skillfully dividing Scripture and recording study topics in a useful format that will motivate people to pursue God.
