@@ -2,6 +2,14 @@
 ~ the system wherein men & women pair up which is designed to grow and bolster the Church through the flourishing of both
 
 
+## Manipulation
+
+At the heart of any marriage is manipulation.
+This does not have to be a negative thing.
+Men & women can effectively spur one another on to greater achievement than would have been possible for either alone:
+	1 + 1 = 3
+
+
 ## Men/Women Systems
 
 Feminism
