@@ -3,8 +3,10 @@
 
 [Doctrine](./Doctrine)
 
+[Topics](./Topics)
+
 ## Whatzit?
-The attempt of this repository is to skillfully divide Scripture and record study topics in a useful format that will motivate people to pursue God.
+This repository is my attempt at skillfully dividing Scripture and recording study topics in a useful format that will motivate people to pursue God.
 
 I have some other, non-Biblical, stuff [here](https://fingerskier.github.io/ajar/).
 
