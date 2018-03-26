@@ -2,7 +2,7 @@
 
 Herein lie spiritual topical writings that don't fit neatly into the categories of "doctrine" or "pattern".
 
-- [2nd Temple Literature](2nd Temple Literature.txt)
+- [2nd Temple Literature](./2nd Temple Literature.txt)
 - [Adullam](Adullam.md)
 - [Already but Not Yet](Already but Not Yet.md)
 - [An Angel Before You](An Angel Before You.md)
