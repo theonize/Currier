@@ -2,6 +2,9 @@
 logs
 *.log
 
+desktop.ini
+.dropbox
+
 # Runtime data
 pids
 *.pid
