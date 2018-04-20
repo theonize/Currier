@@ -1,12 +1,16 @@
 # Baptism
 ~ the ritual application of water to a person in the name of the trinity Yahweh
 
+The implications of this definition are:
+- it is a sacrament, not magic
+- it is purposeful, not merely cultic
 
-_Baptism_ is used to mean cleaning of cloth (ancient dry-cleaning) (implying a change of identity.)
+
+_Baptism_ is used to mean cleaning of cloth (ancient dry-cleaning) (implying a change of identity, as garments often represent beliefs in topology.)
 
 
 [Matt 28:18-20]
-	go, make disciples **by baptizing them**
+	go, make disciples...**baptizing them**
 	teaching
 
 [Mark 16:16]
