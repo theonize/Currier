@@ -30,6 +30,7 @@ Matthew 12
 39) A door is closed here.  Only the Jonahic sign remains for them.
 
 40) Where is the "heart of the earth"?  the center?  that sounds silly except that we know very little about spacetime and what's really inside the earth.
+...this ties _Sheol_ to the "heart of the earth".
 
 
 43-45) _this evil generation_ = Israel; which is an example as it was cleansed and then ended up worse off because the evil ejection was not replaced with Jesus

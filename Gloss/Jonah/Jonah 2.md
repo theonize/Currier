@@ -18,14 +18,18 @@ Sign of Jonah
 1-2) prayed/cried
 [Num 11:2]
 
+2-9) vv.2-8 are past tense; vs.9 is present tense
 
-2-8) All past tense
-9) Present tense
+2) Sheol ~ the abode of the dead
+[Num 16:30,33] Korah's family went down to Sheol
 
+3) heart of the seas ~ to the ancient mind this was as far away from God as possible - who dwelt atop the _dome of the skies_ that rested on the mountains
+Jonah continues his downward path (down into the ship, down into the water, down into Sheol)
 
 4,7) Jonah pines for the temple: he seemed his deep need for holy ground/sacred space.
 We have this in the assemblies of the Church.
 
+4) "again look upon" ~ interesting because Jonah was from the Northern kingdom
 
 8-9) Jonah finally realizes his need and the one way to meet that need: Salvation from God
 
