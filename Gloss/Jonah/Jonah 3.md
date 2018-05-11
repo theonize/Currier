@@ -30,4 +30,12 @@ Demolish ~ Nehphket
     b) the city with it's suburbs (like _greater Houston area_)
 
 3) "arose" ~ in contrast to the going down, down, down of chapters 1-2 he is going up now
->>>>>>> 70d9335c3c4845e2d936e06293530d0260e1f974
+
+4) Jonah never mentions God, nor redemption, in his preaching.
+
+The Assyrians worshipped the fish god, Dagon.
+They were poorly impressed by the circumstances of Jonah.
+Yahweh proved His superiority.
+
+
+6) The king, through the Spirit's work, connects the dots based on Jonah's message.
