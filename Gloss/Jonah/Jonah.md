@@ -5,6 +5,7 @@ Jonah was written during or close after the exile.
 Only Jonah, Isaiah, Elijah, and Elisha are mentioned by Christ [by name].
 
 Jonah was a patriot (see Ch. 1 notes).
+- [1Kgs 14] ~ Jonah prophesied that the northern kingdom's territory would expand under Jeroboam II
 
 Jesus taught of the sign of Jonah (see Ch. 2 notes).
 

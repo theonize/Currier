@@ -25,3 +25,6 @@ The sailors come to God through Jonah's ineptitude.
 12) Jonah would not commit suicide, he asked to be thrown in.
 
 13) Rowing harder never solves the problem, God solves the problem (v. 15)
+
+
+16) How ironic that the pagan sailors actually feared Yahweh and Jonah did not...though he said so.

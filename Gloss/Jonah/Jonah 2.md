@@ -14,6 +14,8 @@ Sign of Jonah
   2. Only one sign is given to the wicked: resurrection
   3. The wicked = this generation = Nineveh
 
+1) "From the bowels" ~ after a thousand moral choices that ended in the pit Jonah recognizes his fallenness.
+He also recognizes that Yahweh is the answer - we are completely helpless.
 
 1-2) prayed/cried
 [Num 11:2]
