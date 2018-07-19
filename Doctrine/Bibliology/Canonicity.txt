@@ -1,7 +1,31 @@
 Canonicity
 
+Definition
+~ Romans Catholics = the canon is an authoritative list of books
+~ Protestants = the canon is a list of authoritative books
+
+The issue is that an authoritative list must be presented by an authority.
+These are the books that could not be kept out of the canon.
+In a sense the Church discovered which books were canonical.
+
+
+Criteria
+	What criteria was used by the Church fathers to establish a book among the canon?
+	- Apostolicity ~ was written by an Apostle or an associate of an Apostle?
+	- Orthodoxy ~ does it conform to orthodox doctrine?
+	- Catholicity ~ was it accepted by all the Church?
+
+	If a book was found to have misattributed authorship it was always rejected.
+
+	Christology ~ the treatment of the person of Christ is commonly misaffected in non-canonical literature.
+
+	Gospel of Thomas [114]. Simon Peter says to them: "Let Mary go out from our midst, for women are not worthy of life!" Jesus says: "See, I will draw her so as to make her male so that she also may become a living spirit like you males. For every woman who has become male will enter the Kingdom of heaven."
+	...does that belong in our New Testament?
+
+
 Historical
-	God determined the canon ~ not out responsibility
+	We must trust that providence has shaped events to install certain books in the canon;
+	God determined the canon ~ not our responsibility
 	OT canon finalized by B.C. 250
 	NT canon finalization
 		Muratorian Canon A.D. 170
@@ -54,6 +78,7 @@ Circular
 ### In Jesus Day
 	Torah was canon
 	doubt of some other books
+	~ e.g. Sadducees held the Torah as superior to other books of the Tanakh (thus the reason Jesus taught them from the Torah)
 	Jesus recognized the three-fold division of Scripture
 	- law
 	- writings
