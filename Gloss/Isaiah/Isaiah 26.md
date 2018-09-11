@@ -18,5 +18,6 @@ Isaiah 26
 	...until the fury passes
 	{Zeph 2:3} ~ perhaps _you_ may be hidden in the tribulation
 		you = the righteous & humble
+	These 3 elements reflect Noah's flood remnant
 
 21) the coming conqueror

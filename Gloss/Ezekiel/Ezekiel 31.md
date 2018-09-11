@@ -1,5 +1,8 @@
 # Ezekiel 31
 
+Yhwh is the tree-gardener; he causes them to be, rise, and fall
+
+written around June 587 BC
 
 The cosmic tree resembles the ?Maesu? tree of Babylonian myths
 
@@ -12,7 +15,7 @@ The cosmic tree resembles the ?Maesu? tree of Babylonian myths
 6) birds ~ satanic messengers (accusers)
 
 
-8-9) _garden of God_
+8-9) _garden of Yhwh_
 
 
 16-17) ritual mourning for the tree

@@ -44,6 +44,12 @@ _magnanimous_
 [Ps 135:18] ...who do you want to be like?
 
 
+43-45) You can tell a person's _leaning_ by how they speak.
+Interesting that everyone has treasure:
+What makes treasure good or evil?  _thesauros_ means a container of treasure; i.e. the chest with the gold.
+  "the abundance of the heart" ~ implying every heart is filled with something?  at least, every heart that speaks is filled...
+
+
 46) [Ps 115:8]
 
 

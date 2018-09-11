@@ -1,6 +1,8 @@
 Isaiah 24
 
 
+5) everlasting covenant [Gen 8:22]
+
 6) earth-dwellers ({Rev})
 
 18) echoes of {Gen 6}
@@ -8,6 +10,7 @@ Isaiah 24
 21) all the kings of the earth?  
 		{Ps 2}
 		this implies recognition of God as...something
+	enemies of the state are punished where they abide
 
 22) Tartaras
 	{2Pet 2:4}
