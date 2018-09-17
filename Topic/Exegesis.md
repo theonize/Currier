@@ -1,19 +1,32 @@
 # Exegesis
 
+## What is it
+
+ Exegesis is gleaning from scripture
+
+- gospel story
+- human story
+- sin
+- decrees
+- commands
+- promises
+  - unconditional
+  - conditional
+- principles
+- themes
+
 
 ## Fallacies
 
 ### Foreign Root
 
 The meaning of a root word does not impute meaning to the derived word.
-The current context
-
+The current context is ultimate.
 
 ### Shared Roots
 
 timao, epitimao
 honor, rebuke
-
 
 ### Etymological
 
@@ -28,7 +41,6 @@ epitimao = rebuke
 butterfly = an insect
 
 headship
-
 
 ### Sound
 

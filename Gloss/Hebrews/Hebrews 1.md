@@ -1,17 +1,23 @@
 # Hebrews 1
 
-1) "many ways" ~ The diversity of genre within the revelation only serves to enhance its singular message: the gospel of Christ.
+1) "Long ago", in the beginning
+ ~ [Gen 1:1], [John 1:1]
+"many ways" ~ The diversity of genre within the revelation only serves to enhance its singular message: the gospel of Christ.
 
 2) "these last days" ~ could mean the dawn of new era, the early Church believed that they were in the beginning of the end of time
 
 "by a Son" ~ this does not mean polytheism, it simply refers to the fact that Jesus was/is a spiritual being (this does not mean He is not the Almighty, in fact it implies that He is superior: Yahweh reveals through both spiritual and physical incarnations - He is both within and above these)
 
-3) upholds ~ _pharo_, the idea of maintenance or sustenance
+3) "exact imprint" ~ whereas the Shekinah was a limited expression
+"...of his nature" ~ charakter ~ character
+upholds ~ _pharo_, the idea of maintenance or sustenance
+...[Col 1:17]
 	**all things**
 
 	"sat down" this Son (pre-eminent above all others) is _with_ God
+...note the notion of finality in the Son's act
 
-	5 attributes this Son
+	5 attributes of the Son
 	- the radiance of His glory
 	- the exact representation of His essence
 	- the sustainer of His word of power
