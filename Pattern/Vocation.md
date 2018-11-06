@@ -5,6 +5,9 @@
 
 "You have been saved, now you are free to be."  Jim Nestigan
 
+The real ministry of vocation is in melding our beliefs with our purpose.
+Not all believers are scholars but all are theologians and this permeates all of our endeavors.
+
 [1Cor 7:17]
 assigned ~ _emerisen_ = bestowed, a distribution
 called ~ _keklyken_ = an announcement

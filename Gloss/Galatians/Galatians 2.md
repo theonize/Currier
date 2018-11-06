@@ -13,6 +13,11 @@ Barnabas was born "Joseph"
 
 2) [Acts 11] OR [Acts 15]
 
+3) Paul refutes circumcision as saving.
+However, in [Acts 16] Paul has Timothy circumcised precedent to his ministry to Jews.
+
+4) The Church today is infiltrated by moralists.
+
 
 6) "seemed" ~ powerful influence is more typically subversive [Col 1:17]
 
@@ -25,6 +30,16 @@ Barnabas was born "Joseph"
 
 
 "The prodigal son spent one half of his inheritance on wine, women, and whimsy - and wasted the other half."  Chuck Missler
+
+
+11) Peter @ Antioch
+I think it's interesting that Peter is called by his Greek name here, and that it is so similar to Caiaphas...the one who orchestrated Christ's death.
+Is this a verbal cue?
+
+Cephasian = one who creates religious demarcations
+
+
+14) "Answer a fool according to his folly..."
 
 15)	This is not to imply that Jews are not sinners...rather he is differentiating one type of sinner from another.
 

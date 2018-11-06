@@ -2,11 +2,13 @@
 
 
 How do the following apply to the members of the Hall-of-Faith?
-	suffering
+-	 suffering
+- 	moral failure
+- doubt
 
-	moral failure
 
-	doubt
+The _faith_ here is of a future Messiah
+...we know this Messiah but have a further faith: that He is coming back
 
 
 Abel
