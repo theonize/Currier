@@ -12,4 +12,7 @@ This kind of extrapolation was to become a typical Jewish perogative.
 	{Ps 8:5} {Heb 2:7}
 
 
+11) "Who told you that you were naked?"
+
+
 22) 'us' = divine council

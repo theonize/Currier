@@ -15,6 +15,14 @@ Born of virgin ~ [Is 7:14]
 [Jer 1:12] ~ God is precise in His plans
 
 
+10) "Don't be afraid" is a platitude - it really can't be helped
+
+
+14) peace among those with whom He is pleased
+among ~ en = constructively "in" and "to"
+
+
+
 29) _depart_ ~ to loose or unyoke; all of meanings fit we as prisoners set free
 
 

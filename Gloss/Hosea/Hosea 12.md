@@ -1,0 +1,3 @@
+Similtudes ~ allegories & puns ~ models
+
+

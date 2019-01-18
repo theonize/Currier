@@ -1,5 +1,7 @@
 2 Corinthians 5
 
+17) _All
+
 18) 
 
 

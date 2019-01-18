@@ -1,5 +1,8 @@
 2 Corinthians 5
 
+17) _All_ old things are new, dead things are alive
+We are 
+
 18) 
 
 
