@@ -4,6 +4,7 @@ Daniel (27)
 Authorship dates for range from 6th to 2nd century B.C.
 Arguments for the late date (that are most viable) are that the book fits later apocalyptic genre very well.
 The book uses vocabulary and language features dating from the 6th century.
+
 If we take Jesus' word that A) Daniel was a prophet and B) there are predictive prophecies in his book (e.g. abomindation of desolation) then neither view is problematic.
 e.g. There are predictions in chapter 11 which are yet future.
 If the book was written later it does not preclude the fact that the prophet lived and worked earlier.
@@ -23,9 +24,12 @@ The book alternates between narrative and prophetic writing.
 2. Statue
 3. Babylonian court
 4. Nebuchadnezzar's Testimony
+  - Aramaic
+  - gentilic authorship
 5. Belshazzar
 6. Darius, The Lion's Den
 7. Four Beasts
+  - Son of Man
 8. Two Rams
 9. Prayer for home
 10. Gabriel
@@ -35,4 +39,22 @@ The book alternates between narrative and prophetic writing.
 
 Jesus on Daniel:
 - Son of Man
+  - [Dan 7:3-14]
+  - [Matthew 20:17-19]
+  - [Matt 24:30]
+  - [Matt 25:31-32]
+  - [Mark 10:32-34]
+  - [Mark 14:62]
+  - [Luke 18:31-34]
+  - [John 1:49-51]
+  - [John 5:25-27]
+  - [John 8:28]
+  - [John 9:35-37]
+  - [John 12:34-36]
+  - [Rev 1:12-13]
+  - [Rev 14:14]
 - Abomination of Desolation
+  - [Dan 9:27]
+  - [Dan 11:31]
+  - [Dan 12:11]
+  - [Matt 24:15-16]
