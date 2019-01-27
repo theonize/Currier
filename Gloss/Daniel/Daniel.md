@@ -13,10 +13,16 @@ Furthermore, Daniel is not the only prophet to receive revelation regarding the 
 
 
 Adjacent History:
-* Judah (southern Israel) conquered by Babylon
-* A few decades later the Persian Empire will rise and overtake Babylon
-* A couple of centuries later the Greeks will have risen and conquered Persia
-* When Alexander the Great dies the Greek Empire is split between four leaders
+- 605BC: Babylon conquered Assyria at Carchemish
+- 597BC: Babylon ensieged Jerusalem and installed Zedekiah
+- 589BC: Zedekiah rebelled anyways and Jerusalem again ensieged
+- 586BC: Jewish captivity and exile begins
+- 539BC: Cyrus takes Babylon
+- 458BC: Ezra's temple rebuilding begins
+- 445BC: Nehemiah's adventure begins
+  ^ 1335 v
+- 334BC: Alexander the Great invaded Persia
+- 323BC: When Alexander the Great dies the Greek Empire is split between four leaders
 
 
 The book alternates between narrative and prophetic writing.
@@ -24,17 +30,22 @@ The book alternates between narrative and prophetic writing.
 2. Statue
 3. Babylonian court
 4. Nebuchadnezzar's Testimony
-  - Aramaic
-  - gentilic authorship
+  a. Aramaic
+  b. gentilic authorship
 5. Belshazzar
 6. Darius, The Lion's Den
 7. Four Beasts
-  - Son of Man
+  a. Son of Man
 8. Two Rams
 9. Prayer for home
 10. Gabriel
 11. Kingdoms
 12. Michael
+
+Chiasm/Parallels:
+- 2 & 7 ~ visions
+- 3 & 6 ~ imperial court
+- 4 & 5 ~ Kingly trials
 
 
 Jesus on Daniel:
