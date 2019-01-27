@@ -1,6 +1,6 @@
 # Daniel 3
 
-8+) interesting that the believers are addressedyb worldly names
+8+) interesting that the believers are addressed by worldly names
 
 
 14-15) Note the Nebbie asks a question but doesn't wait for an answer.
