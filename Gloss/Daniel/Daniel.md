@@ -1,4 +1,5 @@
 Daniel (27)
+620ish to 539BC
 
 
 Authorship dates for range from 6th to 2nd century B.C.
@@ -10,12 +11,20 @@ If the book was written later it does not preclude the fact that the prophet liv
 To a certain extent we see this in every book of the Bible because they were not magically transcribed as is - rather they were carefully compiled and edited by faithful scholars.
 Furthermore, Daniel is not the only prophet to receive revelation regarding the kingdoms of the east.
 
+Already but not yet:
+Ezra & Neh
+Maccabees
+Jesus
+Future
+
 
 Adjacent History:
-* Judah (southern Israel) conquered by Babylon
+* 605BC; Babylon conquers Assyria
+* 589-586BC; Judah (southern Israel) conquered by Babylon
 * A few decades later the Persian Empire will rise and overtake Babylon
 * A couple of centuries later the Greeks will have risen and conquered Persia
 * When Alexander the Great dies the Greek Empire is split between four leaders
+* The Wise Men who visited Jesus were descended from Daniel ~ he started that society and passed on his knowledge and list for Yahweh's kingdom.
 
 
 The book alternates between narrative and prophetic writing.
@@ -33,6 +42,15 @@ The book alternates between narrative and prophetic writing.
 12. Michael
 
 
+Chiasm/Unfolding Parallels
+2 ~ 7
+3 ~ 6
+4 ~ 5
+
+
 Jesus on Daniel:
 - Son of Man
+  Dan 7:13, Gospels, Rev 1:13
 - Abomination of Desolation
+  Dan 9, 11, 12
+  Matt 24, Mark 13
