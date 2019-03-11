@@ -12,7 +12,7 @@ Vineyard Parables
 [Ps 80:15-18]
 
 
-8+) six woes
+8+) six woes (human culture)
 - materialism
 - drunkardry
 - parading sin around publically

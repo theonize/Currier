@@ -54,7 +54,8 @@ vav
 
 tsayin
 
-het
+chet
+63) Denomination: I join all those that fear Yahweh and keep His precepts.
 
 tet
 

@@ -52,7 +52,7 @@ POF: believers do the same thing in opposition to the world - we fill a space th
 [Ps 1:1] "the counsel of the wicked"
 It is quite a different matter to hear a thing than to do it.
 Walking first requires standing, then a direction (hopefully a destination but not always.)
-The danger of many occultic practices is that they can be done in the heart, required nearly no effort.
+The danger of many occultic practices is that they can be done in the heart, requiring nearly no effort.
 
 
 ## Run
@@ -66,3 +66,8 @@ Kneel
 Lift
 
 Stretch
+
+
+## Body Parts
+
+### 
