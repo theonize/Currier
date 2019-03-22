@@ -1,7 +1,54 @@
-Daniel 7
+# Daniel 7
+## Color Me Shocked
 
+written during the first year of the Persian empire
 
-1)	King Belshazzar
+[Acts 17:11]
+[1Jon 2:27]
+[Matt 6:6]
+Puns & Multiple Interpretation
+
+Four Winds
+- God's natural sovereignty purveyors
+- wind on Sea of Galilee, winds held back in Revelation
+- [Eph 2:2] [Job 1:19]
+
+Seas
+- Mediterranean Sea bordered all these kingdoms
+- [Rev 17:15] peoples, multitudes, nations, & tongues
+
+Beasts
+- empires
+- previous visions emphasized continuity; this one emphasizes differences
+1. Lion/Eagle ~ Babylon
+	~ regal (top of the food-chain)
+2. Bear ~ Persian
+3. Winged Leopard ~ Greece
+	4 wings
+	4 heads - Greek empire was handed over to 4 top generals (Ptolemy took Palestine)
+	3 ribs; 3 major victories; Babylon, Eygpt, Lydia
+[Hos 13:5+] [Rev 13:1]
+4. Beast
+	"iron" teeth (linked to prior vision ~ toes)
+	Greece nor Rome were "conquered" but morelike crumbled
+	10 horns 
+	- [Dan 2:44] ~ "all these kingdoms" = 10 toes
+	- [Rev 17:3] ~ 10 horns (beast written by whore)
+
+Horns
+- symbolic of Kings
+- also represents the King's rolling entourage
+
+Little Horn
+- amongst the 10 horns, inconspicuous
+- "antichrist" is a state-of-being, not a person; this is a coming leader
+
+Books
+	[Book of Books](Book of Books.md)
+
+---
+
+1)	King Belshazzar (the one who soiled himself)
 	Daniel
 	...saw a dream
 	...and visions [of his head]
@@ -64,3 +111,7 @@ all "gods" subordinate to Yahweh
 _with the clouds_
 _like a son of man_
 
+15) "My spirit _within it's sheath_ was anxious" ~ like a sword in it's sheath
+
+
+28) "color me shocked"

@@ -24,3 +24,24 @@ e.g.
 [Ps 89:1]
 [Ps 89:7]
 [Ex 15:11]
+
+
+Guardian Angels
+- [Matt 18:10]
+
+
+Levels
+- Cherubim, archangel, "chief princes" _sar_
+
+
+
+Named
+- Gabriel; messianic messenger
+- Michael; combatant
+- Lucifer; former minister, now deceiver
+	- [Isai 14]
+	- [Ezek 28]
+
+
+Punishment
+- [Is 24:21]
