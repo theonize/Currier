@@ -18,3 +18,8 @@ Proverbs 8
 34) listen, not just hearing by synthesizing
   where are His gates?
   where are His doors?
+
+35-36) The ways to respond to wisdom:
+accept ~ life & favor
+war ~ injury
+reject ~ death

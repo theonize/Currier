@@ -1,5 +1,7 @@
 # Galatians 5
 
+1) once free we must willingly yield to the slavery of sin
+
 
 19-24) which of the fruits evidenced in your life
 

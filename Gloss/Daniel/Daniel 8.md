@@ -25,9 +25,16 @@ The Lands
 - south, east, & pleasant-land (glorious land, idiom for Israel)
 
 
+1 Maccabees 1:54 gives us the date of the abomination as Kislev (December) 15, 167 BC
+
+
 1-2) Contrary views are that Daniel was at this place or that he only "viewed" it.
 
 
 13) _another holy one_ kinds
 
+14) 2300 morning & evening = 1150 days ~ exactly the time of the Maccabean revolt
+
+
+20-22) The official explanation of the symbols
 

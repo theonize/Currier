@@ -2,6 +2,11 @@
 
 
 Nicodemus represents religious leaders who want Jesus to be the answer.
+~ but most parties are opposed to Jesus
+
+Nicodemus approaches Jesus with dignity and honesty.
+...this is something sorry lacking from most who approach the throne
+...he eventually believed [John 19:39]
 
 2) Nicodemus is coming to Jesus undercover.
 Note the analogy of him coming to Jesus through the darkness.
