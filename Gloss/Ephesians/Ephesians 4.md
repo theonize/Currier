@@ -10,6 +10,11 @@ meekness = power under control (i.e. nothing to prove)
 ~ Greek term is as a salve, soothing
 ~ long-tempered
 
+11-16)
+Calling
+Character
+Competence
+Community
 
 11) Interesting that the list follows the developmental progression of the Church:
 * apostolic, generation that touched Jesus
@@ -17,3 +22,4 @@ meekness = power under control (i.e. nothing to prove)
 * evangelical, generations that knew the apostles
 * pastoral, primordial church
 * teaching, those waiting
+

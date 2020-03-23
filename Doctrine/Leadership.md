@@ -1,7 +1,8 @@
 Leadership
 
 
-[1Tim 3:1] ~ an honorable ambition
+an honorable ambition
+[1Tim 3:1] ~ 
 
 {Tit 2}
 
@@ -262,3 +263,13 @@ Gentleness
 Temperance
 - [1Cor 9:19-27]
 - [2Pet 1:6]
+
+
+## Dealing with Challengers
+
+[Matt 16:1+]
+[Matt 19:3]
+[Matt 22:18]
+[Matt 22:34+]
+[Mark 8:11]
+[Luke 10:25]

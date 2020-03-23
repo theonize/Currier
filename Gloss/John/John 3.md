@@ -17,12 +17,14 @@ Unlike other Pharisees Nicodemus doesn't ask a question - he has no hostile agen
 3) Without a leading question to overcome Jesus can cut straight to the His pet issue: rebirth
 
 
-14) [NUM 21]
+14) [Num 21]
 
 
 16) "God so loved" ~ past tense, since forever ago
 
 perish/life ~ nothing to do with this realm, but a future one
+
+eternal life ~ [John 17:3], starts now
 
 
 21) Like [Ex 34:29] it is obvious who had been with God

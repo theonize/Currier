@@ -1,6 +1,12 @@
 # Colossians 3
 
 
+5-6) Idolatry
+Sexual immorality, porneia
+Impurity, akatharsia
+Lust, pathos
+Evil desires, 
+
 
 9-14) The Church is made up of people deliberately brought in by God; there are no outsiders.
 

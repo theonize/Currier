@@ -8,6 +8,9 @@ Matthew 15
 
 13-14) Those who oppose the truth will be rooted up and burned.
 
+14) "ignore them" ~ we are directed to _not_ oppose bad teachers but let God deal with them
+
+15-16) It's not really a parable is it?  Hence, the reason Jesus knows that Peter doesn't understand.
 
 16-18) understanding, mouth, stomach -> feces
 	...implying that such waste matter makes up the intentions of our heart

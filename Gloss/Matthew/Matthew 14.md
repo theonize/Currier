@@ -13,3 +13,8 @@ Jesus was upon the mountain praying when the storm started.
 - The parallel implies that He will come to us when the storm peaks.
 - [Is 5:14+] 'I will go and return...'
 The disciples are not out of Jesus' reach - He walked to them.
+
+28) A nice picture of salvation: Peter said 
+1. "if it's You" ~ his idea of the Messiahs manifesting power was the ability to empower others
+2. "tell me to come” ~ Peter had to step out
+

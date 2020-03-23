@@ -64,6 +64,8 @@ yod
 chof
 
 lamed
+96) perfect is the end of perfection
+the law has no end because it's end is not perfection, rather continual theosis
 
 mem
 

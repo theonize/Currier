@@ -39,6 +39,12 @@ deals with subject matter not in the Old Testament
 	4. It pricks the heart
 	5. It is a blessing
 
+12) What is this "more understanding"?
+  It is more knowledge, general revelation: information; "an abundance of teaching."
+How might He take away understanding?
+  He will literally change our mind through natural processes.
+
+
 18) Now, with some explanation of parables in general, Jesus exposits this one
 
 19-23) Jesus shows us how to analyze a parable; note that He gives importance to many of the details in the parable - it's important to practice exegesis and gleaning rather than introduction

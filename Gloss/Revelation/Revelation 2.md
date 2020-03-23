@@ -1,6 +1,9 @@
 # Revelation 2
 
 
+7) 
+
+
 25-28) Jesus uses messianic language to describe the believe apportment.
 The "morning star" is a messianic symbol.
 ...as is shepherding, authority over nations, and conquering/dominion
@@ -74,3 +77,11 @@ Pergamum = elevation
 		...judicial innocence
 		...membership
 			private name (salvation)
+
+
+26) Threefold requirements:
+- overcome (by faith 1Jn 5:4)
+- keeps my works
+- ...until the end
+
+

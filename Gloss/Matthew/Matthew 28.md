@@ -8,4 +8,9 @@ nature vs. nurture is highly relevant in discipleship
   - interactions with the natural world are providential
   - the free will of others in your life is also providential
 
-20) observe ~ _tyrein_; keep the thing exactly as in [1Cor 7:37]
+18) exalt the savior
+
+19) evangelize the sinner
+
+20) edify the saint
+observe ~ _tyrein_; keep the thing exactly as in [1Cor 7:37]

@@ -8,3 +8,5 @@
 
 21) The conqueror will sit "**with me on My throne**"!
 That is amazing...clearly we are not unified with Him or supplanting Him but working alongside.
+Caveat: for the overcomer
+

@@ -111,6 +111,8 @@ all "gods" subordinate to Yahweh
 _with the clouds_
 _like a son of man_
 
+14) His dominion is everlasting as opposed to ours...which we gave away.
+
 15) "My spirit _within it's sheath_ was anxious" ~ like a sword in it's sheath
 
 

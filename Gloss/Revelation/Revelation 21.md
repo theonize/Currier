@@ -6,5 +6,8 @@
 
 2) New Jerusalem ~= bride?  Does that mean a physical instantiation of connected believing humanity (per [1Cor 3:16])?
 
+3) A new Tabernacle; God among the people
+
+
 22) "no temple", Yahweh _is_ the temple.  As in v.2 ... the Church is transformed?
 
