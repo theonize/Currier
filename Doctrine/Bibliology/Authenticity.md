@@ -2,19 +2,19 @@
 
 
 writer
-	str.org; Greg Koukl: re: "Misquoting Jesus"
-	it is possible to eliminate the spurious renderings
-	"We have 110% of the text, not 90%" D.Wallace via G.Koukl
+-	"We have 110% of the text, not 90%" D.Wallace via G.Koukl
+  -	str.org; Greg Koukl: re: "Misquoting Jesus"
+-	it is possible to eliminate the spurious renderings
 	
 writings
-	textual criticism's goal is to recover the autographa as they left the Apostle's hand(s)
-	danielbwallace.com: "The Number of Textual Variants: An Evangelical Miscalculation"
-	40 of 20,000 lines are in doubt & none affect significant doctrine
+-	textual criticism's goal is to recover the autographa as they left the Apostle's hand(s)
+-	danielbwallace.com: "The Number of Textual Variants: An Evangelical Miscalculation"
+-	40 of 20,000 lines are in doubt & none affect significant doctrine
 reception
-	Chester Beatty Papyri - most of the NT, mid 3rd century
-	Bodmer Papyri II - most of John, late 2nd century
-	John Rylands Papyri - fragment of John 18:31-33, early 2nd century (40yrs after writing ~ Egypt)
-	...and counting
+-	Chester Beatty Papyri - most of the NT, mid 3rd century
+-	Bodmer Papyri II - most of John, late 2nd century
+-	John Rylands Papyri - fragment of John 18:31-33, early 2nd century (40yrs after writing ~ Egypt)
+-	...and counting
 	- about 50 complete "ancient" NTs
 	- over 3000 manuscripts
 	- and 6000 fragments
