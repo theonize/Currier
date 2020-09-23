@@ -20,38 +20,38 @@ reception
 	- and 6000 fragments
 
 sureties
-	PROPHECY
-		+ Lev 26
-		multi-level patterns
-		accuracy
-		precision
-			Zedekiah
-				Jeremiah 34:3
-				Ezekiel 12:13
-				2 Kings 25:7
-			Sojourn in Egypt
-				Gen 15:3, Acts 7:6 ~ 400yrs bondage
-				Ex 12:40-41 ~ 430yrs habitation
-			483yrs
-				Dan 9:25
-				457BC to 27AD (Jesus' baptism)
-			70yrs
-				Jer 25:11
-				Dan 9:1 - 70 years
-					606BC to 536BC the Jews exiled then returned
-					586BC to 516BC the temple destroyed then rebuilt
-			Dec 11, 1917
-				Dan 12:12 ~ 1335 on muslim calendar = 1917 julian
-				Turks lost Jerusalem to Brits
-			May 14, 1948
-				Grant Jeffrey
-				Ez 4:4-6 ~ 390 + 40 = 430yrs
-				70yrs Babylonian captivity
-				360yrs remain
-				Lev 26 (7x punishment for unrepentance)
+-	PROPHECY
+	-	+ Lev 26
+	-	multi-level patterns
+	-	accuracy
+	-	precision
+		-	Zedekiah
+			-	Jeremiah 34:3
+			-	Ezekiel 12:13
+			-	2 Kings 25:7
+		-	Sojourn in Egypt
+			-	Gen 15:3, Acts 7:6 ~ 400yrs bondage
+			-	Ex 12:40-41 ~ 430yrs habitation
+		-	483yrs
+			-	Dan 9:25
+			-	457BC to 27AD (Jesus' baptism)
+		-	70yrs
+			-	Jer 25:11
+			-	Dan 9:1 - 70 years
+				-	606BC to 536BC the Jews exiled then returned
+				-	586BC to 516BC the temple destroyed then rebuilt
+		-	Dec 11, 1917
+			-	Dan 12:12 ~ 1335 on muslim calendar = 1917 julian
+			-	Turks lost Jerusalem to Brits
+		-	May 14, 1948
+			-	Grant Jeffrey
+			-	Ez 4:4-6 ~ 390 + 40 = 430yrs
+			-	70yrs Babylonian captivity
+			-	360yrs remain
+			-	Lev 26 (7x punishment for unrepentance)
 				= 2520yrs
-					360 day years (Gen 7:11,8:3-4)
-					-1yr for year 0
+				-	360 day years (Gen 7:11,8:3-4)
+				-	-1yr for year 0
 			June 7, 1967
 				Jubilee? from 1917 Lev 25:10
 				Dan 8:13-14, 2300yrs from 334BC

@@ -1,8 +1,8 @@
 # Currier 
-## = a repository of Biblical studies
+## a repository of Biblical study
 
 [Doctrine](./Doctrine)
-
+[Gloss](./Gloss)
 [Topics](./Topic)
 
 ## Whatzit?

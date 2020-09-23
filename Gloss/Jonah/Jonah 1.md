@@ -29,11 +29,13 @@ The pagan captain called the prophet to account.
 
 Jonah was never forthcoming but waiting for the situation come to a head.
 
+
 The sailors come to God through Jonah's ineptitude.
 
 12) Jonah would not commit suicide, he asked to be thrown in.
 
 13) Rowing harder never solves the problem, God solves the problem (v. 15)
+  Is 64:6
 
 
 16) How ironic that the pagan sailors actually feared Yahweh and Jonah did not...though he said so.
