@@ -6,6 +6,8 @@ Proverbs 3
   tying them on refers [partly] to the Jewish t'fillin
 
 
+5) "your own understanding" is limited and faulty ~ a sample size of you is not a population
+
 9-10) the promise of plenty is doubled: food and drink 
   The impetus for gaining wealth is to remember the LORD 1st in an increase
   ...i.e. on payday the first payment is the tithe and we do it as an act of worship

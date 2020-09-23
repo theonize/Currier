@@ -1,4 +1,13 @@
-# Jonah
+# Jonah 1
+
+7 greats
+- great city
+- great wind
+- great storm
+- greatly feared
+- great fish
+- greatly displeased
+- greatly happy
 
 Tarshish
     [1Kgs 10]

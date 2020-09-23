@@ -1,13 +1,20 @@
 # Jonah
 
-Jonah was written during or close after the exile.
+The book of Jonah was written during or close after the exile.
+
+Event occurred around 759BC
 
 Only Jonah, Isaiah, Elijah, and Elisha are mentioned by Christ [by name].
 
-Jonah was a patriot (see Ch. 1 notes).
-- [1Kgs 14] ~ Jonah prophesied that the northern kingdom's territory would expand under Jeroboam II
+Jonah was:
+- a patriot (see Ch. 1 notes).
+  - [1Kgs 14] ~ Jonah prophesied that the northern kingdom's territory would expand under Jeroboam II
+  - did not want to help his enemies
+- a contemporary of Hosea, Amos, and Jeroboam
 
-Jesus taught of the sign of Jonah (see Ch. 2 notes).
+Jesus taught of the sign of Jonah (see Ch. 2 notes)
+- Luke 11
+- Matthew 12
 
 There is no mention of Israel in the book;
 This book is read annually at Yom Kippur: "I Am Jonah"
@@ -16,12 +23,10 @@ Jonah was from Gath-Hepher [2Kgs 14:25] which was a little north of Nazareth
 ...[John 1:46]
 
 
-# Assyria
+===
 
-The Assyrian empire lasted for 3 centuries.
-Nineveh was the capital of the Assyrian empire.
-They were known for their brutality.
-During the time of the prophets they were a threat to the northern kingdom Israel.
-Eventually Assyria eliminated Israel.
-
-After Babylon until 1840 Nineveh was thought to be a legend.
+This book is upside-down
+- the prophet of God is running away
+- the gentile nation is repentant
+- the messenger is regretful of God's mercy
+- though saved, Jonah was reluctant to share such

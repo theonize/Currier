@@ -11,5 +11,8 @@ Children were 2nd-class citizens in that era: they're worth was ascribed by the 
 	...and never out of the Father's sight
 
 
+15-20) Pattern of restoration of lost siblings:
+- 
+
 33) had mercy ~ eleeeo = the act of mercy, compassion, or pity
 

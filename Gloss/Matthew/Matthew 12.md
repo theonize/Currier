@@ -21,6 +21,9 @@ Matthew 12
 18-21) [Is 42:1-3]
 
 
+24) "this fellow" ~ houtos ~ a derogatory denial if Jesus status as a teacher and Messiah
+
+
 32) Speaking against the Holy Spirit, in this case, means ascribing the works of God to fallen angels and demons.
 	It is the Holy Spirit that convicts us, Jesus who justifies us, and the Father that frees us.
 

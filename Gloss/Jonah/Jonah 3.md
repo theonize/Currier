@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# Jonah 3
+
 I Am Jonah
 
 
@@ -19,8 +20,10 @@ The miracle is not that God hated Esau but that Good loved Jacob.
 Demolish ~ Nehphket
 ...more like _transform_ than destroy
 ...the question is whether the end result of the transformation is good or not.
-=======
-# Jonah 3
+
+It's 550 miles from Samaria to Nineveh
+...about a month's travel for Jonah
+
 
 1) "second time" ~ many Bible characters were given a second chance: Abraham, Moses, David
 ...this was the point of Stephen's sermon [Acts 7] which was interrupted by his death.
