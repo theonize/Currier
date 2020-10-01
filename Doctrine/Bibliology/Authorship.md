@@ -14,4 +14,6 @@ Some texts that indicate this are:
 e.g. "unto this day" ~ what day?  [Deut 3:14] makes no sense in Moses' day.
 It does make sense in an exilic time-period.
 \
+e.g. "Dan" in [Gen 14:4] ~ the city of Lachish is referred to as Dan but it was not named so until the tribe settled there after Joshua's conquest.
+\
 The point is that scripture was written _and edited_ [mostly during the exile] under inspiration.

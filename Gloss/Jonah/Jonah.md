@@ -30,3 +30,16 @@ This book is upside-down
 - the gentile nation is repentant
 - the messenger is regretful of God's mercy
 - though saved, Jonah was reluctant to share such
+
+
+10 Miracles
+1. Storm
+2. Lots cast to Jonah
+3. Sudden storm end
+4. Great fish
+5. Preservation of Jonah
+6. Ejection of Jonah
+7. Repentance of Nineveh
+8. The Gourd
+9. The Worm
+10. East WInd
