@@ -17,9 +17,30 @@ Tarshish
     Heroditus said it was beyond the **Pillars of Hercules** = the straits of Gibraltar
 
 Jonah is continually going down:
+- to Joppa
 - into the ship
+- laid down
 - into the sea
 - into Sheol
+
+The center of the Earth...furthest down.
+
+Miracles
+- storm, rising
+- storm, departing
+- fish
+- vomiting
+- Nineveh repenting
+- the plant
+- the worm
+
+Upside-Down
+- Jonah
+-
+- Sailors
+- 
+- Message
+- Man-of-God waiting for other's destruction
 
 
 The storm was abnormal ~ it frightened seasoned sailors
