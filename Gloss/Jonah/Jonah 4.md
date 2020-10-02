@@ -15,5 +15,9 @@ Jonah is still going for his will
 6) Jonah's shade was insufficient so God provided the difference.
 Jonah still needed his head covered.
 
+The plant is __qiqayon__ ~ probably palma christi (the castor bean plant)
+...it can grow 12-18" per day
+- [1Kgs 7:24]()
+
 
 11) Interesting that God slew as many Asyrians in one night during Hezekiah's reign.
