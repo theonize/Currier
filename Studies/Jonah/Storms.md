@@ -1,0 +1,4 @@
+Grace - Has God given you something you didn't deserve?
+Mercy - Has God not given you something you did deserve?
+Outlook - Has God taken things from you that limited your perspective?
+Reveal - Has God brought a storm that reveals your heart condition?
