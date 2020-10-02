@@ -1,4 +1,4 @@
-# Jonah
+# Jonah Overview
 
 The book of Jonah was written during or close after the exile.
 
@@ -27,9 +27,21 @@ Jonah was from Gath-Hepher [2Kgs 14:25] which was a little north of Nazareth
 
 This book is upside-down
 - the prophet of God is running away
+- sailors worship God
 - the gentile nation is repentant
+- the message is neither grace or mercy
 - the messenger is regretful of God's mercy
 - though saved, Jonah was reluctant to share such
+
+
+7 greats
+- great city
+- great wind
+- great storm
+- greatly feared
+- great fish
+- greatly displeased
+- greatly happy
 
 
 10 Miracles
