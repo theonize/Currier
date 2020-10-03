@@ -26,4 +26,4 @@ The sailors come to God through Jonah's ineptitude.
   Is 64:6
 
 
-16) How ironic that the pagan sailors actually feared Yahweh and Jonah did not...though he said so.
+16) Ironic that the pagan sailors actually feared Yahweh and Jonah did not...though he said so.

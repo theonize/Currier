@@ -6,11 +6,12 @@ Event occurred around 759BC
 
 Only Jonah, Isaiah, Elijah, and Elisha are mentioned by Christ [by name].
 
-People
+Characters
 - God
 - Jonah
 - Sailors
 - King
+- Fish
 
 Places
 - Israel
