@@ -6,6 +6,18 @@ Event occurred around 759BC
 
 Only Jonah, Isaiah, Elijah, and Elisha are mentioned by Christ [by name].
 
+People
+- God
+- Jonah
+- Sailors
+- King
+
+Places
+- Israel
+- Assyria
+- Nineveh
+- Sea
+
 Jonah was:
 - a patriot (see Ch. 1 notes).
   - [1Kgs 14] ~ Jonah prophesied that the northern kingdom's territory would expand under Jeroboam II
