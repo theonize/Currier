@@ -1,14 +1,5 @@
 # Jonah 1
 
-7 greats
-- great city
-- great wind
-- great storm
-- greatly feared
-- great fish
-- greatly displeased
-- greatly happy
-
 Tarshish
     [1Kgs 10]
     [Jer 10]
@@ -16,10 +7,7 @@ Tarshish
 
     Heroditus said it was beyond the **Pillars of Hercules** = the straits of Gibraltar
 
-Jonah is continually going down:
-- into the ship
-- into the sea
-- into Sheol
+Jonah is continually going down; The center of the Earth is the furthest down.
 
 
 The storm was abnormal ~ it frightened seasoned sailors

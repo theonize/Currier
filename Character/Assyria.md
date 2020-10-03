@@ -27,3 +27,7 @@ During the time of the prophets they were a threat to the northern kingdom Israe
   Is 30:27-33
   Is 37:21-35
   Hos 4-14
+  
+722BC - Assyria destroys the Northern Kingdom (Israel)
+759BC - Assyria besieges Jerusalem, an angel wipes out half the army [Isaiah 39]()
+612BC - Assyria is conquered by Mede/Scythian/Bablyonia coalition
