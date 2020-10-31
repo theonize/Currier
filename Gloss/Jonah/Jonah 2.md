@@ -1,8 +1,8 @@
 # Jonah 2
 
 Did Jonah die in the fish?
-Death seems more likely practice and with the resurrection sign in view.
-Also, he prayed from. "the belly of Sheol"
+Death seems more likely and with the resurrection sign in view it is not infeasible.
+Also, he prayed from "the belly of Sheol", the grave.
 
 Sign of Jonah
   [Matt 12:39]
@@ -17,6 +17,12 @@ Sign of Jonah
 Historical whale swallowing survivors:
 - M.Deparvelle: 1891, James Bartley, Star of the East, Falkland Islands, 
 - Harry Rimmer: English sailor, England
+
+This book has many quotations from other scripture
+Later scripture (i.e. Lamentations) draws from this peom
+...this implication is two-fold:
+  - Jonah knew scripture [very well]
+  - Jonah's writing were well known and/or drew from common Jewish sacred phrases of the time
 
 1) "From the bowels" ~ after a thousand moral choices that ended in the pit Jonah recognizes his fallenness.
 He also recognizes that Yahweh is the answer - we are completely helpless.
@@ -43,3 +49,5 @@ We have this in the assemblies of the Church.
 An idol is a thing, other than Yahweh, that we think will give us security, significance, or acceptance.
 
 9) The sincere desire to sacrifice comes from thankfulness.
+
+[John 13:17]() ~ knowing is not enough, doing is necessary

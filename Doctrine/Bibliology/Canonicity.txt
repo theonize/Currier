@@ -92,10 +92,14 @@ Circular
 ### Today
 	Modern Tanakh has 34 books
 	Anglicized tanakh has 39 books
+	- the difference is Samuel-Kings is divided into 4 pieces nowadays
+	- Ezra-Nehemiah was combined
 
 ## Selection Process
 Both the Jews and Church fathers took consensus as divine inspiration
+- e.g. Origen, Book of 1Enoch
+	- Origen defending the canonicity of 1Enoch, but gave up the banner when he was the only one left holding it
+
 
 ### old testament
 Early Church fathers selected the books that they knew to exist in Hebrew
-

@@ -21,7 +21,13 @@ Chronicles leaves out:
 - The northern kingdom is hardly discussed
 - Manasseh's salvation is displayed
 
-The when explains the why - the date of authorship exudes meaning.
+The when explains the why 
+- the date of authorship exudes meaning.
+- sequence of events is also important
+  - first, what was the actual sequence
+  - second, what order were the elements portrayed in
+  - finally, what was left out and why?
+    - e.g. [2Kgs 16]() vs [Ezra 7](); both genealogies of Ezra (linking him to Aaron) but one is shorter ~ why?!
 
 i.e. 4 gospels because diversity is divinely enforced.
 - Chronology
@@ -33,7 +39,7 @@ i.e. 4 gospels because diversity is divinely enforced.
 
 ## Theology
 
-How the biblical authors deal with God?
+How do the biblical authors deal with God?
 
-
-
+e.g. Anthropomorphic & Divine
+- There are many divine being but Yahweh is unique among them [as creator]

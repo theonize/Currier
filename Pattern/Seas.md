@@ -1,6 +1,16 @@
 # Seas
 ## indicative of the masses
 
+The first Bibilical setting is the chaotic waters on the earth
+
+Noah ~ chaotic waters
+
+Exodus ~ parting the chaotic water; i.e. Red Sea
+
+Jesus
+- entered the waters to be baptized
+- 
+
 
 {Is 17:13}
 {Isaiah 57}

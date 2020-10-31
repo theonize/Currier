@@ -5,7 +5,7 @@ writer
 -	"We have 110% of the text, not 90%" D.Wallace via G.Koukl
   -	str.org; Greg Koukl: re: "Misquoting Jesus"
 -	it is possible to eliminate the spurious renderings
-	
+
 writings
 -	textual criticism's goal is to recover the autographa as they left the Apostle's hand(s)
 -	danielbwallace.com: "The Number of Textual Variants: An Evangelical Miscalculation"
@@ -25,10 +25,11 @@ sureties
 	-	multi-level patterns
 	-	accuracy
 	-	precision
-		-	Zedekiah
+		-	Zedekiah ~ seemingly conflicting prophecies all come true
 			-	Jeremiah 34:3
 			-	Ezekiel 12:13
 			-	2 Kings 25:7
+		- Also Jonah's prophecy about the northern kingdom and Amos' reversal prophecy
 		-	Sojourn in Egypt
 			-	Gen 15:3, Acts 7:6 ~ 400yrs bondage
 			-	Ex 12:40-41 ~ 430yrs habitation

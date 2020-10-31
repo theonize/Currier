@@ -1,7 +1,20 @@
-It is impossible to determine if there is a "best" order for the canonical books.
-...even if you adopt the protestant canon as penultimate.
-This order preserves some symmetry with historical compilations and meaningful adjacency based on content and usage of the books.
+# Inspired Order
+...of canonical books in the Bible
 
+It is impossible to determine if there is a "best" order for the canonical books.
+...the protestant canon is more of a grouping by types, then chronology
+	- given by Jerome
+	- loosely follow Jesus' demarcation of Law & Prophets
+	- This order preserves some symmetry with historical compilations and meaningful adjacency based on content and usage of the books.
+Note that it is impossible to give a _chronological_ order of the books:
+- there are sequential events that are split up between books
+- the contents of books are well established
+	- the transmitted contents are inspired
+- ...and self-contained 
+	- this makes the Bible resistant to dismemberment because theological principles are dispersed throughout 
+
+
+This is the Tanakh ordering:
 
 Genesis
 Exodus
@@ -36,6 +49,9 @@ Esther (Feast of Purim)
 Daniel
 Ezra-Nehemiah
 Chronicles
+
+...note that Matthew is a natural follow-on to Chronicles as it promotes Jesus as Kings
+
 Matthew
 Mark
 Luke

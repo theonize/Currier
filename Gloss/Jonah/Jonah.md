@@ -1,6 +1,10 @@
 # Jonah Overview
 
 The book of Jonah was written during or close after the exile.
+Three facets
+- Upside-downness
+- I am Jonah
+- Providence
 
 Event occurred around 759BC
 
@@ -24,6 +28,10 @@ Jonah was:
   - [1Kgs 14] ~ Jonah prophesied that the northern kingdom's territory would expand under Jeroboam II
   - did not want to help his enemies
 - a contemporary of Hosea, Amos, and Jeroboam
+- from Galilee, [2Kgs 14]()
+  - 4mi NE of Nazareth
+  - [John 1:46]()
+  - []
 
 Jesus taught of the sign of Jonah (see Ch. 2 notes)
 - Luke 11
@@ -68,3 +76,6 @@ This book is upside-down
 8. The Gourd
 9. The Worm
 10. East WInd
+
+4 Throws
+4 Fears

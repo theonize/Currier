@@ -9,3 +9,9 @@ Leviathan
 {Is 27}
 	spiritual linkage
 	{Gen 3}
+
+Ez 29:3
+Jer 51:34
+
+The fish is Jonah was NOT this creature.
+- however things Jonah are upside down
