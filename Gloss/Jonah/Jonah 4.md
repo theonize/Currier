@@ -2,9 +2,14 @@
 
 We love mercy when it's directed at us.
 ...not when it's for others.
+We also tend to hope for the destruction of [other] sinners
+
+1) 
 
 2) How dispicable are we to be angry at God's favour.
 Jonah was trying to prevent this.
+
+3) Jonah's second plea for death
 
 
 5) Jonah never answers God's question.
@@ -23,3 +28,6 @@ The plant is symbolic of _the comforts of home_.
 
 
 11) Interesting that God slew as many Asyrians in one night during Hezekiah's reign.
+These people were innocent - in the sense that they didn't know right from wrong.  Not deserving of mercy but God's jealousy burns anyway.
+
+

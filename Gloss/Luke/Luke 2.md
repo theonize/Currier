@@ -15,6 +15,13 @@ Born of virgin ~ [Is 7:14]
 [Jer 1:12] ~ God is precise in His plans
 
 
+The sequence
+- The registration drove Joseph & Mary to Galilee
+- Mary gave birth in a manger
+- Shepherds were informed by "an angel of the Lord"
+- Shepherds went to Mary & Joseph
+- Circumcision
+
 10) "Don't be afraid" is a platitude - it really can't be helped
 
 

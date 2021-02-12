@@ -12,6 +12,10 @@
 Zechariah = He remembers
 Elizabeth = His oath
 
+Incarnation Sequence Part 1
+- Gabriel messaged Mary
+- 
+
 
 13) JtB = [Is 40:3]
 
