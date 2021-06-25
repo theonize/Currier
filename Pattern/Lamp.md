@@ -29,3 +29,6 @@ Output:
 * Matthew 6:22 | “The eye is the lamp of the body. So, if your eye is healthy, your whole body will be full of light,
 * Proverbs 15:30 | The light of the eyes rejoices the heart, and good news refreshes the bones.
 * Luke 11:34 | Your eye is the lamp of your body. When your eye is healthy, your whole body is full of light, but when it is bad, your body is full of darkness.
+
+Counter-Example:
+* [Prob 21:4]()

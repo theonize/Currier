@@ -5,3 +5,8 @@
 Silver cord ~ the lifeline connecting our body to our soul
 Golden Bowl ~ the spiritual organ associated with the mind
 
+
+11-12) truth comes from Yahweh
+  it is distilled through various media
+  rehashing existing content is the norm
+  thought-work fatigues the body

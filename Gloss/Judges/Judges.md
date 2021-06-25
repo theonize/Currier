@@ -68,3 +68,5 @@ Perennial Pockets of Conflict
 Technology
 - at this time the Philistines had an edge with iron chariots
 - later the Israelites would have steel weapons...giving them the edge
+
+
