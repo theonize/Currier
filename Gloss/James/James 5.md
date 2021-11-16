@@ -1,4 +1,7 @@
+# James 5
 
+
+13-18) No prayer means no relationship ~ with God or others.
 
 16)
 The effectiveness of a prayer is based on our proximity to God.

@@ -29,6 +29,8 @@ The sequence
 among ~ en = constructively "in" and "to"
 
 
+28) Simeon blessed God ~ it is not the result that makes it a blessing but the intention
+
 
 29) _depart_ ~ to loose or unyoke; all of meanings fit we as prisoners set free
 

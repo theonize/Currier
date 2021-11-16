@@ -1,10 +1,39 @@
+# Light 
+
+Light is pure and...illuminating... ;p
+
+Blamelessness, goodness, and righteousness are akin to "light"
+
+It is most obviously this aspect of light that pertains to God.
+However, there seems to also be a physical aspect of brilliant light to God
+- He shines
+- He blinds
+
+
+As believers:
+- you "are" light
+- you "have" light
+- you are "of" light
+
+light "of" the eyes
+light "in" the Lord
+light is _sweet_
+
+Yahweh is
+- "as" light
+- "gives" light
+
+evil is akin to misconstruing light for darknes, v.v.
+
+====
+
 Ephesians 5:8|for at one time you were darkness, but now you are light in the Lord. Walk as children of light
 
 Esther 8:16|The Jews had light and gladness and joy and honor.
 
 Genesis 1:4|And God saw that the light was good. And God separated the light from the darkness.
 
-Genesis 1:16|And God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars.
+Genesis 1:16|And God made the two great lights — the greater light to rule the day and the lesser light to rule the night—and the stars.
 
 Isaiah 5:20|Woe to those who call evil good and good evil, who put darkness for light and light for darkness, who put bitter for sweet and sweet for bitter!
 

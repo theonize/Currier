@@ -42,6 +42,8 @@ outline:
 beth
 	[10] - seeking = steadfastness
 
+  [15] - the heart & soul of this song ~ I will, add the NET Bible puts it, "focus on your behavior"
+
 gimel
 	[18] - looking = wonderment
 

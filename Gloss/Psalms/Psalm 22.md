@@ -19,6 +19,13 @@ The power of this prayer is in the naming of circumstances and conditions.
 - Deliver
 - Save
 
+
+26) Seekers are not rewarded with answers but with joy.
+
+
+29) Every knee will bow [Is 45:23](Is 45:23)
+
+
 The psalmist is assuming that God knows what to do 
 
 

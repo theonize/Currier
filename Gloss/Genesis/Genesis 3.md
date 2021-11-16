@@ -19,6 +19,24 @@ This kind of extrapolation was to become a typical Jewish perogative.
 11) "Who told you that you were naked?"
 
 
+14, 17) Two cursed things: the serpent and the land
+
+15) Protovangelion ~ first good news
+Man attacks first, then the Nachash
+attack/bruise ~ shuwph ~ an expansive, crushing blow
+  - Job 9:17
+  - PS 139:11
+
+
+16-19) The commandment is God, to be fruitful and multiply, is now made exceedingly difficult as a consequence of The Fall.
+
+
+16) the pain is not just physical but the emotional distress of worry and uncertainty
+
+The woman wants to control the man.  The man wants to dominate the woman.
+The ideal is implied by contrast: a complementary submission based on God-given roles.
+
+
 20) Adam's responded to his wife by naming her (and later reproduced with her)
 
 

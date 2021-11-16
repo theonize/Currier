@@ -10,6 +10,10 @@ meekness = power under control (i.e. nothing to prove)
 ~ Greek term is as a salve, soothing
 ~ long-tempered
 
+
+4-6)
+
+
 11-16)
 Calling
 Character
