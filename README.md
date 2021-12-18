@@ -1,4 +1,4 @@
 # Currier
 Matthew Currier
 
-[Wisment and Discerndom](http://doulos-software.github.io/Currier/)
+[Wisment and Discerndom](http://theonize.github.io/Currier/)
