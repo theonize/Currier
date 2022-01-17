@@ -6,6 +6,7 @@ Possibly lived 620-538BC (82yrs).
 Authorship dates for range from 6th to 2nd century B.C.
 Arguments for a late date of authorship (that are most viable) are that the book fits later apocalyptic genre very well.
 The book uses vocabulary and language features dating from the 6th century but also fits with later apocalyptic material (curious if this book was the originating literature for the style.)
+Note also that Daniel was part of the Septuagint, which was codified around 300BC ~ so, at the very least it was complete in the form we have now before the messianic prophecies were fulfilled and before many of the grecian prophecies as well.
 
 If we take Jesus' word that A) Daniel was a prophet and B) there are predictive prophecies in his book (e.g. abomination of desolation) then neither view is problematic.
 e.g. There are predictions in chapter 11 which are yet future.
@@ -28,14 +29,17 @@ Adjacent History:
 * A couple of centuries later the Greeks will have risen and conquered Persia
 * When Alexander the Great dies the Greek Empire is split between four leaders
 * The Wise Men who visited Jesus were descended from Daniel ~ he started that society and passed on his knowledge and list for Yahweh's kingdom.
+
+
+Orthogonal History:
 - 605BC: Babylon conquered Assyria at Carchemish
 - 597BC: Babylon ensieged Jerusalem and installed Zedekiah
 - 589BC: Zedekiah rebelled anyways and Jerusalem again ensieged
 - 586BC: Jewish captivity and exile begins
 - 539BC: Cyrus takes Babylon
-- 458BC: Ezra's temple rebuilding begins
-- 445BC: Nehemiah's adventure begins
-  ^ 1335 v
+- 458BC: Ezra's temple rebuilding begins, first decree to rebuild the temple
+- 445BC: Nehemiah's adventure begins, second decree to rebuild the wall
+  ^ 1335 days v
 - 334BC: Alexander the Great invaded Persia
 - 323BC: When Alexander the Great dies the Greek Empire is split between four leaders
 

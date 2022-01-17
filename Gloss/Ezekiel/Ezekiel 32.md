@@ -18,4 +18,3 @@ inquities on bones ~
 - may be 'shields' via copyist error
 - may be distinctive markings
 
-

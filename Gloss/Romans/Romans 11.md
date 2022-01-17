@@ -1,6 +1,9 @@
 # Romans 11
 
 
+25) 
+
+
 26) What is "all Israel"
 - ethnic Jews?
 - subset of Israel?  all Jews are Israelites but not all Israelites are Jews

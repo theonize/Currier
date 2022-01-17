@@ -31,5 +31,12 @@ The sheep know their shepherd's voice
 ...a proverb, figurative speech
 
 
+22) dedication...in winter ~ i.e. Hannukah
+	~ not a Mosaic feast
+	~ an event based on events in the Macabbean revolt
+	~ idiomatically future-referred as an important "feast"
+	~ incidentally, the time of Jesus' conception
+
+
 25) Jesus equates _works_ with _telling_
 We have such a propensity to say things that are not corroborated by our actions.
