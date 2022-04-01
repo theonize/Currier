@@ -18,4 +18,3 @@ It also references external books:
 
 	Evil Deeds	[Is 65:6]()
 	Those Who Fear	[Mal 3:16]()
-

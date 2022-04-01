@@ -17,6 +17,12 @@ Unlike other Pharisees Nicodemus doesn't ask a question - he has no hostile agen
 3) Without a leading question to overcome Jesus can cut straight to the His pet issue: rebirth
 
 
+11) Who is "we" and "our"?  It must be God & man...all 3 faces of God.
+
+
+14-18) He mixes tenses here - past, present, and future
+
+
 14) [Num 21]
 
 
@@ -29,3 +35,7 @@ eternal life ~ [John 17:3], starts now
 
 21) Like [Ex 34:29] it is obvious who had been with God
 
+
+25-30) Sometimes God makes ministries obselete.
+
+31-36) Kind of a revamp of Jesus engagement with Nicodemus.

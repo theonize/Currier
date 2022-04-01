@@ -38,5 +38,13 @@ The sheep know their shepherd's voice
 	~ incidentally, the time of Jesus' conception
 
 
+24-33) immediately after asking Jesus if he is the Messiah, He claims his deity and they balk- trying to stone him.
+
+
 25) Jesus equates _works_ with _telling_
 We have such a propensity to say things that are not corroborated by our actions.
+
+
+34-38) believers are gods in the same way Abraham's offspring are like stars ~ there is a divinity present in the believer that is aloof in others.
+Also, as in Acts 5, he foreshadows the eternal continuity of the Church instantiated through dispersion of power.  i.e. since the Spirit is in all believers the Church goes on in that power.
+

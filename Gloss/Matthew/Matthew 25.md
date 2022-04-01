@@ -1,0 +1,49 @@
+Matthew 25
+
+
+1-13) Ten virgins
+Partial Rapture: Lot is a type of the remnant/Church whereas he _had_ to be removed before the judgment could fall
+
+14-30) Talents were highly valuable coinage
+	even the single talent was not trivial
+	he gave talents based on ability/skill
+
+[Luke 19] ~ complementary, everyone gets the same amount
+
+18) this seems like a natural, safe thing to do - but it turns out to an indefensible, punishable position
+
+
+21,23) the joy of your Master
+	[Zeph 3:17]
+	
+
+24-25) the man did not really know the Master
+	the servant disregards/denies the Master's claim on the talent
+	perhaps he was hiding his connection with the Master
+	the wicked servant's talent is given the successful servant
+
+25) part of Jesus purpose is to divide the earthly kingdom
+
+
+29) the issue is responsibility: it begins with wealth given freely to us which naturally multiplies - unless it is hidden
+
+
+31-46) Sheep N Goat Judgment
+	[Ez 34:17] ~ judging between two types
+	traditionally the goat on the left went to Yhwh, the other went off the cliff
+
+34) 'from the foundation of the world'
+		[Heb 4:3]
+		[Is 40:21]
+		[Rev 17:8]
+		[1Kgs 7:9]
+		[Matt 25:34]
+		[Luke 11:50]
+	 - as opposed to -
+	'before the foundation of the world'
+		[Eph 1:4] ~ defining the Church
+		[John 17:24] ~ high priestly prayer
+		[Rev 13:8]
+		[1Pet 1:20]
+
+41) the judgment prepared for the watchers is expanded to include the "goats"

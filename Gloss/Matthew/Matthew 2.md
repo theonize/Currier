@@ -15,3 +15,7 @@ Insulted			<slandered>		great reward in heaven
 11) gold [Is 60:6]
 frankincense [Ps 72:15]
 myrrh [Jer 6:20]
+
+
+23) [Is 53:2]()
+

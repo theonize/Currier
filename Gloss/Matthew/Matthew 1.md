@@ -27,3 +27,7 @@ The plan
 The prophecy
 - [Is 7:14]()
 - 
+
+
+11) Jeconiah's line was cursed [Jer 22:28-30]()
+
