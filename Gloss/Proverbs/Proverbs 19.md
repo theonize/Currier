@@ -9,6 +9,9 @@
 We are all poor and needy in spirit.
 
 
+9) 
+
+
 10) We can run "into" His name by invoking it and {Ex 21:7} standing under it
 
 
@@ -16,8 +19,8 @@ We are all poor and needy in spirit.
   {Deut 21:18+} - we rebels deserved death, but He pardoned us
   Thank God for His discipline.
 
-19) This is especially important for someone being groomed toward leadership. 
-
+19) This is especially important for someone being groomed toward leadership: we are no longer servants of Christ upon salvation, we are brothers.  [John 15:15]()
+  A brother and friend __can__be disciplined by words because the heart is involved and emotion cements the lesson.
 
 22) what does it take to be a real man?  steadfast love
 

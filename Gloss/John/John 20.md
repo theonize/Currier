@@ -36,6 +36,7 @@ my Father, your Father; my God, your God ~ a message of adoption & inclusion for
 22) was the breath literal/ceremonial? or was it an indication of the transfer of the __pneuma__?
 
 23) the stickiness of forgiveness, or its lack, seems to be a result of being Spirit-filled
+We should be confessing to each other, this is encouragement to do that.
 
 
 27) Jesus showed His scars to the others (v.20) but He offered a touch to Thomas
