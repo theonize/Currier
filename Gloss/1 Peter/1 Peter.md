@@ -1,7 +1,6 @@
 1 Peter
 
 
-Likely written during Nero's persecution ~ 63 A.D.
 
 
 The whole epistle accords with the Lord's prayer
@@ -14,3 +13,34 @@ daily bread: 5:7
 forgiveness of sins: 4:8
 temptation: 4:12
 deliverance: 4:18
+
+
+Who?
+    wrote it: Apostle Peter
+    wrote to: 10 tribes, scattered
+
+
+What?
+    Christ ... brings us to God
+    Jesus preached to fallen spirits
+    Baptism...saves?
+    - [Luke 7:46-48] ~ proof of faith
+    - tenses: past, present, future
+        < I was saved ~ born again
+        - I am saved ~ sin, old man
+        > I will be saved ~ 2nd coming, New Eden
+    Jesus is now in charge
+
+
+When?
+    Likely written during Nero's persecution ~ 63 A.D.
+
+
+Where?
+    from "Babylon" ~ Rome
+    to dispersed people (Diaspora)
+
+
+Why?
+    out of obedience
+    encouragement
