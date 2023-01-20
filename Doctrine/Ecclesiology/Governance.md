@@ -1,6 +1,6 @@
 Ecclesiastical Governance
 
-
+[Eph 4-11-13]()
 
 	Episcopals
 

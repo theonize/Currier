@@ -1,7 +1,7 @@
 # The Process
 
 Read yourself full
-Think yourself empty
+Talk/Think yourself empty
 Write yourself clear
 
 This quip is not original, but it is a summation of the act of studying that will help us in our learning.

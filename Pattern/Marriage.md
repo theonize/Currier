@@ -1,4 +1,10 @@
-Marriage
+# Marriage
+
+
+## Polygamy
+
+[Deut 7:3]()
+[Deut 17:17]()
 
 
 Adultery - replacement of the wife
@@ -15,4 +21,3 @@ celibacy
 	"virgin" x7
 Thess?
 Eph 5
-

@@ -1,5 +1,13 @@
 Prophecy
 
+prophecy is pattern
+patterns have two elements
+  1. Kernel
+  2. Algorithm
+  ...the kernel is some core thing that is replicated; the replication is done according to some algorithm.
+  e.g. a crystal has a minimal, indivisible unit; in a primed environment it will replicate in a certain way
+  i.e. patterns are identifiable in the whole and in parts
+
 
 [Acts 17:11]
 [1Jon 2:27]

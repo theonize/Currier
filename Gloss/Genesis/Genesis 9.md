@@ -1,9 +1,11 @@
 # Genesis 9
 
+"Be fruitful and multiply" ~ continuing the Adamic typology
+
 
 20-27) There are idioms and verbage here which indicates some sexual act.
 Canaan is cursed, not Ham.
-"See the nakedness" is only powerful as an idiom (it's mostly unavoidable in normal family life [occassionally]):
+"See the nakedness" is only powerful as an idiom (it's mostly unavoidable in normal family life):
 	[Lev 20:17] ~ this exposits the idiom - it implies sexual intercourse
 	[Ez 16:35-37]
 	[Ez 23:10+]

@@ -1,6 +1,12 @@
 # Church
 ~ all believers, ever
 
+[Matt 18:20]()
+
+[1Tim 3:15]()  the church is the pillar of truth
+
+[Eph 2:19-3:1, 14-16]()
+
 
 Occurrences of ekklysia:
 

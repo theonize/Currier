@@ -1,6 +1,11 @@
 # How to Study Your Bible
 
-Ostensibly, though we a focusing on the Bible, this study method applies to any area.
+[Acts 17:11]
+[1Jon 2:27]
+[Matt 6:6]
+
+
+Ostensibly, though we are focusing on the Bible this study method applies broadly.
 Studying is: reading, thinking, and writing about a subject.
 This study method strives to be:
 - easy to remember
@@ -10,10 +15,10 @@ This study method strives to be:
 Some things that will help you study well are:
 - Telling others what you are studying so you can be accountable and muse with them.
 - Set aside a specific, consistent time to study.
-- Have a goal for you entire study.
-- Have a goal for each study session
+- Have a goal for your entire study.
+- Have a goal for each study session.
   - If you meet this goal and want to continue, go ahead.
-  - Don't stop until you've met this goal, if the goal is to lofty then change it **next time**
+  - Don't stop until you've met this goal, if the goal is too lofty then change it **next time**
 
 
 ## Reading
@@ -25,9 +30,9 @@ There are four types of reading:
 - Applying
 
 These need to be done in order.
-However, if your outcome does not demand it, you make skip later steps.
+However, if your outcome does not demand it, you may skip later steps.
 e.g. if you are studying familiar material
-e.g. you are not interested in the subject (you just have to study it)
+e.g. you are not interested in the subject (you are compelled to study it)
 Remember this: not all writings are worth all these levels of inquiry.
 i.e. this is why the Bible is a great place to learn to study: because it is worth all efforts put against it.
 
