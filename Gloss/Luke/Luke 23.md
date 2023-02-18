@@ -1,6 +1,12 @@
 Luke 23
 
 
+26-31) During His darkest day, in a brief reprieve, Jesus takes the opportunity to lift the despairing followers.
+
+
+31) Green wood is no longer a valid party of the plant, neither is it good for kindling.  The destitute exist interstitially between useful states- the fold of a loving chiasm.
+
+
 44-49) Responses to the cross
   44-45.  The Father grieved
   46. Christ enacts

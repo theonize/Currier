@@ -2,9 +2,13 @@ GOD
 
 
 elohim = place of residence
+	El ~ generic term for God
+	H'm ~ sea, a vastness (i.e. M'm is a vast collection of waters; $m'm is the heavens, a vast collection of ?firmament?) 
+
 	there are many elohim, but only one Yahweh
 	Yahweh is elohim, but no other elohim is Yahweh
 	human souls (Samuel), demons, and God are all referred to as elohim
+	angels are "elohim"
 
 	not tied to a specific set of attributes
 
@@ -24,7 +28,9 @@ Son refers to:
 {Gen 19:24} - YHWH rained...from YHWH...
 {Amos 4:11} - I have wrought...as when God...declares YHWH
 {Gen 22:11-12} - God said...angel of the Lord...He said...I know...
-	
+
+[Ex 3-8]() - Moses is "as Elohim" to Pharaoh
+
 {John 1:18}
 	the 'only' God _at the Father's side_ had made him known
 	- two at the same level/position

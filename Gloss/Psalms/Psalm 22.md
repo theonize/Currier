@@ -10,6 +10,7 @@ The power of this prayer is in the naming of circumstances and conditions.
 
 
 12) ~ the leaders of the realms of the dead (Bashan)
+Bashan ~ Aramaic for "snake", the rulers of the serpent's land; [Deut 3:10-11]()
 
 
 19) We make it over halfway through the song before a request is made.

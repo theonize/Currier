@@ -69,6 +69,20 @@ The Human Element
 			1 = unity, theosis, godliness (we blew it)
 			God takes the responsibility for preserving γραφει
 
+
+Authors
+----------
+There are many examples of editorial authorship beyond the original.
+e.g. the Tanakh we now have was scripted in a language that was codified during the Babylonian exile
+e.g. Gen 14:14 ~ Abraham is said to go-to Dan before Dan existed; could be project, could be that Jacob's son was named for the place, more likely an emendation by whoever compiled and edited Moses' scripts.
+e.g. Prov 25 ~ Solomon's proverbs were appended to long after his death.
+e.g. Septuagint ~ many NT authors quote the OT testament in Greek; this does not necessarily elevate the LXX but validates the notion of scriptural translation.
+
+However, this is not the same a JEDP and Deutero-Isaiah and such.  Those are largely based on circular reasoning with the stated goal of late-dating the records of divine revelation.
+In fact, Jesus validates Moses as author of Pentateuch: [Luke 24:27,44]()
+Jesus also quotes from both "halves" of Isaiah and attributes them to him: [John 12:38-41]()
+
+
 Influence
 	billions of lives changed
 	cleanliness

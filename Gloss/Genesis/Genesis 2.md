@@ -1,9 +1,19 @@
 # Genesis 2
 
 
-God does not _make man_.
-He forms man from the dust.
+Whereas chapter 1 is poetic, this chapter is narration.
+
+
+God does not _make_ man.
+He forms man from the dust; i.e. vicariously through a natural process (vicariously.)
 He works on us and among us physically.
+
+
+1-3) Shabbat; God establishes the pattern of 6x work && 1x rest
+...this repetition continues throughout scripture and beyond
+
+
+4) The first mention of Yahweh
 
 
 15) work & keep

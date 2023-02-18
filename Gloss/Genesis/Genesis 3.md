@@ -37,6 +37,8 @@ The woman wants to control the man.  The man wants to dominate the woman.
 The ideal is implied by contrast: a complementary submission based on God-given roles.
 
 
+19) Adam was taken "from dust"; doubly: made from carbon-based substance and from the ground, the barren, chaotic earth, into the garden.
+
 20) Adam's responded to his wife by naming her (and later reproduced with her)
 
 

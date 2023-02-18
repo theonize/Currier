@@ -3,6 +3,7 @@
 [Acts 17:11]
 [1Jon 2:27]
 [Matt 6:6]
+[Prov 1:5-7]
 
 
 Ostensibly, though we are focusing on the Bible this study method applies broadly.
