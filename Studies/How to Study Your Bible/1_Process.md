@@ -20,7 +20,7 @@ If we later decide to come back to this study then we can re-read ourselves and 
 
 Answer these questions:
 
-  What am studying? ___
+  What am I studying? ___
   
   Why am I studying it? ___
 
