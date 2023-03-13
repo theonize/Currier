@@ -3,6 +3,7 @@
 Read yourself full
 Talk/Think yourself empty
 Write yourself clear
+  Alistair Begg
 
 This quip is not original, but it is a summation of the act of studying that will help us in our learning.
 
