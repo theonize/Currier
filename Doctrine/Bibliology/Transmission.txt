@@ -1,12 +1,13 @@
-﻿Transmission
+# ﻿Transmission
 
 
-The Pattern
+## The Pattern
 	Discipleship
 		= training the next generation
 		~ the addict into rehab; intensive, then slowly given freedom to fly
-=======
-Providential Examples
+
+
+## Providence
 	Dead sea scrolls ~ 100BC - 100AD
 	Masoretic text ~ 1000AD
 
@@ -15,18 +16,21 @@ Providential Examples
 		10 years later ~ Christendom
 	Voltaire
 		"50 years from now: the world will hear no more about the Bible"
-		50 years later the Geneva Bible Society began printing Bibles on his printing press
+		50 years later the Geneva Bible Society began printing Bibles on his printing press, in his home.
 	Tyndale ~ executed for publishing an english Bible
 	Thomas Payne
 		"when I get through there will not be 5 Bibles in America"
+          Today there are more printed Bibles than there are people, and digital material dwarfs that; and we have more ancient documents than at any point in history.
 
-Why?
+
+## Why?
 	Titus 1 - He rescued us from lawlessness
 	1Tim 1:9 - the law is for the lawless
-	He gave us the law, and did it progressively, to author up as many saved as possible
+	He gave us the law, and did it progressively, to offer up as many saved as possible.
+     ++We stand on the shoulders of giants++, the understanding of God's revelation only grows and, with it, the Kingdom expands- just as God wills it.
 
 
-Written Language
+## Written Language
 	perspicuity
 		= able to look through, transparency, clearness
 		"the Bible is a plain book", see "Golden Principle" later
@@ -40,12 +44,18 @@ Written Language
 		not our responsibility directly
 			1Tim 2:3-4
 
-Progressive revelation?
+## Progressive Revelation
 	dates of transmission
 		revelation - not amendment
-			the λογος was already, the γραφει is created
+			the λογος was already, the γραφει is created...from legei
 		backwards compatibility is hard when it's perfectly intricate and expansive
-	types of transmission
+
+    Emmendation:
+    - punctuation was added later, to enhance, readability, but did not distort the meaning
+    - the original writings were compiled into what we now call "books" of the Bible- 
+
+
+## Types of Transmission
 
 The Human Element
 	tent-maker ~ skenopoios (scenographer)
@@ -70,20 +80,21 @@ The Human Element
 			God takes the responsibility for preserving γραφει
 
 
-Authors
-----------
+## Authors
+
 There are many examples of editorial authorship beyond the original.
 e.g. the Tanakh we now have was scripted in a language that was codified during the Babylonian exile
 e.g. Gen 14:14 ~ Abraham is said to go-to Dan before Dan existed; could be project, could be that Jacob's son was named for the place, more likely an emendation by whoever compiled and edited Moses' scripts.
 e.g. Prov 25 ~ Solomon's proverbs were appended to long after his death.
 e.g. Septuagint ~ many NT authors quote the OT testament in Greek; this does not necessarily elevate the LXX but validates the notion of scriptural translation.
 
-However, this is not the same a JEDP and Deutero-Isaiah and such.  Those are largely based on circular reasoning with the stated goal of late-dating the records of divine revelation.
-In fact, Jesus validates Moses as author of Pentateuch: [Luke 24:27,44]()
+However, this is not the same a JEDP and Deutero-Isaiah and such.
+Those are largely based on circular reasoning with the stated goal of late-dating the records of divine revelation.
+Jesus validates Moses as author of Pentateuch: [Luke 24:27,44]()
 Jesus also quotes from both "halves" of Isaiah and attributes them to him: [John 12:38-41]()
 
 
-Influence
+## Influence
 	billions of lives changed
 	cleanliness
 	legality

@@ -19,5 +19,6 @@ Isaiah 26
 	{Zeph 2:3} ~ perhaps _you_ may be hidden in the tribulation
 		you = the righteous & humble
 	These 3 elements reflect Noah's flood remnant
+     They may also foreshadow a rapture- a hiding of God's people during the tribulation
 
 21) the coming conqueror
