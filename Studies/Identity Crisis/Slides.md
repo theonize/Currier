@@ -1,5 +1,6 @@
 # Identity Crisis Slides
 
+
 ## Genesis 27
 ### Instantiation
 
@@ -9,11 +10,17 @@
 * Blessing...STOLEN!
 
 
+
+
+
 ## Genesis 28-29
 ### Matched Meet
 
 * If/Then God
 * Meets his match
+
+
+
 
 
 ## Genesis 30-31
@@ -24,12 +31,16 @@
 * Wife council
 
 
+
+
 ## Genesis 32-33
 ### Duality
 
 * Wrestling begets Israel
 * Shrewd alignment
 * Self Israel
+
+
 
 
 ## Genesis 34-35, 42
@@ -39,6 +50,12 @@
 * Monuments
 * Loss
 * Admonition
+
+
+
+
+
+
 
 
 ## Genesis 45-48
