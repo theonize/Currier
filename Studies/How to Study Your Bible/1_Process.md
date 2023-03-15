@@ -3,6 +3,7 @@
 Read yourself full
 Talk/Think yourself empty
 Write yourself clear
+  Alistair Begg
 
 This quip is not original, but it is a summation of the act of studying that will help us in our learning.
 
@@ -19,7 +20,7 @@ If we later decide to come back to this study then we can re-read ourselves and 
 
 Answer these questions:
 
-  What am studying? ___
+  What am I studying? ___
   
   Why am I studying it? ___
 
