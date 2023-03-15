@@ -1,39 +1,7 @@
 # Identity Crisis Slides
 
-
-## The Duality
-
-* Saved and saving
-* Ideal / Surreal
-* Jacob / Israel
-
-
-## What is a crisis?
-
-* Turning point
-* Fear
-* Outcome
-
-
-## What is identity?
-
-* Sameness
-* Same as what?
-* Nature
-* Nurture
-* Couldwouldashoulda
-
-
-## How do i learn my identity?
-
-* Others
-* Experience
-* Rumination
-* Mysticism
-
-
-## Patriarchal Testimony
-### Genesis 27
+## Genesis 27
+### Instantiation
 
 * Heel-grabber
 * Birthright...SOLD!
@@ -41,31 +9,31 @@
 * Blessing...STOLEN!
 
 
-## Patriarchal Testimony
-### Genesis 28-29
+## Genesis 28-29
+### Matched Meet
 
 * If/Then God
 * Meets his match
 
 
-## Patriarchal Testimony
-### Genesis 30-31
+## Genesis 30-31
+### Messiness
 
 * Womb war
 * Herd shenanigans
 * Wife council
 
 
-## Patriarchal Testimony
-### Genesis 32-33
+## Genesis 32-33
+### Duality
 
 * Wrestling begets Israel
 * Shrewd alignment
 * Self Israel
 
 
-## Patriarchal Testimony
-### Genesis 34-35, 42
+## Genesis 34-35, 42
+### Monuments
 
 * Dinah
 * Monuments
@@ -73,20 +41,10 @@
 * Admonition
 
 
-## Patriarchal Testimony
-### Genesis 45-48
+## Genesis 45-48
+### Legacy
 
 * Revival
 * Sacrifice
 * Exodus [to Egypt]
-* Hebrews 11:21
-
-
-## What good is my identity?
-
-* Truth ~ Testimony
-* Righteousness ~ Ethics & Morality
-* Salvation ~ Destiny
-* Evangel ~ Preparation
-* Faith ~ Belief
-* 
+* Worship
