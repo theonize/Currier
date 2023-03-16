@@ -12,7 +12,6 @@
 
 
 
-
 ## Genesis 28-29
 ### Matched Meet
 
