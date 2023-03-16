@@ -64,3 +64,8 @@
 * Sacrifice
 * Exodus [to Egypt]
 * Worship
+
+
+## Evangel
+
+Everybody counts or nobody does.
