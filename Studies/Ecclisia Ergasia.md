@@ -1,4 +1,5 @@
 # Ecclisia Ergasia
+~ church work
 
 
 ## Inclusion
@@ -19,7 +20,7 @@ The conundrum is that (unlike in a business) there is [usually] no obvious path 
 
 ## Earthen Vessels
 
-It is not the intention, herein, to belabor the business analogy but, rather, to conflate it- because it is not an analogy.
+It is not the intention, herein, to belabor a business analogy but, rather, to conflate it- because it is not an analogy.
 A business is a human community, so is a Church congregation.
 To deny their identity as such is to deny that there are fundamental truths under-rowing all human institutions.
 That said, it is important to acknowledge the sacred quality we feel about, and legally impose upon, Church institutions.
@@ -29,11 +30,11 @@ Similarly, a secular community is such because it's members deem it so- willingl
 Thus, we have businesses which are sacred and congregations which are secular.
 Because a believer is sacred ground and a non-believer is not.
 However, the sacrity of a community has no bearing on it's size, wealth, or effectiveness.
-These things are bourne of quality leadership.
+These things are bourne of the quality of leadership.
 And the same quality that makes a strong business will make a strong congregation.
 
 We seem to understand this metaphysically yet deny its importance.
-We choose to interpret Biblical texts about leadership as descriptive texts of human happenstance.
+We choose to interpret Biblical texts about leadership as descriptive texts of human happenstance [of the past].
 In fact, they are prescriptive texts which ought to shape our communitys' development.
 We eschew leadership and management wisdom in the forms of protocols, processes, and organization because we deem the "secular".
 The truth is that these things are no more secular than money: it is the usage, and by whom, that determines that.
@@ -52,7 +53,7 @@ Leadership is the ultimate answer to the woes of the modern Church.
 Poor leadership is the reason we have 10,000 denominations, stagnant congregations, and daily failed ones.
 
 Just as we are not stuck with the skills we had a birth; we are not stuck with the leadership we attained naturally (we are speaking of corporate and individual).
-Orthogonally, none of us have the talent of leadership- it doesn't exist and such a thing is nonsense.
+Orthogonally, none of us have the _talent_ of leadership- it doesn't exist and such a thing is nonsense.
 Certain aspects of leadership such as charisma, engaging speech, body-language, bearing, wisdom, and discernment may develop organically in one's upbringing but these are all skills.
 Skills can be developed.
 
@@ -60,7 +61,7 @@ Leadership is an emergent phenomena of every human community.
 Communities form expectations and requirements of their leaders and fit people into those roles.
 If a community is stale or unethical it is the fault of the community.
 If a community is vibrant and effective it is the fault of the community.
-It is the leader who perceives this and traffics in these ideals.
+It is the leader who perceives this and traffics in these ideals- for good or ill.
 
 Poor leadership springs from an errant community.
 We hear phrases like "just going along" or "stuck" in conjunction with poor leadership.
@@ -71,6 +72,7 @@ There is a tangible glow in communities that are healthy and effective.
 Confusingly, Church communities also receive joy and hope from God- which we often mis-represent as healthfulness and effectiveness.
 Even more confusingly, congregants who are spiritually mature can thrive in, and prop up, otherwise failing communities.
 This is, in fact, the state of the world at-large: the Holy Spirit inhabiting believers creates a catholic, moral pressure.
+We must not confuse this influx of energy with succes, though.
 
 
 ## Discipleship
@@ -84,12 +86,13 @@ They must also have a channel for communicating and the skill to use it.
 Failure to do so means expectations are not known, not set, or there is a blockage preventing the dissemenation of that information.
 
 The same can said of roles: members (including leaders) must know their talents, skills, and identity.
-The fundamentals of being human, male or female, with certain God-given gifts, and certain acquired abilities must be continually sought- knowing them is a process.
+The fundamentals of being human, with certain God-given traits and gifts, and certain acquired abilities must be continually sought- knowing them is a process.
 
 Therein lies the rub, there is no particular skeleton or framework of success.
 There are only seeds of success that grow into healthy organisms.
 Learning and growing can never be about making the most of who we are, it must be about becoming.
 If not then we are lost in the mental realm that Jesus died to rescue us from: that of trying to perfect a fallen nature and earn merit.
+That is to say: trying to patch up a shattered tree or sew it's roots back together.
 The appropriate approach to discipleship must begin with the end in mind.
 We must plan for success.
 We must strive to thrive.
@@ -103,15 +106,15 @@ Thus, they tumble along the path of time singing, listening, and paying the ligh
 Bending someone in the direction they should go is the mandate of a leader.
 God provides the growth, but He does it through means that we can obtain: nourishment, exercise, and rest.
 
-The nourishment is the Bread of Life- scripture.
+Nourishment is the Bread of Life- scripture.
 It begins with reading and ends with the ability to feed to others (at any level.)
 In between we learn to divine Biblical concepts, study history and languages, and write meaningful content.
 
-The exercise is wrestling with things we do not understand.
-It begins the black & white and ends with the grey.
-In between we begin to grasp which things are negotiable and which are not- an why.
+Exercise is wrestling with things we do not understand.
+It begins the black & white and ends with the compromise of our beliefs with His.
+In between we begin to grasp which things are negotiable and which are not- and why.
 
-The rest is rumination, inspection, and introspection.
+Rest is rumination, inspection, and introspection.
 It begins with simple reflection and ends with intercession.
 In between we experience restorative sleep and meditation.
 
@@ -123,10 +126,10 @@ We receive not because our white-wash is impermeable.
 There is a God who gave everything possible to restore a relationship with rebellious humans.
 We have rejected His offer.
 Even though some eventually accept it we occassionally toss it aside to wade in the shallows.
-Then we clamor back crying to Him about the leaches, bruises, and scrapes we received.
+Then we clamor back crying to Him about the leaches, bruises, and scrapes.
 
 It is time to stop entertaining notions of "better" and start codifying what it is God wants.
-This is how we make those things our things.
+This is how we make His ideals our ideals.
 We have millenia of human experience and divine revelation.
 We reject the first as worldly in lieu of the second, not realizing that they are the same.
 The work of the Church is before us yet we reject it because we reject the nature of human community for fear of it being something antithetical to God's plan.
