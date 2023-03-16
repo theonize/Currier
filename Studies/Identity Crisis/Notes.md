@@ -5,6 +5,7 @@
 ### What is identity?
 
 * Sameness
+  * 
 * Same as what?
 * Nature
 * Nurture

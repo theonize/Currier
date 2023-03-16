@@ -38,8 +38,10 @@ Euphrates ~ makes fruiful
 1-3) Shabbat; God establishes the pattern of 6x work && 1x rest
 ...this repetition continues throughout scripture and beyond
 
-
 4) The first mention of Yahweh
+
+5) the elohim - plural, the divine council
+	{Ps 8:5} {Heb 2:7}
 
 
 8) Eden is "in the east"; later, Babylon is in the east and things "from the east" are frightful.
