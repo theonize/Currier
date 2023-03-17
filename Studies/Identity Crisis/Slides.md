@@ -1,36 +1,32 @@
 # Identity Crisis Slides
 
+* You are unique...just like everyone else
 
-## Genesis 27
-### Instantiation
 
-* You're unique- just like everyone else
+# Genesis 26-27
+## Nature / Nurture
+
+* The Twin
 * Heel-grabber
+
 * Birthright...SOLD!
 * Mother knows best
-* Blessing...STOLEN!
 
 
+# Genesis 28-29
+## Match Met
 
-
-## Genesis 28-29
-### Matched Meet
-
+* Exile
 * If/Then God
 * Meets his match
 
 
-
-
-
-## Genesis 30-31
-### Messiness
+# Genesis 30-31
+## Messiness
 
 * Womb war
 * Herd shenanigans
 * Wife council
-
-
 
 
 ## Genesis 32-33
