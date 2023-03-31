@@ -76,7 +76,7 @@ It is not a conincidence that many have met God in the wilderness.
 It is when we are apart from the world and vulnerable that we are open to deepest influence by God.
 The vision [v.12] sets the stage for Jacob's further development and includes a promise.
 Jacob makes a conditional vow to God.
-It does not appear that he is looking for a loophole, an exit strategy.
+It does not appear that he is looking for a loophole or an exit strategy.
 It is more like Jacob acknowledging that God is God if God does what He says He will do.
 For [perhaps] the first time Jacob sees the providential orchestration and formation of his life.
 God is moving him and, though Jacob cannot know precisely where or how, preserving him.
@@ -98,3 +98,95 @@ Laban tricks Jacob by giving his elder daughter, Leah, in the marriage bed.
 Jacob is, understandably, shaken and irate.
 However, Jacob does wed Rachel a week later and agrees to a subsequent 7 year contract- which he fulfills.
 He has the underrowing of God's Spirit and the reminder of a promise of well-being.
+Laban is like a mirror to Jacob: he reveals unsavory parts of his character.
+Jacob's nature does not fundamentally change, rather it matures.
+These events serve to shape his identity.
+
+  The womb war ensures.
+Jacob loves Rachel but Leah bears him children.
+It is a strange interplay from modern eyes.
+However, the necessity of offspring is fundamental and Jacob understands the importance of them.
+
+
+## Genesis 30
+
+  Jacob works and works.
+Jacob fathers children through his two wives and two slaves.
+We know that, during this time, he also worked as a shepherd of Laban's flocks.
+It is interesting that Jacob is portrayed as a passive participant in the womb wars- he goes to whichever bed he is directed.
+This is a departure from the patriarchal cultural norm: Jacob's women have a higher place in his household than is typical (he learned this from his father and grandfather.)
+
+  Jacob grows.
+Jacob communicates to Laban his desire to leave.
+Laban balks and they strike a deal where Jacob will receive any discolored livestock from the flock.
+Laban promptly removes all discolored livestock and moves them away, attempting to force Jacob to stay.
+However, Jacob's flocks bear discolored offspring anyway; he specially waters them to attain this effect.
+So, we see the providence propogation of the genes favorable to Jacob.
+The effect is so monumental that Jacob becomes rich and his cousins accuse him of, somehow, cheating the system.
+
+At this point we can look back and see how God has shaped Jacob through the years.
+Only Providence can change a person's identity.
+Only Providence can give talents to a person.
+However, we must also recognize that knowledge and skills are developing through life experience.
+From these come wisdom and aptitude that allow us to apply our nature to reality.
+
+This is why is it nonsense to say things like, "I am a natural-born leader."
+Leadership prowess may, very well, depend on natural charisma, intellect, and speech-quality but involves many other skills which can only be developed over time.
+When undeveloped people are thrust into leadership too soon because of their natural abilities they tend to flounder or mis-lead because they lack the wisdom and aptitude necessary for the job.
+
+This is also why it is nonsense to say, "I identify as <something>."
+We cannot change our identity simply by stating it.
+Our identiy is defined by experience and genetics.
+To say "I am a male" is to perceive that my genetics correspond with those defined as male.
+To say "I am American" is to perceive that my birthplace is commensurate with those denoting such citizenship.
+
+Without this understanding it is impossible for us to know our identity.
+It is a thing to be grasped, not a thing to be placed.
+It is a thing that is created, not a thing that we make.
+In understanding our identity we see that providence is, indeed, the interplay between the actions of multiple beings: many created, one preeminent.
+We can also come to a deeper understanding of what God meant in declaring Hisself "I Am".
+God is what He is, we are what fundamentals and activity have made us.
+
+
+# Genesis 31
+
+  Jacob seeks council.
+Upon God's prompting Jacob plans his departure and seeks council from his wives.
+Laban's machinations have alienated his daughters.
+So, their faith in Jacob has been solidified.
+Jacob's leadership ability has culminated in the acquisition of wealth and the building of a strong household (though not without it's flaws.)
+Jacob's ultimate separation from Laban, whom he enriched, was capped by worship through an acknowledgment of God as "the Fear of Isaac" and a sacrifice.
+This is a stark contrast to his separation from Esau, whom he left enraged and blubbering.
+
+
+# Genesis 32
+
+  Jacob feared his brother.
+This is why he sends messengers ahead with gifts to smooth any ruffled feathers.
+He also splits his people to avoid being entrapped.
+He also sends them off in groups so there will time for the others to escape if any are attacked.
+He recognises, v.10, God's incredible blessing throughout and His promise of prosperity.
+However, he still plans pragmatically.
+Jacob's scheming personality now enables him to deal shrewdly with events while still moving the direction God wants him to.
+
+  Jacob wrestles with God.
+It is notable that Jacob pins the incarnation to demand a blessing.
+God has already offered the blessing so Jacob is on strong footing- the word of God- to demand it.
+Jacob's identity is literally changed via his new name: Israel (meaning "struggles with God".)
+From this point on whenever the man acts in accordance with God he is referred to as Israel, otherwise he is Jacob.
+
+
+# Genesis 33
+
+  Esau loved Jacob.
+Jacob sees Esau approaching and fears him.
+Esau hugs and kisses him and they weep together.
+Jacob buys a new parcel and names it El-Elohe-Israel: God is the God of Israel.
+This hearkens back to his prayer in chapter 28- God has done what He said He would do.
+Jacob has created a place, a heritage, that is literally descriptive of the providence he recognizes in his life.
+
+
+# Genesis 34
+
+  Jacob's daughter is taken.
+Jacob does not act on the news but waits until his sons return.
