@@ -3,9 +3,12 @@
   * literally "sameness"
   * metaphysically "our comparison of how we are distinct from (or the same as) others"
     e.g. human, male, macho... or not
+* What is crisis?
+  * etymology "turning point in a disease"
+  * metaphysically: the point where things _will_ change, for better or worse
 
 
-# Genesis 26-27
+# Genesis 25,27
 ## Nature / Nurture
 
 * Nature
