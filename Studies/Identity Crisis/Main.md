@@ -1,3 +1,27 @@
+# Intro
+
+The atheist asks why there is evil in the world.
+It's existence surely means there cannot be a God because <reasons here>.
+This is actually an easy question to answer (from Genesis 2-3):
+the reason there is evil is becauss there is man, and man has dominion in the Earth.
+
+A more pertinent question is why there is good in the world.
+There is no physical or mental basis for it.
+There is no substrate for the universe that can account for ethical goodness.
+Yet we see the effects of good.
+As believers we, not denying the war beneath, acknowledge that God's charity improves life on the whole.
+
+We have the same dichotomy in the story of Jacob.
+Charles Spurgeon said, "the mystery is not that God hated Esau, but that God loved Jacob."
+Jacob was not a "good" guy: he was a schemer and manipulator, perhaps lazy and entitled, certainly selfish and opportunistic.
+
+But God chose him to underrow the future nation of Israel.
+God orchestrated the events of His life and blessed him to that end.
+So it is with us: God loves us and has pierced the darkness for as many as possible and shaped us to include us in his work.
+This creation and re-creation forms our identity.
+The struggle with evil in us is our crisis.
+
+
 # Identity & Crisis
 
 Identity literally means "sameness".
