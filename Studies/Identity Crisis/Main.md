@@ -1,19 +1,18 @@
 # Intro
 
 The atheist asks why there is evil in the world.
-It's existence surely means there cannot be a God because <reasons here>.
-This is actually an easy question to answer (from Genesis 2-3):
-the reason there is evil is becauss there is man, and man has dominion in the Earth.
-
-A more pertinent question is why there is good in the world.
+Saying it's existence surely means there cannot be a God because an omniscient, omnipotent being could not possibly allow it.
+The reason (from Genesis 2-3) there is evil is becauss there man has dominion in the Earth and man is depraved.
+A more pertinent question is why there is any good in the world.
 There is no physical or mental basis for it.
 There is no substrate for the universe that can account for ethical goodness.
 Yet we see the effects of good.
-As believers we, not denying the war beneath, acknowledge that God's charity improves life on the whole.
+As believers we, not denying the war beneath, acknowledge that God imbues good in the world through His charity.
+His desire is to have as many as possible adopted into His family but that process is necessarily fraught with mess because of the delegations to His creatures.
 
 We have the same dichotomy in the story of Jacob.
 Charles Spurgeon said, "the mystery is not that God hated Esau, but that God loved Jacob."
-Jacob was not a "good" guy: he was a schemer and manipulator, perhaps lazy and entitled, certainly selfish and opportunistic.
+Jacob was not a "good" guy: he was a schemer and manipulator, entitled, selfish, and opportunistic.
 
 But God chose him to underrow the future nation of Israel.
 God orchestrated the events of His life and blessed him to that end.
@@ -25,7 +24,7 @@ The struggle with evil in us is our crisis.
 # Identity & Crisis
 
 Identity literally means "sameness".
-When we talk aboutt our "identity" we are really expressing the perception of our true nature.
+When we talk about our "identity" we are really expressing the perception of our true nature.
 We do this by _identifying_ the various things we are the same as.
 
   For instance: I am a human, the same as other humans;  I am male, the same as other males;  I am American, the same as other Americans.
@@ -194,7 +193,8 @@ However, he still plans pragmatically.
 Jacob's scheming personality now enables him to deal shrewdly with events while still moving the direction God wants him to.
 
   Jacob wrestles with God.
-It is notable that Jacob pins the incarnation to demand a blessing.
+It is notable that Jacob pins the incarnation to demand a blessing;
+this is akin to discovering a key, foundational truth.
 God has already offered the blessing so Jacob is on strong footing- the word of God- to demand it.
 Jacob's identity is literally changed via his new name: Israel (meaning "struggles with God".)
 From this point on whenever the man acts in accordance with God he is referred to as Israel, otherwise he is Jacob.
@@ -214,3 +214,49 @@ Jacob has created a place, a heritage, that is literally descriptive of the prov
 
   Jacob's daughter is taken.
 Jacob does not act on the news but waits until his sons return.
+His family dynamic, wrought from his leadership, is one of brusque reactions.
+The subsequent murderous acts of his sons are a keen insight into their upbringing: they have internalized the scheming reactive nature they were brought up with.
+Simeon and Levi forfeit their birthrights by murdering this tribe.
+This also creates a potential vulnerability with the surrounding peopls.
+Thus, it is up to Providence to preserve the family.
+
+
+# Genesis 35
+
+  Jacob goes to, and from, Bethel.
+At Bethel Jacob purges his household of idols and build another altar.
+This is a terrificly mature response to the vulnerability he feels.
+This is also the culmination of God's promise to preserve Jacob and return him to his homegrounds.
+Rachel dies birthing Benjamin at Bethlehem.
+Reuben attempts to overtake Jacob and, thus, forfeits his birthright.
+Note: this is why Judah becomes the "first".
+
+
+# Genesis 42-44
+
+  The boys level up.
+Joseph manipulates his brothers and Judah offers himself.
+
+
+# Genesis 45-48, Hebrews 11
+
+  Jacob's heart revives.
+Jacob learns the good news: Jacob is alive.
+He leads the family to Egypt.
+Because Israel was useful to Pharaoh, but shepherds were anathema, they are given a land to themselves (Goshen.)
+
+The crux:
+  Genesis 47:31- Israel leaned and worshipped.
+  Joseph sets up his sons to receive a blessing but Jacob crosses his arms to bless as he sees fit...as he sees how Providence directs.
+  His last words are not a theology lesson but a retelling of God's provision to the family.
+
+
+# Conclusion
+
+Our identity is formed by God but isn't final until our end.
+Take it as a comfort that God is moving us in a way for a reason.
+Upon recognizing this we can embrace the work of Providence.
+We can expect God to develop us and, one day, deliver us to the goal.
+Our purpose is to know God and make Him known.
+This is not just a trite witicism but a recognition that we are God's testimony.
+His work in our lives is for the advancement of His kingdom by blessing all those we encounter.
