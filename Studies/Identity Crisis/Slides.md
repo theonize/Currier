@@ -50,17 +50,15 @@
 
 
 
-
-
-
-
 ## Genesis 45-48
 ### Legacy
 
 * Revival
 * Sacrifice
 * Exodus [to Egypt]
-* Worship
+* Worship (Hebrews 11:21)
+  * new land
+  * crossed hands
 
 
 ## Evangel

@@ -1,97 +1,187 @@
+# Introduction
+* Overview of Jacob's life, no nitty-gritty
+* Atheist asks about evil, should ask about good
+* Spurgeon: Esau hated+, Jacob loved-
+
+
 # Identity Crisis Notes
 * What is identity?
   * literally "sameness"
-  * metaphysically "our comparison of how we are distinct from (or the same as) others"
+  * metaphysically "we understand our uniqueness by discerning different way we are like others"
     e.g. human, male, macho... or not
+    Mead: You're unique, just like everyone else.
 * What is crisis?
   * etymology "turning point in a disease"
+    * i.e. the fever breaks- or not
   * metaphysically: the point where things _will_ change, for better or worse
+    * i.e. the wilderness experience
 
 
 # Genesis 25,27
 ## Nature / Nurture
 
-* Nature
-  * Jacob is a twin
-* Nurture
-  * Rebekah favored Jacob
-  * Jacob was an inside creature
-* Esau's birthright
+1. Jacob is a twin
+2. Rebekah favored Jacob
+3. Jacob was an inside creature
+4. Esau's birthright
   * Jacob was opportunistic, taking advantage of Esau's feignt
-* Esau's blessing
+5. Esau's blessing
   * Rebekah was opportunistic, guiding Jacob to deceive Isaac
+
+1. Nature
+2. Nurture
+3. Proclivities, natural bent
+4. Jacob's opportunism ~ shrewdness & character 
+5. Rebekah's opportunism ~ O.G.
 
 
 # Genesis 28-29
 ## Match Met
 
-* Now for the second term: crisis
-  * literally "a turning point" in a disease: could go well...or not
-* This is how we learn our identity: life
-  * Experience
-    * forced out of home
-    * in the wilderness
-  * Rumination
-    * meeting God @ Bethel
-    * making a deal (pedantically)
-  * Others
-    * found among his own: shepherds
-    * interacting, advising/commanding
-    * deceived by Laban
-  * Mysticism
-    * chance encounter
-    * infatuation
-    * Leah's fertility
+1. Exiled
+  * in the wilderness
+  * meeting God @ Bethel
+2. Taking a deal (pedantically)
+3. found among his own: shepherds
+  * interacting, advising/commanding
+  * chance encounter
+  * infatuation
+4. deceived by Laban
+  * Leah's fertility
+  * 2 wives + 7-year contract
+
+1. Crisis
+2. Response to crisis: brokering with God
+3. Learning identity
+  * Experience; interactions
+  * Rumination; work, watching
+4. Mirroring identity
+  * Others; their behavior / ours
+  * Mysticism; chance, infatuation, fertility
 
 
 # Genesis 30-31
 ## Messiness
 
-* Jacob is depicted as a tool in the womb-war story
-* 7+7 years, then time to go
-* Herd contest
+1. Womb-war
+  * 12 sons, 1 daughter
+  * 2 wives, 2 slaves
+2. 7+7 years; time to go
+3. Herd contest
   * Laban dishonest
-  * God gave Jacob an increase
-* Becoming the man of God...continually
+  * God increased Jacob anyway
+4. Time to go
+  * Jacob's wife council- his only allies
+  * Laban alienated those 3
+
+1. Jacob is used
+  * not culturally outlandish; he & his wives ambition
+  * willing to be used
+  * willing to work
+2. Continually becoming, over a decade
+3. Providence, obviously
+4. God's long-term plan shaping Jacob & family
   * We grow into our identity
-  * This is why it is nonsense to say "I am a natural-born ###"
-    * Talents (natural abilities) and skills (learned abilities) may enhance that identity but they do not make it
-  * This is also why it is nonsense to say "I identify as ###"
-    * We are the product of our God-given gifts + life experience
-    * Only God can change our identity and he does it through a lifetime of nature + nurture
-* Time to go
-  * Jacob valued the council of his wives- they were his only allies
-  * Laban's treachery alienated Jacob & Leah & Rachel
+  * Nonsense == "I'm a natural-born ???"
+    * Talents (natural abilities) and skills (learned abilities) may enhance identity but do not make it
+  * Nonsense == "I identify as ###"
+    * We are God-given gifts + life experience
+    * God alone changes identity: lifetime of nature + nurture
 
 
 ## Genesis 32-33
 ### The Duality
 
-* Saved and saving
-* Ideal / Surreal
-* Jacob / Israel
+1. Sending messengers
+2. Splitting the group
+3. Recognition
+  * recounting God's blessings
+  * decisive, nuanced actions
+4. Wrestling
+  * demands the promise
+  * renamed Israel
+5. Brotherly kiss
+6. El-Elhoe-Israel
 
-
+1. Diplomacy
+2. Pragmatism
+3. Shrewdness FTW
+  * Remembering Providence
+  * Scheming benefit for others
+4. He literally holds the promise
+  * literally holding the Word
+  * Israel ~ wrestles with God
+    * from now on: Jacob/Israel situationally
+5. Esau is providentially prepared [as well]
+6. God is the God of Israel
+  * fulfillment of the prayer/promise
+  * exposit of his life
 
 
 ## Genesis 34-35, 42
-### What good is my identity?
+### Identity inherited
 
-* Truth ~ Testimony
-* Righteousness ~ Ethics & Morality
-* Salvation ~ Destiny
-* Evangel ~ Preparation
-* Faith ~ Belief
-* 
+1. Dinah
+  * Jacob waits
+  * Sons shrewdly murder, inherited/learned
+2. Reuben usurpation
+  * forfeiture
+  * so...Judah
+3. Rachel
+4. Bethel
+  * purge the house of idols
+5. Joseph
+  * vision of ruling
+  * Joseph is lost
 
-
-
-
+1. Things get "handled" in a way indicative of Jacob's leadership
+  * not ideal
+  * vulnerabilities
+  * Simeon/Levi forfeiture
+2. What he passed on
+  * trying to do the cultural way
+3. Got a son, lost fave wife
+4. Response to vulnerabilities
+  * purge the house of idols
+  * build an altar
+5. Jacob's funk
+  * Leah is mother
+  * family is broken but on track
+    * pull together during famine
 
 
 ## Genesis 45-48
 ### Legacy
 
-* New land
-* Crossed hands
-* Hebrews 11:21
+1. Joseph == Jacob revivified
+2. Exodus TO Egypt
+3. New lands from Pharaoh
+4. Recalled his life before his eyes
+  * bury me not in Egypt
+  * bowed at the bed
+5. Blessing
+  * Joseph split, kids blessed
+
+1. Hopelessness -> hopefulness
+2. Another providential wilderness experience
+3. Land he didn't have to buy
+4. Worship
+  * Hebrews 11:21
+  * culmination of a life
+5. Not outdone
+  * Joseph's kid elevated to sonship
+    * Joseph/Ephraim/Manasseh
+  * crossed arms
+    * Jacob not manipulated
+
+
+## Why my identity?
+
+* We want to look back, at the end, and see the Providence
+
+* Belt of Truth ~ You are God's testimony
+* Breastplate of Righteousness ~ knowing what is right (ethics) & doing what is right (morality)
+* Shoes of Evangel ~ being prepared with the message
+* Shield of Faith ~ belief that God will stand before you
+* Helmet of Salvation ~ understanding and striving for hope of a destiny
+* Sword of Spirit ~ incarnate power of God

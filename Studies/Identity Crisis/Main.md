@@ -229,7 +229,7 @@ This is a terrificly mature response to the vulnerability he feels.
 This is also the culmination of God's promise to preserve Jacob and return him to his homegrounds.
 Rachel dies birthing Benjamin at Bethlehem.
 Reuben attempts to overtake Jacob and, thus, forfeits his birthright.
-Note: this is why Judah becomes the "first".
+Note: this is why Judah becomes the "first" (Simeon/Levi forfeited by their acts against the locals on Dinah's behalf)
 
 
 # Genesis 42-44
