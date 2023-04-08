@@ -1,14 +1,17 @@
-# Identity Crisis Slides
+# Identity Crisis
 
-* You are unique...just like everyone else
+* Jacob to Israel
+* Atheist question
+* You are unique- just like everyone else
+* Turning points
 
 
 # Genesis 26-27
 ## Nature / Nurture
 
-* The Twin
-* Heel-grabber
-
+* The twin
+* The heel-grabber
+* The favorite
 * Birthright...SOLD!
 * Mother knows best
 
@@ -18,7 +21,14 @@
 
 * Exile
 * If/Then God
+* Chance encounters
 * Meets his match
+* Marriage(s)
+
+* Experience
+* Rumination
+* Mirrors
+* Mysticism
 
 
 # Genesis 30-31
@@ -29,29 +39,26 @@
 * Wife council
 
 
-## Genesis 32-33
-### Duality
+# Genesis 32-33
+## Duality
 
-* Wrestling begets Israel
+* Wrestling with God
 * Shrewd alignment
-* Self Israel
+* Kiss & makeup & settle
 
 
-
-
-## Genesis 34-35, 42
-### Monuments
+# Genesis 34-35, 42
+## Monuments
 
 * Dinah
+* Judah
+* Loss
 * Monuments
 * Loss
-* Admonition
 
 
-
-
-## Genesis 45-48
-### Legacy
+# Genesis 45-48
+## Legacy
 
 * Revival
 * Sacrifice
@@ -61,6 +68,8 @@
   * crossed hands
 
 
-## Evangel
+# Evangel
 
-Everybody counts or nobody does.
+* Providence
+* Everybody counts or nobody counts
+* An armored life

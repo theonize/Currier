@@ -29,7 +29,11 @@
   * Rebekah was opportunistic, guiding Jacob to deceive Isaac
 
 1. Nature
+  * two nations
+  * came out heel-grabbing (usurper)
 2. Nurture
+  * favored by mom
+  * told about the prophecy
 3. Proclivities, natural bent
 4. Jacob's opportunism ~ shrewdness & character 
 5. Rebekah's opportunism ~ O.G.
@@ -45,6 +49,7 @@
 3. found among his own: shepherds
   * interacting, advising/commanding
   * chance encounter
+   * no chance, every chance w/ Theosis
   * infatuation
 4. deceived by Laban
   * Leah's fertility
@@ -67,7 +72,7 @@
   * 12 sons, 1 daughter
   * 2 wives, 2 slaves
 2. 7+7 years; time to go
-3. Herd contest
+3. Herd contest agreement
   * Laban dishonest
   * God increased Jacob anyway
 4. Time to go
@@ -178,6 +183,7 @@
 ## Why my identity?
 
 * We want to look back, at the end, and see the Providence
+  * Providence is the belief that all of history has been orchestrated to bring you into the presence of God at this very moment- and that every human can claim this.
 
 * Belt of Truth ~ You are God's testimony
 * Breastplate of Righteousness ~ knowing what is right (ethics) & doing what is right (morality)
