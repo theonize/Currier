@@ -254,9 +254,16 @@ The crux:
 # Conclusion
 
 Our identity is formed by God but isn't final until our end.
-Take it as a comfort that God is moving us in a way for a reason.
+Take comfort that God is deliberately moving us in a way for a reason.
 Upon recognizing this we can embrace the work of Providence.
 We can expect God to develop us and, one day, deliver us to the goal.
 Our purpose is to know God and make Him known.
 This is not just a trite witicism but a recognition that we are God's testimony.
 His work in our lives is for the advancement of His kingdom by blessing all those we encounter.
+
+Our identity is crafted to evangelize a particular group of people.
+There are those whom we can sympathize and empathize with.
+They may only understand their depravity, and thus their need for Jesus, through us.
+They may be able to accept the message of reconciliation through us.
+God has chosen a remnant of humanity to carry be His testimony.
+The Spirit has shaped us to fit in a particular space...embrace it.
