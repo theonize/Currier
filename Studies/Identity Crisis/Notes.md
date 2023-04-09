@@ -74,10 +74,11 @@
 2. 7+7 years; time to go
 3. Herd contest agreement
   * Laban dishonest
-  * God increased Jacob anyway
+  * Goat tea, God increased Jacob's here
 4. Time to go
   * Jacob's wife council- his only allies
   * Laban alienated those 3
+  * Laban/Joseph treaty, Fear of Isaac
 
 1. Jacob is used
   * not culturally outlandish; he & his wives ambition
@@ -97,12 +98,12 @@
 ## Genesis 32-33
 ### The Duality
 
-1. Sending messengers
-2. Splitting the group
+1. Sending messengers, fear
+2. Splitting the group, fear
 3. Recognition
   * recounting God's blessings
   * decisive, nuanced actions
-4. Wrestling
+4. Wrestling @ Peniel
   * demands the promise
   * renamed Israel
 5. Brotherly kiss
@@ -113,7 +114,7 @@
 3. Shrewdness FTW
   * Remembering Providence
   * Scheming benefit for others
-4. He literally holds the promise
+4. He literally holds the promise, Face of God
   * literally holding the Word
   * Israel ~ wrestles with God
     * from now on: Jacob/Israel situationally
@@ -123,8 +124,8 @@
   * exposit of his life
 
 
-## Genesis 34-35, 42
-### Identity inherited
+# Genesis 34-35, 42
+## Identity inherited
 
 1. Dinah
   * Jacob waits
@@ -143,7 +144,7 @@
   * not ideal
   * vulnerabilities
   * Simeon/Levi forfeiture
-2. What he passed on
+2. What he passed on, the namesake
   * trying to do the cultural way
 3. Got a son, lost fave wife
 4. Response to vulnerabilities
