@@ -1,11 +1,11 @@
 # Intro
 
-The atheist asks why there is evil in the world.
-Saying it's existence surely means there cannot be a God because an omniscient, omnipotent being could not possibly allow it.
-The reason (from Genesis 2-3) there is evil is becauss there man has dominion in the Earth and man is depraved.
-A more pertinent question is why there is any good in the world.
+The atheist asks why there is evil in the world,
+saying it's existence surely means there cannot be a God because an omniscient, omnipotent being could not possibly allow it.
+The reason (from Genesis 2-3) there is evil is because there man has dominion in the Earth and man is depraved.
+A more pertinent question is, why there is any good in the world.
 There is no physical or mental basis for it.
-There is no substrate for the universe that can account for ethical goodness.
+There is no substrate of the universe that can account for goodness.
 Yet we see the effects of good.
 As believers we, not denying the war beneath, acknowledge that God imbues good in the world through His charity.
 His desire is to have as many as possible adopted into His family but that process is necessarily fraught with mess because of the delegations to His creatures.
@@ -16,9 +16,10 @@ Jacob was not a "good" guy: he was a schemer and manipulator, entitled, selfish,
 
 But God chose him to underrow the future nation of Israel.
 God orchestrated the events of His life and blessed him to that end.
-So it is with us: God loves us and has pierced the darkness for as many as possible and shaped us to include us in his work.
+We should be eternally grateful because that is the machine that brought the gospel to us.
+God loves us and has pierced the darkness for as many as possible and shaped us to include us in his work.
 This creation and re-creation forms our identity.
-The struggle with evil in us is our crisis.
+The struggle with evil in and around us is our crisis.
 
 
 # Identity & Crisis
@@ -26,13 +27,14 @@ The struggle with evil in us is our crisis.
 Identity literally means "sameness".
 When we talk about our "identity" we are really expressing the perception of our true nature.
 We do this by _identifying_ the various things we are the same as.
+The aggregate of these things is our "identity".
 
   For instance: I am a human, the same as other humans;  I am male, the same as other males;  I am American, the same as other Americans.
 However, not all humans have ten fingers or two legs.
 Regardless of that we perceive (rightly) a _human_ sameness despite the differences that make us distinguishable.
 I am male because of my genetic structure.
 However, my genetic structure is unique and does not share many properties with other male humans.
-Likewise, I am American because I was born in the American territory.
+Likewise, I am American because I was born in an American territory.
 This citizenship is not unqiue and I do not share many other identifying characteristics with other Americans.
 
   It is not only important to understand what identity is metaphysically but that its discovery elevates and illuminates our purpose.
@@ -42,7 +44,7 @@ Put another way- understanding our identity shines light on who we truly are, ho
 Crisis literally means "turning point".
 It was originally a Greek medical term referring to the _turning point_ in a disease.
 e.g. that point in a flu where the fever may break...or not.  The patient is on the verge of recovery or death.
-A crisis of identity is one that point where we discover something about ourselves that is unsettling.
+A crisis of identity is that point where we discover something about ourselves that is unsettling.
 That unsettled feeling is always a precursor to change, for better or worse.
 This is actually a good thing.
 There can be no courage with fear.
@@ -62,12 +64,12 @@ We also have skills and knowledge input by experience.
 
   Jacob is a twin.
 In utero he struggled with his brother and a prophecy was given [v.23] that these were two nascent nations and the younger would rule the older.
-This fact providentially decided yet the declaration of it shaped Rebekah's attitude toward her sons.
+This fact was providentially decided yet the declaration of it shaped Rebekah's attitude toward her sons.
 The natural thing is the proclivity of the boys to struggle.
 The nurture element is the treatment of the boys.
 
   Jacob means `usurper`.
-Naming a child thus gives him a certain expectation.
+Naming a child thus puts certain expectations on him.
 They were raised in accordance with the parents expectation.
 However, they also had tendencies: Esau was a macho outdoorsman, Jacob was a studious homebody.
 Jacob's first usurpation comes when Esau is famished.
@@ -82,7 +84,7 @@ He is an opportunist, taking advantage of a situation for personal gain.
   Mother knows best.
 This saying is loaded but we can take it [here] to mean that Rebekah is actively influencing events.
 Isaac is expiring and ready to give his formal blessing: a right of survivorship which will pass on the headship of the family.
-She intervenes and guides Jacob through a process to trick Isaac into blessing Jacob instead of Esau.
+She intervenes and guides Jacob through a process to trick Isaac into blessing him instead of Esau.
 This is a formative experience for Jacob but remember that he is already over 40 years old.
 He has been brought up in this way of scheming and plotting but Rebekah is also sacrificial [v.13]; she accepts responsibility as she guides him.
 
@@ -109,11 +111,11 @@ God is moving him and, though Jacob cannot know precisely where or how, preservi
 
   Jacob arrives in Haran.
 In his first encounter with the locals we see him giving direction but the shepherds correct him.
-Then we are introduced the Rachel as Jacob swoons.
+Then we are introduced to Rachel as Jacob swoons.
 This is an interesting interplay of Jacob's natural inclinations butting up against reality.
 Here, he is no one's favorite son and what he wants will not be handed to him.
 
-  Jacob meets his match in Haran.
+  Jacob meets his match in Laban.
 Jacob's uncle Laban has a similar character to Rebekah and Jacob- a schemer...and he has been doing it longer.
 He is opportunistic, like Jacob, and strikes a deal in a situation he intends to manipulate.
 Jacob agrees to work seven years in exchange for a marriage to Rachel.
@@ -144,7 +146,7 @@ Jacob communicates to Laban his desire to leave.
 Laban balks and they strike a deal where Jacob will receive any discolored livestock from the flock.
 Laban promptly removes all discolored livestock and moves them away, attempting to force Jacob to stay.
 However, Jacob's flocks bear discolored offspring anyway; he specially waters them to attain this effect.
-So, we see the providence propogation of the genes favorable to Jacob.
+So, we see the providential propogation of the genes favorable to Jacob.
 The effect is so monumental that Jacob becomes rich and his cousins accuse him of, somehow, cheating the system.
 
 At this point we can look back and see how God has shaped Jacob through the years.
@@ -154,7 +156,7 @@ However, we must also recognize that knowledge and skills are developing through
 From these come wisdom and aptitude that allow us to apply our nature to reality.
 
 This is why is it nonsense to say things like, "I am a natural-born leader."
-Leadership prowess may, very well, depend on natural charisma, intellect, and speech-quality but involves many other skills which can only be developed over time.
+Leadership prowess may, very well, depend on natural charisma, intellect, and speech-quality but involves many other skills which can only be developed through time and experience.
 When undeveloped people are thrust into leadership too soon because of their natural abilities they tend to flounder or mis-lead because they lack the wisdom and aptitude necessary for the job.
 
 This is also why it is nonsense to say, "I identify as <something>."
@@ -165,7 +167,7 @@ To say "I am American" is to perceive that my birthplace is commensurate with th
 
 Without this understanding it is impossible for us to know our identity.
 It is a thing to be grasped, not a thing to be placed.
-It is a thing that is created, not a thing that we make.
+It is a thing that is formed by God, not a thing that we create.
 In understanding our identity we see that providence is, indeed, the interplay between the actions of multiple beings: many created, one preeminent.
 We can also come to a deeper understanding of what God meant in declaring Hisself "I Am".
 God is what He is, we are what fundamentals and activity have made us.
