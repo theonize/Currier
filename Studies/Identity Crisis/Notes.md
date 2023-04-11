@@ -45,11 +45,10 @@
 1. Exiled
   * in the wilderness
   * meeting God @ Bethel
-2. Taking a deal (pedantically)
+2. Making a deal (pedantically)
 3. found among his own: shepherds
   * interacting, advising/commanding
   * chance encounter
-   * no chance, every chance w/ Theosis
   * infatuation
 4. deceived by Laban
   * Leah's fertility
@@ -57,12 +56,16 @@
 
 1. Crisis
 2. Response to crisis: brokering with God
+  * you cannot change your mind by changing your thoughts
+  * changing your mind == change your location, posture, words
 3. Learning identity
-  * Experience; interactions
-  * Rumination; work, watching
+  * no chance, every chance w/ Theosis
+  * 4 ways to find our identity
+  1) Experience; interactions
+  2) Rumination; work, watching
 4. Mirroring identity
-  * Others; their behavior / ours
-  * Mysticism; chance, infatuation, fertility
+  3) Others; their behavior / ours
+  4) Mysticism; chance, infatuation, fertility
 
 
 # Genesis 30-31
