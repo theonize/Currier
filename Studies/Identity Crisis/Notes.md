@@ -21,7 +21,7 @@
 
 # Genesis 25,27- Nature / Nurture
 
-1. Jacob is a twin
+1. Jacob is a twin, prophesied
 2. Rebekah favored Jacob
 3. Jacob was an inside creature
 4. Esau's birthright
