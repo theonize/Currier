@@ -28,6 +28,8 @@
 5. Esau's blessing
    - Rebekah was opportunistic, guiding Jacob to deceive Isaac
 
+para
+
 1. Nature
    - two nations
    - came out heel-grabbing (usurper)
@@ -53,6 +55,8 @@
 4. Deceived by Laban
    * Leah's fertility
    * 2 wives + 7-year contract
+
+para
 
 1. Crisis
 2. Response to crisis: brokering with God
@@ -83,6 +87,8 @@
    * Laban alienated those 3
    * Laban/Joseph treaty, Fear of Isaac
 
+para
+
 1. Jacob is used
    * not culturally outlandish; he & his wives ambition
    * willing to be used
@@ -111,6 +117,8 @@
    * renamed Israel
 5. Brotherly kiss
 6. El-Elhoe-Israel
+
+para
 
 1. Diplomacy
 2. Pragmatism
@@ -143,6 +151,8 @@
    * vision of ruling
    * Joseph is lost
 
+para
+
 1. Things get "handled" in a way indicative of Jacob's leadership
    * not ideal
    * vulnerabilities
@@ -171,7 +181,9 @@
 5. Blessing
    * Joseph split, kids blessed
 
-1. Hopelessness -> hopefulness
+para
+
+1. Joylessness -> hopefulness
 2. Another providential wilderness experience
 3. Land he didn't have to buy
 4. Worship
