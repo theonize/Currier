@@ -23,9 +23,9 @@
 2. Rebekah favored Jacob
 3. Jacob was an inside creature
 4. Esau's birthright
-   - Jacob was opportunistic, taking advantage of Esau's feignt
+   - took advantage of Esau's feignt
 5. Esau's blessing
-   - Rebekah was opportunistic, guiding Jacob to deceive Isaac
+   - guiding Jacob to deceive Isaac
 
 para
 
@@ -36,8 +36,12 @@ para
    - favored by mom
    - told about the prophecy
 3. Proclivities, natural bent
-4. Jacob's opportunism ~ shrewdness & character 
-5. Rebekah's opportunism ~ O.G.
+4. Jacob's opportunism
+   - shrewdness
+   - entitlement 
+5. Rebekah's opportunism 
+   - O.G.
+   - self-fulfillment, no waiting on God
 
 
 # Genesis 28-29- Match Met
