@@ -1,13 +1,14 @@
 # Identity Crisis
 
 * Jacob to Israel
-* Atheist question
+* Why any good?
 * You are unique- just like everyone else
-* Turning points
+
+* Identity / Sameness
+* Crisis / Turning points
 
 
-# Genesis 26-27
-## Nature / Nurture
+# Genesis 25,27- Nature / Nurture
 
 * The twin
 * The heel-grabber
@@ -16,31 +17,24 @@
 * Mother knows best
 
 
-# Genesis 28-29
-## Match Met
+# Genesis 28-29- Match Met
 
 * Exile
 * If/Then God
 * Chance encounters
 * Meets his match
 * Marriage(s)
-
-* Experience
-* Rumination
-* Mirrors
-* Mysticism
+* Experience, Rumination, Mirrors, Mysticism
 
 
-# Genesis 30-31
-## Messiness
+# Genesis 30-31- Messiness
 
 * Womb war
 * Herd shenanigans
 * Wife council
 
 
-# Genesis 32-33
-## Duality
+# Genesis 32-33- The Duality
 
 * Wrestling with God
 * Shrewd alignment
@@ -54,7 +48,6 @@
 * Judah
 * Loss
 * Monuments
-* Loss
 
 
 # Genesis 45-48
@@ -72,4 +65,3 @@
 
 * Providence
 * Everybody counts or nobody counts
-* An armored life

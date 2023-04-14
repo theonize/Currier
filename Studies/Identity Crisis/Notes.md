@@ -206,14 +206,3 @@ para
   * We are nurtured to evangelize these people at this time
   * No one else can live your life
   * No one else can reach the people you can reach
-
-
-???
-* Belt of Truth ~ You are God's testimony
-* Breastplate of Righteousness ~ knowing what is right (ethics) & doing what is right (morality)
-* Shoes of Evangel ~ being prepared with the message
-* Shield of Faith ~ belief that God will stand before you
-* Helmet of Salvation ~ understanding and striving for hope of a destiny
-* Sword of Spirit ~ incarnate power of God
-  * a threat
-  * an offense
