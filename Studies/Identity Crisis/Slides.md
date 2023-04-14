@@ -41,8 +41,7 @@
 * Kiss & makeup & settle
 
 
-# Genesis 34-35, 42
-## Monuments
+# Genesis 34-35, 42- Monuments
 
 * Dinah
 * Judah
@@ -50,8 +49,7 @@
 * Monuments
 
 
-# Genesis 45-48
-## Legacy
+# Genesis 45-48- Legacy
 
 * Revival
 * Sacrifice
