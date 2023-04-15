@@ -1,4 +1,4 @@
-# Introduction
+### Introduction
 * Time travel joke 
 * Overview of Jacob's life, no nitty-gritty
   * We don't want to be like Jacob, we want to be who we're supposed to be
@@ -6,7 +6,7 @@
 * Spurgeon: Esau hated+, Jacob loved-
 
 
-# Identity Crisis Notes
+### Identity Crisis Notes
 * What is identity?
   * literally "sameness"
   * metaphysically "we understand our uniqueness by discerning different way we are like others"
@@ -19,7 +19,7 @@
     * i.e. the wilderness experience
 
 
-# Genesis 25,27- Nature / Nurture
+### Genesis 25,27- Nature / Nurture
 
 1. Jacob is a twin, prophesied
 2. Rebekah favored Jacob
@@ -46,7 +46,7 @@ para
    - self-fulfillment, no waiting on God
 
 
-# Genesis 28-29- Match Met
+### Genesis 28-29- Match Met
 
 1. Exiled
    * in the wilderness
@@ -76,7 +76,7 @@ para
    - 4) Mysticism; chance, infatuation, fertility
 
 
-# Genesis 30-31- Messiness
+### Genesis 30-31- Messiness
 
 1. Womb-war
    * 12 sons, 1 daughter
@@ -107,7 +107,7 @@ para
      * God alone changes identity: lifetime of nature + nurture
 
 
-# Genesis 32-33- The Duality
+### Genesis 32-33- The Duality
 
 1. Sending messengers, fear
 2. Splitting the group, fear
@@ -137,7 +137,7 @@ para
    * exposit of his life
 
 
-# Genesis 34-35, 42- Identity inherited
+### Genesis 34-35, 42- Identity inherited
 
 1. Dinah
    * Jacob waits
@@ -170,7 +170,7 @@ para
      * pull together during famine
 
 
-# Genesis 45-48- Legacy
+### Genesis 45-48- Legacy
 
 1. Joseph == Jacob revivified
 2. Exodus TO Egypt
@@ -196,7 +196,7 @@ para
      * Jacob not manipulated
 
 
-# Why my identity?
+### Why my identity?
 
 * We want to be able look back, at the end, and see Providence
   * All of history orchestrated to bring you to God right now
