@@ -1,12 +1,15 @@
 # Introduction
+
 * Time travel joke 
 * Overview of Jacob's life, no nitty-gritty
-  * We don't want to be like Jacob, we want to be who we're supposed to be
+  * We don't want to be like Jacob
+  * We want to be who we're supposed to be
 * Atheist asks about evil, should ask about good
 * Spurgeon: Esau hated+, Jacob loved-
 
 
 # Identity Crisis Notes
+
 * What is identity?
   * literally "sameness"
   * metaphysically "we understand our uniqueness by discerning different way we are like others"
@@ -205,4 +208,5 @@ para
   * We are created for such a time as this for the people we encounter
   * We are nurtured to evangelize these people at this time
   * No one else can live your life
-  * No one else can reach the people you can reach
+  * No one else can reach the people you can reach 
+  ...in the way you can reach them
