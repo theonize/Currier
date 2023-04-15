@@ -1,9 +1,9 @@
 ### Introduction
 * Time travel joke 
-* Overview of Jacob's life, no nitty-gritty
-  * We don't want to be like Jacob, we want to be who we're supposed to be
 * Atheist asks about evil, should ask about good
 * Spurgeon: Esau hated+, Jacob loved-
+* Overview of Jacob's life, no nitty-gritty
+  * We don't want to be like Jacob, we want to be who we're supposed to be
 
 
 ### Identity Crisis Notes
