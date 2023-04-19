@@ -1,6 +1,19 @@
 # Genesis 9
 
-"Be fruitful and multiply" ~ continuing the Adamic typology
+1) "Be fruitful and multiply" ~ continuing the Adamic typology
+2) Fear of man
+   - same creature order as Genesis 1
+   - reiteration man's dominion
+   - the 2nd mention of fear, the first is when fallen man encounters God for the 1st time
+3) animals are now provisioned for food
+   - in addition to plants
+   - [Genesis 1:29]()
+4) the prohibition against blood is a remembrance of God's sovereignty in giving the life, the provision of meat
+   - the life belongs to God
+   - it is also a healthful thing, to avoid pathogens
+   - Moses is writing this setup the laws which come later
+5-6) blood is required to atone for murder, including that done by animals
+     - because men are imagers of God
 
 
 20-27) There are idioms and verbage here which indicates some sexual act.
