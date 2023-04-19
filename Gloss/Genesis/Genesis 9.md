@@ -14,7 +14,13 @@
    - Moses is writing this setup the laws which come later
 5-6) blood is required to atone for murder, including that done by animals
      - because men are imagers of God
+     - the murderous rivalry between siblings increases from here on
 
+  This enmity between man, God, and nature is reversed in the new Eden, via the messiah: [Isaiah 11]()
+
+7) Another reiteration of the procreation mandate: this is obviously important
+8) God establishes a covenant
+   - 
 
 20-27) There are idioms and verbage here which indicates some sexual act.
 Canaan is cursed, not Ham.
