@@ -8,6 +8,7 @@ The Ark was lifted to the mountaintop, from the man descends to re-populate the 
 
 ## Wind 
 ~ RVK
+- the parting of the Red Sea hearkens back to this
 
 
 ## Remember
