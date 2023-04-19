@@ -19,8 +19,15 @@
   This enmity between man, God, and nature is reversed in the new Eden, via the messiah: [Isaiah 11]()
 
 7) Another reiteration of the procreation mandate: this is obviously important
-8) God establishes a covenant
-   - 
+8-16) God establishes a covenant
+   - with Noah, his sons, and their offspring; i.e. all people
+   - AND with every living creature from the Ark
+- The substance of the covenant
+  - never again destruction via water
+- The sign of the covenant: the rainbow
+
+17) Noah confirms/recognizes the covenant and its sign
+18) 
 
 20-27) There are idioms and verbage here which indicates some sexual act.
 Canaan is cursed, not Ham.
