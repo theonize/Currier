@@ -51,7 +51,7 @@
 
 
 # Genesis 45-48
-## Legacy
+## Legacyg
 
 * Revival
 * Sacrifice
