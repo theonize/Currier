@@ -21,4 +21,9 @@ I believe that we cannot stand in His presence in our natural state and that is 
 
 We stand on the shoulders of giants. 
 My ultimate hope is for this work to be a compilation of the best of the wealth of information which is available to us. 
-As Newton said, it's as if we stand on the shore and wonder at the pebbles while a whole ocean lay waiting...
+
+"I do not know what I may appear to the world, 
+but to myself I seem to have been only like a boy playing on the seashore, 
+and diverting myself in now and then finding a smoother pebble or a prettier shell than ordinary, 
+whilst the great ocean of truth lay all undiscovered before me."
+  Isaac Newton  
