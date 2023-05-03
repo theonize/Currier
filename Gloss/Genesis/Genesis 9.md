@@ -33,7 +33,8 @@
 Noah's laying uncovered may imply a sexual act [with his wife]
 Canaan is cursed, not Ham.
 - because Canaan was an illegitimate offspring
-It is a recurring theme that a som sleeps with his father's wife as a means to overrun him.
+It is a recurring theme that a son sleeps with his father's wife as a means to overrun him.
+
 "See the nakedness" is only powerful as an idiom (it's mostly unavoidable in normal family life):
 	[Lev 20:17] ~ this exposits the idiom - it implies sexual intercourse
 	[Ez 16:35-37]
@@ -45,3 +46,6 @@ It is a recurring theme that a som sleeps with his father's wife as a means to o
 	...the offspring of the incest, Canaan, was thus cursed
 
 	Shem and Japheth, by walking backwards and covering mom, do a good thing and refuse to go the route of Ham.
+
+	There is also an allusion to the seeds of woman and serpent:
+		~ Japheth & Canaan respectively
