@@ -28,7 +28,9 @@
 
 17) Noah confirms/recognizes the covenant and its sign
 18) Foreshadowing that Canaan is a pivotal character
-
+19) The pattern of diaspora continues;
+God disperses people as a punishment, though temporary because there is always a plan to reunite.
+The seas/waters are often symbolic of mankind; their dispersion is indicative of divine punishment akin to the deluge.
 20-27) There are idioms and verbage here which indicates some sexual act.
 Noah's laying uncovered may imply a sexual act [with his wife]
 Canaan is cursed, not Ham.
