@@ -27,10 +27,12 @@
 - The sign of the covenant: the rainbow
 
 17) Noah confirms/recognizes the covenant and its sign
-18) 
+18) Foreshadowing that Canaan is a pivotal character
 
 20-27) There are idioms and verbage here which indicates some sexual act.
+Noah's laying uncovered may imply a sexual act [with his wife]
 Canaan is cursed, not Ham.
+- because Canaan was an illegitimate offspring
 "See the nakedness" is only powerful as an idiom (it's mostly unavoidable in normal family life):
 	[Lev 20:17] ~ this exposits the idiom - it implies sexual intercourse
 	[Ez 16:35-37]
