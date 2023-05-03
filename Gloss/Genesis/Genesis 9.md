@@ -38,7 +38,7 @@ Canaan is cursed, not Ham.
 It is a recurring theme that a son sleeps with his father's wife as a means to overrun him.
 
 "See the nakedness" is only powerful as an idiom (it's mostly unavoidable in normal family life):
-	[Lev 20:17] ~ this exposits the idiom - it implies sexual intercourse
+	[Lev 20:11,17] ~ this exposits the idiom - it implies sexual intercourse
 	[Ez 16:35-37]
 	[Ez 23:10+]
 
