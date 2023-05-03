@@ -33,6 +33,7 @@
 Noah's laying uncovered may imply a sexual act [with his wife]
 Canaan is cursed, not Ham.
 - because Canaan was an illegitimate offspring
+It is a recurring theme that a som sleeps with his father's wife as a means to overrun him.
 "See the nakedness" is only powerful as an idiom (it's mostly unavoidable in normal family life):
 	[Lev 20:17] ~ this exposits the idiom - it implies sexual intercourse
 	[Ez 16:35-37]
