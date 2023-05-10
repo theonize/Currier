@@ -1,6 +1,15 @@
 # Genesis 11
 
 
+City-building is akin to denial/rebellion of God
+
+God _came down_ to see the tower; a pun reporting how far beneath him it was.
+
+Babel means "confusion";
+the dispersion of the nations is a flood of peoples
+...seas is often a reference to the peoples/nations
+
+
 1-8) Tower of Babel
 The point of this tower (probably a ziggurat) is to localize the deity.
 Yahweh will not be tamed in this manner.
