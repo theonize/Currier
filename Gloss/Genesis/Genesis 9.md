@@ -51,3 +51,15 @@ It is a recurring theme that a son sleeps with his father's wife as a means to o
 
 	There is also an allusion to the seeds of woman and serpent:
 		~ Japheth & Canaan respectively
+
+25-27) This poem is the key to all struggles that will ensue in coming generations
+- Shem, the seed of the woman
+  - Japheth, the servents of Shem
+    - Ham, the servant of servants
+- ...
+  - Japheth; Gomer, Magog, Madai, Javan, Tubal, Meshech, Tiras
+  ~ enlarged; complete, covering, deceiver, earth(confusion), drawn-by-force, desirable
+    - Ham; Cush, Mizraim, Put, Canaan
+    ~ hot; blackness, tribulations, to-give, merchant(subduer)
+    ! Nimrod, beginning of Babylon, land of Shinar
+    
