@@ -1,5 +1,21 @@
 # Genesis 3
 
+Historical
+  the origin story of all people of God
+  written to the diasporic from Egypt
+  the story is fraught with broken cultural paradigms of the place of the man/woman
+Theology
+  Sin brings consequences.
+  Separation from God is bad.
+  Man is separated from the tree of life, otherwise he would eat of it and live forever in a fallen state.
+  The flaming, whirling sword is an icon of God's conquering justice.
+Literature
+  narrative
+  legal
+Lexical
+  serpent = NK$, the shining one; only serpentine in the broader theological sense like dragon and leviathan- the chaos gods
+  at the wind of the day = there was already a prescribed meeting time with God
+
 
 1) Why wasn't Eve startled or unsettled by the nachash?
   ...probably because it was not unknown to her, maybe because she had confidence in some measure of Godly protection
@@ -18,7 +34,9 @@
   ...this doubtful dismissal of God's word is the preeminent human failure
 
 4) An outright lie- it is his nature to contradict God
-  NK$ plants a seed of doubt, the human acts on it- in ways far grander than the initial temptation
+  NK$ plants a seed of doubt, the human acts on it- in ways far grander than the initial temptation.
+  The serpents advantage is that he knows the resultant death is not immediate.
+  So, Adam watches Eve eat and not die immediately and then partakes.
 
 
 6) She perceived some benefits of the fruit, but they didn't have the foresight to see the actual outcome
