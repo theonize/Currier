@@ -64,6 +64,6 @@ It is a recurring theme that a son sleeps with his father's wife as a means to o
     ! Nimrod, beginning of Babylon, land of Shinar
     
 27) "in the tents of"
-    - two possibilities: a servant dwells in the master's tent; a conqueror takes over the conquered's tent
+    - possibilities: brothers dwell together; a servant dwells in the master's tent; a conqueror takes over the conquered's tent
     - both of these come into play in future struggles between these families
  	
