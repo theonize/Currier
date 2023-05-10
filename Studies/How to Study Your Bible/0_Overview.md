@@ -21,6 +21,12 @@ Some things that will help you study well are:
   - If you meet this goal and want to continue, go ahead.
   - Don't stop until you've met this goal, if the goal is too lofty then change it **next time**
 
+Elements of studying:
+- Reading
+- Thinking
+- Writing
+- Analyzing
+
 
 ## Reading
 
@@ -125,3 +131,39 @@ A teaching work is intended for others.
 This is where you are giving what you have learned for the benefit of others.
 It is not necessarily final, but it is the culmination of your studies and is the pinnacle of understanding.
 
+
+## Meaning
+
+Extracting meaning from a passage consists of understanding four major aspects of the text.
+
+Historical
+Literary
+Lexical
+Theological
+
+### Historical
+
+When was it written?
+Who wrote it?
+WHo was the immediate audience?
+
+### Literary
+
+What is the writing style of the passage?
+- Poetic
+- Narrative
+- Legal
+- etc.
+
+### Lexical
+
+What are some important words in the passage?
+How are those words used elsewhere in scripture?
+- what is the first mention?
+- what are the various translations of the word? why?
+
+### Theological
+
+What is the lesson given by the passage?
+What is the placement of this lesson in an overall theme of scripture?
+How many similar passages are there? what is their scope?
