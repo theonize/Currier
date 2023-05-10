@@ -22,6 +22,12 @@ Did they actually speak the other language or was it that their language was und
 
 
 9-11) The new table of nations
+- Shem
+  - Parthians, Medes, Elamites, Mesopotamians
+- Japheth
+  - Judea, Cappadocia, Pontus, Asia
+- Ham
+  - Phrygia, Pamphylia, Egypt, Libya
 
 
 17-18) Signs to believers:
