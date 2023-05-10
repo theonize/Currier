@@ -5,7 +5,7 @@ City-building is akin to denial/rebellion of God
 
 God _came down_ to see the tower; a pun reporting how far beneath him it was.
 
-Babel means "confusion";
+Babel means "confusion" in Hebrew; it means "gates of the gods" in Akkadian
 the dispersion of the nations is a flood of peoples
 ...seas is often a reference to the peoples/nations
 
