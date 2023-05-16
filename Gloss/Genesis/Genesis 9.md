@@ -27,12 +27,18 @@
 - The sign of the covenant: the rainbow
 
 17) Noah confirms/recognizes the covenant and its sign
-18) 
-
+18) Foreshadowing that Canaan is a pivotal character
+19) The pattern of diaspora continues;
+God disperses people as a punishment, though temporary because there is always a plan to reunite.
+The seas/waters are often symbolic of mankind; their dispersion is indicative of divine punishment akin to the deluge.
 20-27) There are idioms and verbage here which indicates some sexual act.
+Noah's laying uncovered may imply a sexual act [with his wife]
 Canaan is cursed, not Ham.
+- because Canaan was an illegitimate offspring
+It is a recurring theme that a son sleeps with his father's wife as a means to overrun him.
+
 "See the nakedness" is only powerful as an idiom (it's mostly unavoidable in normal family life):
-	[Lev 20:17] ~ this exposits the idiom - it implies sexual intercourse
+	[Lev 20:11,17] ~ this exposits the idiom - it implies sexual intercourse
 	[Ez 16:35-37]
 	[Ez 23:10+]
 
@@ -42,3 +48,22 @@ Canaan is cursed, not Ham.
 	...the offspring of the incest, Canaan, was thus cursed
 
 	Shem and Japheth, by walking backwards and covering mom, do a good thing and refuse to go the route of Ham.
+
+	There is also an allusion to the seeds of woman and serpent:
+		~ Japheth & Canaan respectively
+
+25-27) This poem is the key to all struggles that will ensue in coming generations
+- Shem, the seed of the woman
+  - Japheth, the servents of Shem
+    - Ham, the servant of servants
+- ...
+  - Japheth; Gomer, Magog, Madai, Javan, Tubal, Meshech, Tiras
+  ~ enlarged; complete, covering, deceiver, earth(confusion), drawn-by-force, desirable
+    - Ham; Cush, Mizraim, Put, Canaan
+    ~ hot; blackness, tribulations, to-give, merchant(subduer)
+    ! Nimrod, beginning of Babylon, land of Shinar
+    
+27) "in the tents of"
+    - possibilities: brothers dwell together; a servant dwells in the master's tent; a conqueror takes over the conquered's tent
+    - both of these come into play in future struggles between these families
+ 	
