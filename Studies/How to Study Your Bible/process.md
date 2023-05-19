@@ -87,3 +87,20 @@ Write teaching materials about this work.
 - Point out the important and/or difficult pieces of the material
 - Give some guidance on what concepts are there to be studied in depth.
 - Push toward other works or ideas that will magnify their understanding of this work.
+
+
+
+  If you come up with a complete way to do this on your own then that will probably be the best- as long as it covers all the aspects.
+  A good, general way to do this is:
+  * Write a thesis
+    - one sentence that introduces the entirety of the topic
+    - If you cannot present the topic in one simple sentence then you need to continue wrestling with it until you can
+  * Write an outline or a couple paragraphs introducing all the elements of the topic
+  * Write out the details
+    - Best to put in all the nitty-gritty after introducing the various pieces
+    - A potentially helpful remembrall is, "tell them what your going to tell them, tell them, then tell them what you told them."
+  * Re-write until you get it
+    - If you cannot explain it simply [the thesis] then you don't really grasp the concept
+    - If you cannot give details then you don't fully understand it
+    - It can always be better, but at some point it's not bad
+    - It may help to imagine that you begin by explaining to someone very simple, then progress to discussing to someone wiser and wiser

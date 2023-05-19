@@ -22,8 +22,54 @@ Some things that will help you study well are:
   - Don't stop until you've met this goal, if the goal is too lofty then change it **next time**
   - If you are part of a class then you have an assigned goal...add your own to it.
 
-Elements of studying:
+Phases of studying:
 - Reading
 - Thinking
 - Writing
 - Analyzing
+
+**Cycle through these four phases**
+
+
+## Reading
+
+Four types of reading:
+- Skimming
+- Intaking
+- Digesting
+- Extrapolation
+
+[details here](./reading.md)
+
+
+## Thinking
+
+Three types of critical thinking:
+- Associative
+- Inductive
+- Deductive
+
+[details here](./thinking.md)
+
+
+## Writing
+
+Three styles of writing:
+- Narrative
+- Explanatory
+- Analytical
+- Teaching
+
+[details here](./writing.md)
+
+
+## Analyzing
+
+Four major aspects of analysis:
+
+- Historical
+- Literary
+- Lexical
+- Theological
+
+[details here](./analyzing.md)

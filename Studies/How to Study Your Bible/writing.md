@@ -1,6 +1,6 @@
 # Writing
 
-There are three styles of writing you will need when studying:
+There are three styles of writing you will need to employ when studying:
 - Narrative
 - Explanatory
 - Teaching
@@ -25,3 +25,5 @@ and then, explain it in no more than one page of notes, diagrams, etc.
 A teaching work is intended for others.
 This is where you are giving what you have learned for the benefit of others.
 It is not necessarily final, but it is the culmination of your studies and is the pinnacle of understanding.
+
+

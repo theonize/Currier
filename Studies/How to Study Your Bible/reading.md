@@ -4,7 +4,7 @@ There are four types of reading:
 - Skimming
 - Intaking
 - Digesting
-- Applying
+- Extrapolation
 
 These need to be done in order.
 However, if your outcome does not demand it, you may skip later steps.
@@ -31,7 +31,7 @@ Digesting is a more thorough reading.
 This is where you will start using a dictionary and other resource materials.
 Digesting means pulling apart a work into it's component pieces.
 
-## Applying
+## Extrapolation
 
 Application of a work means you let it change your mind.
 Now you will start pulling in related works to supplement your understanding.
