@@ -24,7 +24,7 @@ whilst the great ocean of truth lay all undiscovered before me."
 
 ## What is it?
 
-There are many patterns in Scripture.
+  There are many patterns in Scripture.
 If these patterns are divinely inspired then they will approachable and digestable inasmuch as God wants them to be.
 This method involves four ways of gleaning this information:
 * Historical
@@ -32,10 +32,11 @@ This method involves four ways of gleaning this information:
 * Lexical
 * Theological
 These approaches can be applied to the book as a whole, to passages, or to topics.
-There are various notes and studies that attempt to do this- 
+More on this method in [How to Study Your Bible](/Studies/How%20to%20Study%20Your%20Bible/index.md)
+  
+  There are various notes and studies that attempt to do this- 
 hopefully the format is easily digestable and will motivate people to pursue God.
 Apologies for the earlier stuff that is a journaled and scattered.
-More on this method in [How to Study Your Bible](/Studies/How%20to%20Study%20Your%20Bible/index.md)
 
 
 I believe in a personal God, the God of the Bible. 
