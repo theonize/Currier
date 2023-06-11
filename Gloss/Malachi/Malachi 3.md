@@ -7,9 +7,20 @@ fuller's soap is meant for cleansing cloth
 ...it is harsh and leaves the cloth able to be dried and "fulled" i.e. fluffed and workable
 
 
+
+3)
+
+4)
+
+5)
+
+6)
+
+
 7) you were born into a world that had already rejected Yahweh
-"LORD of hosts" ~ the commander of the greatest army ~ beckons us to come to him
-The question of how [to return] is answered by a rhetorical:
+"LORD of hosts" ~ the commander of the greatest army 
+  He beckons us to come to him
+ The question of how to return] is answered by a rhetorical:
 
 8) We have robbed God...by withholding tithes and contributions; i.e CHARITY
 
