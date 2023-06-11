@@ -12,7 +12,7 @@ fuller's soap is meant for cleansing cloth
 
 4)
 
-5)
+5) Matthew 25:31-47
 
 6)
 
