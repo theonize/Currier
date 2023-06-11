@@ -4,7 +4,7 @@
 2) refiner's fire is hot enough to melt metal
 ...the purpose being to forcibly separate impurities for removal (the dross)
 fuller's soap is meant for cleansing cloth
-...it is harsh and leaves the cloth able to be dried and "fulled" i.e. fluffed and workable
+...it is harsh and leaves the cloth able to be dried and "fulled" i.e. fluffed and workable and ready to accept a dye 
 
 
 
