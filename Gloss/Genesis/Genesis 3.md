@@ -97,7 +97,7 @@ The ideal is implied by contrast: a complementary submission based on God-given 
   * YVR ~ skin/hide; 
   * TVB, RY ~ good, evil; counterplay of cosmic programs
   * ADMH ~ Adamah; ground, from when ADM came, he works it, then he decays back into it
-  * V'BR$ ~ drove-out; literally forcing out, sometimes in the context of divorce: rejecting a woman and sending her away.
+  * V'BR$ ~ drove-out; literally forcing out, exile, sometimes in the context of divorce: rejecting a woman and sending her away.
 * Theology
   * This passage lays the groundwork for future reconciliation with God.
   * The Fall has massive consequences that will take millenia to resolve but Adam & Eve couldn't know that.
