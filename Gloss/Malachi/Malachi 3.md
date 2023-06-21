@@ -29,7 +29,9 @@ Theirs was a nation known for, and dedicated to, Yahweh; yet, they refrained fro
 Remember, this was after the return from exile and the 2nd Temple Ezra-rabbinic revival!
 
 10) Yahweh request a test of _Him_: bring the full tithe and see if He will not meet our needs.
+  In an agrarian society the floodgates of heaven means a good crop; this requires work to [eventually] bring the harvest.
+    Our greatest blessing is the opportunity to work fruitfully.
 
-11) Further, all external hindrances to prosperity will be removed.  Note that we still have to work the land and pick the fruit...
+12) Further, all external hindrances to prosperity will be removed.  Note that we still have to work the land and pick the fruit...
 
-12) The reason for this blessing is: that the nations will notice and come to know God.
+13) The reason for this blessing is: that the nations will notice and come to know God.
