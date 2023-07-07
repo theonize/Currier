@@ -1,0 +1,1 @@
+>concat.txt (for /r . %%F in (*.txt,*.md) do type "%%F")
