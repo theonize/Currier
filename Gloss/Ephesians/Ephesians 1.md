@@ -26,6 +26,35 @@ Language
 	- Lord Jesus Christ ~ Jesus the master messiah.  To amplify the previous phrase Paul adds the ideal of mastery and His name and title.  Father-God and Jesus-Christ are book-ends on Lord that showcase divine-flesh connection as well as master-redeemer.
 
 
+## Blessings
+
+History
+	The idea of God containing and originating all blessings is fraught with complications.
+	Most notably: how is man to attain these blessings and at what cost?
+	Ultimately divine blessings come at an extremely hight cost, one which mortals cannot pay.
+	However, it is not in the character of the Hebraic God to give a free gift.
+	Thus, we have the redemption plan: blessings made manifest and available "in Christ"- meaning that price has been paid by His sacrifice.
+	Here, Paul links the general blessings of being associated with God to the specific path God established for us to attain them.
+Culture
+	The notion of godly/divine blessing was not foreign to the Ephesians.
+	However, sacrifice (to their gods) was an appeasement and some kind of moral works were necessary too attain divine blessings.
+	But wait: even beyond the correllary sacrifice->blessing, which is now free because of Christs' work, there is an inheritance.
+	This goes well beyond the religious notions of the day.
+Language
+	Blessing ~ `eulogew` from whence we derive eulogy; the blessing of knowing or accompanying someone.  We "give" these at a funeral service in grateful remembrance.  God __is__ blessed: He is not just the originator but the embodiment of the blessing.  Paul does make the distinction that we receive every "spiritual" blessing.  
+	Grace ~ unmerited favor; in this case the two things to follow: redemption & inheritance.
+	Redemption ~ `apolutrwsin` the act of buying back.  It literally means "out of ransom";
+	Mystery ~ `mystyrion` a secret, or veiled, thing.  The mystery is not that we need redemption nor that God has blessings available.  The mystery is that it is His will: His wise, insightful will to give them.
+	Fullness ~ the "fullness of time" has two characters: one is mine, one is creation's.  He wishes to unite with you/I personally, but also wishes for all of us to unite together with Him.  And not humans either, but all of creation.
+	Inheritance ~ `eklyrwthymen` to obtain [a portion] by lot.  Biblically, the lot is in the lap of the Lord.  The inherited gift is not "earned" but simply given at the prescribed time.
+Meaning
+	Such blessings are reserved for sons: those of a proper station.
+	Very important to note that the plan has always been: that we should be holy and blameless.
+	Blessing, redemption, and inheritance are all subsequent to being holy and blameless.
+	The presence and action of the Holy Spirit is a piton which never breaks free.  It is the reminder of what is to come.  Further, is a "guarantee" of that inheritance; i.e. our ticket to obtain our inheritance when the lot falls to us.
+
+
+
 Blessings:
 - Quantity
 	The urgent often pre-empts the important.
