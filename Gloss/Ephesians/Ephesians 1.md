@@ -74,4 +74,5 @@ Ironside's Door:
 [Deut 4:20]
 [Deut 7:6]
 [1Pet 2:9]
+
 19-23) The inheritance includes work to do
