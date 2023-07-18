@@ -79,7 +79,7 @@ The murderous rivalry between siblings increases from here on
     East is always a place of foreboding and exile.
     Nod means wanderers; perhaps a geography, perhaps a sub-culture.
 
-17) Cain has a son, Enoch (who will later walk with God)
+17) Cain has a son, Enoch (not the Enoch who later walks with God)
     Where did Cain's wife come from?
     - his sister?
     - other people already outside of Eden?
@@ -114,10 +114,10 @@ The murderous rivalry between siblings increases from here on
     There is at least an intellectual link here with the descendant watchers
     - the fallen ones taught women how to seduce men with makeup and ornaments
     - they also taught men how to make weapons of war
-    - curiously, there is no-one linking the __pharmakeia__ aspect of the watcher's teaching
+    - curiously, there is no-one linking the __pharmakeia__ aspect of the watcher's teaching AND shepherding/muscisianship are inherently godly
 
-23-24) Lamech kills a boy, not a man, for [seemingly] more than Abel was killed for: physically wounding him
-       - he claims a fuller privilege of protection
+23-24) Lamech kills a boy, and a man
+       - he claims his own mark of protection
        - surely this is a misappropriation of God's judgment upon Cain and a mis-understanding of God's working
 
 25) Adam+Eve -> Seth; puts-right

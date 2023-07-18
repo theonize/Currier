@@ -10,8 +10,10 @@ These are interesting because both go from Levi to Seraiah
 This is not a proof of gaps within genealogies.
 Jesus' genealogies appear to have a consistency of ~50yr per generation which gives 1250yr which is roughly congruent with the time-span from the conquest to the incarnation.
 However, the gaps in Ezra's genealogy does allow us the freedom to reconcile more ancient dates.
-- e.g. Babel ~ the manpower required to build the tower was more than could have been bred within 3 generations
-- e.g. Egyptian captivity ~ the size of the Hebrew nation was far more than 400yr worth of generations; this, coupled with consistent Biblical numerology of 4/40/400, allows us interpretive freedom in fitting this time-period to archaelogical fact
+- e.g. Babel ~ the manpower required to build the tower was more than could have been bred within 3 generations (based on modern human genetics)
+- e.g. Egyptian captivity ~ the size of the Hebrew nation was far more than 400yr worth of generations; this, coupled with consistent Biblical numerology of 4/40/400, allows us interpretive freedom in fitting this time-period to modern archaelogical understanding.
+
+Most importantly, there are multiple interpretations which are sustainable within a high, infallible view of scripture.
 
 ====
 
