@@ -1,6 +1,10 @@
 # Supernatural Happenings
 
-[Gen 6]() Nephilim
+Angels
+  Gen 4 & 6
+  Sodom / Lot
+  Assyrian army
+  Gabriel
 
 Abrahams supper w/ God
 
