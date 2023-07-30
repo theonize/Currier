@@ -5,8 +5,8 @@ The bible book, Proverbs, uses 4 characters to exemplify the importance of wisdo
 * Simpleton
 + Man of Understanding
 + Wise
+- Fool
 - Scoffer
-- Evil-Doer
 
 There are four boxes with which we can express ourselves:
 - cash box
