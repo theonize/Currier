@@ -46,3 +46,13 @@ Nerdily enough, we get a tidy 4x4 matrix of the human being with God:
 | Righteousness | Heart | Will | Connection |
 | Truth | Loins | Affections | Intuition |
 | Evangel | Movement | Mobility | Purpose |
+
+
+## Theology
+
+- Imago Dei
+  - intrinsic value
+- Trinity
+- Dominion
+  - responsibility
+- Depravity
