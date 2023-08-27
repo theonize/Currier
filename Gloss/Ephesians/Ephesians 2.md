@@ -30,3 +30,5 @@ Path to Citizenship
 ## Peace, vv.11-22
 
 The peace the God wrought is between us and Him and other people.
+See that God's past judgments were brought because of our opposition to Him and our violence toward each other.
+
