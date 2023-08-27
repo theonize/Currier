@@ -25,3 +25,8 @@ Path to Citizenship
 19. So then...
 
 22. In Him...
+
+
+## Peace, vv.11-22
+
+The peace the God wrought is between us and Him and other people.
