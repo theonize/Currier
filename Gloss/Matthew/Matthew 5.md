@@ -25,23 +25,23 @@ It is left to the reader to fill in the blank: what causes that type of person t
 |11|Persecuted|Salvation|Ownership of Heaven|
 
 Who are...
-- the poor in spiriit?  those who are humbly aware of their spiritual deficiency.
+- The poor in spiriit?  those who are humbly aware of their spiritual deficiency.
   - consequential rulers of the Kingdom of Heaven, which is the transcendent nation occupied by God's loyal followers
-- mourners?  thos who have experienced loss.
+- The mourners?  thos who have experienced loss.
   - these people receive comfort
-- the gentle?  those who act with aggression; characterized by kindness, mercy, and grace.
+- The meek?  those who control their strength; characterized by concealed power, assertiveness, kindness, mercy, and grace.
   - these receive dominion of the Earth
-- the hungry & thirsty?  those whose fare is injustice.
+- The hungry & thirsty?  those whose fare is injustice.
   - these receive the satisfaction (bread & water; word & spirit) of eventual righteous governance
-- the merciful?  those who do not give others the retribution they deserve.
+- The merciful?  those who do not give others the retribution they deserve, the compassionate.
   - these receive mercy
-- the pure in heart?  not the natural human, but the one cleansed by God's redemption.
+- The pure in heart?  not the natural human, but the one cleansed by God's redemption.
   - these can be present with God
-- the peacemakers?  those who overlook differences and forgive wrongs against them with the goal of unity.
+- The peacemakers?  those who overlook differences and forgive wrongs against them with the goal of unity; doers of peaceful things: in response to aggression and in daily living.
   - these are known to belong to God
-- those persecuted for righteousness?  people who are punished for doing what is truly good.
+- Those persecuted for righteousness?  people who are punished for doing what is truly good.
   - KoH...as with the poor in spirit
-- y'all?  disciples of Christ
+- Y'all?  disciples of Christ
   - heavenly rewards
   - identity with prior saints
 
