@@ -1,4 +1,4 @@
 # Bible Studies
 
-
-- [Who Are We?](./Who\ Are\ We.md)
+- [Studies](./Studies)
+- [Who Are We?]('./Studies/Who Are We.md')
