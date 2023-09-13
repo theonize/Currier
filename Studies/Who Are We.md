@@ -30,7 +30,7 @@ The armor of God...recap.
 
 Comes near the start of Jesus' public ministry.
 He withdraws from the crowds and goes up, with his disciples, in seclusion.
-"up on the mountain" is somewhat unusual for an ancient person; most mountains are not readily accessible without significant technology and they were considered the abode of the gods.
+"up on the mountain" is somewhat unusual for an ancient person; many mountains are not readily accessible without significant technology and they were considered the abode of the gods.
 
 The fact that he _opened his mouth_ to teach them implies a personal, physical Christ connection.
 
