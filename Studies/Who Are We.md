@@ -26,6 +26,10 @@ The armor of God...recap.
 * The only offensive tool
 * Indicates knowledge and wisdom
 
+
+----
+
+
 ## Matthew 5
 
 Comes near the start of Jesus' public ministry.
