@@ -2,6 +2,8 @@
 
 Jonah means dove, as in the offering; we get the idea that Jonah is a "good guy", cultural speaking.
 
+Amittai means "my truth"
+
 
 Fleeing God's presence
 - Adam & Eve his from the presence
