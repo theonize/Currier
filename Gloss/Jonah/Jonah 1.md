@@ -1,5 +1,8 @@
 # Jonah 1
 
+Jonah means dove, as in the offering; we get the idea that Jonah is a "good guy", cultural speaking.
+
+
 Fleeing God's presence
 - Adam & Eve his from the presence
 - Cain left the presence [Gen 4]()
