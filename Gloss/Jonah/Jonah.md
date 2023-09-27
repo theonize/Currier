@@ -1,5 +1,12 @@
 # Jonah Overview
 
+A central them of the book is justice:
+* justice is the equal application of consequences for actions
+* the reality is
+  * God's mercy prevents us from receiving our due punishment
+  * God's grace gives us extensive goodness regardless of our effort or righteousness
+  * our freedom of will is evidence of both
+
 The book of Jonah was written during or close after the exile.
 Three facets
 - Upside-downness
