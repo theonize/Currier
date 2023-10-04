@@ -10,7 +10,7 @@ whilst the great ocean of truth lay all undiscovered before me."
   
   Isaac Newton  
 
-__This work is a compilation of the biblical information that has been distilled through me.__
+__This work is a compilation of the biblical information that has been distilled through me.__  The Logos, and God's revelation of it via the Bible, is the only truly unfathomable material worth plumbing.
 
 
 ## Site-Map
