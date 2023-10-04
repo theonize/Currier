@@ -27,6 +27,7 @@ The storm was abnormal ~ it frightened seasoned sailors
 5) How could Jonah sleep through the storm?  He was anesthetized by his depression.
 We get lost in our rebellious way-of-life and ignore life.
 We ignore the storms of life; even while our neighbors are throwing their lives away.
+  Interesting that Jesus also had an occasion to sleep through a preternatural storm.  However, He was also the god that calmed the storm.
 
 The pagan captain called the prophet to account.
 
@@ -38,7 +39,7 @@ Jonah was never forthcoming but waiting for the situation come to a head.
 
 The sailors come to God through Jonah's ineptitude.
 
-12) Jonah would not commit suicide, he asked to be thrown in.
+12) Jonah would not commit suicide, he asked to be thrown in.  It is his xenophobic way of putting blood-guilt on the sailors to take them down with him.
 
 13) Rowing harder never solves the problem, God solves the problem (v. 15)
   Is 64:6
