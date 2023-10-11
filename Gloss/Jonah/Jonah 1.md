@@ -46,3 +46,4 @@ The sailors come to God through Jonah's ineptitude.
 
 
 16) Ironic that the pagan sailors actually feared Yahweh and Jonah did not...though he said so.
+Interesting that the author knows the sailors repented.  If it were Jonah then this is knowledge he gained later.
