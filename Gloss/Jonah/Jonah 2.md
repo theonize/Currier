@@ -18,7 +18,7 @@ Historical whale swallowing survivors:
 - M.Deparvelle: 1891, James Bartley, Star of the East, Falkland Islands, 
 - Harry Rimmer: English sailor, England
 
-This book has many quotations from other scripture
+Per verse 9, this is a prayer of Thanksgiving;  but not one of repentance. This prayer is an aggregation of many quotations from scripture.
 Later scripture (i.e. Lamentations) draws from this peom
 ...this implication is two-fold:
   - Jonah knew scripture [very well]
