@@ -44,7 +44,7 @@ The chapter begins with a reprise of the creation of heritage: humans are made i
 This reminds us that human life is deliberate, not an incidental or accidental.
 Even our part in the creation of life is done with willful intent.
 Man is intialized, identified, blessed, and named; this pattern contiues through the chapter.
-Each man in the genealogy is named, numbered as of when they first fathered a sone, then further accounted as to the amount of time they fathered more __sons and daughters__, then totaled.
+Each man in the genealogy is named, numbered as of when they first fathered a son, then further accounted as to the amount of time they fathered more __sons and daughters__, then totaled.
 We are also reminded that each one died (except for one.)
 This is repeated several times in the recounting of mortal man's line.
 Recall that Eve supposed that she bore the promised son, the one who would bring reconciliation.
