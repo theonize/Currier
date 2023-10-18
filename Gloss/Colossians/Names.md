@@ -1,30 +1,30 @@
 # Names in Colossians 
 
-Paul 
-Timothy 
-Colossae 
-Jesus 
-Epaphras 
+Paul ~ small 
+Timothy ~ honor of God
+Colossae ~ punishment
+Jesus ~ Savior
+Epaphras ~ covered with foam
 
 ---
 
-Greek 
-Jew 
-Scythian 
+Greek ~ 
+Jew ~ the praise of the Lord
+Scythian ~ 
 
-Tychicus 
-Onesimus 
-Aristarchus 
-Marcus 
-Barnabas 
-Jesus Justus 
-Epaphras 
-Laodicea 
-Hierapolis 
-Lukas
-Demas 
-Laodicea 
-Nymphas 
-Laodicea(ns)
-Archipus 
-Paul 
+Tychicus ~ casual/by chance
+Onesimus ~ profitable
+Aristarchus ~ the best prince
+Marcus ~ polite
+Barnabas ~ son of consolation
+Jesus Justus ~ ... upright
+Epaphras ~ covered with foam
+Laodicea ~ just people 
+Hierapolis ~ holy city
+Lukas ~ bright white
+Demas ~ popular
+Laodicea ~ ...
+Nymphas ~ spouse
+Laodicea(ns) ~ ...
+Archippus ~ a master of horses
+Paul ~ ...
