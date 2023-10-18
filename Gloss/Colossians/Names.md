@@ -8,9 +8,9 @@ Epaphras ~ covered with foam
 
 ---
 
-Greek ~  
+Greek ~ Hellenic  
 Jew ~ the praise of the Lord  
-Scythian ~  
+Scythian ~ rude / rough  
 
 Tychicus ~ casual/by chance  
 Onesimus ~ profitable  
