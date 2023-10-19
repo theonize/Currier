@@ -1,6 +1,14 @@
 # Colossians 1
 
 
+1) Paul introduces hisself, and Timothy, to the Colossians and presents his credentials: the apostle and the brother.
+
+2) To the holy & faithful kin in the city of punishment
+   ...grace and peace from the Father God
+
+3) The contagious hope of another's faith.
+
+
 16) [Eph 6:12]
 
 
