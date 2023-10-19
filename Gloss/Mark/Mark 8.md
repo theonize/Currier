@@ -5,6 +5,8 @@ Mark 8
 	[Ex 16]
 
 
+14-21) Not long after Jesus has fed 9000 people, using a dozen loaves of bread, the 12 disciples worry over 1 loaf of bread.
+
 16) Perhaps they assumed Jesus was, like they would do, making a back-handed rebuke.
 
 
