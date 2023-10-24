@@ -13,6 +13,10 @@ Jonah would have been fishy smelling, bleached, and reputed.
 - bleached white from stomach acid
 - other fish survivors have similar outcomes
 
+It's 550 miles from Samaria to Nineveh
+- about a month's travel for Jonah
+- spec: 40 days?
+
 Jonah was racist.
 Is denominationalism akin to racism?
 
@@ -23,10 +27,6 @@ The miracle is not that God hated Esau but that God loved Jacob.
 Demolish ~ Nehphket
 ...more like _transform_ than destroy
 ...the question is whether the end result of the transformation is good or not.
-
-It's 550 miles from Samaria to Nineveh
-- about a month's travel for Jonah
-- spec: 40 days?
 
 Such a time as this:
 - [Est 4:10+]
