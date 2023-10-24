@@ -51,10 +51,11 @@ Yahweh proved His superiority.
 
 6) The king, through the Spirit's work, connects the dots based on Jonah's message.
 - he descends from pride to humility
+- contrast with [chapter 1] Jonah's descent into pride through seclusion
 
 7-10) Sargon preaches a better message then the man of God.
 This reaction parallels Ahab's reaction [1Kgs 21:27]()
-"sat in ashes" ~ a sorry of oneness with Sheol
+"sat in ashes" ~ a sort of oneness with Sheol
 This is biggest revival known to man.
 
 10) "relented" ~ nacham, Yahweh paused his preparations for destruction;
