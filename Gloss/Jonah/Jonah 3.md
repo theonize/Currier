@@ -7,7 +7,7 @@ Jonah did not actually _say_ no to God;
 He simply "escaped".
 For all his failings: Jonah did hear God and obey (under coercion.)
 
-The Ninevehites worshipped Dagon, the fish god.
+The Ninevites worshipped Dagon, the fish god.
 It is likely that Jonah's time in the fish "marked" him in some recognizable way.
 Jonah would have been fishy smelling, bleached, and reputed.
 - bleached white from stomach acid
