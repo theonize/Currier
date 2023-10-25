@@ -48,6 +48,7 @@ The Assyrians worshipped the fish god, Dagon.
 They were likely impressed by the circumstances of Jonah.
 Yahweh proved His superiority.
 
+5-6) The people repented first, then the king followed suit.
 
 6) The king, through the Spirit's work, connects the dots based on Jonah's message.
 - he descends from pride to humility
