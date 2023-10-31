@@ -7,28 +7,25 @@ Paul probably never went to Colossae; so, his expression to them is through seco
 
 
 General Outline
-- Greeting and communion (1:1-8)
-  - Personal introduction
-  - Catholic connection
-  - Personal connection
+- Greeting and communion (1:1-2)
 
-- Prayer for believers (1:9-14)
+- Prayer for believers (1:3-11)
 
-- Definition of Christ (1:15-20)
+- Definition of Christ (1:12-20)
 
-- Culmination of man (1:21-2:3)
+- Culmination of man (1:21+)
 
-- Heresy of Postulation (2:4+)
+- Apostolic Presentment (2:1-7)
+
+- Heresy of Postulation (2:8+)
   - Roots
   - Philosophy
   - Religion
   - Regulation
 
-- New Life (3:1-17)
+- New Life (3:1-4:6)
   - Penultimate life
   - Christian life
-
-- Practical Advice (3:18-4:6)
   - Family
   - Work
   - Prayer
