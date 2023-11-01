@@ -13,15 +13,18 @@ General Outline
 
 - Definition of Christ (1:12-20)
 
-- Culmination of man (1:21+)
-
-- Apostolic Presentment (2:1-7)
+- Culmination of Man (1:21-2:7)
+  - Rebellion
+  - Testimony
+  - Apostolicism (2:1-7)
 
 - Heresy of Postulation (2:8+)
-  - Roots
-  - Philosophy
-  - Religion
-  - Regulation
+  - importance of Christ in the flesh
+  - circumcision 
+  - baptism 
+  - legal pardoning
+  - empty religion
+  - false humility
 
 - New Life (3:1-4:6)
   - Penultimate life
