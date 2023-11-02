@@ -12,3 +12,9 @@ For this reason we also, from the day we heard about you, have not ceased prayin
 so that you may live worthily of the Lord and please him in all respects - bearing fruit in every good deed, growing in the knowledge of God,
 being strengthened with all power according to his glorious might for the display of all patience and steadfastness, 
 joyfully giving thanks to the Father who has qualified you to share in the saints' inheritance in the light.
+
+He delivered us from the power of darkness and transferred us to the kingdom of the Son he loves, in whom we have redemption, the forgiveness of sins.
+He is the image of the invisible God, the firstborn over all creation, for all things in heaven and on earth were created by him - all things, whether visible or invisible, whether thrones or dominions, whether principalities or powers - all things were created through him and for him.
+He himself is before all things and all things are held together in him.
+He is the head of the body, the church, as well as the beginning, the firstborn from among the dead, so that he himself may become first in all things.
+For God was pleased to have all his fullness dwell in the Son and through him to reconcile all things to himself by making peace through the blood of his cross - through him, whether things on earth or things in heaven.
