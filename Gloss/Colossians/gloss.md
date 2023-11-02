@@ -26,3 +26,8 @@ I became a servant of the church according to the stewardship from God - given t
 God wanted to make known to them the glorious riches of this mystery among the Gentiles, which is Christ in you, the hope of glory.
 We proclaim him by instructing and teaching all people with all wisdom so that we may present every person mature in Christ.
 Toward this goal I also labor, struggling according to his power that powerfully works in me.
+For I want you to know how great a struggle I have for you, and for those in Laodicea, and for those who have not met me face to face.
+My goal is that their hearts, having been knit together in love, may be encouraged, and that they may have all the riches that assurance brings in their understanding of the knowledge of the mystery of God, namely, Christ, in whom are hidden all the treasures of wisdom and knowledge.
+I say this so that no one will deceive you through arguments that sound reasonable.
+For though I am absent from you in body, I am present with you in spirit, rejoicing to see your morale and the firmness of your faith in Christ.
+Therefore, just as you received Christ Jesus as Lord, continue to live your lives in him, rooted and built up in him and firm in your faith just as you were taught, and overflowing with thankfulness.
