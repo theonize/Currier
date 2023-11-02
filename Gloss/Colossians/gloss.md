@@ -18,3 +18,13 @@ He is the image of the invisible God, the firstborn over all creation, for all t
 He himself is before all things and all things are held together in him.
 He is the head of the body, the church, as well as the beginning, the firstborn from among the dead, so that he himself may become first in all things.
 For God was pleased to have all his fullness dwell in the Son and through him to reconcile all things to himself by making peace through the blood of his cross - through him, whether things on earth or things in heaven.
+
+And you were at one time strangers and enemies in your minds as expressed through your evil deeds,
+but now he has reconciled you by his physical body through death to present you holy, without blemish, and blameless before him -
+23if indeed you remain in the faith, established and firm, without shifting from the hope of the gospel that you heard. This gospel has also been preached in all creation under heaven, and I, Paul, have become its servant.
+24Now I rejoice in my sufferings for you, and I fill up in my physical body - for the sake of his body, the church - what is lacking in the sufferings of Christ.
+25I became a servant of the church according to the stewardship from God - given to me for you - in order to complete the word of God,
+26that is, the mystery that has been kept hidden from ages and generations, but has now been revealed to his saints.
+27God wanted to make known to them the glorious riches of this mystery among the Gentiles, which is Christ in you, the hope of glory.
+28We proclaim him by instructing and teaching all people with all wisdom so that we may present every person mature in Christ.
+29Toward this goal I also labor, struggling according to his power that powerfully works in me.
