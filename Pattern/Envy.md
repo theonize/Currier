@@ -1,5 +1,6 @@
 # Envy
 
+1 Kings 3:16+
 Solomon and the two prostitutes:
 the envious mother would rather kill a child than give up her covetousness.
 
