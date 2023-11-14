@@ -28,3 +28,4 @@ Creativity is the sole differentiator between soulish and truly spiritual creatu
 Genome ~ the blueprint of the body
 
 Connectome ~ neural software (wetware)
+ 
