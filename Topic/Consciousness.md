@@ -1,6 +1,14 @@
 # Consciousness
 
-= a framework with which we can model our world.
+= a framework with which things perceive
+
+It is a part of our nature that allows us to model our world.
+Other, congruent elements of our nature are
+- intellect, capacity to reason
+- sentience, ability to act
+- physicality, actionability
+- psyche, emotional breadth
+The amount of, and interaction between, these elements conditions a things capability.
 
 Consciousness is given to, not created by, us.
 
