@@ -19,3 +19,6 @@ The Ark was lifted to the mountaintop, from the man descends to re-populate the 
 - We remember when prompted by an association; God remembers when He brings forward
   - a modern analogy: a computer does not forget data, it is stored and is recalled when the program is loaded; God's events are like a timed event which runs the program which recalls the data
 - Memory and remembrance is only significant in the human paradigm; i.e. within time.  It is not a valid concept in the divine realm.
+
+  Remember that Noah brought extras "clean" animals for sacrifice.
+He prepared for God's deliverance.
