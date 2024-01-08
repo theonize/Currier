@@ -1,5 +1,13 @@
 # Resurrection
 
+
+## Universality
+
+Ezekiel 37:4-10
+
+John 5:28-29
+
+
 ## Bodily Nature
 
 1Thess 4
@@ -26,6 +34,11 @@ John 5:28
 
 Exodus 19
 	Feast of Shavauot
+
+
+## The Nature of Resurrection
+
+1 Corinthian 15:12+
 
 
 ## Timeline

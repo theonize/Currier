@@ -1,5 +1,8 @@
 # Colossians
 
+If there is any group of people who should be immune to prejudgment of others based on colors and creeds it is the Church.
+But we, often, are not; the root of which is the heresy of the subversion of Christ.
+
 
 Probably written during Paul's Roman imprisonment, circa 60
 

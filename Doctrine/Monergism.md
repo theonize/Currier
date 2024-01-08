@@ -3,16 +3,16 @@
 
 The problem with the above definition is our temporal view of salvation.
 Salvation is not a point-specific, momentary act.
-It is actually the re-creation of an entier life at once.
+It is actually the re-creation of an entire life at once.
 
 
-This is an issue that can proof-texted in oblivion while we try to form-fit it to our presuppositions and desires.
+This is an issue that can be proof-texted in oblivion while we try to form-fit it to our presuppositions and desires.
 It is, therefore, highly important to remember these Biblical themes:
-- human depravity
-- necessary divine propitiation
+1. human depravity
+2. necessary divine propitiation
 
 
-[Eph 1:4-5]
+[Ephesians 1:4-5]()
 He chose us
 He predestined us
 
@@ -26,7 +26,7 @@ it = election, the adoption that we term _salvation_
 "called according to His purpose" ~ this is all people who do the will of God, not neceesarily believers
 
 "whom He foreknew He also predestined"
-This is a topological statement rather than a commentary on free-will.
+This is a tautological statement rather than a commentary on free-will.
 God sees a human life as a whole - it begins apart from Him and, hopefully, has a rewritten ending that is brought back to Him.
 
 predestination -> calling -> justification -> theosis

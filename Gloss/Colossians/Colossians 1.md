@@ -6,10 +6,19 @@
 2) To the holy & faithful kin in the city of punishment
    ...grace and peace from the Father God
 
+
+3-8) Faith, Hope and Love: the virtue trilogy
+
 3) The contagious hope of another's faith.
+
+4) faith __in__ Christ- the basis of christianity is faith in a person, not a system.
+
+5) hope "reserved", "stored up"- when feeling disconnected we can return to Christ and check-out this reservation
+   "already heard", "heard before"- they already had the gospel from the ministries which evangelized the region
 
 
 16) [Eph 6:12]
+   The world has nothing to offer the believer- we already have everything in Christ.
 
 
 18) "firstborn" in the sense of stature; literally in the sense the He raised of His own volition and power.

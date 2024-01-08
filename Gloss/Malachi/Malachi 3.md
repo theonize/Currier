@@ -28,9 +28,13 @@ fuller's soap is meant for cleansing cloth
 Theirs was a nation known for, and dedicated to, Yahweh; yet, they refrained from their duty.
 Remember, this was after the return from exile and the 2nd Temple Ezra-rabbinic revival!
 
-10) Yahweh request a test of _Him_: bring the full tithe and see if He will not meet our needs.
+10) Yahweh requested a test of _Him_: bring the full tithe and see if He will not meet our needs.
   In an agrarian society the floodgates of heaven means a good crop; this requires work to [eventually] bring the harvest.
-    Our greatest blessing is the opportunity to work fruitfully.
+  Our greatest blessing is the opportunity to work fruitfully.
+  It is important to note that Yahweh initiates the test of Hisself.
+  There is a stark contrast between accepting a challenge/adventure of this sort in the privacy of our own will/mind and presenting a tithe in view of the public.
+  Contrast also with Yahweh's admonition of Israel in Deuteronomy 6:16: where they acted on their own behalf rather than acting in accordance with Him.
+
 
 12) Further, all external hindrances to prosperity will be removed.  Note that we still have to work the land and pick the fruit...
 

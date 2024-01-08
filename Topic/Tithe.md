@@ -12,7 +12,7 @@ We see in the Bible giving rates as high as 100% (the widow and her mites (whom 
 The test.
 
 
-## Isaiah 58:7-10
+## Isaiah 58:6-10
 The act.
 
 
@@ -22,3 +22,7 @@ The promise.
 
 ## Matthew 6:1-12
 The intent.
+
+
+## Luke 6:37-39
+The measure.
