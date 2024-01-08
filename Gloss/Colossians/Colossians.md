@@ -10,28 +10,41 @@ Paul probably never went to Colossae; so, his expression to them is through seco
 
 
 General Outline
-- Greeting and communion (1:1-8)
-  - Personal introduction
-  - Catholic connection
-  - Personal connection
+- Greeting and communion (1:1-2)
 
-- Prayer for believers (1:9-14)
+- Prayer for believers (1:3-11)
+  - thanks
+    - faith
+    - hope
+    - love
+  - wish
+    - knowledge, wisdom, understanding
+    - glory, endurance, joy
+- Christful Redemption (1:12-20)
+  - redemption is translation
+  - the preeminence of our redeemer
+  - headship of Christ
+  - peacemaker
+- Culmination of Man (1:21-2:7)
+  - Rebels are inducted into the body
+  - Testimony
+    - personal
+    - congregational
+    - global
+  - Apostolicism (2:1-7)
+    - 
 
-- Definition of Christ (1:15-20)
+- Heresy of Postulation (2:8+)
+  - importance of Christ in the flesh
+  - circumcision 
+  - baptism 
+  - legal pardoning
+  - empty religion
+  - false humility
 
-- Culmination of man (1:21-2:3)
-
-- Heresy of Postulation (2:4+)
-  - Roots
-  - Philosophy
-  - Religion
-  - Regulation
-
-- New Life (3:1-17)
+- New Life (3:1-4:6)
   - Penultimate life
   - Christian life
-
-- Practical Advice (3:18-4:6)
   - Family
   - Work
   - Prayer
