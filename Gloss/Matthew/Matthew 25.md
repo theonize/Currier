@@ -24,6 +24,8 @@ Partial Rapture: Lot is a type of the remnant/Church whereas he _had_ to be remo
 	
 
 24-25) the man did not really know the Master- he did not also know the hit and love of the master.
+  The servant's good intentions were not good enough- knowing the master is necessary.
+  Not working [at all] is not acceptable.
 	The servant disregards/denies the Master's claim on the talent.
 	Perhaps he was hiding his connection with the Master.
 	The wicked servant's talent is given the successful servant.
