@@ -11,9 +11,11 @@ Partial Rapture: Lot is a type of the remnant/Church whereas he _had_ to be remo
 14-30) Talents were highly valuable coinage
 	even the single talent was not trivial
 	he gave talents based on ability/skill. 
+  
+  The master does not micromanage the servants: he leaves and expects the servants to work well.  
 
-[Luke 19] ~ complementary, everyone gets the same amount
-
+[Luke 19] ~ complementary, everyone gets the same amount. 
+  
 18) this seems like a natural, safe thing to do - but it turns out to an indefensible, punishable position
 
 
