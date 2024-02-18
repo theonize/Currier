@@ -1,12 +1,16 @@
 Matthew 25
 
 
+These stories come on the heels of a discourse about the end-of-times.
+These paragraphs are all we need to know about it.
+They are also all Jesus knew: in his condescended state, He could not know the date (Matt 24:36) or exact circumstances beyond what is presented in Scripture.  
+
 1-13) Ten virgins
 Partial Rapture: Lot is a type of the remnant/Church whereas he _had_ to be removed before the judgment could fall
 
 14-30) Talents were highly valuable coinage
 	even the single talent was not trivial
-	he gave talents based on ability/skill
+	he gave talents based on ability/skill. 
 
 [Luke 19] ~ complementary, everyone gets the same amount
 
