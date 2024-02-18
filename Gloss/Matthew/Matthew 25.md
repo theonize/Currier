@@ -23,10 +23,10 @@ Partial Rapture: Lot is a type of the remnant/Church whereas he _had_ to be remo
 	[Zeph 3:17]
 	
 
-24-25) the man did not really know the Master
-	the servant disregards/denies the Master's claim on the talent
-	perhaps he was hiding his connection with the Master
-	the wicked servant's talent is given the successful servant
+24-25) the man did not really know the Master- he did not also know the hit and love of the master.
+	The servant disregards/denies the Master's claim on the talent.
+	Perhaps he was hiding his connection with the Master.
+	The wicked servant's talent is given the successful servant.
 
 25) part of Jesus purpose is to divide the earthly kingdom
 
