@@ -1,15 +1,21 @@
 Matthew 25
 
 
+These stories come on the heels of a discourse about the end-of-times.
+These paragraphs are all we need to know about it.
+They are also all Jesus knew: in his condescended state, He could not know the date (Matt 24:36) or exact circumstances beyond what is presented in Scripture.  
+
 1-13) Ten virgins
 Partial Rapture: Lot is a type of the remnant/Church whereas he _had_ to be removed before the judgment could fall
 
 14-30) Talents were highly valuable coinage
 	even the single talent was not trivial
-	he gave talents based on ability/skill
+	he gave talents based on ability/skill. 
+  
+  The master does not micromanage the servants: he leaves and expects the servants to work well.  
 
-[Luke 19] ~ complementary, everyone gets the same amount
-
+[Luke 19] ~ complementary, everyone gets the same amount. 
+  
 18) this seems like a natural, safe thing to do - but it turns out to an indefensible, punishable position
 
 
@@ -17,10 +23,12 @@ Partial Rapture: Lot is a type of the remnant/Church whereas he _had_ to be remo
 	[Zeph 3:17]
 	
 
-24-25) the man did not really know the Master
-	the servant disregards/denies the Master's claim on the talent
-	perhaps he was hiding his connection with the Master
-	the wicked servant's talent is given the successful servant
+24-25) the man did not really know the Master- he did not also know the hit and love of the master.
+  The servant's good intentions were not good enough- knowing the master is necessary.
+  Not working [at all] is not acceptable.
+	The servant disregards/denies the Master's claim on the talent.
+	Perhaps he was hiding his connection with the Master.
+	The wicked servant's talent is given the successful servant.
 
 25) part of Jesus purpose is to divide the earthly kingdom
 
