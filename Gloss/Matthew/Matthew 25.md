@@ -11,6 +11,12 @@ Partial Rapture: Lot is a type of the remnant/Church whereas he _had_ to be remo
 14-30) Talents were highly valuable coinage
 	even the single talent was not trivial
 	he gave talents based on ability/skill. 
+
+  A talent was around 100lb...which equates to nearly a lifetime of wages for the average person.
+  None of these servants ran off with the money.
+  Even the "lesser" servant was given a lifetime's worth of wealth.
+
+  Talents, in the ephemeral sense, are more than gifts: they are all the good things with which God imbued us- the essence of who we are.
   
   The master does not micromanage the servants: he leaves and expects the servants to work well.  
 
