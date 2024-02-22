@@ -14,8 +14,14 @@ What is the nature, and role, of divinity in our lives?
 
 
 Eliphaz the Eloquent ~ experience is king
-Bildad the Brutal ~ 
-Zophar the Zealous ~ tradition above all
+Bildad the Brutal ~ traditionalist
+Zophar the Zealous ~ 
+
+There are three types of politics, which are evidenced in the three friends:
+* populist ~ prioritizes people and their morality
+* traditionalist ~ prioritizes the system
+* zealot ~ prioritizes the ideal and liberty in light of perceived rights
+
 
 Two kinds of people:
 	those that have something to say

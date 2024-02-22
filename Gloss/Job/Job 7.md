@@ -20,5 +20,6 @@
 
 17-21) A valid line of thought that we should all explore: why is God at all interested in us?
 
-21) Job acknowledges both his own sin and blamelessness.
+21) Job acknowledges both his own sin and the God can bestow righteousness.
     He is recognizing God's sovereign ability to forgive.
+
