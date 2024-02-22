@@ -17,6 +17,7 @@ Partial Rapture: Lot is a type of the remnant/Church whereas he _had_ to be remo
   Even the "lesser" servant was given a lifetime's worth of wealth.
 
   Talents, in the ephemeral sense, are more than gifts: they are all the good things with which God imbued us- the essence of who we are.
+  We should all carry 100% of the weight given to us.
   
   The master does not micromanage the servants: he leaves and expects the servants to work well.  
 
