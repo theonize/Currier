@@ -25,4 +25,7 @@ Bildad joins the conversation.
 
 19) This is a universal truth: for the godless this life is the best they will ever have; for the godly, this life is the worst they will ever have.
 
-20-21) Ad naseum: more general truth that applies in finality, but not in the current circumstance.
+20) This is an absolute truth but it comes down to what rejection and support mean: when the righteous falter they are still accepted by God; when the godless prosper they are still rejected by God.
+    It is important to dissociate prosperity from God's favor.
+
+21-22) Not necessarily true: the godless may outlive the good even though good wins in the end.
