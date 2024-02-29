@@ -4,12 +4,11 @@
 1-16) kingdom of heaven _is like_ a master
 	early morning
 	hired laborers
-	vineyard
-		what is the vineyard? Israel?
+	vineyard - representative of God's kingdom
 
-	denarius ~= a fair day's wage
+	denarius ~= a nominal day's wage
 
-	can this really be about the Church? what's the wage? Bema seat rewards?
+	The first wage is representative of our faith/salvation.
 
 6-7) Any work not in the master's vineyard is idleness.
 
