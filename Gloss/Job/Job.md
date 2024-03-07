@@ -20,7 +20,7 @@ Zophar the Zealous ~
 There are three types of politics, which are evidenced in the three friends:
 * populist ~ prioritizes people and their morality
 * traditionalist ~ prioritizes the system
-* zealot ~ prioritizes the ideal and liberty in light of perceived rights
+* zealot ~ prioritizes the ideal of liberty in light of perceived rights
 
 
 Two kinds of people:
