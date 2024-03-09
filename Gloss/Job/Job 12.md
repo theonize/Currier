@@ -39,3 +39,23 @@ Job replying to Zophar
 
     So, I suppose it is as such with words- sometimes we read because we must, sometimes because we want to, and sometimes because we can.
     None of this is to be disparged though, as C.S. Lewis quipped, "only jailors oppose escapism."
+
+
+13-25) God does what He will do.
+       This lengthy exposition sets up Job's understanding of and committment to God's sovereignty.
+       He truly knows they God is ultimately responsible for all things.
+       A larger discussion comes on about whether He delegates and whether that transfers guilt but, nonetheless, God is the patron.
+
+13-14) There are countless examples of this:
+       - the bottomless well of mathematical and physical, fine-tuned detail in creation
+       - the wiping of Nineveh from history for centuries
+       - the redemption of utterly debased humans
+       - the overnight destruction of powerful nations
+
+15-25) All of these things are metaphorical of the good/bad cycle of life.
+       A popular reprise is:
+         Hard times make hard men
+         Hard men makes easy times
+         Easy times make soft men
+         Soft men make hard times
+       ...this passage illucidates the idea that God controls the ebb & flow of such cycles to His own ends.
