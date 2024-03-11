@@ -59,3 +59,10 @@ Job replying to Zophar
          Easy times make soft men
          Soft men make hard times
        ...this passage illucidates the idea that God controls the ebb & flow of such cycles to His own ends.
+
+17-21) God manipulates leaders in various ways to influence a course of events.
+       He does this at various levels: personal, national, and international.
+       He does in various ways: direct & indirect blessing & cursing.
+
+24-25) This is a curious phenomena that we see play out again and again: 
+       Who knows what cascade of events has led to leaders instantiating grand wars and taxing people into poverty.
