@@ -8,27 +8,27 @@ deals with subject matter not in the Old Testament
 2) Interesting that He could proclaim, they could see Him, but they could not touch Him
 
 3-9) The Sower
-	[Is 55:11]
-	The Path
-		impenetrable, no soil
-		no birth
-		no growth
-		birds ate the seed
-	Rocky Ground
-		a little soil
-		successful birth
-		immediate growth
-		withered under the sun [1Cor 3:13]
-	Thorny Ground
-		good soil
-		successful birth
-		growth
-		adjacent weeds killed them
-	Good Soil
-		good soil
-		successful birth
-		multiplicative growth
-		no death
+  4 soils, not necessarily fourths.  
+ 	[Is 55:11]
+ 	The Path
+  		impenetrable, heavily trodden, scarred
+  		no birth
+  		no growth
+  		birds ate the seed
+ 	Rocky Ground
+  		a little soil
+  		successful birth
+  		immediate growth
+  		withered under the sun [1Cor 3:13]
+ 	Thorny Ground
+  		good soil
+  		successful birth
+  		growth
+  		adjacent weeds killed them
+ 	Good Soil
+  		successful birth
+  		multiplicative growth
+  		no death
 
 9) How many have ears?  Repeated multiple times in [Rev 2-3]
 
