@@ -39,6 +39,9 @@ deals with subject matter not in the Old Testament
 	4. It pricks the heart
 	5. It is a blessing
 
+11) The Word is for those who have been taught it.
+    Some are not taught- not everyone received the teaching of the mysteries.
+
 12) What is this "more understanding"?
   It is more knowledge, general revelation: information; "an abundance of teaching."
 How might He take away understanding?
