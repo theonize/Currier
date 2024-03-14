@@ -39,6 +39,8 @@ deals with subject matter not in the Old Testament
  	4. It pricks the heart
  	5. It is a blessing
 
+  Many such things are hidden, from individuals as well as mankind, until Good reveals them.
+
 11) The Word is for those who have been taught it.
     Some are not taught- not everyone received the teaching of the mysteries.
 
@@ -47,6 +49,9 @@ deals with subject matter not in the Old Testament
 How might He take away understanding?
   He will literally change our mind through natural processes.
 
+
+17) re: v.11- not everyone receives the teaching.
+    v.v. Daniel 12:4 ~ there is a progressive revelation as God desires.
 
 18) Now, with some explanation of parables in general, Jesus exposits this one
 
