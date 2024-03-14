@@ -33,11 +33,11 @@ deals with subject matter not in the Old Testament
 9) How many have ears?  Repeated multiple times in [Rev 2-3]
 
 10-17) The purpose of a parable
-	1. It is for the unknowing
-	2. It is for understanding
-	3. It introduces a new perception
-	4. It pricks the heart
-	5. It is a blessing
+ 	1. It is for the unknowing
+ 	2. It is for understanding
+ 	3. It introduces a new perception
+ 	4. It pricks the heart
+ 	5. It is a blessing
 
 11) The Word is for those who have been taught it.
     Some are not taught- not everyone received the teaching of the mysteries.
