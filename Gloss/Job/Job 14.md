@@ -24,3 +24,7 @@
     However, we disregard the sacrifice necessary to pay the cost of sin.
     We also don't see the larger plan God works vicariously through us.
 
+
+18-22) God, how oppressive is the weight of loneliness and despair.
+       We are both eroded and crumbled in our hardships.
+       It is a state of being so overwhelmed by circumstance that we can only be introspective- there isn't the strength to look outward.
