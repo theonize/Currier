@@ -1,5 +1,9 @@
 # Matthew 22
 
+1-14) 
+  The rejection of the invitation is a deliberate insult.
+  The host expended many resources preparing the feast, thus the urgency of getting guests.
+
 
 11-13) The garment is the salvation and faith of Christ
 	_speechless_
