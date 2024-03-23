@@ -27,6 +27,12 @@ Eliphaz's reply
        Neither is it wrong to confront God.
        Though this is not good as a matter of course it is sometimes necessary for edification and growth.
 
+27) An interesting picture: the wicked man is fat but ruined?
+    He only becomes fat by over-indulging; and indulgence was exceptionally rare in an era where most people lived hand-to-mouth.
+    This is a prime example of the friends' [purposeful] misconceptions of what doesn't fit their world view.
+    How did the wicked man get fat if was God ruins the wicked?
+    Obviously he has years of gluttony to pad his sides.
+
 34) This is (?maybe?) the first specific accusation against Job: bribery.
     Eliphaz references the loos of children and destruction of property.
 
