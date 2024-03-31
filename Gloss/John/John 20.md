@@ -8,6 +8,9 @@ she did not investigate but ran to Simon Peter & John
 3) Why does he mention that John outran Peter?
 
 
+5-7) the wrappings used would have been impossible for the wearer to remove quite cutting or massive effort.
+     It is as if he simply materialized through it.
+
 5) John saw the burial clothes but did not enter
 
 6) Simon had no problem going in; was it because he knew there was no dead body? or because he didn't care about the law?
