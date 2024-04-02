@@ -77,9 +77,20 @@ How might He take away understanding?
 34-35) He no longer spoke publically apart from parable
 
 
+44-48) The Kingdom of Heaven is like...
+* treasure which is buried but found
+* a merchant in search of fine un-kosher treasures
+* a large net thrown into the sea
+  * in John 21:11 we see an instantiation of this
+
+44) it is not uncommon for people to bury their valuables
+    the treasure was such that it couldn't be carried away- possibly an immense coffer
+
 45-46) Pearls are
 ...not prized by Jews (except for their value in trade)
 ...the only gem made by a living organism
 ...created in response to an irritant
 ...removed from their natural habit to become and adornment
 ...taken out of their captivity in the [sea](/Pattern/Seas)
+
+47) "every kind of fish". E.W. Bullinger suggests that there were 153 types of fish, perhaps 153 nations, which this seems to support.
