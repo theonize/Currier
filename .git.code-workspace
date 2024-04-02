@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": ".git"
+		},
+		{
+			"path": "Character"
+		},
+		{
+			"path": "Comp"
+		},
+		{
+			"path": "Doctrine"
+		},
+		{
+			"path": "Gloss"
+		},
+		{
+			"path": "Misc"
+		},
+		{
+			"path": "Pattern"
+		},
+		{
+			"path": "Prayers"
+		},
+		{
+			"path": "Read"
+		},
+		{
+			"path": "Studies"
+		},
+		{
+			"path": "Topic"
+		}
+	]
+}
