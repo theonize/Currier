@@ -42,6 +42,11 @@ Things are heating up between the friends.
        We are Bildad, Zophar, and Eliphaz.
        We say we want to be righteous but (I suspect) would not accept the trials that Job endured.
 
+25) This verse gives an indication of the period in which it took place-
+    "leaded tablets" were a means of filling the inscription on a clay tablet with metal to give it some kind of permanence.
+    The iron stylus was a tool that needed, oddly enough, iron-age technology to forge.
+    In light of this Job did not pre-date Abraham and did not post-date the judgees-period.
+
 25-27) Job believes in a resurrection- before the Bible, before Christianity, before Judaism.
        God will "stand on the dust"; BDB likens this the storm of dust after a seige.  It is representative of the filth of malice and destruction.
        ...**after** my skin has been destroyed, I will see God **in the flesh**.
@@ -53,4 +58,3 @@ Things are heating up between the friends.
 
 29) God's wrath does come to Earth from time to time.
     We perceive some of it, just often enough, to bear the reminder of greater things than us.
-

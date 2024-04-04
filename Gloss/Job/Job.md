@@ -35,6 +35,26 @@ The friends:
 * are harsh
 
 
+Dating Job:
+  Historically, the events of Job are put somewhere between Abraham and the Judges.
+	The book may mention creatures that are extinct, which would push the date back.
+	However, the mention of "leaded tablets" and iron weapons/tools brings the date forward.
+	Although, this could simply indicate Job's erudition in the latest-and-greatest technology of the day.
+	There is no known extra-Biblical reference to the man of Job.
+	This tends to support an earlier date for the events because others history thin considerably as you precede in time.
+	Theologically the date is not significant.
+	It is not a massive problem to make Job and friends a pure allegory, especially in light of divine council scene in the prologue (of which Job had no knowledge.)
+	However, the Bible does not typically name people and places in parable- name denote important people and places.
+	And, there are many instances in history where Biblical stories were thought to be unreal only to have archaeology later prove them true.
+
+
+Culture:
+	Much of Job's language is echoed in the Psalms.
+	Though this could indicate a late-date of writing the technological mentions in the book cast some doubt on a late date.
+	It is more likely that the traditions and cult which became codified as the Jewish faith were already in place by the time of Job.
+	This is evident in his sacrificial practices which include remission of sin and a familial orientation.
+
+
 Outline
 * 1-2: Setting the Stage
 * 3: Lamentation
