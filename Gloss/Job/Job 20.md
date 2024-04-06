@@ -23,4 +23,6 @@ Zophar replies to Job
     Furthermore, he mentions the bronze bwo- this is a ridiculous item for thought-experimentation only but the knowledge of bronze pulls the story into the future.  
     For example, we have mention of the Philistines military advantage, in Judges, because of their iron chariots.
     Obviously, the knowledge pre-dates the manufacture but it indicates a relative position of the book in history- late patriarchal to early judges.
-    
+
+24-29) A poignant reprise of the wickeds' fate.
+       When our mortality comes to the forefront we tend to honestly examine our situation.
