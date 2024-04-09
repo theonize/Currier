@@ -32,3 +32,21 @@ Job replies
     But, this is not always the case- it is often not the case (often enough that we have all experienced it.)
     And saying that God is accountable means that He made it happen.
     It is not for nothing, but it is His design.
+
+17-21) Job finally answers the question of the prosperity of the wicked.
+       Part of the issue in the theological volume is that they are teasing apart issues of cult & faith that need to be examined in depth and in part.
+
+19) This is often true that we inherit debts from our parents- financial, spiritual, and emotional.
+
+22-26) It is not as if God is unaware of the travails of various humans.
+       We are the ones who desparately try to make sense of circumstances and largely fail to do so;
+       because we cannot see the entire canvas.
+
+27-34) What was an abstract argument about righteous equating the prosperity of varying degrees is now very real to Job.
+       Naturally, he takes umbrage with their continual denouncements because **by their own reckoning** he should be prosperous & healthy.
+
+34) The true deception here is propping up a worldview that has brought wealth and honor to certain people.
+    However, because God is not primarily interested in the wealth and honor of those outside His house this doesn't factor in.
+    God doesn't consider His household to be premier among many- it is the only one He considers.
+    The other skim off the overflow.
+
