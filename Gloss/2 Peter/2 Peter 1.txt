@@ -13,15 +13,17 @@
    This spiritual mesh is one of the ways that we can connect.
 
 
-5-7)
-faith					_pistei_							(spirituality)
-virtue					_aretyn_, _arety_					(morality)
-knowledge				_gnusin_, _gnusei_					(intellect)
-temperance				_egkrateian_, _egkrateia_			(passion)
-patience				_ypomonyn_, _ypomony_				(will)
-piety					_eusebeian_, _eusebeia_				(piety)
-brotherly affection		_philadelphian_, _philadelphia_		(fellowship)
-charity					_agapyn_							(sacrifice)
+5-7) 
+Gift | Word | Trait
+ === | === | === |
+faith | _pistei_	|	(spirituality)
+virtue	| _aretyn_, _arety_	|	(morality)
+knowledge |	_gnusin_, _gnusei_	|	(intellect)
+temperance	| _egkrateian_, _egkrateia_	| (passion)
+patience | 	_ypomonyn_, _ypomony_	|	(will)
+piety	| _eusebeian_, _eusebeia_	| (piety)
+brotherly affection |	_philadelphian_, _philadelphia_	|	(fellowship)
+charity	| _agapyn_	| (sacrifice)
 
 
 
