@@ -50,6 +50,14 @@
        but it does condone such a spirit.
        We ought to know that things are vanishingly valueless in light of God's immense value.
 
+26-28) These verses have such a strange modern mystical twist it is astonishing that they are so old...nothing has really changed.
+       There is a mystical quality to serving the divine.
+       The question is which divinity we seek:
+       not that it matters in terms of power, all divine beings can enact powerfully as they see fit.
+       The evil ones do so to manipulate and connive;
+       God does so to save souls.
+       When He acts on our behalf it is the save our soul but, sometimes, His actions may harm us for the good of to
+
 26) If the only time you delight in God is when He materially blesses you then the foundation of that relationship is thin indeed.
     We must understand that our circumstances are deliberately tuned by God.
     The naive understand this in terms of self; the wise understand this in terms of humanity.
@@ -69,8 +77,8 @@
     You should fulfill your vows no matter what (and not make vows you can't keep.)
 
 30b) A triumphal, blunderous end to this mish-mash of truth and heresy:
-     It is semantically and theologically correct to say that __some__ are rescued by our "pure hands".
+     It is semantically and theologically correct to say that __some__ are rescued by their "pure hands".
      But it is God that cleaned them, God that led us to the graveyard, and God who revealed the damned to us.
      This is such a strange bit of the whole to elevate.
      Our own righteousness, which is God-given, should not be focus of anything.
-     If anything it is a lens brining God into better focus.
+     If anything it is a lens bringing God into better focus.
