@@ -56,7 +56,7 @@ It stands to reason that the more aligned our purposes are the more powerful the
 Our lack of outcomes often stems from a lack of corporate buy-in and the incapacity to understand complexity.
 It is often necessary for a congregation to be of "one mind" in order to see lack projects come to fruition.
 We may pray for a grandiose miracle but fail to realize the amount of resources and human effort required to make it so.
-Thus, it stands to reason that many people doing what they able (i.e. enabled) to do can perform much higher feats that the individual.
+Thus, it stands to reason that many people doing what they are able to (i.e. enabled) do can perform much greater feats that the individual.
 
 Communing with spirits is a splippery slope and is expressly forbidden in the Bible...except for one.
 Just as God's faithful angels would refuse worship.

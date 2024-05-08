@@ -32,3 +32,4 @@ Job responding to Eliphaz
        God is beyond the mechanisms and philological underpinnings of history and future.
 
 17) This is the flip-side of the hope of v.12;  we are hemmed in but not undone.
+
