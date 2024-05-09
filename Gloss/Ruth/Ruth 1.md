@@ -11,3 +11,12 @@ They took matters into their own hands and paid the steepest price.
   The death of the men was not God's retribution but it may well have been a consequence of their going to a forbidden place.
 It is certainly allegorical for the family leadership abandoning the Church because of it's vapidness.
 ...the correct response would have been to wait and trust in God and see the tangible affect of righteousness. 
+
+3-4) The men did not take Moabitesses until after dad died- 
+Elimelech may have prevented it but he also placed them in a situation where they were inclined to depart from their traditional regulations. 
+
+
+20-22) Naomi declares that she has "returned empty" which is not true- she had Ruth with her.
+But Ruth is faithful nonetheless. 
+Spoiler alert: at the end of story Naomi is made to realize Ruth's value, Ruth 4:15.
+
