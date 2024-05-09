@@ -20,3 +20,5 @@ Elimelech may have prevented it but he also placed them in a situation where the
 But Ruth is faithful nonetheless. 
 Spoiler alert: at the end of story Naomi is made to realize Ruth's value, Ruth 4:15.
 
+22) barley harvest was in the spring, at the time of the feast of firstfruits.
+
