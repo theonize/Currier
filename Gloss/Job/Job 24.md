@@ -20,3 +20,11 @@ The friends attempts to eak out some modicum of wickedness in Job to prove their
     We cannot judge our righteousness based on our circumstances.
     In general it is true that righteousness tends toward prosperity and wickedness tends toward poverty.
     However, there is nuance such as that people vacillate between good & bad behavior- they also change course in their lives at times.
+
+13-17) Darkness is the abode of the wicked.
+   Darkness is the absence of light, since we mainly perceive reality through our light receptacles we assume that we our hidden when we cannot see.
+   But God sees more- just as their is radiation outside the visible spectrum there are powers outside the natural that sway this one.
+   God dwells there, as well as here, and sees what we cannot.
+   I know there is spiritual darkness that clouds our consciousness-
+   we assume that because we cannot perceive that we are hidden, but God sees.
+   
