@@ -16,6 +16,10 @@ It is certainly allegorical for the family leadership abandoning the Church beca
 Elimelech may have prevented it but he also placed them in a situation where they were inclined to depart from their traditional regulations. 
 
 
+16-17) Ruth rejects Naomi's blessing and, instead, chooses to help carry her curse.
+  Ruth's sacrificial love, __hessed__, is on display and shows us how God has sanctified her.
+
+
 20-22) Naomi declares that she has "returned empty" which is not true- she had Ruth with her.
 But Ruth is faithful nonetheless. 
 Spoiler alert: at the end of story Naomi is made to realize Ruth's value, Ruth 4:15.
