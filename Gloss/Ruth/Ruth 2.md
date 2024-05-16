@@ -10,21 +10,21 @@ Boaz, the _Lord of the harvest_, shows grace toward Ruth personally and via his 
 
 
 4) Boaz has an excellent rapport with his servants.
-  This is our indication of Boaz' righteous character.
+   This is our indication of Boaz' righteous character.
 
 
 12) "The LORD repay you" ~ the grace of the believer is attributed to Yahweh.
-  "Under whose wings" ~ Good provides they venue and we act within it.
+    "Under whose wings" ~ Good provides they venue and we act within it.
 
 
 14) Boaz serves Ruth bread & wine.
-  To "dip the morsel" together was a sacrament.
-  Recall that Jesus dipped bread with his disciples- in a sense officially enjoying them to do what they would (of course 1 went a salacious direction.)
-  To the Jew wine represents sanctity and bread represents sustenance; this practice (i.e. the Kiddush, which means sanctification) is a tangible representation of this spiritual evolution.
+    To "dip the morsel" together was a sacrament.
+    Recall that Jesus dipped bread with his disciples- in a sense officially enjoying them to do what they would (of course 1 went a salacious direction.)
+    To the Jew wine represents sanctity and bread represents sustenance; this practice (i.e. the Kiddush, which means sanctification) is a tangible representation of this spiritual evolution.
 
 
 17) an ephah is approximately 6gal of seed.
-  This amount of grain is an blessing but imagine a girl carrying a huge basket of grain back home.
+    This amount of grain is an blessing but imagine a girl carrying a huge basket of grain back home.
 
 
 19-23) Naomi recognizes Boaz's interest and coaches Ruth in that direction.
