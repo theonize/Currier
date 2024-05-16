@@ -20,6 +20,7 @@ Boaz, the _Lord of the harvest_, shows grace toward Ruth personally and via his 
 14) Boaz serves Ruth bread & wine.
   To "dip the morsel" together was a sacrament.
   Recall that Jesus dipped bread with his disciples- in a sense officially enjoying them to do what they would (of course 1 went a salacious direction.)
+  To the Jew wine represents sanctity and bread represents sustenance; this practice (i.e. the Kiddush, which means sanctification) is a tangible representation of this spiritual evolution.
 
 
 17) an ephah is approximately 6gal of seed.
