@@ -16,8 +16,11 @@ It is certainly allegorical for the family leadership abandoning the Church beca
 Elimelech may have prevented it but he also placed them in a situation where they were inclined to depart from their traditional regulations. 
 
 
+8) Perhaps they got to the border when Naomi told the girls to go home.
+
 16-17) Ruth rejects Naomi's blessing and, instead, chooses to help carry her curse.
-  Ruth's sacrificial love, __hessed__, is on display and shows us how God has sanctified her.
+       Ruth's sacrificial love, __hessed__, is on display and shows us how God has sanctified her.
+       Ruth's devotion was some combination of her love of Yahweh, her love for Naomi, and her nature.
 
 
 20-22) Naomi declares that she has "returned empty" which is not true- she had Ruth with her.
