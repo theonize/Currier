@@ -1,8 +1,5 @@
 # Job
 
-When was Job?
-	Genesis 46:13 mentions a Job, son of Issachar
-		this would mean Job was born after Joseph's sale and moved back to Midian after the migration
 
 Job wasn't sinless, but he was blameless
 
@@ -36,6 +33,10 @@ The friends:
 
 
 Dating Job:
+	Genesis 46:13 mentions a Job, son of Issachar
+		- this would mean Job was born after Joseph's sale and moved back to Midian after the migration
+	  - this is likely a different Job
+	The technology mentioned in the book and the theological ideas are pre-judaic.
   
 	Historically, the events of Job could be anywhere between Abraham and the end of Judges.
 The book may mention creatures that are extinct, which would push the date back.
@@ -44,6 +45,13 @@ Although, these could simply indicate Job's erudition in the latest-and-greatest
 There is no known extra-Biblical reference to the man of Job.
 This tends to support an earlier date for the events because others' history thins considerably as you precede in time.
 Theologically the date is not significant.
+
+	Though the original grapheme and events were likely in patriarchal times, the book was likely written with some finality during the time of Solomon.
+The codification of the book of Job [as we know it] was likely exilic (as it is with many OT books.)
+
+	Much of the ideology and cultic practices in the book are predescessant to the Jewish faith.
+There are many lyrics which find their way into the Psalms.
+The familial, sacrificial worship practices are basic, like those of the patriarchs- not yet organized as per Moses (moreso later per Ezra.)
 	
 	It is not a massive problem to make Job and friends a pure allegory, especially in light of the divine council scene in the prologue (of which Job had no knowledge.)
 However, the Bible does not typically name people and places in parable- name denote important people and places.

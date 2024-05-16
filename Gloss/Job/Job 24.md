@@ -27,4 +27,14 @@ The friends attempts to eak out some modicum of wickedness in Job to prove their
    God dwells there, as well as here, and sees what we cannot.
    I know there is spiritual darkness that clouds our consciousness-
    we assume that because we cannot perceive that we are hidden, but God sees.
-   
+
+18-24) The line of the wicked is self-extinguishing.
+   They tend not to reproduce and tear apart what family they have.
+   They also tend to undermine themselves preemptively by sowing seeds of ruin early on.
+
+23-24) God allows the prosperity of the wicked because, at their pinnacle, they will ultimately crumble or fall on Him.
+
+25) A challenge to the three.
+   It is notable that the friends truly do not understand Job's reasoning.
+   For all their experience, tradition, and piety that spiritual keenness that comes from God's spirit.
+   Did Job have the spirit of God?  

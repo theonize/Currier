@@ -8,4 +8,5 @@ However, God sees because there is radiation beyond the visible spectrum that He
 
 There is also spiritual darkness that clouds our consciousness.
 When we are in this darkness we assume that we are hidden, some even find their safety there.
-But there is a spectrum of consciousness outside what we can perceive- God sees all this.
+But there is a spectrum of consciousness outside what we can perceive- which God can see.
+
