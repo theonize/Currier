@@ -18,3 +18,4 @@ Moab ~ of his father
   A nation near to Israel offsprung from Lot's incested son.
   They were perennial enemies of Israel and God instructed the Israelites to avoid them because they failed to help when the Jews were passing through. 
 
+The story of Judah & Tamar is an example of the custom of the __g'wal__, the kinsman redeemer. 
