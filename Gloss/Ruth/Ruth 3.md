@@ -32,6 +32,9 @@ Similitude
 - Boaz was not only the redeemer but completed the entire process _alone_ ~ the entirety of the work was his.
 
 
+1) An arranged marriage...by the mother.
+
+
 12) What is the symbolism here?
     Boaz is a Jew but must legally defer to another kinsman. 
     That other kinsman is also Jewish but uninterested in the redemption of Elimilech's line via a gentile.
