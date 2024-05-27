@@ -22,6 +22,9 @@ Elimelech may have prevented it but he also placed them in a situation where the
        Ruth's sacrificial love, __hessed__, is on display and shows us how God has sanctified her.
        Ruth's devotion was some combination of her love of Yahweh, her love for Naomi, and her nature.
 
+       We assume that Ruth was proselyted into Judaism because the offspring of intermarriaged children were only allowed into the temple after 10 generations.
+
+
 
 20-22) Naomi declares that she has "returned empty" which is not true- she had Ruth with her.
 But Ruth is faithful nonetheless. 

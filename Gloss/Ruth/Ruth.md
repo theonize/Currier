@@ -6,13 +6,16 @@ Establishes Jesus birthplace [Bethlehem].
 - [Micah 5:2], linked to Jesus by [Matt 2:5-8]
 
 
-Naomi ~ pleasant
-Mara ~ bitter
-Elimelech ~ God is king 
-Mahlon ~ sick
-Chilion ~ pining
-Ruth ~ friendship; mate, partner
-Orpah ~ gazelle; graceful, skittish
-Boaz ~ fleetness
-Moab ~ of his father
+Naomi ~ pleasant  
+Mara ~ bitter  
+Elimelech ~ God is king  
+Mahlon ~ sick  
+Chilion ~ pining  
+Ruth ~ friendship; mate, partner  
+Orpah ~ gazelle; graceful, skittish  
+Boaz ~ fleetness; in strength  
+Moab ~ of his father  
+  A nation near to Israel offsprung from Lot's incested son.
+  They were perennial enemies of Israel and God instructed the Israelites to avoid them because they failed to help when the Jews were passing through. 
 
+The story of Judah & Tamar is an example of the custom of the __g'wal__, the kinsman redeemer. 
