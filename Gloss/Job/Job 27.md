@@ -21,3 +21,19 @@
 
 12) They continue to talk, of course, because that's all they know to do.
     Some people have something to say and some people have to say something.
+
+13-23) Job principally agrees with his friends that the wicked are destined to be destroyed.
+       In fact, their destiny is far worse than his circumstance.
+       However, note that he sees the prior prosperity of the wicked.
+       Also, the material wealth of the wicked is destined to transfer to the righteous.
+
+20b+) The storm wind is separating the chaff from the wheat.
+      This is a common motif in the Bible.
+      It is the wicked person theirself that is driven away.
+
+23) The wind "clapping", i.e. thunder, is a sign of a god's anger.
+    It is a result of the roiling movement of the storm-
+    an inevitable communication from a thing that cannot be silent.
+    The weather scoffs at man (not like the human, who scoffs at God) and does what it will...all we can do is hide from it.
+
+22) The wicked, however, flee but cannot escape.
