@@ -11,6 +11,10 @@ whilst the great ocean of truth lay all undiscovered before me."
   Isaac Newton  
 
 __This work is a compilation of the biblical information that has been distilled through me.__  The Logos, and God's revelation of it via the Bible, is the only truly unfathomable material worth plumbing.
+It is with the utmost sobriety and modesty I can muster that I present these works publically.
+There are bound to a multitude of typos and errors, both of the grammatical and theological variety.
+However, it behooves me to record what I have learned (much as possible) as freely and completely as possible.
+A great effort has been done toward my salvation and it wouldn't do to waste that cost.
 
 
 ## Site-Map
@@ -37,7 +41,10 @@ More on this method in [How to Study Your Bible](/Studies/How%20to%20Study%20You
   
   There are various notes and studies that attempt to do this- 
 hopefully the format is easily digestable and will motivate people to pursue God.
-Apologies for the earlier stuff that is a journaled and scattered.
+Apologies for the earlier stuff that is a journaled and scatter-brained.
+
+
+## Why?
 
 **I believe in a personal God, the God of the Bible.  
 I believe that He speaks through His Word to us and the most salient points are revealed to us by His Spirit.  
