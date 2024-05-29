@@ -15,3 +15,6 @@ Tamar, being childless, was redeemed by Judah solicitously.
 17+) Taken literally, this puts the events of Ruth at the end of the Judges period. 
      However, it is not theologically necessary for this to be the case- Biblical genealogies often have gaps.
      The important aspect here is the lineage and they key figures therein. 
+
+
+Perhaps the family bonds with Moab continued because David was able to goto the King of Moab for help in 1 Samuel 22:3-4.

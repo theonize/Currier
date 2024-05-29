@@ -7,6 +7,7 @@ Winnowing ~ tossing the grain to separate the chaff and prepare it for market.
 The hem (sheul, crespidon) was the sign of rank.
 ...cutting off a hem stripped someone of authority
 ...spreading the "skirt" over someone was a sign of protection, acceptance
+[Hem pattern](../../Pattern/Hem.md)
 
 Ruth is propositioning Boaz by submitting to him as a wife.
 
@@ -38,4 +39,3 @@ Similitude
 12) What is the symbolism here?
     Boaz is a Jew but must legally defer to another kinsman. 
     That other kinsman is also Jewish but uninterested in the redemption of Elimilech's line via a gentile.
-

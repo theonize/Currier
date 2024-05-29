@@ -37,6 +37,7 @@ Dating Job:
 		- this would mean Job was born after Joseph's sale and moved back to Midian after the migration
 	  - this is likely a different Job
 	The technology mentioned in the book and the theological ideas are pre-judaic.
+	- Job 28:17-19 mentions valuables, some of which were only prized until the technology required to produce them became more common.
   
 	Historically, the events of Job could be anywhere between Abraham and the end of Judges.
 The book may mention creatures that are extinct, which would push the date back.
