@@ -1,6 +1,8 @@
 Pattern
  = something that illustrates a doctrine.
 
+ [Hosea 12:10]()
+
 
 A pattern may be a tangible item or it may be an atomic, ammoral idea.
 
