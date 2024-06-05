@@ -1,6 +1,27 @@
 Fear of the LORD
 
 
+[Genesis 3:8-13]() ~ Adam and Eve encountered the LORD
+[Exodus 3:1-5,11-12]() ~ Moses encountered the LORD
+[Joshua 5:15]() ~ Joshua encountered the LORD
+[Ezekiel 1:1,26b+]() ~ Ezekiel encountered the LORD
+[Isaiah 6:1,4-5]() ~ Isaiah encountered the LORD
+[Daniel 10:5-9]() ~ Daniel encountered the LORD
+
+
+Fear ~ a feeling of profound respect
+...fear for our life is an instance of profound respect of a person wielding the power to take it.
+
+Without fear there can be no courage.
+Courage is acting in spite of fear.
+Such action requires a hope or calculation of success.
+
+Most who encoutered God were undone but some interacted with Him.
+Though they were profoundly afraid they were not paralyzed- they knew a history of God's love for His people and hoped that it would continue.
+
+Millenia later, we have a larger hope resting on the acts of God in the mean-time.
+
+
 {Job 28:28}
 	wisdom = fear of the Lord
 	understanding = turn away from evil
