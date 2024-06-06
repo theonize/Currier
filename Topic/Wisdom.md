@@ -10,3 +10,7 @@ As a person she is female.
 
 [Proverbs 4]() - wisdom is obtainable. 
 Whatever she is, she can be gotten.
+
+
+Wisdom is female, Logos is male.
+Wisdom is a bounding concept, Logos is binding. 
