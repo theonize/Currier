@@ -5,7 +5,21 @@ Any evangelical theory of inspiration must honor the two-sided nature of inspira
 Inspiration is first providential, then natural.
 
 Inspired writing is a phenomenon but is not _paranormal_.
-...it is a culmination of a human life walked alongside Yahweh.
+It is a culmination of a human life walked alongside Yahweh;
+in conjunction with the inspired lives of others who interacted with them;
+in conjunction with the inspired events of history surrounding them.
+
+There are two main elements to inspiration:
+1. God + human creativity
+2. Purpose
+
+The purpose of God is actually the same as ours- its just that He operates on an infinite level:
+to know Him and make Him known.
+
+As sacred stories were passed down, they were held in high regard, memorized, and presented verbatim.
+Then written languages were employed and developed to record these with more permanence.
+Then scholars collated and codified these writings into volumes that were held as of greater importance.
+New languages and new methods of record were employed to spread this knowledge of the sacred.
 
 
 [Jer 25:13]
