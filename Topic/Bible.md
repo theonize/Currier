@@ -8,4 +8,4 @@ Here we use the term "catholic" in its technical sense, meaning universal (rathe
 
 It is foundational, in Bible study, to understand the inspired nature of the texts.
 Most people who interact with Biblical texts do so with limited and/or flawed understandings of inspiration.
-
+This is not just erudition but essential gospel work- God has worked through the ages to produce stories, languages, texts, and scholarship to disseminate His redemption message.
