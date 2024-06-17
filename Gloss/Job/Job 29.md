@@ -23,3 +23,8 @@
        - Zeal
        - Tradition
        - Experience
+
+18-25) Job was resting on his laurels, so to speak.
+       We remember that Job was declared righteous by God;
+       Thus, he isn't ignoring the role of Providence in placing Him in his position.
+       However, neither can he presume that God will leave him there.
