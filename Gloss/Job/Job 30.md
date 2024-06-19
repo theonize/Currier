@@ -24,3 +24,23 @@
     He has never shied from showing His power mightily.
     We don't see it because we choose not to follow His plan-
     I mean this not in the way of day-to-day works but in the way of a fan watching their hero do an amazing thing on the field.
+
+16-19) This may be the most poignant description of authoritarian misery ever.
+
+16) The "life poured out before me" nods in two directions: 
+    1. the way in which calamity forces us toe step back and look at the whole
+    2. the nature of "me" such that "I" can disassociate from this earthly life
+
+    Being __seized__ by days of affliction is that state where the whole of your mind is occupied by whatever pain or need is present- there is no room for all those nostalgic niceties he lamented in the previous chapter.
+
+17) Something about being exhausted by emotional and mental pain makes us unable to deal with intrusive thoughts when we lay down to relax for sleep...too tired to sleep.
+
+18-19) Disheveled- the image [for me] is a drill instructor grabbing the probationary by the scruff of the neck and shoving them into the freezing mud.
+       ...knowing that, in order to become an effective soldier, they must endure this trial.
+       Who knows what amazing things Job did after his remodeling- but it is dwarfed by this written testimony read by a billion people over the millenia.
+
+20-23) Job is circling the true nature of God but still misses in one key area: God is not cruel.
+       Harshness, terseness, and aloofness are not cruel when they come from Yahweh.
+       In fact, Job will come to know that these separations are **given** to us by God to help us grow.
+
+22) This is the entire story in a nutshell, "You lift me up and make me ride the storm."
