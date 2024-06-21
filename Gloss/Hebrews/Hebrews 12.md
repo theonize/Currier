@@ -2,6 +2,8 @@
 
 1) "the entangling sin" is unbelief; based on the opening _Therefore_ and the main topic of the book - unbelief...
 
+2) translated author/pioneer, _arxygos_ is an architect of a story...our story
+
 
 5-6) [PROV 3:11,12]
  i.e. [Eph 3:20], [JMS 1:1], [ROM 5:3-4]
