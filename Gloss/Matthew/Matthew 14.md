@@ -14,6 +14,10 @@ Jesus was upon the mountain praying when the storm started.
 - [Is 5:14+] 'I will go and return...'
 The disciples are not out of Jesus' reach - He walked to them.
 
+
+27,30) _phobeo_ ~ Jesus preemptively discluded fear.
+       However, after Peter engaged in the miracle he feared.
+
 28) A nice picture of salvation: Peter said 
 1. "if it's You" ~ his idea of the Messiahs manifesting power was the ability to empower others
 2. "tell me to come” ~ Peter had to step out
