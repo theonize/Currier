@@ -17,6 +17,7 @@ The disciples are not out of Jesus' reach - He walked to them.
 
 27,30) _phobeo_ ~ Jesus preemptively discluded fear.
        However, after Peter engaged in the miracle he feared.
+       This fear event also succeeded Jesus miraculous feeding of the throng- a fearfulness in the midst of acceptance of the circumstance.
 
 28) A nice picture of salvation: Peter said 
 1. "if it's You" ~ his idea of the Messiahs manifesting power was the ability to empower others
