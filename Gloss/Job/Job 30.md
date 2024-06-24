@@ -44,3 +44,19 @@
        In fact, Job will come to know that these separations are **given** to us by God to help us grow.
 
 22) This is the entire story in a nutshell, "You lift me up and make me ride the storm."
+
+
+24-31) There no one to help Job and his distress is growing.
+       He is not alone but his companions are ruthless hunters, skittish fowl, and pain.
+       The instruments that could bring joy now bring only sorrow.
+
+
+29) Jackals are shrewd pack-hunters.
+    The ostrich, nearly extinct in Arabia now, is liable to hurt their chicks when escaping.
+    They often hatch only some of their eggs and use the others as food for the chicks.
+
+31) Job's musical instruments once produced joyous sounds, not they produce melancholy and mourning.
+    The harp is a symbol of joy and the flute is a symbol of peace.
+    The joy and peace are gone from Job's life.
+    But there is an element of this quip where Job's breadth of experience has increased- his instruments knew only a wavelength, now they know the whole spectrum.
+    
