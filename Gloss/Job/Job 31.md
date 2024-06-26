@@ -1,8 +1,9 @@
 # Job 31
 
 
-This is the chapter where Job begins to make break the connection between his suffering and lack of, or evil, works.
-Job honestly cannot fathom anything he has done to deserve his current state.
+This is the chapter where Job really begins to break the connection between his suffering and lack of, or evil, works.
+Where, previously, he was adamant that he was undeserving of any punishment.
+Now we see the shift to understanding that this suffering is not about justice.
 
 
 1-4) This passage may preclude the polygamy of Job,

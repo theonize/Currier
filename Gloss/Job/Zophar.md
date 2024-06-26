@@ -2,6 +2,9 @@
 ...the zealous
 
 
+_Zophar_ ~ rising early, crown
+
+
 Zophar is all about piety and finding God in cultic action.
 A cult, in the technical sense, is simply a system of religious action.
 He repeatedly injects the ideal that __doing__ is the way to get a good response from God.
