@@ -58,8 +58,13 @@ these are priestly terms as well
 
 
 18) amidst all the good of creation we now have the _not good_ of loneliness.
-It's also interesting that God considers Adam alone because he does not have a spouse.
-Yet, God made Adam wait for her...
+    It's also interesting that God considers Adam alone because he does not have a spouse.
+    Yet, God made Adam wait for her...
+    
+    _ezer_ is oft translated "helper"- 
+    This is not in the sense of an servant but a rescuer; re: [Ex 18:4]() [Ps 33:20]()
+    Woman is a helper in the same sense that God ia.
+
 
 19) God brings the beasts to Adam (likewise to Noah, later.)
 The animals names stuck- the creator is hands-off in the usage of creation.
