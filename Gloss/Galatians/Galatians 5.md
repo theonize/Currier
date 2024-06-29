@@ -26,7 +26,21 @@
 
 
 22-24) fruit of the Spirit
-	as B.R. points out - it is singular, there is one fruit; fruits are those who come after
+      	as B.R. points out - it is singular, there is one fruit; fruits are those who come after
+       "God does not make lopsided Christians" the fruit is composed of these nine elements; 
+       Perhaps each season of our life yields new fruit but, then, each is 9-fold.
+
+The fruit may be understood by examining their fabrications:
+  love ~ bribe
+  joy ~ stupor 
+  peace ~ stoicism
+  patience ~ tolerance 
+  kindness ~ socialism
+  goodness ~ conditionality
+  faithfulness ~ list, usury
+  gentleness ~ 
+  self-control ~ avoidance
+  ...we often fake these elements to "build" a character instead of letting God build it.
 
 22)
 	love
