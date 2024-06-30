@@ -7,13 +7,13 @@ Isaiah 43
      Not only will He bring others to walk with us but he Himself walks beside us.
 
 
-1) we are called by name ~ personally, provincially
+1. we are called by name ~ personally, provincially
 "you are mine" paid in full [John 19:30]
 
   
-2) "_When_ you pass through" ~ not if,
+2. "_When_ you pass through" ~ not if,
 flood and fire are guaranteed
 however, strength to stand up in the waters and immunity to the fire are also guaranteed
 
 
-7) created, formed, and made
+7. created, formed, and made
