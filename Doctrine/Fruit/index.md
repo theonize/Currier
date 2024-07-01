@@ -20,8 +20,8 @@ There are two important considerations:
 - [D. L. Moody](https://en.wikipedia.org/wiki/Dwight_L._Moody)
 - Galatians 5:22-23 says "fruit" in the singular.  These are not like gifts where may have one or the other- all are evident in the true believer.
 
-"Fruit does not save, but salvation is fruitful."
-- [John MacArthur](https://en.wikipedia.org/wiki/John_MacArthur)
+"Fruit does not save, faith saves; but not fruitless faith."
+- [Tim Keller]()
 
 
 Fruit is produced in us, not by us.

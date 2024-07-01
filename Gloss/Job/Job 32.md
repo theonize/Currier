@@ -29,3 +29,6 @@ He perceives that he has the answer and will now speak for God...from his heart 
 
 14) He notes the wise, old, stricken man has not engaged him.
     Further, Elihu has no need of the friends arguments because they obviously lack.
+
+15-17) Elihu's entire prologue is like the pummeling of an enthusiastic steamroller that won't wait for road materials to be dropped first.
+       Young leaders are the premier assumers, and assumptions without basis of experience are the most dangerous.
