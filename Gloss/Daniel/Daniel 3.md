@@ -34,3 +34,9 @@ Well, even so - this truncated life of contrition is better then your hollow wor
 
 
 25) A theophany: son of God ~ regularly applied to Christ.
+    However, the divinity of the 4th man is not enough to declare a theophany here: there are many created beings who have a divine nature.
+    It is Nebbie's reaction and work of the figure that provide the most proof. 
+    It is consistent with His character that He comes alongside us in adversity; [Is 43:2]() [Ps 23:4]()
+    Further, the "son of the gods" language could with the salvific event may enhance the christological aspect of the 4th man.
+    Theologically, the primary point is the it was God who ultimately brought deliverance and was glorified. 
+
