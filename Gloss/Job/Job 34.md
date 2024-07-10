@@ -14,7 +14,8 @@ Elihu continues... <sigh> ...need it be said that characters in scripture evoke 
 
 3) This is pedantically obvious but also biologically essential:
    theere are mechanisms that intercede in neural pathways to perform low-level tasks.
-   In this case, shying away from danger and gagging.
+   In this case, flinching and gagging.
+   It does illuminate the visceral nature of scripture such that we can physically feel and internalize.
 
 4) "Let us decide together what is good."  No thank you.
    Mayhaps, let us receive our morality from an authority.
@@ -31,3 +32,33 @@ Elihu continues... <sigh> ...need it be said that characters in scripture evoke 
      Another interpretation is needed...but we won't get it from Elihu.
      God's people, as a whole, will undergo a Jobian experience in Egypt for generations...
 
+10) It is always tricky speak in absolutes, as a human.
+    In this case: wrong and injustice are impossible for God, but by who's measure?
+    We cannot evaluate the efficacy of God's ways because we don't comprehend them-
+    they have nuance beneath our perception and reach further than our dreamiest vision.
+
+11) This is not true.
+    Indeed, we all deserve the payment of death as our wages (Romans 6:23.)
+    Further, we like to think that our conduct because (compared to others) we do well.
+    But God does not judge us relative to others, only according to Christ.
+    It would be more righ to say that God _gives_ a man fruitful deeds;
+    and God shapes his conduct toward goodness.
+
+12-15) Indeed, God's exercise of authority over the universe, with immense mercy and grace, is an indication of his righteousness and justice.
+
+14-15) We would all do well to keep this thought at the forefront.
+
+16-20) He starts off by resounding a rhetorical:
+       naturally no one such as God could be evil.
+       However, while crossing the social and political strata matter to them [very much] this should not be used as a measure of God's virtue.
+       God deals with each one individually and installs us where it makes the most impact for His kingdom and the ultimate good.
+
+21-30) He's doing fine here until the end:
+       God does indeed do all these things at times, but not always.
+       His goal is not "that godless men should not rule" but that His kingdom should be established.
+
+31-37) Elihu is imputing ideas and words on Job that are not so.
+       It is one thing to speak of people, in general, who are on a certain way.
+       But here we are dealing with Job, who has claimed righteousness and has not mocked or "multiplied words against" God.
+       This is further text of the Job's companions not meeting him where **he is at**;
+       rather they meet him where **they are at**.
