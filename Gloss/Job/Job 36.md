@@ -53,7 +53,7 @@
   However, it is the circumstances of youth that shape us into the people we ultimately become.
   _QDS_ ~ qadesh; is a sanctuary or temple-prostitute (male in this case).
   These two meanings of the word may seem quite disparate.
-  However, for the worshipper of false gods it is not that long a road to conflate sex magic with worship [of false gods].
+  However, for the worshipper of false gods it is not that long a road from prostitute to sex magic to worship [of false gods].
   The notion that the wicked person _ends their life_ worshipping false gods in self-destructive and calling them "sacred" is quite real.
   People identify things they consider to _sacred_ based on their experiences and beliefs.
   We ought to be interested in what God considers sacred.
@@ -65,3 +65,17 @@
     Then, we undergo the chaos of remodeling and rebuilding.
     This we often mistake for God's abandonment or aloofness.
     But it is not, it is because a King does not live in a cottage- a King lives in a palace.
+
+16-21) Is Job really obsessed with the judgment of the wicked?
+  It seems more like he is defending himself-
+  he cannot make a logical connection between his predicament and his actions.
+  It almost becomes a comedy: 3.5 friends of Job mocking the same man for believing he is righteous.
+
+22,26) Exaltation is an interesting concept in relation to God.
+  Exaltation is an increase in glory or rank.
+  He is already King of kings and LORD of lords.
+  That God "show Himself exalted" means that He proves his rank or status.
+  Interestingly, He need not prove the entirety of His status- only that He is above all other gods.
+  So, also, He is exalted/ranked beyond our knowledge/understanding.
+  If we could say what portion of God's power or intellect we possess then that would mean God had limited power or intellect.
+  Thus our exaltation [of God] is a reminder of God's preeminence, for ourselves and others.
