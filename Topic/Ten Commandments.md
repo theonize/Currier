@@ -19,10 +19,11 @@ However, these are not the tablets of the law that went into the ark.
 Neither did Jesus consider these the Pinnacle if the law.
 Recall that He was specifically asked and answered the love of God _plus_ love of neighbor is preeminent.
 
-When Moses first met God atop Mt. Sinai he was given tablets on which **God inscribed** the law.
+When Moses first met God atop Mt. Sinai he was given tablets on which **God inscribed** the law ~ [Ex 31:18]().
 Upon returning they found that Israel had already abandoned Yahweh.
 Moses, angered, broke the tablets.
-Later, after some corrective action, he carved the law onto some new tablets.
+Later, after some corrective action, he carved the law onto some new tablets;
+which God also **wrote** upon ~ [Ex 34:1]()
 These are the tablets that went into the Ark.
 
 So, what was on those tablets?
