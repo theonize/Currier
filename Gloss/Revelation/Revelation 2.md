@@ -17,8 +17,9 @@ Ephesus = Desirable
 		He who walks among the Church (Emmanuel)
 	Vassal
 		working, toiling, patiently enduring x2, not bearing evil, testing and reproving apostles, bearing because of His name, unweary
-	Condemnation
-		abandoned their first love
+- Condemnation
+	 - abandoned their first love
+  - history shows that the redirection was the mysticism of spirit-works
 	Directive
 		remember where you were
 		repent
