@@ -79,3 +79,18 @@
   So, also, He is exalted/ranked beyond our knowledge/understanding.
   If we could say what portion of God's power or intellect we possess then that would mean God had limited power or intellect.
   Thus our exaltation [of God] is a reminder of God's preeminence, for ourselves and others.
+
+27) The water cycle as an example of God's majesty.
+  However, injecting God into every minutiae of life does not enhance His glory.
+  Rather, it lessens him because we imply that He cannot create a system that works without his constant intervention.
+  So, stating that He _draws up the drops of water_ is not a wondrous pronouncement of God's power.
+  Further, it is not technically correct either.
+  In truth, God created the system and organizes it such that He can just sit by and input energy to watch it go.
+
+29-33) Similarly God's glory is espoused in what we don't understand about Him.
+  God, Himself, will deal with this issue before long but here we see the attribution of natural events to God.
+  This is not imprecise but it is inaccurate.
+  God is the root cause of all but the weather system is a created thing as well.
+  While, there may be divine interventions as well as systemic effects by humans and other creatures, the weather system generally acts according to the laws of nature.
+  It is standard fare for humans to attribute every tiny outcome to God's intervention.
+  While everything is providential, providence does not require God's direct inetervention.
