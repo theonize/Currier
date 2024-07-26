@@ -34,3 +34,18 @@ Here, however, God present him awesomely.
   The outer garment is the darkness.
   We can only perceive to the horizon, beyond which is dark.
   Then, to the edge of the atmosphere (when lit), beyond which is dark.
+
+12-15) The one who has the power to remove darkness/chaos from the Earth, even temporarily [as in the day] _would_ have the power to winnow the wicked.
+  Light is ultimately withheld from the wicked even though they experience the daylight of God...in hopes of their redemption.
+
+14) What are the *features* of the dawn?
+  The image here is of the weighty energy of dawn's light pressing into the darkness, yanking it away from the earth.
+
+16) The springs of the sea are an homage to the fountains of the deep (Noah's flood) and are in image of re-creation.
+  What we know now is that there are vast inlets of material in fissures on the sea-bottom in a constant recycling process.
+  However, the sea is still largely unapproachable by man.
+
+17) "Gates" are an entrance/egress to some fortification.
+  We know some about death but not why or where it comes.
+  W know about darkness but not why or where it comes.
+  
