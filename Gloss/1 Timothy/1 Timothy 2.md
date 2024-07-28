@@ -12,3 +12,7 @@
 12-14) The woman's natural, fallen, state is to overstep.
   The man's natural, fallen, state is to be passive.
   This is an appeal for men and women to be as God intended, not fall into natural tendencies. 
+
+14) Eve was deceived by the serpent.
+  Adam was not deceived, he willingly gave himself over to sin.
+
