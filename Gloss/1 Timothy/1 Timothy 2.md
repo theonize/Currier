@@ -16,3 +16,7 @@
 14) Eve was deceived by the serpent.
   Adam was not deceived, he willingly gave himself over to sin.
 
+15) Childbearing is the distinctive of the female. 
+  this sentence is an encouragement for women to embrace their God-given design.
+  ...and the way: faith, love, holiness, and self-control.
+
