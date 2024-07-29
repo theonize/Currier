@@ -48,4 +48,21 @@ Here, however, God present him awesomely.
 17) "Gates" are an entrance/egress to some fortification.
   We know some about death but not why or where it comes.
   W know about darkness but not why or where it comes.
-  
+
+18) This is a rhetorical that Job was impossible for Job.
+  We tend to think the _expanse_ of Earth is well known...old hat.
+  However, the reach of Earth is more than its physical size.
+
+19-21) The nature of light and dark are, perhaps, more of a mystery now than ever.
+  e.g. when you turn on a light, is something added or is something taken away? or neither?
+  Just to ask the question betrays a deep knowledge of the universe that ancient people did not have.
+  They had no basis from which to explore such ideas.
+  Further, He speaks of the mind-boggling time-scales involved when studying light- large and small.
+  There is not enough time for a human to understand such things.
+
+22-23) He has kept these back for war...the "time of trouble."
+  God's chosen weapon is providence- those things which we perceive as being chaotic or hopelessly improbable are fully under His control.
+
+
+24) All these reference to the "dwelling" place of various natural phenomena are a mockery of human thought.
+Not a devaluing of our effort but an admonition against couching ourselves in familiar ideals and language instead of accepting a grandness of nature that is out of reach.
