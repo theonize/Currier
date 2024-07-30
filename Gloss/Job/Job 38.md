@@ -64,5 +64,41 @@ Here, however, God present him awesomely.
   God's chosen weapon is providence- those things which we perceive as being chaotic or hopelessly improbable are fully under His control.
 
 
-24) All these reference to the "dwelling" place of various natural phenomena are a mockery of human thought.
-Not a devaluing of our effort but an admonition against couching ourselves in familiar ideals and language instead of accepting a grandness of nature that is out of reach.
+24) All these reference to the "dwelling" place of various natural phenomena are a mockery of human pride.
+  Not a devaluing of our effort but an admonition against couching ourselves in familiar ideals and language instead of accepting a grandness of nature that is out of reach.
+
+We have a curious tendency to fall into either the conformist or miraculous camps.
+  The conformist interprets the Bible as loosely as possible based on modern scientific thought.
+  The issue being that what we know, albeit a great deal, is not complete nor infallible and will be overturned before too much longer.
+  The miraculous camp interprets the Bible as literally as possible without offending their innate sensibilities.
+  This view suffers from the same problem as the conformist view- it's underpinnings will be unpinned in time you are left with a false system.
+Though we know much more about the univers than Job and his compatriots- it is still precious little.
+
+25) The ancient man, seemingly, had no concept that water droplets could simply form in the air, via condensation, in an amount sufficient to "pour" rain.
+  Their thought was that the water was held somewhere and literally poured out.
+  The thunderbolt accompanies the heavy rain.
+  The reality of it is far less technological (being governed by laws and not by levers) but no less providential.
+
+26-27) A salient point that God is concerned with the Earth apart from man.
+  Indeed, desolate/uninhabited places are of great consequence ecologically.
+  But, only God truly knows such things.
+
+28-29) This questioning pokes at, what we think of as, the silly foundations of their science.
+  The perceived a body of water and an iceberg in the sky were loosed and crumbled on the way down.
+  God is not asking because He wants an answer- He's asking an unanswerable question to make a point.
+
+31-33) More rhetorical, unanswerable questions, thsi time about astronomy and cosomology.
+
+31) The chains and cords are, as we now know, forces which are fairly unphysical- "loosing" them is beyond us.
+
+32) The mazzaroth is the Arab/Jewish predecessor to the Zodiac.
+  It is a "reading" of the constellations corresponding to the narrative of history from the fall through the messiah.
+
+33) The ordinances of heaven are what we call the laws of physics.
+  The answer is: no, we cannot establish them on earth.
+  We may muddle through and make use of them but we have not control of them.
+
+34-38) There is an undertone here of communal understanding and interaction with all "minded" things.
+  There is an entire realm of consciousness and thought which impacts physical reality but it outside the purview of modern science.
+  Partly because it is difficult to grasp but mostly because it is taboo.
+  Obviously we can do none of these things.
