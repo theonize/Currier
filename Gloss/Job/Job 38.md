@@ -102,3 +102,8 @@ Though we know much more about the univers than Job and his compatriots- it is s
   There is an entire realm of consciousness and thought which impacts physical reality but it outside the purview of modern science.
   Partly because it is difficult to grasp but mostly because it is taboo.
   Obviously we can do none of these things.
+
+
+39-41) The point being that we can barely control and care for our microcosm- let alone the wild nor the world.
+
+39-40) Apparently there were lions in the ancient near east- later hunted to extinction.
