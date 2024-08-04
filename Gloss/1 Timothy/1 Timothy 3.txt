@@ -12,7 +12,8 @@
   hospitable ~ not turning any away
   able to teach ~ the only skill mentioned, the rest are all character traits
     its not _a desire_ to teach, but the ability
-    ...this is some combination of talent and skill
+    ...this is some combination of talent and skill.
+    A deacon has all the other requirements except this one- they must be able to give a testimony but teaching is something else.
 
 3) not a drunkard ~ there's an element of social purity here
     mostly this has to do with serving only one master,
