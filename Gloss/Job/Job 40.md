@@ -56,4 +56,12 @@ Behemoth
   This is not physically possible, implying [at least] that the notion of Behemoth, or the divine Behemoth, is more than a physical creature.
   If such a creature existed and was seen by humans it was not the sole embodiment of _Behemoth_ but a shadow or physique of the original.
 
-  
+20) The mountains yielding food is two-fold here:
+  To the ancient person the mountains were a dangerous place, even moderns require significant technology to traverse them.
+  The mountains were also the abode of the gods- where the sky meets the earth.
+  Behemoth's traversal of the mountains means that he could be near to the divine influence and also that he ate fruit which was inaccessible to other creatures.
+
+21-22) Behemoth can lay out in the open without fear of being attacked.
+
+23) A flooding or fast-flowing river is a dangerous thing for us- but not for the Behemoth.
+  In that same way, we might be swept along by the streams of life but the chaos monster is not (and may barely notice the inundation.)
