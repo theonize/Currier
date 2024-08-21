@@ -22,3 +22,15 @@ It is only through the continual, graceful, influence of God that we progress in
 5-6) This is the point of Job's suffering: that we, and everyone who reads it, will come to this point where they can stand with God.
 
 6) "in dust & ashes" the man is, essentially, dust- and the only difference between us and natural stuff is the divine spark from God.
+
+
+God's Rebuke
+
+- Eliphaz is singled out as the head of the cabal
+- Job becomes the intercessor
+- The friends are required to sacrifice
+- God announces:
+  - The friends have not spoken rightly
+  - Job has spoken rightly
+
+The three friends, fully named (not a name change), did as they were told and God did as He promised.
