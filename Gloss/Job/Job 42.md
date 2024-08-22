@@ -32,5 +32,39 @@ God's Rebuke
 - God announces:
   - The friends have not spoken rightly
   - Job has spoken rightly
+- Elihu does not seem to be included in this rebuke
+  - If Elihu was included it was vicariously through the admonition of his elders
 
 The three friends, fully named (not a name change), did as they were told and God did as He promised.
+
+
+Fortune
+
+We misconstrue fortune as wealth, health, or happiness.
+In reality fortune is the providential opportunity to achieve those things.
+It is the non-atheist version of luck- humans make luck, God makes fortune.
+It is said, in English, that a person "gain/list a fortune"- this speaks more to acting upon, or squandering, the oppotunity.
+
+What is made clear is that God gives the fortunes [plural] and doubly so, relative to before the loss.
+The numbers of livestock are strictly doubled.
+However, the number of children is the same as before: God considers the ten previous children as still alive and we have inherited this paradigm.
+Job had 20 children, all differing lifespans.
+
+Job was certainly long-lived by any measure: at a minimum he had 1 child per year for 20 years (minus the tribulation period.)
+Even if some children were concubinal, it is still a considerable span of time.
+Not to mention that herds and workers don't spring up overnight.
+
+
+11) Job's extended family comes to sup with him.
+  This is a sign of restoration.
+  We also see that Job did not lose everything he had- he was able to give his members money.
+  This may be the investment by which he restarted his empire.
+  
+  It is also made clear here that it was Yahweh was the one who is accountable for Job's calamity and grief.
+  To narrow a view of God will fail when trying to reconcile His goodness with His discipline- especially when it causes hardship and death.
+  The crux of Job's story is that God cannot answer the question of suffering and death for us.
+  It is not that He cannot provide an answer, but that we cannot grasp it.
+  As our spiritual maturity increases so does our understanding of God's ways (though they are still far beyond us.)
+  Thus, comes a natural divide between ourselves and those who understand less because they have not yet learned.
+  However, though it becomes difficult to share it is not (as God proves by speaking to us) impossible.
+  If the book of Job tells us anything it is that the story must be told- God's redemption is real and freely available and it is accessible for people at every level.
