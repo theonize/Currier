@@ -6,6 +6,11 @@ Eliphaz's Claims
 1-7) Again, Eliphaz is speaking proverbial truths which seem to be generally true.
      However, he ignores (or is unaware of) the sovereignty of God allowing for black-sheep scenarios where God intervenes and the opposite is true.
 
+1) The incenuation is that no angel or demi-god would hear Job, either.
+  We are admonished to not seek divine, created being but the creator Hisself.
+  In trying to setup Job as the guilty party Eliphaz has stumbled into a realm he doesn't understand:
+  The QDVS, Holy Ones, do not not operate in a vacuum, nor at our whim, and can be restrained by God.
+
 
 8-16) Again, Eliphaz generalizes about good things happening to good people and so on.
       But, these generalizations do not prove true in human experience [in general].
