@@ -47,3 +47,12 @@
 	The basis of resurrection is the utmost hope in the possibility of ultimate change for us.
 	Loyal followers of Yahweh often experience immediate relief, then a quickening of betterment in body and/or spirit-
 	all of which enlightens us and directs us toward the final improvement of placement with God in a new body.
+
+
+18-20) Knowledge of God is available in everyday human experience.
+  ...this having been available since the beginning (v.20, Prov 8:22)
+  The purpose of this general revelation is to showcase His wreath versus evil.
+  God's power and nature are _plainly_ accessible and the understandable- in fact this says seen and understood (past tense, already had.)
+  Bottom line: no one can claim ignorance of the law.
+  The general revelation yields despair, which drives some away from God.
+  However, the _special_ revelation of the gospel/salvation pre-dates the creation and, therefore, the despairing _general_ revelation.
