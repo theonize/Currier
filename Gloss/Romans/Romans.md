@@ -2,8 +2,9 @@ The Book of Romans
 
 
 Outline
-* 1:1 - 1:17 introduction
-* 1:18 - 3:20 the problem
+* 1:1 - 1:7 introduction
+* 1:8 - 1:15 Paul's desire to visit Rome
+* 1:16 - 3:20 the problem
   * 1:18 - 1:32 general revelation
   * 2:1 - 2:16 special revelation
   * 2:17 - 2:29 our failure

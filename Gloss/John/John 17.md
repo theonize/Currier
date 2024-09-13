@@ -7,6 +7,10 @@
 
 
 
+[Luke 22]() records that the disciples fell asleep while Jesus was praying, which begs the question- how did they know what he prayer, then?
+Obviously it must have be recounted to them by Jesus himself, or by the Holy Spirit, or by some other means.
+I think it most likely that he spent His month on Earth [after the resurrection] teaching them such things.
+
 20) This is a prayer for me - and you
 
 21) "one" in nature 

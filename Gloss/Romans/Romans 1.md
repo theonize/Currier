@@ -48,6 +48,22 @@
 	Loyal followers of Yahweh often experience immediate relief, then a quickening of betterment in body and/or spirit-
 	all of which enlightens us and directs us toward the final improvement of placement with God in a new body.
 
+5) It is, naturally, important that the _apostoly_~ the sent ones~ have received grace.
+	Who else would care to send the message?
+	Indeed, this is the crux of the argument for the validity of Jesus' claims (and those of this followers):
+	they brought a message of selfless sacrifice in a harsh cruel world for no worldly gain.
+	There are two main interpretations here: that obedience is from faith or that faith is from obedience.
+	I think both are true; more succintly: faith and obedience are inseparable.
+	[James]() is the more in-house version of this, whereas Romans is "global" or outreach oriented.
+
+5b-6) Somewhat interesting that there is a group of Gentiles who _know the name_;  of which the believers are a subset.
+	i.e. not all who know of Jesus, even some who fear Him, are believers.
+
+7) This is one of those wonderfully extensive messages that carries extra hope and grace in perpetuity.
+	It would have been disseminated to the believers in Rome, but it is was also for those who would come to faith later, and also for us.
+	There is no doub that the message of scripture was meant for us because it's progenitor, Jesus Christ, prayed for us [John 17:20-26].
+
+
 
 18-20) Knowledge of God is available in everyday human experience.
   ...this having been available since the beginning (v.20, Prov 8:22)
