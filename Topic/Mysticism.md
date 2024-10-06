@@ -10,12 +10,16 @@ It is not a stretch to hold a mystical view of spiritual enlightenment [or growt
 
 Mysticism holds that there can be new knowledge or intellect imparted to us by unknown means.
 The origin and purpose of this knowledge be evident even without the metaknowledge.
+* Daniel 12:4, knowledge to and fro 
+* Prophecy (specifics and patterns)
 
 
 ## Body
 
 Mysticism holds that physical items and practices can attain and hold untraceable power.
 As above, though the origin and means of imputation are unknown the effects are perceivable.
+* Teleportation of apostles in Acts
+* Elijah's super powers
 
 
 ## Examples
