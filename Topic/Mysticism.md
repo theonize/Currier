@@ -35,4 +35,5 @@ As above, though the origin and means of imputation are unknown the effects are 
   * A low view of Scripture (that retains inspiration) can still respect it's holistic message and authority.
   * Reading Scripture is thought, by Bible authors and ancestral believers, to deliver the Logos of the sacred text to people.
 * Holy Water:
-  * 
+  * The application of water as part of a _mikvah_ or _baptismo_ is thought to be of special significance.
+  * This wetting is believed to carry some ancillary spiritual (beneficial) effect.
