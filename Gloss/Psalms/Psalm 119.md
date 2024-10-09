@@ -2,6 +2,10 @@
 	premise: each section has a specific focus
 
 
+Acrostic alliteration: 
+- the fact that we have 22 sections, one per Hebrew letter, shows that the alphabet was developed at that time.
+
+
 aleph
 א
 	[2] - seeking = blessing
