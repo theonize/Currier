@@ -14,6 +14,6 @@ Those scriptures which have been canonized are considered sacred and inspired.
 Sacred meaning it is devoted to the particular purpose of spiritual revelation and development. 
 Inspired meaning it is a product of providential occasion. 
 Inspiration is, in mainline scriptural interpretation, the collaborative product of God and man. 
-We say that scriptural inspiration is _verbal plenary_ meaning 
+We say that scriptural inspiration is _verbal plenary_ meaning its origin was speech and it's creation required all parties involved to be present: God and man.
 
 
