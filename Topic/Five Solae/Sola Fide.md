@@ -10,3 +10,7 @@ Three Elements:
 
 Faith does not do anything, it allows reception of His gifts.
 We then have the status of Yahweh's child: the favouritism and resources.
+
+Habakkuk 2:4
+Hebrews 11:1
+
