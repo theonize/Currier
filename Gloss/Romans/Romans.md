@@ -19,3 +19,21 @@ Outline
 * 12:1 - 15:13 application
 * 15:14 - 16:16 Personal Remarks
 * 16:17 - 16:27 Conclusion
+
+
+## Graphorama
+
+1. Intro, siblingly love
+2. Yearning, Paul desires to visit the Roman Christians
+3. The Problem
+   * General revelation in nature
+   * Special revelation in Scripture
+   * Human inescapable failings
+   * Judgment for sin
+4. The Solution
+   * Justification of faith in Christ's offering
+   * Abraham's example
+   * Results of justification
+   * Comparison of Adam and Christ
+5. Sanctification, holiness, God's people being set apart
+6. Farewell, warnings, and blessings

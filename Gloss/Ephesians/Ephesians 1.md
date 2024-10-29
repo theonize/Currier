@@ -65,6 +65,9 @@ Blessings:
 Ironside's Door:
 	Imagine you're walking down a hallway and see a door labeled, "Enter whosoever will."  Upon entering you see a banquet table set with only a few places set; one of which has your name at it.
 
+11-14) Our inclusion in God's work- Christ is the elected and the number of followers is ever increasing.
+
+
 16-17) The prayer to give three gifts
 17-18) The three gifts:
 1. Spirit of wisdom

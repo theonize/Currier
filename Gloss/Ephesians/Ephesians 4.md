@@ -27,3 +27,6 @@ Community
 * pastoral, primordial church
 * teaching, those waiting
 
+
+12) _katatismos_ / perfecting ~ means furnishing and repairing something- making it ready.
+    All are ministers but some people's primary ministry is to other ministers.

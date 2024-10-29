@@ -1,6 +1,8 @@
 Ephesians 2
 
 
+4-5) Giving more and more and more
+
 4) love > mercy > raised > seated
 
 
@@ -31,4 +33,3 @@ Path to Citizenship
 
 The peace the God wrought is between us and Him and other people.
 See that God's past judgments were brought because of our opposition to Him and our violence toward each other.
-

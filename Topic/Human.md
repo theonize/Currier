@@ -56,3 +56,12 @@ Nerdily enough, we get a tidy 4x4 matrix of the human being with God:
 - Dominion
   - responsibility
 - Depravity
+
+
+## Needs
+
+What does a human truly need?
+* Security
+* Significance
+* Acceptance
+...J.I. Packer's "Knowing God" lists these as the three basic needs of a human being.

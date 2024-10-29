@@ -32,3 +32,15 @@ In a sense, the Holy Spirit imported these human wisdom into the Bible via Paul.
 We expect that there are many more such importations throughout the Bible, some sourced and some not.
 So, this should enlighten us that some human wisdom is quite good and useful in the Christian life.
 It is not that Biblical wisdom is built on human wisdom, but that God has delivered wisdom through human experience: this is part of the parcel of general revelation.
+
+To those who would reject the usage of "secular" sources in the Church training I submit that there are many external sources which have been drawn into the Bible:
+* Epimenides of Crete [Titus 1:12]
+* Aratus of Cilicia [Acts 17:28]
+* Menander of Athens [1Cor 15:33]
+Not to mention non-believers who contributed directly to the Old Testament:
+* Balaam [Numbers 22-24]
+* Nebuchadnezzar [Daniel 4]
+* Cyrus [Isaiah 45:1-7]
+It comes down to who you think created the Bible you hold in your hands: was it God?  If so, did He allow anything into it against His will?
+It merely shows that God has dispensed wisdom and knowledge through many channels and it is our folly to ignore or deify them.
+The outcome of those are fundamentalism and disbelief [via syncretism].
