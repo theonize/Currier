@@ -1,5 +1,14 @@
 # Authorship
 
+Who wrote the book of ___?
+
+Paul said, "I am crucified with Christ and yet I live, not I but Christ who lives in me."
+- Christ did the work but we are commanded to work
+
+There is some of God and some of man in every work of God.
+The glory is God's but the responsibility from revelation is ours.
+
+
 A clear picture of biblical authorship is the tabernacle furniture: it was shown to Moses who described it and then replicated it.
 
 It could be said, with vast historical support, that Biblical texts were written by the traditional authors and edited/compiled by others.

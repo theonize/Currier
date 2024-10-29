@@ -103,3 +103,14 @@ Both the Jews and Church fathers took consensus as divine inspiration
 
 ### old testament
 Early Church fathers selected the books that they knew to exist in Hebrew
+
+
+## Verification
+
+IF the plenary authorship includes an omniscient being the we would expect the contents to be entirely coherent.
+- we see a common thread of redemption throughout the "standard" Bible; i.e. 66 books
+- we see the _five solae_ in common amongst the books
+- we chiasmic and inclusio structures throughout the Bible- not only within books, but across books
+	- e.g. Revelation closes what Genesis opens, etc.
+  - these literary structures may even demand a certain ordering which illuminates a particular doctrine
+		- however, who's to say that multiple orderings are not valid?  maybe one per sola...and then covenantal...and the dispensational...and then historical...

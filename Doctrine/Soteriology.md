@@ -13,6 +13,51 @@ Naaman ~ [2Kgs 5:15]
 Widow of Zarepheth [1Kgs 17:24]
 ~ were they "saved"?
 
+
+## Work
+
+Do we have any part in our salvation?
+- if we don't then there is no point in the Great Commission; we ought just wait for end while God works.
+
+What is our part in salvation?
+- Jesus said "he who looks on me and believes has eternal life" [Jn 6:40]
+- Our part is minimal but does exist.  God makes the path and creates the framework in which we _might_ believe- but we must _look_.
+But what does _look_ mean?
+Matthew 7:21 ~ "not everyone who says 'Lord, Lord' will enter the kingdom of heaven."
+- What is the difference between _looking_ and _saying Lord_?
+<TODO>
+James 4:10 ~ "humble yourselves before the Lord and He will lift you up"
+- if/then 
+
+John 5:40 ~ "you refuse to come to me to have life"
+- this capability to refuse implies a capability to accept; i.e. we make a fruitful choice, not an empty one.
+
+
+## Enabling
+
+God enables people to believe.
+There is nothing [in scripture] preventing God from disabling people's opportunity to choose/believe.
+
+
+## Ties to Christology
+
+The predeterministic view necessarily divorces the Father and Son's part in salvation:
+- The Father predetermines who will be saved
+- Then, the Son does His work in the believers
+- This implies, in part, that Christ and the Father have a separate nature and purpose when it comes to salvation...?
+
+Further, if certain humans are predestined for heaven, and other for hell, then wy are humans judged for sin?
+How can there be guilt in sin if it is predestined?
+
+
+## Problem Texts
+
+There are many texts that are problematic for predestination and free-will positions.
+Much of the problems come from traditional, or novel, English translations- the same word original word translated differently in different places.
+Resolution of sticking points necessitates precision and erudition but, later, consolidation and simplification.
+Simplifying does not mean distillation but, rather, 
+
+
 ### Confession
 [1Jon 4:2-3] ~ Christ is at the core
 
