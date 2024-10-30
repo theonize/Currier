@@ -1,5 +1,8 @@
 # Solus Christus ~ Christ Alone
 "soley Christ"
+__Christ alone redeems,
+nail-scarred hands reach through the void,
+grace enough__
 
 1. Christ is the sole avenue to redemption, no other path is sufficient. 
 2. There really is only one Christ, Jesus of the Bible.
