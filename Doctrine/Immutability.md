@@ -2,17 +2,18 @@
 ...immutability is the doctrine that God does not change.
 
 Proponents argue that if God could change then our salvation is unsure.
-Opponents argue that love interaction require change.
-Both are wrong.
+Opponents argue that love & interaction require change.
+I submit that both are wrong.
 
 
 ## Black & White Mary
 
 Mary is a young person who was born into, and has only lived in, a black & white room.
-She has access to all knowledge and technology except that all is uncolored.
+She is exceedingly intelligent.
+She has access to all knowledge and technology- though, all is uncolored.
 Thus, she knows everything there is to know about light and how the brain processes visual information.
 She also knows all about secondary topics like the psychology of color and the history and concepts of art.
-One day, when her instruction is complete, she is allowed to leave the room and sees green grass, blue skies, and fall leaves for the first time.
+One day, when she is grown-up and knows everything, she is allowed to leave the room and sees green grass, blue skies, and fall leaves for the first time.
 Has she learned anything new?
 
 If she has then she didn't know everything even though she had access to all recorded knowledge.
@@ -26,6 +27,7 @@ This is clearly not an option...intellectually...et sic est.
 
 ## Unwritten Maths
 
+Another examploe:
 Imagine all of mathematics exists in some hyperdimensional textbook- every single concept, proof, and theorem.
 Now imagine that little Johnny learns an equation for the first time and writes it down.
 Has he created new maths?
@@ -40,11 +42,11 @@ Further, there can be no creativity nor discovery nor innovation nor free will- 
 
 ## Platonic View
 
-Probably the predominant view of immutability is the Platonic view.
+Seemingly, the predominant view of immutability in the Christian faith is the Platonic view.
 That is, God knows all things and is unchanging.
 If you were to remove any bit of knowledge from God then He would be less than perfect and, therefore, not God.
 
-The problem with this Hellenistic view of God (strict immutability) is that the Bible does not support it.
+The problem with this Hellenistic view of God (strict, total immutability) is that the Bible does not support it.
 
 
 ## Problematic Texts
@@ -56,22 +58,23 @@ Before we examine these texts lets think about some underlying issues and presum
 ### Proof-Texting
 
 Proof-texting is a popoular practice of taking snippets of scripture to support a doctrine.
-The issue here is that the Bible is not written with particular texts devoted to particular doctrines.
+The issue here is that the Bible is not written with singular texts devoted to particular doctrines.
 Important doctrines are scattered throughout various narratives, poems, and prose.
 We are meant to discover the doctrines of God through meditation on the whole of scripture- not ferreting out pieces that support our ideas.
 
 ### Verse Numbers
 
 The verse numbers in the Bible are not inspired.
-It is truly foolish to base a doctrine on scripture which is extracted bases on arbitrary numbering system.
+It is truly foolish to base a doctrine on scripture which is extracted based on an arbitrary numbering system.
 This is especially true when then issue at hand is a dogma of the faith.
-Whenever a single verse is given as "proof" we immediately goto the context of the surrounding verses.
+Whenever a single verse is given as "proof" we should immediately goto the context of the surrounding verses for the author's meaning.
 
 ### The Son
 
 Jesus is God and man.
 To argue about immutability by distinguishing between Father and Son is at best inconsistent and flawed- at worst heretical.
 The Son Himself is literally an incarnation of God's changing...but let us save that digression for below...
+To have a faith wherein Jesus is not God, or not man, is not a Biblical faith.
 
 ### Back to Plato
 
@@ -81,29 +84,31 @@ No, not if we accept that God is a living being with a complex nature.
 ### Mind vs Character et Nature
 
 Both humans and God have physical, mental, and spiritual natures.
-This is kind of the point of the B&W Mary story we started with.
-The bottom-line of this view is that God's character and mind are not one thing.
+This is kind of the point of the B&W Mary story we started with and we see God's physical and mental nature in many passages (read Abraham, Gideon, Jacob, etc.)
+The crus of this issue is that God's character and mind are not necessarily one thing.
 God's character is clearly fixed for all time.
-God's mind and heart clearly changes based on His interactions with His creation.
+God's mind and heart may change based on His interactions with His creation.
 God's physical nature clearly changes with His intentions.
 
 ### Unnarrative
 
-The Bible is a variety of narratives, poetry, and prose.
+The Bible is a collection of narratives, poetry, and prose.
 Just as we shouldn't yank snippets of scriptures based on verse numbers, we shouldn't apply a narrative interpretation to a poetic text, or vice versa.
 The Bible authors do not stop, mid-narrative, to wax eloquent about metaphysics while remaining in the narrative style.
-There are times when a narrative breaks to give a poetic interlude but these are obvious and are parsable as poetry.
-Just because a piece of text makes sense in isolation in English does not mean that interpeting it thusly is valid.
-The desire to do so ought to be an indication that we need to pull back and look at larger contexts, author's intent, and other Bible texts.
+There are times when a narrative breaks to present a poem but these are obvious and are parsable as poetry.
+Paul occassionally breaks his discourse to quote [or create] a poem...again, obviously.
+Also, just because a piece of text makes sense in isolation in English does not mean that interpeting it thusly is valid- that is promoting our interpretation and presumption above the author's.
+If we allow that then we may as well throw out exegesis altogether.
+The desire to do so ought to be an indication that we need to pull back and look at larger contexts and other Bible texts for the author's intent.
 
 
 Numbers 23:19
 - Well, here is pretty clear statement that God does not change His mind.
 - But, when we take the entire passage (vv18-24) we see that Balaam is speaking in the context of God's promises and character
-- In light of the fact that God's promise-keeping requires response to human action doesn't that mean that God must wait to act?  i.e. move through time...which is change.
+- In light of the fact that God's promise-keeping requires response to human action- doesn't that mean that God must wait to act?  i.e. move through time...which is change.
 
 1 Samuel 15:29
-- "And also" implies that there is an important precedent text, let's take vv28-29;
+- "And also" implies that there is an important precedent text, let's include v.28;
 - Samuel relates that God has _changed_ the leadership of the kingdom **specifically because** His character does not change.
 - There may also be an implication that God, indeed, has regret but doesn't want it.
 - Does it make more sense that God's unchanging character goes hand-in-hand with His changing mind?
