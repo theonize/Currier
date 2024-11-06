@@ -4,6 +4,8 @@
 
 
 6) Jesus defines the theophany ~ a manifestation of Yahweh's name
+  Manifest is more than _making known_ but creating the presence of something or bringing things together through divine means.
+  ...interesting because manifestation is such a central theme in sorcery- yet, for God it is simply a matter of will.
 
 
 
