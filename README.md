@@ -5,11 +5,11 @@
 
 ## About
 
-We stand on the shoulders of giants.
+We stand on the shoulders of _gigantes_.
 Any seemingly novel or particularly poignant insight hereabouts is most likely not my own.
-Any uncannily weird or off-the-wall idea is probably mine.
-Suffice to say my mission in life is to proclaim the power of Jesus life, death, and resurrection because it means redemption for all people and things.
-This is a collection of Bible-related notes and thoughts that will hopefully stir the right nerd and the dorkiest time to yearn for Christ.
+Any uncannily weird or off-the-wall idea probably is.
+Suffice to say my mission in life is to proclaim the power of Jesus' life, death, and resurrection because it means redemption for all people and things.
+This is a collection of Bible-related notes and thoughts that will hopefully stir the right nerd at the dorkiest time to yearn for Christ.
 
 
 **Characters** is a collection of notes about biblical and pseudo-bibkical characters.
