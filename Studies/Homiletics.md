@@ -18,8 +18,17 @@
 
 1. Introduction
 2. Body
-3. Illustration
+   a. Big idea
+   b. 2-4 things: characteristics, features, points, etc.
+   c. Empathy, passion, drama
+3. Illustrations
+   a. Real-life examples
+   b. Diverse sources
+   c. Visuals
 4. Application
+   a. Practicality
+   b. Audience specific
+   c. Challenge and encourage
 5. Conclusion
 
 ## Chironomia
