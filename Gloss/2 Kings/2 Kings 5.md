@@ -1,5 +1,17 @@
 # 2 Kings 5
 
+God's plan is grand but your solution is simple
+
+Namaan's decent into faith:
+* Shock: Faced with disease at his pinnacle
+* Listened: received a testimony from his wife's slave
+* Yearning for deliverance
+* Shock: Expecting a grand miracle he gets a text
+* Listened: received officers' good counsel and had his need met
+* Yearning for proximity
+
+====
+
 Namaan was the highly successful commander of the Assyrian armies.
 Israel had been conquered by Assyria and was a vassal state- a subject of the Assryian emperor.
 However, Namaan had leprosy (a skin disease.)
