@@ -16,6 +16,23 @@
 4) The leaders obeyed the king despite their objections.
 
 
+5-7) The path:
+ * Jerusalem
+ * Aroer
+ * Gad
+ * Jazer
+ * Gilead 
+ * Tahtim Hodshi
+ * Tyre
+ * Hivitia
+ * Canaan
+ * Beersheba / Negev
+ * Jerusalem
+
+
+8) The whole census took one gestation's period of time.
+
+
 +) Despite the punishment, the effect of the census would persist.
    The nation expected their strength to be in and rather than God.
    And the establishment of the line of kings was based on human force rather than God.
