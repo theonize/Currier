@@ -11,7 +11,7 @@
 
 2-3) David's counselor's push back: 
    a census is not necessary, God will provide if necessary;
-   further, it creates the wrong image of the kingly lineage and of the nations faith in God.
+   further, it creates the wrong image of the kingly lineage- that it depends on human arms rather than faith in God.
 
 4) The leaders obeyed the king despite their objections.
 
