@@ -4,6 +4,8 @@
 "The Kingdom of Heaven" is a Jewish circumlocution for "The Kingdom of God" to avoiding unncessary use of the word _God_.
 	Dr. Michael Heiser
 
+...while Kingdom of Heaven is synonymous with Kingdom of God there is significance in the transition of the term: heaven has come to Earth and the work continues, based out of the new, ubiquitous, living Temple.
+
 
 [Mark 11:30]
 [Luke 15:18,21]
