@@ -28,11 +28,11 @@ The Leaven
 	MWC
 		Leaven is often hermeneutically sin
 		How is God's kingdom equated with sin?
-		It's not, it is - however - a spiritual work.
+		It's not, it is - however - the nature of spiritual work.
 
-		Perhaps it's just pushing the analogy too far...
-		...but I think it's apt because of the nature of the change wrought by yeast:
+		The analogy is more than apt because of the nature of the change wrought by yeast:
 		Yeast works through fermentation which chemically alters the host and causes gaseous release which puffs up the host.
 		Both of these are beneficial to the baker...
 		[Rom 7:7] ~ were it not for sin we would never know our need for Him
 		Perhaps the dichotomy is resolved in the two lives of the Church: private worship and public interaction.
+  The puffing up is not destructive unless is continues unchecked. A life with spiritual work but no master overflows into a sloppy mess.  But the baker, at just the right time, subjects the dough to fire which produces a nourishing, delectable product.
