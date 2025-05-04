@@ -38,3 +38,9 @@ Partial Fulfillment
 
 Puns
 - this is a term that has a double meaning
+
+
+Proof
+- every statement of prophecy has a proof, and every proof has a zero-knowledge proof
+- the provider proves the efficacy of their statement by giving evidence that the verifier can use to discern the truth of it without knowing the truth
+  - this interaction requires a cascade of tests which 1) the provider answers truthfully without revealing details and 2) the verifier checks for consistency. 
