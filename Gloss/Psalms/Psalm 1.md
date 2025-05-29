@@ -1,5 +1,7 @@
 # Psalm 1
 
+### Contrasting those who meditate on the Torah with those who don't
+
 1) Body positioning is important.
 
 
