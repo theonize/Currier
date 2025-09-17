@@ -1,5 +1,7 @@
 # Revelation 4
 
+4) 24 elders ~ perhaps a dozen apostles and the twelve tribal heads
+
 6a) the glassy sea: the chaos of turbulent waters is stilled in God's presence
 
 7) lion, ox, man, eagle 
