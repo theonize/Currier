@@ -8,6 +8,8 @@
 9-10) When the creatures start worship time the leaders set down their crowns
   ..._balousin_ is to offer, lay down, present
   ..._stephanous_ the crown/wreath of accomplishment
+    * Ps 8:5 ~ man's crown is glory and honor in dominion over the earth
+
 
 
 
