@@ -32,6 +32,8 @@ The assembly was enacting God's will;  they made it their own.
 incense
 - the prayers of the saints
 - Ex 30:34+
+  - the heartfelt, the sacrificial, the bitter, and the delighted prayers are reserved for thee LORD
+  - the elders present these prayers to the LORD
 
 10) This is the end-game.
 They will return on the Earth.
