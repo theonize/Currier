@@ -17,4 +17,5 @@ once again the prayers of saints are offered
 "the seven angels"
 - we saw 7 angels in ch.1- the messengers to the churches 
 
-
+3) prayer is often likened to incense
+   here the prayers of an angel are mingled with the saints' prayers (which, from ch.7, are in a bowl)
