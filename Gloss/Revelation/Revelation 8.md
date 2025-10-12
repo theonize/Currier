@@ -7,5 +7,6 @@ Similarly, here, the events target our gods
 - Zeph 1:7
 
 
+30 minutes ~ the awkward, liturgical silence
 
 
