@@ -10,3 +10,8 @@ Similarly, here, the events target our gods
 30 minutes ~ the awkward, liturgical silence
 
 once again the prayers of saints are offered
+
+"the seven angels"
+- we saw 7 angels in ch.1- the messengers to the churches 
+
+
