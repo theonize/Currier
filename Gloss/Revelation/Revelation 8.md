@@ -9,4 +9,4 @@ Similarly, here, the events target our gods
 
 30 minutes ~ the awkward, liturgical silence
 
-
+once again the prayers of saints are offered
