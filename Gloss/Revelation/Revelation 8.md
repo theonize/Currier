@@ -2,5 +2,10 @@
 
 Transformation
 
+In Exodus each plague targeted an Egyptian god. 
+Similarly, here, the events target our gods 
+- Zeph 1:7
+
+
 
 
