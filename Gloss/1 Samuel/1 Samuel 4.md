@@ -9,3 +9,5 @@ This is a fundamentally debased worldview.
 ...and look who's in charge: Hophni and Phineas.
 
 12) Some rabbinic sources claim that the young Benjamite is Saul.
+
+18) The heaviness of Eli, his burden of plenty and sin, contrasts with the heaviness of God's weighty glory.
