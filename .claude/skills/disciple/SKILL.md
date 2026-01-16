@@ -1,9 +1,9 @@
 ---
 name: disciple
-description: This skill is used to derive the hermeneutics of a Biblical passage.
+description: Apply hermeneutical methods to Bible passages. Use when tracing canonical themes, identifying wordplay and idioms, analyzing micro/macro structures, exploring image-bearer and wisdom elements, or discerning plenary authorial intent.
 ---
 
-# My Skill
+# Disciple Skill
 
 Research and determine the context of a Biblical passage by answering the following questions:
 * How does this passage fit within over-arching canonical threads and themes?

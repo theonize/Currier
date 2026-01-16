@@ -1,9 +1,9 @@
 ---
 name: theologian
-description: This skill is used to derive the theological depth of a Biblical passage.
+description: Analyze theological themes, doctrines, and spiritual principles in Bible passages. Use when exploring what the original audience understood spiritually, identifying spiritual disciplines, or extracting timeless biblical principles and teachings.
 ---
 
-# My Skill
+# Theologian Skill
 
 Research and determine the context of a Biblical passage by answering the following questions:
 * What would the original audience have drawn from the passage?

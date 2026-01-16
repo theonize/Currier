@@ -1,13 +1,13 @@
 ---
 name: shepherd
-description: This skill is used to derive the real-life applications of a Biblical passage.
+description: Develop practical, real-life applications from Bible passages. Use when creating modern applications for contemporary audiences, exploring how to implement biblical principles, or bridging ancient meaning to current life situations.
 ---
 
-# My Skill
+# Shepherd Skill
 
 Research and determine the context of a Biblical passage by answering the following questions:
 * Clarify the original meaning for a modern audience
-* Who? my audience is contemporary suburban Texans ranging in age from 6th grade to twilight
+* Who? my audience is contemporary people of all ages
 * What attributes or actions, of theirs, must change according to this Word?
 * When would we do these things?
 * Where might we do these things?

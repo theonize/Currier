@@ -1,9 +1,9 @@
 ---
 name: linguist
-description: This skill is used to derive the linguistic characteristics of a Biblical passage.
+description: Analyze Hebrew, Greek, and Aramaic linguistic features in Bible passages. Use when doing word studies, exploring etymology, examining grammar and syntax, comparing translations, or investigating textual variants and manuscript evidence.
 ---
 
-# My Skill
+# Linguist Skill
 
 Research and determine the context of a Biblical passage by answering the following questions:
 * What was the original language of this writing?

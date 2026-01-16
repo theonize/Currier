@@ -1,9 +1,9 @@
 ---
 name: contextualizer
-description: This skill is used to derive the context of a Biblical passage.
+description: Analyze how a Bible passage fits within its immediate and broader context. Use when examining how a passage connects to surrounding verses, its role within the book, or how it bridges prior and subsequent sections.
 ---
 
-# My Skill
+# Contextualizer Skill
 
 Research and determine the context of a Biblical passage by answering the following questions:
 * How does this passage fit in the immediate context?

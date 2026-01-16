@@ -1,9 +1,9 @@
 ---
 name: historian
-description: This skill is used to derive the historical and cultural context of a Biblical passage.
+description: Research historical and cultural background of Bible passages. Use when exploring authorship, original audience, dating, archaeology, geography, political-socio-economic context, social norms, or external historical sources related to Scripture.
 ---
 
-# My Skill
+# Historian Skill
 
 Research and determine the historical and cultural context of a Biblical passage by answering the following questions:
 * Who was the author?
