@@ -43,3 +43,10 @@ Nazareth overlooks the plain of Esdralon, beyond which is Mount Meggido
 Jesus only referred to Yahweh as Father - except at His separation on the cross
 	[Mark 13:32] ~ a limit to the human Jesus' knowledge; how much did He need to learn and grow into?
 	[Rev 1:1] ~ the book is written **TO** Jesus
+
+
+52) Jesus _grows_
+  ...from what to what?  growth implies seed -> plant -> fruit
+  grow ~ `proekopten`, before trial; 
+
+  ...in what? sophia/wisdom, hylikia/stature, charis/grace..favor

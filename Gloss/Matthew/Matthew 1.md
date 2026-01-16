@@ -31,3 +31,11 @@ The prophecy
 
 11) Jeconiah's line was cursed [Jer 22:28-30]()
 
+
+18) Joseph's words are not recorded. 
+  His character:
+  - He named Jesus as directed
+  - He moved the family as directed
+  - He married Mary as directed 
+  - He avoided sex with Mary until after she birthed Jesus
+
