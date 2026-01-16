@@ -5,11 +5,15 @@
 
 ## Opening (3 min)
 
-**Hook**: Have you ever felt like your best days are behind you? Like maybe God is done using you?
+**Hook**: Have you ever felt like your best days are behind you?  Like maybe God is done using you?
 
-Read Haggai 1:12-15 slowly, clearly.
+Read Haggai 1:12-15 (ESV)
+```
+Then Zerubbabel the son of Shealtiel, and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of the Lord their God, and the words of Haggai the prophet, as the Lord their God had sent him.  And the people feared the Lord.  Then Haggai, the messenger of the Lord, spoke to the people with the Lord's message, “I am with you, declares the Lord.”  And the Lord stirred up the spirit of Zerubbabel the son of Shealtiel, governor of Judah, and the spirit of Joshua the son of Jehozadak, the high priest, and the spirit of all the remnant of the people.  And they came and worked on the house of the Lord of hosts, their God, on the twenty-fourth day of the month, in the sixth month, in the second year of Darius the king.
+```
 
-**Context in one sentence**: For 16 years, God's people had given up on rebuilding His temple—they thought the project was over. But God wasn't finished with them.
+**Context in one sentence**: For 16 years, God's people had given up on rebuilding His temple— they thought the project was over.  But God wasn't finished with them.
+  It has been 23 days since God's proclamation in Haggai 1:1-11.  Now, they respond.
 
 ---
 
@@ -19,13 +23,13 @@ Read Haggai 1:12-15 slowly, clearly.
 
 > "They obeyed the voice of the Lord their God"
 
-**Point**: The people had neglected God's house for 16 years. Sixteen years! But when they finally listened, God didn't lecture them about wasted time. He simply welcomed their obedience.
+**Point**: The people had neglected God's house for 16 years.  But when they finally listened, God didn't lecture them about wasted time; He simply welcomed their obedience.
 
-**Illustration**: Think of the prodigal son—the father didn't say "Where have you been for so long?" He ran to meet him.
+**Illustration**: Think of the prodigal son— the father didn't say "Where have you been for so long?"  He ran to meet him.
 
 **Application for listeners**:
-- Maybe you feel you've wasted years. Maybe faith was put on the back burner while life got busy.
-- God isn't counting the years you were distracted. He's ready the moment you turn back.
+- Maybe you feel you've wasted years.  Maybe faith was put on the back burner while life got busy.
+- God isn't counting the years you were distracted.  He's ready the moment you turn back.
 - It's never too late to say, "Lord, I'm listening now."
 
 **Discussion prompt**: "Has there been a time when you came back to something important after a long delay?"
@@ -36,20 +40,20 @@ Read Haggai 1:12-15 slowly, clearly.
 
 > "I am with you, declares the Lord."
 
-**Point**: This is the shortest sermon in the Bible—just four words in Hebrew. But it's everything.
+**Point**: This is the shortest sermon in the Bible— just four words in Hebrew `אֲנִי אִתְּכֶם`.  But it's everything.
 
 - Not "I was with you" (past tense, nostalgia)
 - Not "I will be with you" (future, waiting)
 - "I AM with you" (right now, present tense)
 
-**Illustration**: When you're in a hospital bed or can't sleep at 3 AM, what matters most isn't memories of the past or hopes for tomorrow—it's knowing someone is *with you* right now.
+**Illustration**: When you're in a hospital bed or can't sleep at 3 AM, what matters most isn't memories of the past or hopes for tomorrow— it's knowing someone is *with you* right now.
 
 **Application for listeners**:
 - Mobility may be limited, but God's presence isn't.
 - You may not be able to go to church, but the Church's Lord comes to you.
-- The same God who was with Moses, with David, with the apostles—He says to you today: "I am with you."
+- The same God who was with Moses, with David, with the apostles— He says to you today: "I am with you."
 
-**Pastoral moment**: "Some of you have outlived spouses, siblings, friends. But you have not outlived God's presence."
+**Pastoral moment**: "Some of you have outlived spouses, siblings, friends.  But you have not outlived God's presence."
 
 ---
 
@@ -57,22 +61,22 @@ Read Haggai 1:12-15 slowly, clearly.
 
 > "The Lord stirred up the spirit of Zerubbabel... and Joshua... and all the remnant of the people."
 
-**Point**: Notice—God did the stirring. The people didn't manufacture enthusiasm. God renewed their motivation from the inside out.
+**Point**: Notice, God did the stirring.  The people didn't manufacture enthusiasm. God renewed their motivation from the inside out.
 
-**Key word**: "Remnant" means survivors, those who remained. These weren't young pioneers. They were the ones still standing after exile, loss, and hardship.
+**Key word**: "Remnant" means survivors, those who remained.  These weren't young pioneers.  They were the ones still standing after exile, loss, and hardship.
 
-**Illustration**: A pilot light on an old stove. It may look like the fire is out, but there's still a flame. God can turn that pilot light into a full flame again.
+**Illustration**: A pilot light on an old stove.  It may look like the fire is out, but there's still a flame.  God can turn that pilot light into a full flame again.
 
 **Application for listeners**:
-- You are the remnant. You've survived things others didn't.
+- You are the remnant.  You've survived things others didn't.
 - God specializes in stirring spirits that feel tired.
-- Your work now may not be building temples with your hands. But you can:
+- Your work now may not be building temples with your hands.  But you can:
   - Pray for your family (powerful work!)
   - Encourage the staff and visitors here
   - Share wisdom from decades of living
   - Simply receive God's love and reflect it to others
 
-**Question**: "What has God put on your heart lately—even a small thing?"
+**Question**: "What has God put on your heart lately— even a small thing?"
 
 ---
 
@@ -82,7 +86,7 @@ Read Haggai 1:12-15 slowly, clearly.
 
 After 16 years of nothing, work began in 23 days.
 
-The application: Long delays can have sudden endings. Don't assume tomorrow will be like yesterday. God moves when He moves.
+The application: Long delays can have sudden endings.  Don't assume tomorrow will be like yesterday.  God moves when He moves.
 
 ---
 
@@ -90,7 +94,7 @@ The application: Long delays can have sudden endings. Don't assume tomorrow will
 
 **Summary**:
 1. It's never too late to listen to God
-2. God is with you—right now, present tense
+2. God is with you— right now, present tense
 3. God stirs tired spirits; He's not done with you
 
 **Closing prayer focus**:
@@ -99,26 +103,4 @@ The application: Long delays can have sudden endings. Don't assume tomorrow will
 - Rest in His presence: "I am with you"
 
 **Benediction** (consider using):
-> "May the God who stirred the spirits of His weary people long ago stir your spirit today. May you know He is with you—in this room, in the night hours, in every remaining day He gives. Amen."
-
----
-
-## Practical Notes for the Teacher
-
-**Pacing**: Speak slowly. Pause often. Repeat key phrases.
-
-**Engagement**:
-- Make eye contact with individuals
-- Use names if you know them
-- Allow silence after questions (don't rush to fill it)
-
-**Physical considerations**:
-- Bring large-print handouts with the three points
-- Consider bringing a simple visual (a small flame, a picture of hands working)
-
-**Sensitivity**:
-- Some may have dementia; repetition of "I am with you" is comforting
-- Some may be near death; this passage offers assurance without false promises
-- Avoid language like "you still have so much to do"—focus on God's presence, not productivity
-
-**Follow-up**: If appropriate, return to pray individually with residents who respond.
+> "May the God who stirred the spirits of His weary people long ago stir your spirit today.  May you know He is with you— in this room, in the night hours, in every remaining day He gives. Amen."
