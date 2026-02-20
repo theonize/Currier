@@ -1,7 +1,13 @@
 {
   "permissions": {
     "allow": [
-      "Bash(pandoc:*)"
+      "Bash(pandoc:*)",
+      "Bash(pip show:*)",
+      "Read(//c/Program Files/Google/Chrome/Application/**)",
+      "Bash(\"/c/Program Files/Google/Chrome/Application/chrome.exe\" --headless --disable-gpu --no-sandbox --print-to-pdf-no-header --print-to-pdf=\"C:\\\\writ\\\\currier\\\\Studies\\\\Nursing Home\\\\Loved into Splendor - Ephesians 5 \\(Study\\).pdf\" \"file:///C:/writ/currier/Studies/Nursing%20Home/Loved%20into%20Splendor%20-%20Ephesians%205%20\\(Study\\).html\")",
+      "Bash(\"/c/Program Files/Google/Chrome/Application/chrome.exe\":*)",
+      "Bash(ls:*)",
+      "Bash(\"/c/Program Files/Google/Chrome/Application/chrome.exe\" --headless --disable-gpu --no-sandbox --print-to-pdf-no-header --print-to-pdf=\"C:\\\\writ\\\\currier\\\\Studies\\\\Nursing Home\\\\Loved into Splendor - Ephesians 5 \\(Handout\\).pdf\" \"file:///C:/writ/currier/Studies/Nursing%20Home/handout_temp.html\")"
     ]
   }
 }
