@@ -10,6 +10,16 @@
 
 ---
 
+### Timeline of the Return
+
+| Wave | Date (Approx.) | Leader | Purpose & Key Events |
+| :--- | :--- | :--- | :--- |
+| First Wave | 538 – 537 BCE | Zerubbabel | Following the Decree of Cyrus, ~50,000 return to rebuild the Altar and the Temple. |
+| Second Wave | 458 BCE | Ezra | A group of ~1,500 men (plus families) returns to restore spiritual life and Law. |
+| Third Wave | 445 – 444 BC | Nehemiah | Nehemiah is sent as Governor to rebuild the walls of Jerusalem. |
+
+---
+
 ### Introduction
 
 Nehemiah was a man who lived with a divided heart. His body was in Susa, the glittering capital of the Persian Empire, where he had a secure, comfortable job serving the most powerful man in the world. But his heart was 800 miles away in Jerusalem, a city in ruins.
