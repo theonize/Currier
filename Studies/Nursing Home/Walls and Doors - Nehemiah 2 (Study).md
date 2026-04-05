@@ -37,11 +37,18 @@ For four months, Nehemiah had carried the weight of Jerusalem's ruin while perfo
 
 Notice the king's sharp observation: "This is nothing but sadness of the heart." Artaxerxes could see right through Nehemiah's carefully maintained exterior. And Nehemiah's reaction? "Then I was very much afraid." The Hebrew word *yare* describes not mild nervousness but overwhelming fear. Nehemiah had every reason to be terrified — appearing sad before the king could be interpreted as disloyalty, a bad omen, or worse. People had been executed for less.
 
-But Nehemiah did something remarkable. Instead of covering up or deflecting, he told the truth. He spoke about his ancestors' graves, a detail that would resonate deeply with any ancient listener — including a Persian king who cared about dynastic honor. His honesty, born out of grief he could no longer contain, became the very door through which God would work.
+But Nehemiah did something remarkable.
+Instead of covering up or deflecting, he told the truth.
+He spoke about his ancestors' graves, a detail that would resonate deeply with any ancient listener — including a Persian king who cared about dynastic honor.
+His honesty, born out of grief he could no longer contain, became the very door through which God would work.
 
-**Why this matters for us:** Many of us have spent years being "fine." We tell the nurse we are okay. We tell our children on the phone that everything is good. We carry grief, loneliness, or worry behind a practiced smile. And sometimes that composure serves us well.
+**Why this matters for us:** Many of us have spent years being "fine."  We tell the nurse we are okay.  We tell our children on the phone that everything is good.  We carry grief, loneliness, or worry behind a practiced smile.  And sometimes that composure serves us well.
 
-But Nehemiah shows us that there are moments when honesty — even frightening honesty — opens a door nothing else can. When you finally tell someone, "Actually, I'm not doing so well," you might be surprised at the response. A nurse who seemed too busy might sit down and listen. A family member who seemed distant might finally understand. God can use our vulnerability in ways that our composure never could.
+But Nehemiah shows us that there are moments when honesty — even frightening honesty — opens a door nothing else can.
+When you finally tell someone, "Actually, I'm not doing so well," you might be surprised at the response.
+ A nurse who seemed too busy might sit down and listen.
+ A family member who seemed distant might finally understand.
+ God can use our vulnerability in ways that our composure never could.
 
 ### Reflection Questions
 
@@ -56,17 +63,31 @@ But Nehemiah shows us that there are moments when honesty — even frightening h
 
 ### Notes
 
-This is one of the most dramatic moments in the entire Bible, and it happens in a single breath. The king asks, "What do you want?" and between that question and Nehemiah's answer, Nehemiah prays. There is no time for a formal prayer, no time to kneel or close his eyes. This is what some have called an "arrow prayer" — a quick, silent shot of the heart straight to heaven.
+This is one of the most dramatic moments in the entire Bible, and it happens in a single breath.
+The king asks, "What do you want?" and between that question and Nehemiah's answer, Nehemiah prays.
+There is no time for a formal prayer, no time to kneel or close his eyes.
+This is what some have called an "arrow prayer" — a quick, silent shot of the heart straight to heaven.
 
-But notice: this split-second prayer was not Nehemiah's first prayer. It was the fruit of four months of sustained prayer and fasting (Nehemiah 1:4-11). The arrow prayer worked because Nehemiah had been loading the bow for months. His daily habit of prayer had prepared him for the moment when he needed God most urgently.
+But notice: this split-second prayer was not Nehemiah's first prayer.
+It was the fruit of four months of sustained prayer and fasting (Nehemiah 1:4-11).
+The arrow prayer worked because Nehemiah had been loading the bow for months.
+His daily habit of prayer had prepared him for the moment when he needed God most urgently.
 
-And then Nehemiah does something else that is striking: he asks specifically. He doesn't say, "Please help." He asks for permission to go, letters of safe passage to the governors along the route, and timber from the royal forest for the gates, the fortress, and his own house. He had thought this through. Prayer and preparation had worked together to make him ready.
+And then Nehemiah does something else that is striking: he asks specifically.
+He doesn't say, "Please help."
+He asks for permission to go, letters of safe passage to the governors along the route, and timber from the royal forest for the gates, the fortress, and his own house.
+He had thought this through.
+Prayer and preparation had worked together to make him ready.
 
-The result? "The king granted me what I asked, for the good hand of my God was upon me." Nehemiah credits not his own diplomacy but the hand of God.
+The result? "The king granted me what I asked, for the good hand of my God was upon me."
+Nehemiah credits not his own diplomacy but the hand of God.
 
-**Why this matters for us:** How many of us have a moment of anxiety — before a doctor's appointment, a difficult phone call, a conversation about our care — and we face it alone? Nehemiah shows us a different way. Before you answer, pray. Before you react, pause. You can send an arrow prayer to heaven in the space between a question and your response.
+**Why this matters for us:** How many of us have a moment of anxiety — before a doctor's appointment, a difficult phone call, a conversation about our care — and we face it alone? Nehemiah shows us a different way.  Before you answer, pray.  Before you react, pause.  You can send an arrow prayer to heaven in the space between a question and your response.
 
-And like Nehemiah, you can be specific in your prayers. God is not bothered by details. You can pray, "Lord, help the doctor find the right treatment" or "Give me the words to say to my daughter today" or "Help me be patient with the aide who is rushing." These are not trivial prayers — they are the prayers of a person who, like Nehemiah, trusts that the good hand of God is upon them.
+And like Nehemiah, you can be specific in your prayers.
+God is not bothered by details.
+You can pray, "Lord, help the doctor find the right treatment" or "Give me the words to say to my daughter today" or "Help me be patient with the aide who is rushing."
+These are not trivial prayers — they are the prayers of a person who, like Nehemiah, trusts that the good hand of God is upon them.
 
 ### Reflection Questions
 
@@ -81,20 +102,33 @@ And like Nehemiah, you can be specific in your prayers. God is not bothered by d
 
 ### Notes
 
-Nehemiah arrived in Jerusalem and did something unexpected. He didn't immediately announce his royal commission. He didn't gather the leaders and present a plan. Instead, he waited three days. Then, under cover of night, with only a few trusted companions, he went out to see the damage for himself.
+Nehemiah arrived in Jerusalem and did something unexpected.
+He didn't immediately announce his royal commission.
+He didn't gather the leaders and present a plan.
+Instead, he waited three days.
+Then, under cover of night, with only a few trusted companions, he went out to see the damage for himself.
 
-What he found was worse than any report could convey. The walls were not just broken; in places, the rubble from the Babylonian destruction 140 years earlier had piled up so high that his donkey couldn't pass through (v.14). The accumulated debris of a century and a half of neglect had made parts of the route physically impassable.
+What he found was worse than any report could convey.
+The walls were not just broken; in places, the rubble from the Babylonian destruction 140 years earlier had piled up so high that his donkey couldn't pass through (v.14).
+The accumulated debris of a century and a half of neglect had made parts of the route physically impassable.
 
-This nighttime inspection reveals something important about Nehemiah's character: he was willing to look honestly at the full extent of the damage before he made any promises. He didn't minimize or look away. He rode around the entire perimeter, taking it all in. Only after he had seen the walls with his own eyes — the broken gates, the impassable rubble, the full scope of the ruin — did he open his mouth to speak.
+This nighttime inspection reveals something important about Nehemiah's character:
+he was willing to look honestly at the full extent of the damage before he made any promises.
+He didn't minimize or look away.
+He rode around the entire perimeter, taking it all in.
+Only after he had seen the walls with his own eyes — the broken gates, the impassable rubble, the full scope of the ruin — did he open his mouth to speak.
 
-**Why this matters for us:** There is a wisdom in Nehemiah's approach that applies to many situations we face. Sometimes we need to honestly assess the "broken walls" in our lives before we try to fix them. That might mean acknowledging the full reality of a health diagnosis instead of pretending everything is fine. It might mean recognizing that a relationship is truly damaged, not just "a little strained." It might mean sitting with grief instead of rushing past it.
+**Why this matters for us:** There is a wisdom in Nehemiah's approach that applies to many situations we face.  Sometimes we need to honestly assess the "broken walls" in our lives before we try to fix them.  That might mean acknowledging the full reality of a health diagnosis instead of pretending everything is fine.  It might mean recognizing that a relationship is truly damaged, not just "a little strained."  It might mean sitting with grief instead of rushing past it.
 
-Nehemiah's example also teaches us the value of patience. He didn't react immediately. He waited, observed, and listened before speaking. In a world that often rewards the fastest talker, there is deep wisdom in being the person who looks carefully, listens well, and speaks only when they have something worth saying.
+Nehemiah's example also teaches us the value of patience.
+He didn't react immediately.
+He waited, observed, and listened before speaking.
+In a world that often rewards the fastest talker, there is deep wisdom in being the person who looks carefully, listens well, and speaks only when they have something worth saying.
 
 ### Reflection Questions
 
-1. Is there a "broken wall" in your life that you have been avoiding looking at honestly? What would it take to face it?
-2. Nehemiah waited and assessed before he acted. Can you think of a time when patience and careful observation led to a better outcome than rushing in?
+1. Is there a "broken wall" in your life that you have been avoiding looking at honestly?  What would it take to face it?
+2. Nehemiah waited and assessed before he acted.  Can you think of a time when patience and careful observation led to a better outcome than rushing in?
 
 ---
 
@@ -104,23 +138,47 @@ Nehemiah's example also teaches us the value of patience. He didn't react immedi
 
 ### Notes
 
-After his private inspection, Nehemiah finally gathered the leaders and the people. His speech is a masterpiece of brevity and persuasion. He does three things in just two verses:
+After his private inspection, Nehemiah finally gathered the leaders and the people.
+His speech is a masterpiece of brevity and persuasion.
+He does three things in just two verses:
 
-First, he names the problem honestly: "You see the trouble we are in." He doesn't sugarcoat or minimize. He uses the word *cherpah* — "reproach" or "derision" — a powerful Hebrew word that describes the public shame of a community that has become an object of scorn.
+First, he names the problem honestly: "You see the trouble we are in." He doesn't sugarcoat or minimize.
+He uses the word *cherpah* — "reproach" or "derision" — a powerful Hebrew word that describes the public shame of a community that has become an object of scorn.
 
-Second, he proposes a solution: "Come, let us build." Notice the word "us." Nehemiah does not say, "I will build" or "You must build." He says "let *us* build." He puts himself right alongside the people. He is not a boss giving orders from above; he is a brother rolling up his sleeves.
+Second, he proposes a solution: "Come, let us build."
+Notice the word "us."
+Nehemiah does not say, "I will build" or "You must build."
+He says "let *us* build."
+He puts himself right alongside the people.
+He is not a boss giving orders from above; he is a brother rolling up his sleeves.
 
-Third, and most importantly, he shares his testimony: "I told them of the hand of my God that had been upon me." Before he mentioned the king's letters or the royal timber, he told them about God. His personal experience of God's faithfulness became the spark that ignited a whole community.
+Third, and most importantly, he shares his testimony:
+"I told them of the hand of my God that had been upon me."
+Before he mentioned the king's letters or the royal timber, he told them about God.
+His personal experience of God's faithfulness became the spark that ignited a whole community.
 
-The response was electric: "Let us rise up and build. So they strengthened their hands for the good work."
+The response was electric: "Let us rise up and build.
+So they strengthened their hands for the good work."
 
-Of course, opposition came immediately. Sanballat, Tobiah, and Geshem mocked and accused them: "Are you rebelling against the king?" But Nehemiah's reply was rock-solid: "The God of heaven will make us prosper, and we his servants will arise and build."
+Of course, opposition came immediately.
+Sanballat, Tobiah, and Geshem mocked and accused them:
+"Are you rebelling against the king?" But Nehemiah's reply was rock-solid:
+"The God of heaven will make us prosper, and we his servants will arise and build."
 
-**Why this matters for us:** You might think your days of rallying people are over. But Nehemiah shows us that the most powerful thing you can share with another person is not a plan or a solution — it is a testimony. When you tell someone, "God has been faithful to me," you are doing exactly what Nehemiah did. You are telling the hand of God.
+**Why this matters for us:** You might think your days of rallying people are over.  But Nehemiah shows us that the most powerful thing you can share with another person is not a plan or a solution — it is a testimony.  When you tell someone, "God has been faithful to me," you are doing exactly what Nehemiah did.  You are telling the hand of God.
 
-And the people who need to hear it are closer than you think. The resident who is afraid of a surgery. The aide who looks exhausted and discouraged. The family member who has stopped praying. Your simple words — "God has been good to me, even here" — could be the spark that helps someone else rise up and build.
+And the people who need to hear it are closer than you think.
+The resident who is afraid of a surgery.
+The aide who looks exhausted and discouraged.
+The family member who has stopped praying.
+Your simple words — "God has been good to me, even here" — could be the spark that helps someone else rise up and build.
 
-As for the mockers and the naysayers? Nehemiah didn't argue with them, didn't defend himself, and didn't waste time trying to prove them wrong. He simply declared where his confidence lay: "The God of heaven will make us prosper." When someone dismisses your faith or tells you your prayers don't matter, you don't need a clever response. You need Nehemiah's response: quiet, clear confidence in the God of heaven.
+As for the mockers and the naysayers?
+Nehemiah didn't argue with them, didn't defend himself, and didn't waste time trying to prove them wrong.
+He simply declared where his confidence lay:
+"The God of heaven will make us prosper."
+When someone dismisses your faith or tells you your prayers don't matter, you don't need a clever response.
+You need Nehemiah's response: quiet, clear confidence in the God of heaven.
 
 ### Reflection Questions
 
