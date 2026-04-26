@@ -16,6 +16,8 @@ Mary & Martha's appeal was based on their understanding of the Lord's love for t
 The believing of the participants is the most important thing-
 Jesus does whatever is necessary to enthrall them and bring them to belief.
 
+Most of us are living between the ailment and the glory- 
+
 
 35) Jesus shows His humanity.  Perhaps he cries because Lazarus had to return from Yahweh's presence.  Perhaps he is overcome by the range of emotions: genuine grief and ceremonial mourning.
 
