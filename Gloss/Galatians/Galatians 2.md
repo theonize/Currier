@@ -71,6 +71,10 @@ Cephasian = one who creates religious demarcations
 	The gift of Christ must always be in the past because it preceded my sin.
 	~ [1Jon 3:16] love could not be greater because it was complete, preceded my sin, and was given in full knowledge of my further rebellion.
 
+This is the only place in the NT where an author says 'God loves _me_'
+
+
+
 21)	It was that same gift [20] that justified us.
 	The justification was not done through the law - the law never justified.
 	
