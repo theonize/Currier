@@ -2,7 +2,11 @@
 
 2) the hair accounting is mentioned but doesn't actually happen until chapter 12
 
+
 4) Jesus frames the ailment in terms of God's glory 
+
+
+6) therefore/so ...He tarried;  In other words: _because_ He loved that family He waited- He let Lazarus die.
 
 
 Mary & Martha's appeal was based on their understanding of the Lord's love for them
