@@ -9,10 +9,15 @@
 6) therefore/so ...He tarried;  In other words: _because_ He loved that family He waited- He let Lazarus die.
 
 
-Mary & Martha's appeal was based on their understanding of the Lord's love for them
+Mary & Martha's appeal was based on their understanding of the Lord's love for them.
 
 
-35) Jesus shows His humanity.  Perhaps he cries because Lazarus had to return from Yahweh's presence.  Perhaps he is overcome by the range of emotions: genuine grief and ceremonial morning.
+15) Jesus love for them was not giving life and health- it was/is revealing and presenting the glory of God.
+The believing of the participants is the most important thing-
+Jesus does whatever is necessary to enthrall them and bring them to belief.
+
+
+35) Jesus shows His humanity.  Perhaps he cries because Lazarus had to return from Yahweh's presence.  Perhaps he is overcome by the range of emotions: genuine grief and ceremonial mourning.
 
 
 37) Are they elevating the importance of unblindedness above resurrection?
