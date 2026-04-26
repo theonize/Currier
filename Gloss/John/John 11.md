@@ -1,5 +1,9 @@
 # John 11
 
+2) the hair accounting is mentioned but doesn't actually happen until chapter 12
+
+4) Jesus frames the ailment in terms of God's glory 
+
 
 Mary & Martha's appeal was based on their understanding of the Lord's love for them
 
