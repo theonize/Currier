@@ -38,19 +38,37 @@ Nehemiah shows us that when you cannot be there in person, you can still do the 
 
 **Focus:** Nehemiah 1:3-4 — *"As soon as I heard these words I sat down and wept and mourned for days, and I continued fasting and praying before the God of heaven."*
 
-### Notes
+### Context / Setup
+- Nehemiah hears the news in Susa, winter palace of the Persian Empire — 800 miles from Jerusalem
+- A city without walls in the ancient world was defenseless: raiders, enemies, daily fear
+- "Great trouble and shame" = the ongoing lived reality for the returned remnant
+- Nehemiah is a high-ranking Persian official — sitting down to weep for days is a profound disruption of his normal life
 
-The news Nehemiah received was not just sad; it was dangerous. In the ancient world, a city without walls was entirely defenseless. It meant the people were exposed to raiders, enemies, and constant fear. The "great trouble and shame" was a daily reality for them.
+### Theological Anchor
+- Grief is not weakness — it is the evidence of love
+- Intercession is **active** work, not passive waiting
+- Sitting, weeping, fasting, praying — all directed "before the God of heaven"
+- The real labor begins where the world assumes labor ends
 
-Notice Nehemiah's immediate reaction. He didn't immediately try to problem-solve. He didn't minimize the pain or tell himself that everything would be okay. Mark the physical details of his response: *He sat down and wept.* 
+### Language Notes
+- **God of heaven** (Hebrew: *Elohei ha-Shamayim*) — a post-exilic title emphasizing sovereignty over the whole earth, including pagan empires
+- **fasting and praying** — classical covenant posture of lament; same pattern as Daniel 9, Ezra 9
 
-For a high-ranking official in the Persian court, sitting down and weeping for days was a profound disruption of his normal life. But the grief he felt wasn't a sign of weakness; it was a sign of deep love. 
+### Talking Points
+- Nehemiah does not problem-solve first.  He grieves first
+- The man who will later organize a construction project begins by sitting down
+- Mourning for *days* — not hours, not a quick emotional release
+- Distance did not stop him from doing the most important work
+- Prayer is where powerless people move mountains; Nehemiah's empire-level problem meets heaven-level power
 
-More importantly, Nehemiah didn't stop at weeping. He turned his grief into prayer. He directed his tears toward the "God of heaven." 
+### For Us
+- Many in this room know what it is to sit, unable to travel to the family you love
+- The chair you sit in can become your Susa — a place where powerful prayers rise to the God of heaven
+- "Just sitting" and "just praying" are not the same as "doing nothing" — biblically, they are the hardest and most vital labor
+- Your sitting posture is the same posture as one of the Bible's greatest leaders at one of his most decisive moments
 
-**Why this matters for us:** Sitting down is a posture many of us are very familiar with here. Sometimes, sitting comes with a feeling of limitation, of being sidelined from the "active" work of life. 
-
-But in Nehemiah's story, sitting down is the posture where the real work begins. He sat down and engaged in the hardest, most vital labor possible: intercession. If you are sitting in a chair today, grieving the struggles of your family or our world, you are in the exact same posture as one of the Bible's greatest leaders. Your room can become your Susa—a place where powerful prayers are lifted to the God of heaven.
+### Teaching Tip
+Many residents feel guilty about no longer being "active." Frame this section slowly and gently.  The ministry of intercession is not a consolation prize — it is frontline work.
 
 ### Reflection Questions
 
@@ -63,19 +81,38 @@ But in Nehemiah's story, sitting down is the posture where the real work begins.
 
 **Focus:** Nehemiah 1:5 — *"O LORD God of heaven, the great and awesome God who keeps covenant and steadfast love with those who love him and keep his commandments."*
 
-### Notes
+### Context / Setup
+- Before Nehemiah asks for anything, he **declares who God is**
+- The order matters: God's character first, then the crisis
+- Nehemiah goes on (vv.6-7) to confess Israel's sins — his prayer is not built on his own goodness
+- He appeals to God's *hesed*, not Israel's record
 
-When we are overwhelmed by bad news, our problems often seem massive and our God seems small. Nehemiah's prayer does the exact opposite. Before he asks God for anything, he spends time declaring who God is.
+### Theological Anchor
+- When problems feel massive, God feels small — until worship re-sizes reality
+- God's **covenant faithfulness** is the anchor, not Israel's obedience
+- Prayer based on *hesed* is prayer that cannot be finally defeated
+- The unbreakable love of God outlasts every broken wall
 
-First, he calls Him the "God of heaven." In a world dominated by the Persian Empire, Nehemiah reminds himself that God sits on a throne far higher than the king he serves.
+### Language Notes
+- **LORD** (Hebrew: *YHWH*) — the covenant name, Israel's God by personal disclosure
+- **great and awesome** (Hebrew: *ha-gadol wə-ha-nora*) — echoes Deuteronomy 7:21, 10:17; the language of covenant prayer
+- **steadfast love** (Hebrew: *ḥesed*) — loyal, faithful, never-giving-up love; promise-keeping love.  Cannot be translated in one English word
+- **keeps covenant** (Hebrew: *shomer ha-berit*) — a God who remembers promises across generations
 
-Then he uses two powerful words: God is "great and awesome" but He also "keeps covenant and steadfast love." The Hebrew word for this love is *hesed*—it means a loyal, faithful, never-giving-up kind of love. It’s a love that says, "I have made a promise to you, and I will not let you go."
+### Talking Points
+- Nehemiah puts the ruins on one side of the scale and God's *hesed* on the other — *hesed* tips it
+- Notice the pattern: God of heaven (sovereignty), great and awesome (power), covenant-keeping (faithfulness), *hesed* (love)
+- Prayer that starts with "God, here's my problem" stays small; prayer that starts with "God, here is who YOU are" grows big
+- The walls were in ruins; God's steadfast love was intact — that contrast is the heart of the whole book
 
-Nehemiah is taking the brokenness of his people and placing it right up against the unbreakable love of God. The walls of Jerusalem were in ruins, but the steadfast love of God was entirely intact. Nehemiah’s prayer isn't based on how good he or his people are—in fact, he goes on to confess their sins. His prayer is fully based on how good and faithful God is.
+### For Us
+- When you worry about someone, it's easy to see only the ruins — the diagnosis, the bank account, the bad decision
+- Nehemiah trains our eyes to see past the ruins to the God of heaven
+- You are not sending prayers into a void — you are appealing to *hesed*
+- God loves your family more than you do.  He has loved them longer than you have
 
-**Why this matters for us:** When you are worrying about someone you love, it’s easy to focus only on the "ruined walls"—the medical charts, the empty bank accounts, the bad decisions. Nehemiah teaches us to look past the ruins and fix our eyes on the "God of heaven." 
-
-When you pray for your children, your grandchildren, or your neighbors, you aren't sending your prayers into a void. You are appealing to a God whose steadfast love never ceases. He loves your family even more than you do.
+### Teaching Tip
+Let the word *hesed* linger.  Many residents have never heard it.  "Never-giving-up love" is a phrase that stays with people long after the study ends.
 
 ### Reflection Questions
 
@@ -88,21 +125,39 @@ When you pray for your children, your grandchildren, or your neighbors, you aren
 
 **Focus:** Nehemiah 1:11 — *"And give success to your servant today, and grant him mercy in the sight of this man.' Now I was cupbearer to the king."*
 
-### Notes
+### Context / Setup
+- One short sentence at the end of a long prayer: "Now I was cupbearer to the king"
+- Not a biographical footnote — a strategic disclosure
+- A cupbearer was a trusted advisor; he tasted wine against poison; he had daily access to the king
+- Nehemiah's "secular" job in a pagan empire is about to become the instrument of Israel's restoration
 
-At the very end of his powerful prayer, Nehemiah drops a small, seemingly casual detail: "Now I was cupbearer to the king."
+### Theological Anchor
+- God uses people **where they already are**, not where they wish they were
+- Ordinary position + intentional obedience = strategic placement
+- The division between "sacred" and "secular" work dissolves under God's providence
+- Nehemiah is not a priest or prophet — and that is precisely the point
 
-In the ancient world, a cupbearer was far more than someone who poured drinks. He was a trusted advisor, a high-ranking official who tasted the king's wine to protect him from poison, and someone who had daily, intimate access to the most powerful ruler on earth. 
+### Language Notes
+- **cupbearer** (Hebrew: *mashkeh*) — literally "one who gives drink"; far higher status than the name suggests.  In Persian courts, one of the king's most trusted officers
+- **this man** — Nehemiah will not even name the emperor in his own prayer; the King of heaven outranks the king of earth
 
-Nehemiah didn't hold a religious office. He wasn't a priest like Ezra or a prophet like Isaiah. He had a secular job in a pagan government. But he realized that God had placed him in that exact position for a reason. His access to King Artaxerxes was going to be the key to rebuilding Jerusalem's walls.
+### Talking Points
+- Nehemiah's resume looks secular.  His calling is sacred
+- The access you have is the tool God gave you
+- "Now I was cupbearer" is Nehemiah realizing *where he already was* was the plan
+- God does not ask Nehemiah to be someone else — he asks him to notice where he already is
+- Strategic placement: you are where you are *on purpose*
 
-God did not ask Nehemiah to be someone else. He didn’t ask him to have a different job. He used Nehemiah right where he was, with the resources and access he already had.
+### For Us
+- It's easy to focus on what you *used* to do or *wish* you could do
+- "Now I was a resident in this home" — that is your title today.  Not a demotion.  A strategic placement
+- You cross paths with nurses, aides, and residents carrying heavy burdens
+- You have time to pray for situations busy people forget
+- You have a lifetime of wisdom and a voice that can offer encouragement
+- Your access — your smile, your words, your prayers — is the tool God has given you
 
-**Why this matters for us:** It is so easy to look at our lives and think about what we *used* to be able to do, or what we *wish* we could do. You might think, "I'm just a resident here. What can I do?"
-
-But just like Nehemiah, God has you exactly where you are for a purpose. You may not be a cupbearer to a king, but you are a child of the King of Kings. You cross paths with nurses, aides, and other residents who are carrying heavy burdens. You have time to pray for situations that busy people forget to pray for. You have a lifetime of wisdom and a voice that can offer encouragement.
-
-"Now I was a resident in this home." That is your title today. It is not a demotion. It is a strategic placement by the God of heaven. Use the access you have—your voice, your smile, your prayers—to help rebuild the lives around you.
+### Teaching Tip
+Residents sometimes feel "parked" — this section directly addresses that.  Slow down on "strategic placement." Let the room sit with it.
 
 ### Reflection Questions
 
@@ -115,6 +170,7 @@ But just like Nehemiah, God has you exactly where you are for a purpose. You may
 
 This week, try two things:
 
-**First:** When you find yourself sitting quietly, perhaps feeling lonely or limited, remember Nehemiah. Turn your sitting into an act of intercession. Pick one person—a family member far away, or a staff member right down the hall—and bring them before the "great and awesome God" who keeps His promises. 
+- **Turn sitting into intercession.** When you sit quietly — perhaps feeling lonely or limited — remember Nehemiah.  Pick one person (a family member far away, or a staff member right down the hall) and bring them before the "great and awesome God" who keeps his promises
+- **Remind yourself of your calling.** You are not parked here waiting for time to pass.  You are strategically placed.  Smile at the person delivering your meals.  Ask an aide how their family is doing.  Offer a listening ear to the resident next to you
 
-**Second:** Remind yourself of your calling. You are not parked here waiting for time to pass. You are strategically placed. Smile at the person delivering your meals. Ask an aide how their family is doing. Offer a listening ear to the resident sitting next to you. The work of rebuilding begins with one quiet, faithful person exactly where God put them.
+The work of rebuilding begins with one quiet, faithful person exactly where God put them.

@@ -37,21 +37,40 @@ Deuteronomy 7:6-8 (for background)
 > but it is because the Lord loves you and is keeping the oath that he swore to your fathers,
 > that the Lord has brought you out with a mighty hand and redeemed you...
 
-### Notes
+### Context / Setup
+- Paul applies three **Old Testament titles for Israel** to a little Gentile church in a fading city
+- Colossae was a minor town, past its prime — much like many of the readers Paul had in mind
+- Identity comes **before** action — the gospel's invariable order
+- The clothing metaphor that follows (v.12b) only works if you already know who's doing the dressing
 
-Before Paul tells the Colossians what to *do*, he tells them who they *are*.
-This is the heart of the gospel: identity comes before action.
+### Theological Anchor
+- **Three names, three securities.** What was true of Israel is now true of the church
+- **Chosen** (*eklektos*) — not because of anything impressive; because of love (Deut 7:6-8)
+- **Holy** (*hagios*) — not "sinless" but "set apart"; the cup in the temple was holy because God said, "That one is mine"
+- **Beloved** (*ēgapēmenoi*) — a **perfect passive participle**: you *have been* loved and *remain* loved.  A settled status, not a fluctuating feeling
+- Grace: Paul does not say "be compassionate so God will love you." He says "you are beloved — now live like it"
 
-Paul uses three names for these believers — originally used for Israel in the OT:
-- **Chosen** — God chose Israel out of all nations (Deuteronomy 7:6). Now he says the same to this little church in a fading city: *you are my chosen ones.* Not because of anything impressive about them. Because of his love.
-- **Holy** — This doesn't mean "sinless."  It means "set apart."  God has claimed you as his own. A holy cup in the temple wasn't special because of the cup — it was special because God said, "That one is mine."
-- **Beloved** — The Hebrew prophets called Israel God's beloved (Deuteronomy 33:12; Hosea 11:1).  The word Paul uses is a past-tense verb: you *have been* loved, and you *remain* loved.  It's a settled fact, not a feeling that comes and goes.
+### Language Notes
+- **chosen ones** (Greek: *eklektoi*) — "elect"; the word used of Israel in the LXX
+- **holy** (Greek: *hagioi*) — set apart, claimed; not moral attainment but divine ownership
+- **beloved** (Greek: *ēgapēmenoi*) — perfect passive; "the ones who have been loved and still stand loved"
 
-Notice the order: Paul declares identity *first*, then gives commands. He doesn't say "be compassionate, and then God will love you." He says "you are beloved — now live like it." This is grace. The clothing metaphor that follows (v.12b) only makes sense if you know who's doing the dressing: a chosen, holy, beloved child of God.
+### Talking Points
+- Identity before action is the whole architecture of this passage
+- Israel's three great titles are now applied to **you**
+- "Holy" does not mean you feel holy; it means God has claimed you
+- "Beloved" is not a feeling that comes and goes — it is a settled fact in a perfect-tense verb
+- Notice the **order**: Paul could have led with the commands.  He led with who you are, because no one can live like this unless they first know who they are
 
-**Why this matters for us:** In a care facility, it's easy to feel defined by limitations — by what you can no longer do, where you can no longer go, what your body no longer allows.  The world measures worth by productivity, independence, and activity.  Paul says: your value was settled before you ever did a thing. 
-You are chosen. You are holy. You are beloved.
-That doesn't change with age, health, or address.
+### For Us
+- In a care facility, it is easy to feel defined by limitations — by what you can no longer do, by where you can no longer go
+- The world measures worth by productivity, independence, and activity
+- Paul says: your value was settled before you ever did a thing
+- **You are chosen.  You are holy.  You are beloved.**
+- That does not change with age, health, or address
+
+### Teaching Tip
+Read the three names aloud twice — once as Paul said them to the Colossians, once as you speak them directly to the room.  Many residents have not heard themselves called "chosen" in decades.
 
 ### Reflection Questions
 
@@ -67,45 +86,52 @@ That doesn't change with age, health, or address.
 
 **Focus:** Colossians 3:12b-14 — *The virtues of the new self*
 
-### Notes
+### Context / Setup
+- Clothing metaphor: *"put on"* these qualities the way you put on a garment each morning — deliberate, daily
+- Greek imperative is aorist: *do it now, completely* — but the daily habit is ongoing
+- Colossae was famous for its **textile and dyeing industry** — the city name gave us the English word for a distinctive purple dye
+- The metaphor would have landed in a congregation of textile workers like few sermons do
 
-Paul uses a clothing metaphor: *"put on"* these qualities the way you put on a garment each morning.
-This is a deliberate, daily act — not something that happens automatically.
-In the original Greek, the command is decisive: *do it now, completely.*
-But the daily practice of it is ongoing.
+### Theological Anchor
+- **Love is the overcoat** — the outer garment that holds the whole outfit together
+- Without love, the other virtues come apart like clothes without stitching
+- **Forgiveness is "graced" forgiveness** — the verb comes from *charis*
+- "As the Lord has forgiven you, so you must forgive" — the ground is Christ's grace, not the offender's merit
 
-The city of Colossae was famous for its textile and dyeing industry.
-The very name "Colossae" gave us the word for a distinctive purple dye.
-So when Paul told a congregation of textile workers to "put on" virtues, the metaphor would have hit home in a special way.
+### Language Notes
+- **put on** (Greek: *endysasthe*) — clothe yourselves; a decisive act, like getting dressed
+- **compassionate hearts** (Greek: *splanchna oiktirmou*) — literally "bowels of mercy"; gut-level empathy
+- **humility** (Greek: *tapeinophrosynē*) — a virtue *despised* by Greeks, *prized* by Christ
+- **meekness** (Greek: *prautēs*) — gentle strength under control; not weakness
+- **patience** (Greek: *makrothymia*) — literally "long-tempered"; it takes a long time for your fuse to burn
+- **forgiving** (Greek: *charizomenoi*) — from *charis* (grace); to forgive is to "grace" someone
+- **bond of perfection** (Greek: *syndesmos tēs teleiotētos*) — the ligament that binds the community into a whole
 
-Here are the garments Paul lists:
+### Talking Points
 
 | Virtue | What It Means | What It Looks Like Here |
 |--------|---------------|------------------------|
-| **Compassionate hearts** | Literally "bowels of mercy" — gut-level empathy for others' suffering | Noticing when someone at the table looks sad; asking the aide how her day is going |
-| **Kindness** | Goodness that *does something* — not just feeling kind but acting on it | A word of encouragement to a fellow resident; thanking staff by name |
+| **Compassionate hearts** | "Bowels of mercy" — gut-level empathy | Noticing when someone at the table looks sad; asking the aide how her day is going |
+| **Kindness** | Goodness that *does* something | A word of encouragement to a fellow resident; thanking staff by name |
 | **Humility** | Not thinking less of yourself, but thinking of yourself less | Letting someone else choose the TV channel; not insisting on your way |
-| **Meekness** | Strength under control — not weakness, but gentleness with power | Speaking gently when you're frustrated; not snapping when things are slow |
-| **Patience** | Literally "long-tempered" — it takes a long time for your fuse to burn | Waiting without complaining; enduring discomfort without bitterness |
+| **Meekness** | Strength under control — not weakness | Speaking gently when frustrated; not snapping when things are slow |
+| **Patience** | "Long-tempered" — slow fuse | Waiting without complaining; enduring discomfort without bitterness |
 
-Then Paul adds two relational practices:
-- **bearing with one another** (tolerating the quirks and irritations of people you live alongside)
-- **forgiving each other** (releasing real grievances — not just annoyances, but genuine offenses)
+- Then two relational practices:
+  - **bearing with one another** — tolerating the quirks of people you live alongside
+  - **forgiving each other** — releasing real grievances, not just annoyances
+- The ground of forgiveness is stunning: *"as the Lord has forgiven you"*
+- Over all these garments — the overcoat: **love**.  The ligament that binds a community into one body
 
-The ground of forgiveness is stunning: *"as the Lord has forgiven you."* The word Paul uses for "forgiving" comes from the Greek word for "grace." To forgive is literally to "grace" someone — to give them what they don't deserve, because that's exactly what Christ did for you.
+### For Us
+- In a care facility, you live in close quarters — meals, hallways, common spaces with people you didn't choose
+- Some are delightful.  Some are difficult.  That is exactly the environment Paul is describing
+- These virtues aren't for people who live alone — they're for people who live **together**
+- Compassion for the person in the next bed.  Patience with the roommate who talks too much (or too little).  Forgiveness for the family member who doesn't visit enough
+- And over it all — love, the garment that holds the whole outfit together
 
-Finally, over all these garments, Paul says: **put on love**. Love is the overcoat that holds everything together.
-Without it, the other virtues fall apart like clothes without stitching.
-Paul calls love "the bond of perfection" — the ligament that binds the community into a whole.
-
-**Why this matters for us:** In a care facility, you live in close quarters.
-You share meals, hallways, and common spaces with people you didn't choose.
-Some are delightful. Some are difficult. That's exactly the environment Paul is describing.
-These virtues aren't for people who live alone — they're for people who live *together*.
-Compassion for the person in the next bed.
-Patience with the roommate who talks too much (or too little).
-Forgiveness for the family member who doesn't visit enough.
-And over it all, love — the garment that holds the whole outfit together.
+### Teaching Tip
+Don't rush the table.  Let residents name (silently) which garment they most need today.  The table becomes a mirror.
 
 ### Reflection Questions
 
@@ -119,62 +145,54 @@ And over it all, love — the garment that holds the whole outfit together.
 
 **Focus:** Colossians 3:15-16 — *Peace as umpire, the word as resident, singing as ministry*
 
-### Notes
+### Context / Setup
+- Three controlling images: **the Umpire, the Resident, the Song**
+- Thanksgiving appears **three times** in three verses — Paul hammers the point
+- Peace, word, and song are mutual — "one another" appears twice
+- Paul is describing what happens when a community, not just an individual, lives clothed in grace
 
-**The Umpire (v.15).** The word translated "rule" is a surprise.
-In Greek it's *brabeueto* — and it comes from the world of athletics.
-A *brabeus* was the umpire at the Greek games: the official who settled disputes, ensured fair play, and made the final call.
-Paul is saying: *Let the peace of Christ be the umpire of your heart.*
-When competing feelings battle inside you — fear vs. trust, resentment vs. forgiveness, anxiety vs. rest — let Christ's peace make the call.
-The umpire's decision is final.
+### Theological Anchor
+- **Peace of Christ settles the contests inside you** — an active authority, not passive calm
+- **The word of Christ takes up permanent residence** — not a weekend guest
+- **Singing is mutual teaching** — every hymn you sing teaches the person beside you
+- **Gratitude is the atmosphere** of the Christian life, not a polite extra
 
-This is not a passive, sleepy kind of peace.
-It's an active, authoritative presence that settles the contests within us.
-When health worries crowd in, when loneliness shouts, when old regrets resurface — the peace of Christ steps in and says, "I have the final word here."
+### Language Notes
+- **rule** (Greek: *brabeuetō*) — act as **umpire**; from *brabeus*, the official at the Greek games who settled disputes and made the final call
+- **dwell** (Greek: *enoikeitō*) — take up permanent residence; move in and unpack
+- **richly** (Greek: *plousiōs*) — abundantly, lavishly; not sparingly
+- **teaching / admonishing** (Greek: *didaskontes / nouthetountes*) — formation + loving correction
 
-Paul adds: "you were called in one body."
-Peace is not just personal; it's communal.
-When this group gathers, Christ's peace is meant to govern how you treat each other, how you handle disagreements, and how you respond to difficult days.
+### Talking Points
 
-And then, almost as a footnote: *"And be thankful."*
-This is the first of three times Paul mentions thanksgiving in three verses.
-Gratitude is not a nice extra — it's the atmosphere of the Christian life.
+**The Umpire (v.15).**
+- The umpire (*brabeuetō*) makes the final call — no appeal
+- When competing feelings battle inside you — fear vs. trust, resentment vs. forgiveness, anxiety vs. rest — let Christ's peace call the play
+- Peace is not sleepy; it is authoritative
+- "Called in one body" — peace is communal, not only personal
+- First thanksgiving arrives as a footnote — and then the footnote becomes the theme
 
 **The Resident (v.16).**
-"Let the word of Christ dwell in you richly."
-The Greek word for "dwell" means to *take up permanent residence* — to move in and unpack.
-The word of Christ is not supposed to be a weekend guest who visits briefly and leaves.
-It is meant to settle in, fill every room, become part of the furniture of your life.
-And the word "richly" means *abundantly, lavishly* — not a thin acquaintance with Scripture but a deep, overflowing saturation.
+- "Dwell" = take up **permanent residence**; move in and stay
+- "Richly" = lavishly, not thinly
+- Three mutual practices:
+  - teaching one another (sharing what you know)
+  - admonishing one another (lovingly correcting when needed)
+  - singing psalms, hymns, spiritual songs
+- When you hum a hymn in the hallway, you are teaching
+- Paul did not say "sing well" — he said *sing*
 
-How does this happen? Paul gives three ways:
-- **teaching one another** (sharing what you know)
-- **admonishing one another** (lovingly correcting when needed)
-- **singing psalms, hymns, and spiritual songs**
+### For Us
+- You may not be able to attend church on Sunday.  But church can come to you
+- When this group reads Scripture together, the word of Christ is dwelling richly
+- When you sing — even if your voice cracks, even if you only mouth the words — you are teaching and encouraging the person next to you.  God is not grading pitch; he is delighting in praise
+- Many of you face daily anxieties younger people do not understand — health fears, diminishing independence, the loss of friends and spouses, the long quiet hours
+- When anxiety steps up to bat, peace makes the call: *"Not today.  Christ is here"*
 
-Notice: all three are *mutual* — "one another."
-This is not just the pastor's job.
-When you share a Scripture with a friend over lunch, you are letting the word dwell richly.
-When you hum a hymn in the hallway, you are teaching.
-When you gently remind a fellow believer of God's faithfulness, you are admonishing in wisdom.
+### Teaching Tip
+Consider ending this section with a well-known hymn, even a single verse.  The word of Christ dwells through song in residents for whom prose reading has become hard.
 
-The second thanksgiving appears here: "with thankfulness in your hearts to God."
-Singing and gratitude are inseparable.
-Even a weak voice lifted in thanks is worship.
-
-**Why this matters for us:**
-You may not be able to attend church on Sunday.
-But church can come to you.
-When this group gathers and reads Scripture together, the word of Christ is dwelling richly.
-When you sing a hymn — even if your voice cracks, even if you can only mouth the words — you are teaching and encouraging the person next to you.
-Paul didn't say "sing *well*."  He said *sing*.
-God is not grading your pitch.  He is delighting in your praise.
-
-And peace: many of you face daily anxieties that younger people don't understand — health fears, diminishing independence, the loss of friends and spouses, the long quiet hours.
-Let the peace of Christ be the umpire.
-When anxiety steps up to bat, peace makes the call: *"Not today. Christ is here."*
-
-### Discussion Questions
+### Reflection Questions
 
 1. Paul says the peace of Christ should "umpire" our hearts.  What is one area of your life right now where you need Christ's peace to step in and make the final call?
 
@@ -182,53 +200,48 @@ When anxiety steps up to bat, peace makes the call: *"Not today. Christ is here.
 
 ---
 
-## Session 4: How You Do It
+## Section 4: How You Do It
 
 **Focus:** Colossians 3:17 — *Whatever you do, in the name of Jesus, with thanks to the Father*
 
-### Notes
+### Context / Setup
+- One of the most **sweeping** statements in all of Paul's letters
+- Three totalizing words: *whatever... everything... word or deed*
+- No escape clause.  No fine print.  No category of life excluded
+- Thanksgiving appears for the **third** time — the heartbeat of the passage
 
-This single verse is one of the most sweeping statements in all of Paul's letters.
-Three words press the point: *whatever... everything... in word or deed.*
-There is no escape clause. No fine print. No category of life excluded.
+### Theological Anchor
+- To do something "in the name of" someone = to act **under their authority, as their representative, for their honor**
+- Trinitarian shape: thanks to the **Father**, through the **Son**, enabled (implicitly) by the **Spirit**
+- Gratitude is the evidence that grace has been grasped
+- The last garment Paul places on the believer is **not a hero's cape but a posture of thanks**
 
-"In the name of the Lord Jesus" does not mean mumbling "in Jesus' name" before every action like a magic formula.
-In the ancient world, to do something "in the name of" someone meant to act *under their authority, as their representative, for their honor.*
-It's like a diplomat who acts "in the name of" her country — everything she says and does reflects on the one who sent her.
+### Language Notes
+- **in the name of** (Greek: *en onomati*) — under the authority of, as a representative of
+- **giving thanks** (Greek: *eucharistountes*) — the root of "Eucharist"; the grateful heart of the believing community
 
-Paul is saying: you represent Jesus.
-In the dining hall. In the hallway. On the phone. In the way you speak to staff. In the way you handle pain. In the way you receive help. In the way you pray for your grandchildren.
-All of it — *in the name of the Lord Jesus.*
+### Talking Points
+- "Whatever you do" is as wide as it sounds — no category exempt
+- "In the name of" is not a magic formula.  It is diplomatic language — you act for Jesus, under his authority, as his representative
+- Parallel with Eph 5:18-20: "filled with the Spirit" and "let the word of Christ dwell richly" produce the same fruit
+- Father + Son (+ Spirit) — all present, all active in the simplest moments of your day
 
-And for the third time: *"giving thanks to God the Father through him."*
-Thanksgiving bookends the entire second half of this passage.
-It is not an afterthought. It is the heartbeat.
-Gratitude is the evidence that you have grasped grace.
+### For Us
+- The world tells elderly shut-ins their productive years are behind them.  Paul says the opposite
+- **Whatever you do.** That includes:
+  - Eating breakfast — in the name of Jesus
+  - Receiving help getting dressed — in the name of Jesus
+  - Praying for a grandson who has wandered from the faith — in the name of Jesus
+  - Saying a kind word to the nurse who is having a hard day — in the name of Jesus
+  - Sitting quietly with a roommate who is dying — in the name of Jesus
+  - Enduring pain without cursing — in the name of Jesus
+  - Smiling at a visitor — in the name of Jesus
+- There is no such thing as a small act done in the name of Jesus
+- Moses held up his hands while Israel fought the battle (Exodus 17:11-12).  The intercessor on the bed may be holding up hands that change the course of the war
+- The final word is **thanks** — not accomplishment, not productivity, not impact metrics
 
-Notice the Trinitarian shape of this closing:
-thanks to **God the Father**, through **the Lord Jesus** (the Son), and — though not named explicitly — in the power of the Spirit who enables all of it (see the parallel in Ephesians 5:18-20, where "be filled with the Spirit" produces the same results as "let the word of Christ dwell in you richly").
-Father, Son, and Spirit — all present, all active in the simplest moments of your day.
-
-**Why this matters for us:**
-The world tells elderly shut-ins that their productive years are behind them.
-That they are "retired" from meaningful contribution.
-That the real action is elsewhere.
-
-Paul says the opposite. *Whatever you do.* That includes:
-
-- Eating breakfast — in the name of Jesus
-- Receiving help getting dressed — in the name of Jesus
-- Praying for a grandson who has wandered from the faith — in the name of Jesus
-- Saying a kind word to the nurse who is having a hard day — in the name of Jesus
-- Sitting quietly with a roommate who is dying — in the name of Jesus
-- Enduring pain without cursing — in the name of Jesus
-- Smiling at a visitor — in the name of Jesus
-
-There is no such thing as a small act done in the name of Jesus.
-A shut-in who prays faithfully may be doing the most important work in their family, their church, their city. Moses held up his hands while Israel fought the battle (Exodus 17:11-12). The intercessor on the bed may be holding up hands that change the course of the war.
-
-And the final word is *thanks*. Not accomplishment. Not productivity. Not impact metrics. Thanks.
-The last garment Paul places on the believer is not a cape of heroism but a posture of gratitude — the simplest, most profound act a human being can perform.
+### Teaching Tip
+Invite the room to pick one ordinary action from tomorrow morning — the first bite of food, the first call button — and silently name it "in the name of the Lord Jesus." Small practice; large theology.
 
 ### Reflection Questions
 
@@ -236,15 +249,20 @@ The last garment Paul places on the believer is not a cape of heroism but a post
 
 2. Looking back over the whole passage (vv.12-17), what is one thing God has impressed on your heart through this study?  What will you carry with you?
 
+---
+
 ### For Reflection
 
-This week, each morning when you wake up, before your feet touch the floor (or before you reach for the call button), say these words quietly: *"I am chosen. I am holy. I am beloved."* That is how God sees you.
+This week, each morning when you wake up — before your feet touch the floor (or before you reach for the call button) — say these words quietly:
 
-This week, when worry or sadness knocks on the door of your heart, try this: hum or whisper a line from a favorite hymn. Let the old, familiar words do their work. The word of Christ has been dwelling in you for decades through those songs — let it come to the surface when you need it most.
+*"I am chosen.  I am holy.  I am beloved."*
 
-The passage began with who you are: *chosen, holy, beloved.* It ends with what you do: *everything, in the name of the Lord Jesus, with thanksgiving.* Between those bookends is your whole life — every relationship, every word, every quiet moment. None of it is wasted. All of it matters.
+That is how God sees you.
 
-This week, try the "name of Jesus" test with one small daily action. When you eat your next meal, pause and say (silently or aloud): *"I receive this food in the name of the Lord Jesus. Thank you, Father."* See if it changes the taste.
+- **When worry or sadness knocks on the door of your heart,** hum or whisper a line from a favorite hymn.  Let the old, familiar words do their work.  The word of Christ has been dwelling in you for decades through those songs — let it come to the surface when you need it most
+- **Try the "name of Jesus" test with one small daily action.** At your next meal, pause and say (silently or aloud): *"I receive this food in the name of the Lord Jesus.  Thank you, Father."* See if it changes the taste
+
+The passage began with who you are: *chosen, holy, beloved.* It ends with what you do: *everything, in the name of the Lord Jesus, with thanksgiving.* Between those bookends is your whole life — every relationship, every word, every quiet moment.  None of it is wasted.  All of it matters.
 
 ---
 
