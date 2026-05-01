@@ -1,12 +1,24 @@
 # By My Spirit
+#### handout
 
 ## A Group Study on Zechariah 4:1-14
 
-> "I see, and behold, a lampstand all of gold, with a bowl on the top of it, and seven lamps on it... And there are two olive trees by it..."
+> Then the angel who had been talking with me returned and woke me, as though I had been asleep.  “What do you see now?” he asked.
+> I answered, “I see a solid gold lampstand with a bowl of oil on top of it.  Around the bowl are seven lamps, each having seven spouts with wicks.
+> And I see two olive trees, one on each side of the bowl.”
+> Then I asked the angel, “What are these, my lord? What do they mean?”
+> “Don’t you know?” the angel asked.  “No, my lord,” I replied.
+> Then he said to me, “This is what the LORD says to Zerubbabel: It is not by force nor by strength, but by my Spirit, says the LORD of Heaven’s Armies.
+> Nothing, not even a mighty mountain, will stand in Zerubbabel’s way; it will become a level plain before him! And when Zerubbabel sets the final stone of the Temple in place, the people will shout: ‘May God bless it! May God bless it!’”
+> Then another message came to me from the LORD:
+> “Zerubbabel is the one who laid the foundation of this Temple, and he will complete it.  Then you will know that the LORD of Heaven’s Armies has sent me.
+> Do not despise these small beginnings, for the LORD rejoices to see the work begin, to see the plumb line in Zerubbabel’s hand.”  (The seven lamps represent the eyes of the LORD that search all around the world.)
+> Then I asked the angel, “What are these two olive trees on each side of the lampstand,
+> and what are the two olive branches that pour out golden oil through two gold tubes?”
+> “Don’t you know?” he asked.  “No, my lord,” I replied.
+> Then he said to me, “They represent the two anointed ones who stand in the court of the Lord of all the earth.”
 >
-> "Not by might, nor by power, but by my Spirit, says the LORD of hosts. Who are you, O great mountain? Before Zerubbabel you shall become a plain. And he shall bring forward the top stone amid shouts of 'Grace, grace to it!'"
->
-> *(Selected from Zechariah 4:1-7, ESV)*
+> *(Zechariah 4:1-14, NLT)*
 
 *A note about Zechariah:* He was a young prophet who served the discouraged remnant who came back from exile to rebuild the temple. The work had stalled for 16 years. The people felt small, tired, and surrounded by mountains they could not move. Into that weariness, God gave Zechariah a vision of a golden lampstand fed by two olive trees — and one of the most quoted promises in the Old Testament: *"Not by might, nor by power, but by my Spirit."*
 

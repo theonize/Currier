@@ -1,12 +1,27 @@
 # By My Spirit
+#### study
 
 ## A Group Study on Zechariah 4:1-14
 
-> And the angel who talked with me came again and woke me, like a man who is awakened out of his sleep. And he said to me, "What do you see?" I said, "I see, and behold, a lampstand all of gold, with a bowl on the top of it, and seven lamps on it... And there are two olive trees by it, one on the right of the bowl and the other on its left."
+> And the angel who talked with me came again and woke me, like a man who is awakened out of his sleep.
+> And he said to me, “What do you see?” I said, “I see, and behold, a lampstand all of gold, with a bowl on the top of it, and seven lamps on it, with seven lips on each of the lamps that are on the top of it.
+> And there are two olive trees by it, one on the right of the bowl and the other on its left.”
+> And I said to the angel who talked with me, “What are these, my lord?”
+> Then the angel who talked with me answered and said to me, “Do you not know what these are?” I said, “No, my lord.”
+> Then he said to me, “This is the word of the LORD to Zerubbabel: Not by might, nor by power, but by my Spirit, says the LORD of hosts.
+> Who are you, O great mountain? Before Zerubbabel you shall become a plain. And he shall bring forward the top stone amid shouts of ‘Grace, grace to it!’”
 >
-> Then he said to me, "This is the word of the LORD to Zerubbabel: Not by might, nor by power, but by my Spirit, says the LORD of hosts. Who are you, O great mountain? Before Zerubbabel you shall become a plain. And he shall bring forward the top stone amid shouts of 'Grace, grace to it!'"
+> Then the word of the LORD came to me, saying,
+> “The hands of Zerubbabel have laid the foundation of this house; his hands shall also complete it.  Then you will know that the LORD of hosts has sent me to you.
+> For whoever has despised the day of small things shall rejoice, and shall see the plumb line in the hand of Zerubbabel.
 >
-> *(Selected from Zechariah 4:1-7, ESV)*
+> “These seven are the eyes of the LORD, which range through the whole earth.”
+> Then I said to him, “What are these two olive trees on the right and the left of the lampstand?”
+> And a second time I answered and said to him, “What are these two branches of the olive trees, which are beside the two golden pipes from which the golden oil is poured out?”
+> He said to me, “Do you not know what these are?” I said, “No, my lord.”
+> Then he said, “These are the two anointed ones who stand by the Lord of the whole earth.”
+>
+> *(Zechariah 4:1-14, NLT)*
 
 ---
 
@@ -24,15 +39,15 @@
 
 ### Introduction
 
-Zechariah was a young priest-prophet who served alongside Zerubbabel — the Davidic governor — when the second temple project was barely a stalled foundation in a pile of rubble. The first wave of exiles had returned home with songs in their mouths and tools in their hands, ready to rebuild. Then opposition came. Bureaucratic, political, and personal opposition. The work stopped. Sixteen years passed.
+Zechariah was a young priest-prophet who served alongside Zerubbabel — the Davidic governor — when the second temple project was barely a stalled foundation in a pile of rubble.  The first wave of exiles had returned home with songs in their mouths and tools in their hands, ready to rebuild.  Then opposition came.  Bureaucratic, political, and personal opposition.  The work stopped. Sixteen years passed.
 
-By the time the construction finally resumed under Haggai's preaching, the people were tired, poor, and small. The new temple foundation looked nothing like the old one Solomon had built. Older men who remembered the original temple wept when they saw the new one (Ezra 3:12). Onlookers scoffed. The whole project felt like a "day of small things."
+By the time the construction finally resumed under Haggai's preaching, the people were tired, poor, and small.  The new temple foundation looked nothing like the old one Solomon had built.  Older men who remembered the original temple wept when they saw the new one (Ezra 3:12).  Onlookers scoffed.  The whole project felt like a "day of small things."
 
-Into that exhaustion God gave Zechariah eight night-visions. The fifth one — our chapter — is a strange and beautiful picture: a golden lampstand, two olive trees flanking it, oil flowing through golden pipes from the trees into the lamp's bowl. No human hand pouring oil. No fuel ever running out. Just the quiet, perpetual flow of supply that keeps the lamp burning.
+Into that exhaustion God gave Zechariah eight night-visions.  The fifth one — our chapter — is a strange and beautiful picture: a golden lampstand, two olive trees flanking it, oil flowing through golden pipes from the trees into the lamp's bowl.  No human hand pouring oil.  No fuel ever running out.  Just the quiet, perpetual flow of supply that keeps the lamp burning.
 
 And then, in the middle of the vision, a sentence that has lit up tired believers ever since: **"Not by might, nor by power, but by my Spirit, says the LORD of hosts."**
 
-Many of you know what it is to feel small. To feel passed over. To watch the great work of your life — your family, your career, your church — and wonder if it will ever be finished. To stare at a "great mountain" of obstacles you no longer have the strength to move. This study is for you. It says: the Lamp does not run on your strength. It runs on His Spirit. And the mountains that look immovable to you have an appointment with Grace.
+Many of you know what it is to feel small.  To feel passed over.  To watch the great work of your life — your family, your career, your church — and wonder if it will ever be finished.  To stare at a "great mountain" of obstacles you no longer have the strength to move.   This study is for you. It says: the Lamp does not run on your strength. It runs on His Spirit. And the mountains that look immovable to you have an appointment with Grace.
 
 ---
 
@@ -41,7 +56,7 @@ Many of you know what it is to feel small. To feel passed over. To watch the gre
 **Focus:** Zechariah 4:2-3, 11-14 — *"I see, and behold, a lampstand all of gold, with a bowl on the top of it, and seven lamps on it... And there are two olive trees by it... These are the two anointed ones who stand by the Lord of the whole earth."*
 
 ### Context / Setup
-- The lampstand (Hebrew: *menorah*) was the centerpiece of light in the tabernacle and temple — a stylized gold tree with seven branches
+- The lampstand (Hebrew: *menorah*) was the centerpiece of light in the tabernacle and temple — a stylized gold tree with seven branches, beaten from a single piece of gold, with a bowl on top to hold the oil and seven lamps with "lips" to catch the dripping oil
 - In the original tabernacle, priests had to refill the oil daily by hand; here, the oil flows automatically from two olive trees through golden pipes
 - This is a vision of a self-replenishing lamp — light that never runs out because the supply comes from outside the lamp itself
 - The two olive trees are identified in v.14 as "the two anointed ones" — the high priest Joshua and the governor Zerubbabel — whose offices feed the community's witness
@@ -67,18 +82,15 @@ Many of you know what it is to feel small. To feel passed over. To watch the gre
 
 ### For Us
 - A lamp does not have to be strong to burn — it only has to be connected to the oil
-- You may feel like your "wick" is small, your light is small, your strength is small. The text says: light does not depend on the size of the wick. It depends on the supply
-- "Sons of the oil" is a beautiful identity for a season of life when you cannot do much. You are not a *generator*; you are a *conduit*
-- The most faithful Christians I have known were not the busiest ones. They were the most *connected* ones — the ones whose lamps burned quietly, fed by Spirit they did not manufacture
-- A nursing-home room with a Bible, a prayer-life, and a witness is a lampstand in this generation's temple
-
-### Teaching Tip
-Spend extra time on the *supply* side of the lamp. Many residents feel that because they cannot "do" much, they cannot "be" much. The lamp image is a gentle reframe: their job is not to produce light but to receive oil. Let the room sit with the phrase "sons of the oil." Repeat it. It is a phrase that reorients people who feel they have nothing left to give.
+- You may feel like your "wick" is small, your light is small, your strength is small.  The text says: light does not depend on the size of the wick.  It depends on the supply
+- "Sons of the oil" is a beautiful identity for a season of life when you cannot do much.  **You are not a _generator_; you are a _conduit_**
+- The most faithful Christians were not the busiest ones.  They were the most *connected* ones — the ones whose lamps burned quietly, fed by Spirit they did not manufacture
+- A room with a Bible, a prayer-life, and a witness is a lampstand in this generation's temple
 
 ### Reflection Questions
 
-1. When you think about your spiritual life, do you tend to picture yourself as a *battery* (with a limited charge) or as a *lamp* (continuously fed by oil)? How does that picture change how you live today?
-2. Who are the "olive trees" — the people through whom God has poured His Spirit into your life? Pastors, parents, friends? Take a moment to thank God for them.
+1. When you think about your spiritual life, do you tend to picture yourself as a *battery* (with a limited charge) or as a *lamp* (continuously fed by oil)?  How does that picture change how you live today?
+2. Who are the "olive trees" — the people through whom God has poured His Spirit into your life?  Pastors, parents, friends? Take a moment to thank God for them.
 
 ---
 
@@ -110,18 +122,15 @@ Spend extra time on the *supply* side of the lamp. Many residents feel that beca
 - "The LORD *of hosts*" — God names Himself the commander of armies in the very moment He says "not by armies"
 - This is not "do your best and pray for the rest" — this is "stop relying on what you can muster and rely on what *I* supply"
 - The "Spirit" who finished the temple is the same Spirit who was poured out at Pentecost, the same Spirit who indwells believers today
-- Notice who the verse is addressed to: a *governor* (a man with worldly responsibilities), not just a priest. The Spirit is the resource for ordinary callings too
+- Notice who the verse is addressed to: a *governor* (a man with worldly responsibilities), not just a priest.  The Spirit is the resource for ordinary callings too
 
 ### For Us
 - Many of you spent your lives relying on *ḥayil* and *kōaḥ* — strong arms, strong minds, strong wills
-- The body slows down. Memory thins. The world calls this loss
+- The body slows down.  Memory thins.  The world calls this loss
 - But the Bible whispers something the world misses: the diminishment of *kōaḥ* is not the end of usefulness — it is sometimes the *beginning* of relying fully on *rûaḥ*
-- The most powerful prayers in this building are sometimes prayed by those least able to "do" anything
+- The most powerful prayers are sometimes prayed by those least able to "do" anything
 - "Not by might" is not just a verse for big projects — it is a verse for every season when our resources fail
-- The Spirit who built the temple in 515 BC and built the church at Pentecost is the same Spirit available to you in your room tonight
-
-### Teaching Tip
-Some residents have spent decades being *capable* people, and they grieve the loss of capability. This section is balm for that grief. Be slow and tender. Resist the urge to make this about activity. The verse is about *source*, not *output*. When residents say "but I can't do anything anymore," respond gently: "Zerubbabel couldn't either. That's the point of the verse."
+- The Spirit who built the temple in 515 BC and built the church at Pentecost is the same Spirit available to you now
 
 ### Reflection Questions
 
@@ -132,7 +141,7 @@ Some residents have spent decades being *capable* people, and they grieve the lo
 
 ## Section 3: The Mountain Becomes a Plain
 
-**Focus:** Zechariah 4:7 — *"Who are you, O great mountain? Before Zerubbabel you shall become a plain. And he shall bring forward the top stone amid shouts of 'Grace, grace to it!'"*
+**Focus:** Zechariah 4:7 — *"Who are you, O great mountain? Before Zerubbabel you shall become a plain.  And he shall bring forward the top stone amid shouts of 'Grace, grace to it!'"*
 
 ### Context / Setup
 - A "great mountain" stood in front of Zerubbabel — political opposition, bureaucratic obstruction, economic hardship, discouraged workers
@@ -157,7 +166,7 @@ Some residents have spent decades being *capable* people, and they grieve the lo
 - This anticipates Jesus' words: "If you have faith… you will say to this mountain, 'Move,' and it will move" (Matt 17:20)
 - The mountain is *addressed*, not negotiated with — "Who are you, O great mountain?" is a small question for a big mountain
 - The capstone goes up to a shout of "Grace, grace!" — the *finishing* of God's work is grace, not effort
-- Notice the order: mountain becomes plain *first*; then capstone goes up *second*. God removes the obstacle before He completes the work
+- Notice the order: mountain becomes plain *first*; then capstone goes up *second*.  God removes the obstacle before He completes the work
 - The same pattern applies to every "mountain" in our lives — diagnosis, family fracture, financial worry, fear of dying — these are addressed by the Lord of hosts, not just by us
 
 ### For Us
@@ -167,13 +176,10 @@ Some residents have spent decades being *capable* people, and they grieve the lo
   - A marriage long ended?  
   - A grief that won't lift?  
   - A fear of what comes next?  
-- Zechariah 4 invites you to *speak to the mountain*. Not in your own name — but in the name of the Lord of hosts
+- Zechariah 4 invites you to *speak to the mountain*.  Not in your own name — but in the name of the Lord of hosts
 - "Who are you, O great mountain?" is a question of faith spoken to fear
 - And when the mountain finally becomes a plain — when the diagnosis is healed, the prodigal returns, the prayer is answered, the death gives way to resurrection — the cry will not be "Look what I did!" but "Grace, grace!"
 - The whole story of the Christian life ends with "Grace, grace!" because the whole story was grace from beginning to end
-
-### Teaching Tip
-This is the most emotionally intense section. Some residents are facing literal mountains right now. Slow down. Acknowledge their mountains by name, gently. The text does not promise the mountain will be flattened on *our* timeline — it promises it will be flattened on *His*. For Christians, every mountain is finally flattened, even if not in this life. The capstone may go up after the casket goes down. Either way, "Grace, grace!" is the cry.
 
 ### Reflection Questions
 
