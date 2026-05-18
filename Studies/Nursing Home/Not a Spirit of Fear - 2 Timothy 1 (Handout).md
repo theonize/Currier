@@ -1,6 +1,4 @@
-# Not a Spirit of Fear
-
-## A Group Study on 2 Timothy 1:1-14
+# Not a Spirit of Fear — A Group Study on 2 Timothy 1:1-14
 
 > Paul, an apostle of Christ Jesus by the will of God according to the promise of the life that is in Christ Jesus,
 > To Timothy, my beloved child: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
