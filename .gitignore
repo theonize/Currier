@@ -79,3 +79,5 @@ jspm_packages
 *.~vsdx
 
 *.pdf
+
+skidl.*
