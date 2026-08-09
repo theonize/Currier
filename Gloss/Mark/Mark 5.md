@@ -11,9 +11,12 @@ However, the unregenerated are able to be captured by them: [2Tim 2:26]
 
 The demoniac needed recreation, not reformation.
 
+Jairus, as a patriarch, had every right to press to the head of the throng- but when he gets there he kneels before God.
+
 
 30) Who touched my garments?
 Jesus calls for the woman's testimony.
+He also knows that many are reading for His garments but only one, the bleeding woman, is reaching fo His power.
 
 
 34) _Daughter_ ~ what a pronouncement!
