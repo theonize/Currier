@@ -25,7 +25,11 @@ This also reveals some about the thrust of the letter.
 
 48) Jesus left no footprints here :P
 
+"The fourth watch" ~ they divided night (6am-6pm) into four watches so was around 4am.  The sun is coming but that yields temperature situations and, this, a slight worsening of weather.
+
+50) _ego eimi_ ~ I Am
 
 51) When He got into the boat the storm ceased
 
-52) The apostles participated in the miracle and were still hardened and misunderstanding.
+52) The apostles participated in the miracle and were still hardened and not seeing/understanding the power of God. 
+
