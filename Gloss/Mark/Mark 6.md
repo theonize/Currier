@@ -31,5 +31,5 @@ This also reveals some about the thrust of the letter.
 
 51) When He got into the boat the storm ceased
 
-52) The apostles participated in the miracle and were still hardened and not seeing/understanding the power of God. 
+52) The apostles participated in the miracle and were still hardened and not seeing/understanding the power of God.  When they saw Him they thought Him a ghost because they did not the providential chain of events they were within.
 
