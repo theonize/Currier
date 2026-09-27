@@ -31,4 +31,6 @@ Jesus heals a blind man with a Word.
 	v.51: _Rabbi_ = personal title
 * Bartimaeus had two needs: health and wealth
 
+* as soon as Bartimaeus could see he followed Jesus
+
 
