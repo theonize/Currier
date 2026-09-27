@@ -18,6 +18,15 @@ Paradoxes herein:
 	Wealth is wonderful servant, but a terrible master
 
 
+35)
+James & John (of Zebedee) request places of honor. 
+- the request acknowledges Jesus lordship 
+
+
 46) Bartimaeus
+Jesus heals a blind man with a Word.
+- Bartimaeus had two needs: health and wealth
+- His approach to Jesus is a stark contrast with how the disciples approached the Lord
+
 	v.47: _Son of David_ = nationalistic title
 	v.51: _Rabbi_ = personal title
