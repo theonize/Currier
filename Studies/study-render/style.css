@@ -141,3 +141,12 @@ th {
 tr {
   page-break-inside: avoid;
 }
+
+h4 {
+  font-size: 1em;
+  font-weight: 700;
+  margin: 2pt 0 0 0;
+  line-height: 1.2;
+  page-break-after: avoid;
+  page-break-inside: avoid;
+}

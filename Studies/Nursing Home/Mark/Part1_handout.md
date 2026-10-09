@@ -24,9 +24,9 @@
 
 ## Overview
 
-Mark's Gospel has no Christmas story and no family tree. It opens with a headline and goes straight to the Jordan River, where the apostles' preaching about Jesus began (Acts 10:37). Early tradition says Mark wrote down what Peter preached, for believers in Rome who were facing hard times.
+Mark's Gospel has no Christmas story and no family tree. It opens with a headline and goes straight to the Jordan River, where the apostles' preaching about Jesus began (Acts 10:37). Early tradition says Mark wrote down what Peter preached, for believers in Rome facing hard times.
 
-John the Baptist is the only person we see in these verses, yet the passage is about Jesus. God speaks first, through promises made centuries earlier. Then John appears in the wilderness, dressed like the prophet Elijah, calling people to turn back to God and confess their sins. Crowds walk miles to hear him. Then John points away from himself to someone far greater who is coming.
+John the Baptist is the only person we see here, yet the passage is about Jesus. God speaks first, through promises made centuries earlier. Then John appears in the wilderness, dressed like Elijah, calling people to turn back to God and pointing to someone far greater.
 
 **Big idea:** God keeps his written promise: the Elijah-like messenger calls God's people to repent and confess, then points away from himself to the mightier one, Jesus, who will baptize in the Holy Spirit.
 
@@ -55,19 +55,18 @@ John the Baptist is the only person we see in these verses, yet the passage is a
 ### 1. The headline (v.1)
 
 #### v.1
-- "Good News" is Isaiah's word for the herald who announced, "Behold, your God!" (Isaiah 40:9). Rome used the same word for news about the emperor. Mark says the real good news is a person: Jesus.
+- "Good News" is Isaiah's word for the herald who announced, "Behold, your God!" (Isaiah 40:9). Mark says the real good news is a person: Jesus.
 - "Christ" means "anointed one," the promised King from David's line.
 - Mark tells us at the start what the people in the story will be slow to see: Jesus is the Son of God (compare Mark 15:39).
 
 ### 2. The promise (vv.2-3)
 
 #### v.2
-- "As it is written" means "it stands written." God's word is still in force. The story starts with God's promise.
-- Mark weaves together Exodus 23:20, Malachi 3:1 and Isaiah 40:3. God said he would send a messenger, and now he has.
+- "As it is written" means "it stands written": God's word is still in force. Mark weaves together Exodus 23:20, Malachi 3:1 and Isaiah 40:3. God said he would send a messenger, and now he has.
 - The first speaker in Mark's Gospel is God: "Behold, I send." He moves toward us before we seek him.
 
 #### v.3
-- Before a king arrived, workers filled in valleys and cleared the road. John's work was to get people ready for the King.
+- Before a king arrived, the road was cleared. John's work was to get people ready for the King.
 - In Isaiah, "the Lord" is God himself. Mark applies the verse to Jesus, and most readers see the point: in Jesus, God himself is coming.
 - Isaiah 40 begins, "Comfort, comfort my people" and announces pardon (Isaiah 40:1-2). The voice in the wilderness is, at heart, a voice of comfort.
 
@@ -80,22 +79,20 @@ John the Baptist is the only person we see in these verses, yet the passage is a
 #### v.5
 - From Jerusalem it was a walk of about 20 miles, down a steep and dangerous road. Coming took real commitment.
 - They were "confessing their sins," naming them out loud, not just feeling bad in general.
-- Each person confessed, yet a whole region came together. Repentance is personal and shared.
 
 #### v.6
-- John's camel's hair and leather belt recall the prophet Elijah. The words about the belt repeat Elijah's description almost word for word (2 Kings 1:8). God had promised to send Elijah before the day of the Lord (Malachi 4:5).
+- John's camel's hair and leather belt recall the prophet Elijah. The belt is described in almost the same words as Elijah's (2 Kings 1:8). God had promised to send Elijah before the day of the Lord (Malachi 4:5).
 - Locusts and wild honey were wilderness food, gathered rather than grown. The point is who John is, not a diet for us to copy.
 
 ### 4. The pointer (vv.7-8)
 
 #### v.7
 - "Mightier" echoes Isaiah 40:10: "the Lord comes with strength."
-- Untying sandals was a slave's job. John, famous across the land, says he is not fit even for that.
+- Untying sandals was a slave's job, yet famous John says he is not fit even for that.
 - This is not low self-worth but honest humility: "He must increase, but I must decrease" (John 3:30).
 
 #### v.8
-- In the prophets, only God pours out his Spirit (Ezekiel 36:27; Joel 2:28). Jesus will do what only God can do.
-- John could give the sign, water. Only Jesus gives the reality, new life by the Spirit.
+- In the prophets, only God pours out his Spirit (Ezekiel 36:27; Joel 2:28). John could give the sign, water; only Jesus gives the reality.
 - Jesus first receives the Spirit (Mark 1:10). At Pentecost he pours out the promised Spirit on his people (Acts 2:33).
 
 ---
