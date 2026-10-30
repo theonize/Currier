@@ -153,3 +153,22 @@ h4 {
   page-break-after: avoid;
   page-break-inside: avoid;
 }
+
+/* Two-column Info section: wrap it in <div class="info-columns">. */
+.info-columns {
+  column-count: 2;
+  column-gap: 0.2in;
+  column-rule: 0.5pt solid #cfcfcf;
+}
+
+.info-columns h3:first-child {
+  margin-top: 0;
+}
+
+.info-columns ul {
+  padding-left: 11pt;
+}
+
+.info-columns li {
+  break-inside: avoid;
+}
